@@ -136,14 +136,25 @@ Once dialogues are fully generated and saved, run the Conversation Evaluator (CE
 
 ---
 
-## Output Artifacts
+## Output Artifacts & Data Structure
 
-All generated data is stored in the `./data/` directory. For each run, the pipeline generates:
+All generated telemetry, configuration snapshots, and conversation results are stored in the `./data/` directory. Each experiment run generates a timestamped suite of files structured as follows:
 
-* 📄 **`dialogues_[TIMESTAMP].jsonl`**: The final, CV-approved conversation trajectories, including the retrieved contexts and system answers.
-* 📊 **`metrics_[TIMESTAMP].jsonl`**: Detailed measurements for each turn, tracking LLM token consumption (In/Out), generation latency, and rejection triggers.
-* ⚙️ **`run_meta_[TIMESTAMP].json`**: A snapshot of the exact pipeline and target RAG configurations used, ensuring reproducibility.
-* 📝 **`pipeline_log_[TIMESTAMP].txt`**: A comprehensive execution log.
+### 1. Core Result Files
+* 📄 **`dialogues_[TIMESTAMP].jsonl`**: Contains the final, fully validated multi-hop conversations ($N=5$ turns). Each line represents a completed dialogue entry, storing metadata (such as the `root_id`), the sequence of user queries, retrieved contexts from the target RAG system, and the corresponding system answers.
+* 📊 **`metrics_[TIMESTAMP].jsonl`**: Provides turn-by-turn telemetry tracking. Each line records a single generation or validation attempt (including rejected attempts and retries). It tracks input/output token counts for each framework component (Discoverer, Generator, Validator), execution latencies, cache hit/miss flags, and validation failure reasons. Every row can be mapped back via its `root_id`.
+* ⚙️ **`run_meta_[TIMESTAMP].json`**: A configuration snapshot containing all pipeline parameters, model identifiers, chunk sizes, and API base URLs utilized during that specific run to guarantee full reproducibility.
+* 📝 **`pipeline_log_[TIMESTAMP].txt`**: Detailed textual log output capturing the complete execution flow, warnings, and error traces.
+
+### 2. Evaluation Results (`*_evaluation_results_*.json`)
+Running the Conversation Evaluator generates dedicated JSON report files containing both raw scores and aggregated statistics:
+* **`*_single_turn_evaluation_results.json`**: Turn-level metrics including *Correctness*, *Faithfulness*, *Context Precision*, and *Context Recall*.
+* **`*_results_multi_turn.json`** (or multi-turn evaluation files): Dialogue-level metrics tracking longitudinal behavior such as *Forgetfulness* and *Context Retention*.
+
+### 3. Semantic Dialogue Cache (`dialogue_cache/`)
+The Cacher component stores persistent state representations inside `data/dialogue_cache/`:
+* **`roots/`**: Contains individual `.json` files for each starting point (Turn 0 root dialogue), allowing cross-experiment alignment.
+* **`trees/`**: Stores the semantic MCTS-like dialogue trees (`.json`), mapping historical conversational states and embedding vectors to cached follow-up question bundles.
 
 ## Metrics Summary
 
