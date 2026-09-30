@@ -1,0 +1,37 @@
+{
+  "root_id": "5de30b29-dcb2-485e-be41-d420d3ed7ac3",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_13",
+    "text_snippet": "Kapitelüberschrift: Spalten/Ansicht\nInhalt: 25\nMit “Spalten zurücksetzen” erhalten Sie wieder die ursprüngliche Einstellung. \nSobald Änderungen gemacht wurden, fixieren Sie bitte die Einstellung, indem Sie nochmals auf Zahnrad klicken und auf „Spalten \nspeichern“ klicken:\n \n\n26\nSchnellsuche\nMit Hilfe dieses Feldes können Sie eine Schnellsuche nach Namen oder laufender Wählerverzeichnisnummer starten. Die Suche erfolgt \ndabei ohne Wildcards (*).\n \nJe mehr Daten Sie eintragen, umso genauer wird das Ergebnis angezeigt. Mit Klick auf einen Eintrag, gelangen Sie direkt in die \nPersonendetails bzw. wird mit der Enter-Taste das gesamte Suchergebnis angezeigt. Die Suche kann auch mittels Scans der \nAnforderungskarte von der Wahlinformation erfolgen.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 13,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_23",
+    "text_snippet": "Kapitelüberschrift: Suche speichern und teilen\nInhalt: 27\n\n28\nSpaltenauswahl\nSie können die Auswahl der Spalten im Suchergebnis beliebig wählen (es muss mindestens eine Spalte ausgewählt werden). Klicken Sie \nauf “Spalten ändern” (1) und “Spalten auswählen” (2).\nSie landen im Auswahlmodus, dort können Sie aus einer Vielzahl an Spalten wählen. Fügen Sie Spalten hinzu (1) oder entfernen Sie \nvorhandene Spalten (2) aus Ihrer Ansicht. Mit “Spalten speichern“ (3) schließen Sie die Auswahl ab. Alternativ kann die Spaltenansicht auf \nden Urzustand zurückgesetzt werden (4).",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 23,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Konfiguration der Spaltenansicht",
+    "Funktionsweise der Spaltenverwaltung (Speichern/Zurücksetzen)"
+  ],
+  "initial_question": {
+    "rag_input": "Über welches Symbol schließe ich den Auswahlmodus der Spalten ab?",
+    "question": "Über welches Symbol schließe ich den Auswahlmodus der Spalten ab?",
+    "answer": "Um den Auswahlmodus abzuschließen, müssen Sie die Funktion „Spalten speichern“ nutzen. Diese erreichen Sie, indem Sie auf das Zahnrad-Symbol klicken.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Funktionsweise der Spaltenverwaltung (Speichern/Zurücksetzen)"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "root_id": "f28cd6e4-d77c-4256-ac8f-3514f73b8ca8",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_39",
+    "text_snippet": "Kapitelüberschrift: Datenabgleich\nInhalt: 80\nIm Wahlbestand können Sie über die Suche ebenso nach Datenabgleich und Abgleichdatum suchen:\nÄnderungen sind für Sie hier nicht mehr nötig.\n \nNamen\nDer Datenabgleich „Name“ kann nur durchgeführt werden, wenn Sie mehrere \nSprengel haben! Bei nur 1 Sprengel ist der Datenabgleich “Name” technisch gesperrt. \nBeim Namensabgleich werden nicht nur Namensänderungen (z.B. nach \nEheschließungen) sondern auch die Verleihung von akademischen Graden \nberücksichtigt. Die Daten werden sowohl im Wahlbestand (und damit im \nWählerverzeichnis) aktualisiert als auch auf der Wählerinformation angedruckt. Die \nSortierung bleibt jedoch wie bei der Freigabe erhalten!\n\n81\nKontakt- und Wahllokaldetails kontrollieren\nWir empfehlen, vor der Bestellung den Datenabgleich zu machen.\nDie Kontakt- und Wahllokaldetails Kontrolle findet in der Wahlvorbereitung im Workflow statt.\n Klicken Sie auf den Link “Kontakt- und Wahllokaldetails kontrollieren” um die Kontrolle zu starten. Es öffnet sich ein neues Fenster, wo Ihre \nKontaktdetails angezeigt werden:\nBefindet sich in den Kontaktdetails ein Fehler, so können Sie direkt im Workflow die Daten bearbeiten. Klicken Sie dafür auf “Bearbeiten” . \nEs öffnet sich ein neues Fenster mit allen relevanten Kontaktdetails.\nDer Button “Speichern” wird aktiv, sobald Sie eine Änderung vornehmen.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 39,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_38",
+    "text_snippet": "Kapitelüberschrift: k5|Next Person\nInhalt: 60\nZMR-Abgleich\nDer tägliche Abgleich\nUm die Personen in der k5|Next_Person aktuell zu halten, wird täglich ein Abgleich durchgeführt.\nIm ZMR wird jede Nacht eine Datei mit Änderungen des Vortages erstellt. Darin sind nur Änderungen jener Personen enthalten, die in der \neigenen Gemeinde wohnhaft sind.\nDer erste Benutzer des Tages, der die entsprechende Berechtigung hat, triggert das Abholen dieser Datei(en) an. Der erste Benutzer kann \nsowohl ein Benutzer der angebundenen Fachanwendungen sein (z.B. k5 Finanzmanagement) oder auch ein Benutzer, der direkt in die \nk5|Next Oberfläche einsteigt (Kontaktmanagement oder Wahl).\n(1) Die Ansicht ZMR-Abgleich ist nur für Benutzer sichtbar, die von ihrem Gemeindeadministrator das Recht Informationen von ZMR-\nAbgleich lesen erhalten haben.\nIn dieser Liste ist ersichtlich, wann der letzte ZMR-Abgleich durchgeführt wurde und ob dieser erfolgreich durchgelaufen ist.\n(2) Die Details geben zusätzliche Informationen zu den einzelnen Schritten des Abgleichs. Gerade bei Fehlern können diese Details auf die \nFehlerursache hinweisen.\nSolange sich kein Benutzer mit entsprechender Berechtigung anmeldet (Relevant ist hier ein Stammportal-Benutzer mit ZMR-\nLeseberechtigung), wird auch kein Abgleich durchgeführt. Sind seit dem letzten Abgleich mehrere Tage vergangen, werden alle offenen \n(also nicht abgeholten) Abgleichsdateien abgeholt und verarbeitet.\nDieser Mechanismus funktioniert, solange zwischen den Abgleichen nicht mehr als 30 Tage liegen. Wurde ein Abgleich 30 Tage nicht mehr \ndurchgeführt, muss ein Gesamtabgleich durchgeführt werden.\nDer Gesamtabgleich\nBei einem Gesamtabgleich werden alle registergebundenen natürlichen Personen gegen das ZMR abgeglichen und aktualisiert. Danach \nwird der Mechanismus des täglichen Abgleichs wieder angestoßen.\nDer Gesamtabgleich wird in der Ansicht ZMR-Abgleich gestartet (3) und ist nur für die Benutzer sichtbar, die von ihrem \nGemeindeadministrator das Recht ZMR-Gesamtabgleich durchführen erhalten haben. Analog zum ZMR-Abgleich kann ein \nGesamtabgleich nur dann erfolgreich durchgeführt werden, wenn ein Stammportal-Benutzer mit entsprechender Berechtigung hinterlegt ist.\nEs stehen unterschiedliche Abgleichsvarianten zur Verfügung. \n(1) Abgleich aller natürlicher Personen mit dem ZMR",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 38,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Datenabgleich-Methodik",
+    "Aktualisierung von Personendaten",
+    "Wahlvorbereitung",
+    "ZMR-Datenquelle"
+  ],
+  "initial_question": {
+    "rag_input": "Wer triggert die tägliche Dateiabholung, durch die geänderte akademische Grade schlussendlich auf der Wählerinformation landen?",
+    "question": "Wer triggert die tägliche Dateiabholung, durch die geänderte akademische Grade schlussendlich auf der Wählerinformation landen?",
+    "answer": "Die tägliche Dateiabholung aus dem ZMR wird durch den ersten angemeldeten Benutzer des Tages angestoßen, der die entsprechende Berechtigung besitzt (z.B. aus dem Bereich Wahl). Dies hält die Personendaten aktuell, sodass bei einem Datenabgleich im Wahlbestand neue akademische Grade berücksichtigt, im Wählerverzeichnis aktualisiert und auf der Wählerinformation angedruckt werden können.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Aktualisierung von Personendaten"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "0f1d95d2-e4b7-4fe9-acc1-7e7f92d8a019",
+  "chunk_a": {
+    "id": "803676825#chunk_3",
+    "text_snippet": "Title: Thorne Forrester\nSection(s): Storylines\n\nWhen Macy hedged about accepting Thorne's proposal because of the Forrester/Spectra feud, Thorne connected with Brooke. Macy saw Brooke hiding under Thorne's bed and told Stephanie. Thorne arrived at the Big Bear cabin to find Stephanie terrorizing Brooke and saved Brooke from being stabbed by Stephanie . Later, Stephanie had a stroke and didn't remember finding Thorne with Brooke together, so Thorne and Brooke kept their continuing relationship a secret to prevent Stephanie from having another episode. Thorne was conflicted and even dreamt that his relationship with Brooke had killed Stephanie.\n\nThorne reconciled with an unsuspecting Macy to throw Stephanie off the scent, narrowly avoiding a surprise wedding to Macy that Stephanie had arranged. Eric, Ridge, and Taylor plotted to convince Thorne that Brooke still loved Ridge. While in Venice, Italy, Ridge staged a fight with Taylor and then made a move on Brooke. Thorne was devastated to see Brooke kissing Ridge. Thorne followed Macy to the airport, and married her in Amsterdam. Macy was blissfully unaware that Thorne still thought of Brooke, who was trying to lure Thorne back. Macy overheard Eric and Ridge discussing Thorne's feelings for Brooke and started drinking again.\n\nA sober Macy asked Thorne, who wanted a divorce, to come to Big Bear for a last dance before ending their marriage. After Thorne left, Brooke confronted Macy with divorce papers. Macy tried to drive off, but Brooke jumped in the car with her. Macy drove recklessly to frighten Brooke and collided with a tanker. Thorne arrived and saved Brooke, but before he could get to Macy, the car exploded. At Macy's funeral, Sally exposed Thorne's continuing relationship with Brooke, causing Stephanie to have another stroke. When Stephanie forced Thorne to choose between Brooke and his family, Thorne chose Brooke, and Stephanie disowned him.\n\nMacy's half-sister, Kimberly Fairchild, decided she wanted Thorne, and set about seducing him away from Brooke. Meanwhile, Brooke's children, Rick and Bridget, were against Brooke's relationship with Thorne. Kimberly kissed Thorne backstage at a fashion show, and Bridget raised the curtain so the public would see. Brooke broke things off, and Kimberly took advantage of an inebriated Thorne by lying that they'd had sex. Kimberly also tried to kill Brooke by rigging a heavy photography light to fall on her; Thorne was almost hit when a second light dropped. Thorne and Brooke reconciled and married at the Forrester mansion, even managing to get last-minute support from the family.\n\nThorne's happiness was short-lived when he overheard Brooke telling Deacon Sharpe that Ridge would always be her soul mate. Thorne had a vision of Macy, and, feeling he had made a terrible mistake with Brooke, Thorne asked Brooke for an annulment. Later, after Taylor was again presumed dead, Thorne shared a few quick kisses with grief counselor Tricia Quick.",
+    "article_id": "803676825",
+    "article_title": "Thorne Forrester",
+    "chunk_index": 3,
+    "total_chunks": 8
+  },
+  "chunk_b": {
+    "id": "866418206#chunk_5",
+    "text_snippet": "Title: Friends\nSection(s): Premise\n\nSeason 2 \n\nThe second season begins with Rachel waiting at the gate for Ross to declare her love for him. However, she discovers that he is dating Julie (Lauren Tom), someone he knew from graduate school. Rachel's attempts to tell Ross she likes him mirror his failed attempts in the first season, although the characters eventually begin a relationship. Joey gets cast in a part in a fictional version of the soap opera, Days of Our Lives, but his character is killed off after conflicts with the show's writers, rooting from him claiming that he writes many of his own lines. Chandler gets back with Janice, his ex-girlfriend from season one. Monica begins dating Richard (Tom Selleck), a recently divorced family friend and 21 years her senior but they eventually break up.\n\n Season 3 \n\nSeason three takes on a significantly greater serialized format. Rachel begins working at Bloomingdale's, an upscale department store chain, and Ross becomes jealous of her colleague, Mark. Rachel decides to take a break from their relationship; and Ross, hurt and drunk sleeps with Chloe, \"the hot girl from the Xerox place\", causing Rachel to break up with him. In the meantime, Chandler has a hard time dealing with their breakup because it reminds him of his parents' divorce. After believing she has no family except her twin sister Ursula (Lisa Kudrow), Phoebe becomes acquainted with her half-brother (Giovanni Ribisi) and birth mother (Teri Garr). Joey develops a relationship with his acting partner Kate (Dina Meyer), and Monica begins a relationship with millionaire Pete Becker (Jon Favreau) which ends because of the disagreements between the two.\n\n Season 4 \n\nIn the fourth-season premiere, Ross and Rachel briefly reconcile after Ross pretends to read a long letter that Rachel wrote for him, but continues to insist that the two were on a break so they break up again. Joey dates Kathy (Paget Brewster), a girl that Chandler has a crush on. Kathy and Chandler later kiss, which causes drama between Chandler and Joey. Joey forgives Chandler only after he spends a day in a box as punishment. Phoebe becomes a surrogate mother for her brother and his wife Alice (Debra Jo Rupp). Monica and Rachel are forced to switch apartments with Joey and Chandler after losing a bet during a quiz game, but, manage to switch back by bribing them with Knicks season tickets and a one-minute kiss (off-screen) between the Rachel and Monica. Ross begins dating an English woman named Emily (Helen Baxendale), and the season finale features their wedding in London. Chandler and Monica sleep together, and Rachel decides to attend Ross and Emily's wedding. While saying his vows, Ross uses the wrong name at the altar (Rachel's), to the shock of his bride and the guests.\n\n Season 5",
+    "article_id": "866418206",
+    "article_title": "Friends",
+    "chunk_index": 5,
+    "total_chunks": 21
+  },
+  "t_bridge": [
+    "Fictional soap operas",
+    "Days of Our Lives",
+    "Plot tropes in serial dramas"
+  ],
+  "initial_question": {
+    "rag_input": "How does Joey's character's fate on Days of Our Lives differ from Taylor's status before Thorne kissed Tricia?",
+    "question": "How does Joey's character's fate on Days of Our Lives differ from Taylor's status before Thorne kissed Tricia?",
+    "answer": "Joey's character on the fictional version of 'Days of Our Lives' was actually killed off due to his conflicts with the show's writers over claiming he wrote his own lines. In contrast, Taylor was only 'presumed dead' before Thorne shared a few quick kisses with grief counselor Tricia Quick.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Plot tropes in serial dramas"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

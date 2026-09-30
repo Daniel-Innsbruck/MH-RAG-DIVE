@@ -1,0 +1,37 @@
+{
+  "root_id": "a115a5f0-fa02-44ef-a31e-a4316e1c0528",
+  "chunk_a": {
+    "id": "812132823#chunk_3",
+    "text_snippet": "Title: O Brother, Where Art Thou?\nSection(s): Cast\n\nWayne Duvall as Homer Stokes, the reform candidate in the upcoming election for Governor. He travels the countryside with a dwarf, who depicts the \"little man\", and a broom, with which he promises to \"sweep this state clean.\" He is secretly an Imperial Wizard in the Ku Klux Klan. He falsely identifies Everett, Pete, and Delmar as people of color because they darkened their faces to remain unseen when freeing Tommy.\n Ray McKinnon as Vernon T. Waldrip, Penny's bona fide suitor and the manager of Homer Stokes's election campaign. It has been suggested that his name is a nod to novelist Howard Waldrop, whose novella A Dozen Tough Jobs is one of the inspirations for the film. He corresponds to the Suitors of Penelope in the Odyssey.\n Michael Badalucco as George Nelson, a bipolar bank robber who dislikes being called \"Baby Face.\" The real George Nelson died in 1934, three years before the story is set. Nelson died in a shootout known as the Battle of Barrington rather than by electric chair, as suggested in the film.\n Stephen Root as Mr. Lund, the blind radio station manager who records Everett's story in the song \"Man of Constant Sorrow\" and makes him known throughout the state. He corresponds to Homer.\n Lee Weaver as the Blind Seer, a mysterious railroad man who accurately predicts the outcome of the trio's adventure as well as several other incidents. He corresponds to Tiresias in the Odyssey.",
+    "article_id": "812132823",
+    "article_title": "O Brother, Where Art Thou?",
+    "chunk_index": 3,
+    "total_chunks": 8
+  },
+  "chunk_b": {
+    "id": "832887034#chunk_2",
+    "text_snippet": "Title: O Brother, Where Art Thou?\nSection(s): Cast\n\nGeorge Clooney as Ulysses Everett McGill, a man who is imprisoned for practicing law without a license. He claims to have escaped from prison so he can find a stash of money he had hidden, though in reality it is so he can get back to his family before his wife remarries. He corresponds to Odysseus (Ulysses) in the Odyssey.\n John Turturro, as Pete Hogwallop, a fellow criminal who reveals little about his past. He believes in being true to one's kin, even when his cousin Washington B. Hogwallop betrays him. He dreams of moving out west and opening a fine restaurant, where he will be the maître d'. He agreed to go along with the breakout, though he only had two weeks left on his sentence.\n Tim Blake Nelson as Delmar O'Donnell, a small-time crook imprisoned for robbing a Piggly Wiggly in Yazoo City; he initially claims innocence but later admits he is guilty. Delmar says he will spend his share of Everett's nonexistent money buying back his family farm, believing, \"You ain't no kind of man if you ain't got land.\"\n Chris Thomas King as Tommy Johnson, a skilled blues musician. He is the accompanying guitarist in the Soggy Bottom Boys. He claims he sold his soul to the devil in exchange for his skill on the guitar. He shares his name and story with Tommy Johnson, a blues musician with a mysterious past, who is said to have sold his soul to the devil at the Crossroads (a story more often attributed to Robert Johnson). \n Frank Collison as Washington B. \"Wash\" Hogwallop, Pete's paternal cousin. He removes the escapees' chains but later betrays the men to the police.\n John Goodman as Daniel \"Big Dan\" Teague, a one-eyed man who masquerades as a Bible salesman and mugs Everett and Delmar. He later reveals the identity of the trio when they are disguised at a Ku Klux Klan rally, but they kill him by cutting loose a burning cross, which falls on him and the Klansmen. He corresponds to the cyclops Polyphemus in the Odyssey.\n Holly Hunter as Penny, Everett's ex-wife, who is fed up with Everett's wheeling and dealing. She divorces him while he is in prison, telling their children he was hit by a Louisville & Nashville train. She is engaged to Vernon T. Waldrip until Everett wins her back. She corresponds to Penelope in the Odyssey. (Penelope is an icon of the faithful wife, as she rejected her many suitors, stalling for time while awaiting Odysseus' return.)\n Charles Durning as Menelaus \"Pappy\" O'Daniel, the incumbent Governor of Mississippi. He is frequently seen berating his son and his campaign managers, who are depicted as simpletons. The character is based on Texas governor W. Lee \"Pappy\" O'Daniel. (Flensted-Jensen elaborates on the connection between the fictional and the real Pappy O'Daniel.) He corresponds to Menelaus in the Odyssey.\n Daniel von Bargen as Sheriff Cooley, a ruthless rural sheriff who, with his bloodhound, pursues the trio for the duration of the film. It is implied several times that he is the devil incarnate, and Cooley fits Tommy Johnson's description of Satan: Cooley's sunglasses evoke Satan's \"big empty eyes.\" He eventually ambushes the escapees after they have been pardoned by the governor. He intends to hang them nonetheless, but when the valley is flooded, he, his men, and his dog all drown. He corresponds to Poseidon in the Odyssey. He has been compared to Boss Godfrey in Cool Hand Luke.",
+    "article_id": "832887034",
+    "article_title": "O Brother, Where Art Thou?",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "The Odyssey (literary parallels)",
+    "Character motivations and relationships in O Brother, Where Art Thou?"
+  ],
+  "initial_question": {
+    "rag_input": "Which Odyssey figure corresponds to the radio manager who records a song for the ex-husband of Penelope's counterpart?",
+    "question": "Which Odyssey figure corresponds to the radio manager who records a song for the ex-husband of Penelope's counterpart?",
+    "answer": "Homer. In the film, Penelope's counterpart is Penny, and her ex-husband is Ulysses Everett McGill. The blind radio station manager who records Everett's song is Mr. Lund, who corresponds to Homer in the Odyssey.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "The Odyssey literary parallels and character relationships"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

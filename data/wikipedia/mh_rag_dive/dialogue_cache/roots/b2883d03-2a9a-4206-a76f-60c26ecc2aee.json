@@ -1,0 +1,38 @@
+{
+  "root_id": "b2883d03-2a9a-4206-a76f-60c26ecc2aee",
+  "chunk_a": {
+    "id": "834421776#chunk_5",
+    "text_snippet": "Title: Labour in India\nSection(s): Debt bondage, Child labour, Labour laws in India\n\nIndia enacted Bonded Labour System Abolition Act (1976) to prohibit any and all forms of bonded labour practice, to protect the bonded labour, and to criminalize individuals and entities that hire, keep or seek bonded labour.\n\nAccording to 2001 Census, India had 12.6 million children, aged 5–14, who work either part-time or full-time. Of these over 60 percent work in unorganised agriculture sector, and the rest in other unorganised labour markets. Poverty, lack of schools, poor education infrastructure and growth of unorganised economy are considered as the most important causes of child labour in India.\n\nA 2009-2010 nationwide survey found child labour prevalence had reduced to 4.98 million children (or less than 2% of children in 5-14 age group).\n\nArticle 24 of India's constitution prohibits child labour, but only in factories, mines or hazardous employment. The Indian Penal Code, the Juvenile Justice (care and protection) of Children Act-2000, and the Child Labour (Prohibition and Abolition) Act-1986 provide a basis in law to identify, prosecute and stop child labour in India. Nevertheless, child labour is observed in almost all unorganised, small scale, informal sectors of the Indian economy.\n\nScholars suggest inflexibility and structure of India's labour market, size of informal economy, legal hurdles preventing industries from scaling up and lack of modern manufacturing technologies are major macroeconomic factors encouraging demand for and acceptability of child labour.\n\nthumb|Labour law notices in India.\nThe labour laws of India originated and express the socio-political views of leaders such as Nehru from pre-1947 independence movement struggle. These laws were expanded in part after debates in Constituent Assemblies and in part from international conventions and recommendations such as of International Labour Organisation. The current mosaic of Indian laws on employment are thus a combination of India's history during its colonial heritage, India's experiments with socialism, important human rights and the conventions and standards that have emerged from the United Nations. The laws cover the right to work of one's choice, right against discrimination, prohibition of child labour, fair and humane conditions of work, social security, protection of wages, redress of grievances, right to organise and form trade unions, collective bargaining and participation in management.\n\nIndia has numerous labour laws such as those prohibiting discrimination and Child labour, those that aim to guarantee fair and humane conditions of work, those that provide social security, minimum wage, right to organise, form trade unions and enforce collective bargaining. India also has numerous rigid regulations such as maximum number of employees per company in certain sectors of economy, and limitations on employers on retrenchment and layoffs, requirement of paperwork, bureaucratic process and government approval for change in labour in companies even if these are because of economic conditions.",
+    "article_id": "834421776",
+    "article_title": "Labour in India",
+    "chunk_index": 5,
+    "total_chunks": 11
+  },
+  "chunk_b": {
+    "id": "846587463#chunk_24",
+    "text_snippet": "Title: Economy of India\nSection(s): Employment, Economic trends and issues\n\nUnemployment in India is characterised by chronic (disguised) unemployment. Government schemes that target eradication of both poverty and unemployment – which in recent decades has sent millions of poor and unskilled people into urban areas in search of livelihoods – attempt to solve the problem by providing financial assistance for starting businesses, honing skills, setting up public sector enterprises, reservations in governments, etc. The decline in organised employment, due to the decreased role of the public sector after liberalisation, has further underlined the need for focusing on better education and created political pressure for further reforms. India's labour regulations are heavy, even by developing country standards, and analysts have urged the government to abolish or modify them in order to make the environment more conducive for employment generation. The 11th five-year plan has also identified the need for a congenial environment to be created for employment generation, by reducing the number of permissions and other bureaucratic clearances required. Inequalities and inadequacies in the education system have been identified as an obstacle, which prevents the benefits of increased employment opportunities from reaching all sectors of society.\n\nChild labour in India is a complex problem that is rooted in poverty. Since the 1990s, the government has implemented a variety of programs to eliminate child labour. These have included setting up schools, launching free school lunch programs, creating special investigation cells, etc. Author Sonalde Desai stated that recent studies on child labour in India have found some pockets of industries in which children are employed, but overall, relatively few Indian children are employed. Child labour below the age of 10 is now rare. In the 10–14 age group, the latest surveys find only 2% of children working for wage, while another 9% work within their home or rural farms assisting their parents in times of high work demand such as sowing and harvesting of crops.\n\nIndia has the largest diaspora around the world, an estimated 16 million people, many of whom work overseas and remit funds back to their families. The Middle East region is the largest source of employment of expat Indians. The crude oil production and infrastructure industry of Saudi Arabia employs over 2 million expat Indians. Cities such as Dubai and Abu Dhabi in United Arab Emirates have employed another 2 million Indians during the construction boom in recent decades. In 2009–10, remittances from Indian migrants overseas stood at , the highest in the world, but their share in FDI remained low at around 1%.\n\nthumb|Commercial office buildings in Gurgaon",
+    "article_id": "846587463",
+    "article_title": "Economy of India",
+    "chunk_index": 24,
+    "total_chunks": 28
+  },
+  "t_bridge": [
+    "Child labour",
+    "Labour market regulations",
+    "Economic impact of labour policy"
+  ],
+  "initial_question": {
+    "rag_input": "What specific labour market issue restricts employment generation while encouraging the demand for child labour?",
+    "question": "What specific labour market issue restricts employment generation while encouraging the demand for child labour?",
+    "answer": "The heavy, inflexible structure and rigid regulations of India's labour market. Analysts argue these heavy regulations need modifying to improve employment generation, while scholars identify this inflexibility as a macroeconomic factor driving the demand for child labour.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Economic impact of labour policy"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

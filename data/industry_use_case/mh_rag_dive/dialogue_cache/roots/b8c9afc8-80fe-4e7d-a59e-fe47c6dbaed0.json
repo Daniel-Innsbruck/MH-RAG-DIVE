@@ -1,0 +1,38 @@
+{
+  "root_id": "b8c9afc8-80fe-4e7d-a59e-fe47c6dbaed0",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_29",
+    "text_snippet": "Kapitelüberschrift: Versendung der Wahlkarte\nInhalt: 57\n \nDiese Einstellung kommt nur bei Authentifizierung über ID-Austria zum Tragen. Es erscheint dann eine Checkbox, über welche der Bürger die Zustellart der beantragten \nWahlkarte von Standardpost auf Einschreiben abändern kann. \n \nsd\n\n58\nMeine Wahlkarte\nBearbeiten der Anträge\nSammelgenehmigung von Anträgen\nPrüfung Reisepassnummer mit IDR\nBericht Onlinewahlkartenantrag\nAnträge vom Portal www.meinewahlkarte.at werden in den Arbeitsbereich Meine Wahlkarte gestellt. Dort können die Anträge eingesehen \nwerden. Erst nach der Bestätigung des Antrages sind diese im Wahlbestand ersichtlich. Sortieren Sie die Liste nach Status, so dass neu \neingelangte Anträge oben in der Liste angeführt sind. Neu eingelangte Anträge sind mit einem Plus Zeichen versehen. In der Liste kann \nauch nach Status und Identitätsnachweis gefiltert werden. \nIm Filter können Sie nach dem Status bzw. nach einer Art vom Identitätsnachweis suchen:\nÜber das Zahnrad  in der Liste können weitere Spalten eingeblendet werden. \n \n \nMöglicher Status:\n \nÜbernommen:\nDer Wahlkartenantrag wurde genehmigt und in den Wahlbestand übernommen.\n \nAbgelehnt:\n \nNeuer Wahlkartenantrag:\nDer Antrag ist neu eingelangt und wurde noch nicht bearbeitet. Genehmigung ist noch ausständig.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 29,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_3",
+    "text_snippet": "Kapitelüberschrift: Personen\nInhalt: 6\nWahl\nIn diesem Bereich finden Sie die aktuell aktiven Wahlen, welche von uns zentral angelegt werden. Mit Klick auf die Wahl öffnen sich \nweitere Bereiche:\n \nUntermenü:\n·     Parteienzuordnung\n·     Kandidatenzuordnung\n·     Stimmenerfassung\n·     Wahlbehörde\n \nMonitoring:\nIm Reiter „Monitoring“ sehen Sie, wie viele Wahlberechtigte im Wahlbestand vorhanden sind bzw. wie viele Wahlkarten bereits ausgestellt \nwurden. Mit „Anzahl übermitteln“ spielen Sie folgende Daten ans Land OÖ, wobei hier die Reihenfolge eingehalten werden muss.\n·     Vorläufige Anzahl der Wahlberechtigten\n·     Endgültige Anzahl der Wahlberechtigten\n·     Anzahl der ausgestellten Wahlkarten\n·     Vorläufiges Wahlergebnis\n·     Endgültiges Wahlergebnis\n·     Wahldaten an Gem2Go\n \nWahl:\nIm Reiter „Wahl“ sehen Sie die Wahldetails und können eine Ansprechperson hinterlegen.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 3,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Wahlkartenprozess",
+    "Wahlbestand",
+    "Verwaltung von Wahldaten"
+  ],
+  "initial_question": {
+    "rag_input": "Wo sehe ich die Anzahl der bereits genehmigten Online-Wahlkartenanträge?",
+    "question": "Wo sehe ich die Anzahl der bereits genehmigten Online-Wahlkartenanträge?",
+    "answer": "Nachdem Online-Wahlkartenanträge genehmigt wurden, werden diese in den Wahlbestand übernommen. Die Anzahl der Personen im Wahlbestand sowie der bereits ausgestellten Wahlkarten können Sie im Reiter „Monitoring“ einsehen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Wahlbestand"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "root_id": "b44d4ac0-d042-4a50-83c2-5f407d00baeb",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_28",
+    "text_snippet": "Kapitelüberschrift: Ein Unternehmen aus dem URV anlegen\nInhalt: 34\nNach erfolgter Anlage werden Sie direkt zu den Daten des angelegten Unternehmens weitergeleitet. Das Unternehmen ist mit dem UR \nverknüpft (1).\n \nIm Gegensatz zu ZMR-verknüpften Personen, welche beim täglichen Abgleich aktualisiert werden, handelt es sich hier um eine \neinmalige Verknüpfung. Unternehmen werden beim täglichen Abgleich NICHT aktualisiert.\n\n35\nEin Unternehmen manuell (ohne URV) anlegen\nKann das Unternehmen im URV nicht gefunden werden, sind entweder die Suchkriterien falsch befüllt oder es handelt sich um ein \nUnternehmen, das im URV nicht geführt wird. Um es anzulegen klicken Sie auf „Unternehmen manuell anlegen“.\nFolgende Felder sind Pflichtfelder:\nUnternehmen (1): Name\nAdressdaten (2): Adressart, Staat (auch Österreich möglich), Straße, Hausnummer, Postleitzahl, Ort (bzw. Zustellort, dieser dient der \npostalischen Zustellung und kann vom Gemeindenamen abweichen)\nMittels Klicks auf „Anlegen“ (3) wird das Unternehmen angelegt und steht in k5|Next_Kontakt ab sofort zur weiteren Verarbeitung zur \nVerfügung.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 28,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_10",
+    "text_snippet": "Kapitelüberschrift: Userverwaltung\nInhalt: 23\nWie wird ein neuer User angelegt?\nUm einen neuen User anzulegen, melden Sie sich mit Ihrem Kunden-Administrator in k5|Next an und navigieren Sie auf Benutzer (1) und \n (Benutzer hinzufügen) (2).\nGeben Sie eine E-Mail-Adresse ein (1) und bestätigen Sie mit Weiter (2). Die E-Mail-Adresse dient als Benutzername bei der Anmeldung. \nDarüber hinaus erhält der User auf diese Adresse die E-Mail zur Benutzeraktivierung und alle zukünftigen System-Mails von k5|Next (z.B. \nbei Änderungen am User, Neuvergabe des Kennworts oder Aktivierung von 2FA-Varianten).\nBei der Anlage von neuen Usern darf die ausgewählte E-Mail Adresse noch nicht vergeben sein. In diesem Fall erhalten Sie den (korrekten) \nHinweis:\nBefüllen Sie die Pflichtfelder (1-3) das Benutzers und ergänzen Sie bei Bedarf die optionalen Felder. Sie können den neuen User in diesem \nZug auch gleich gültig setzten, in dem Sie ein “Gültig von”-Datum eintragen (4). Mit Klick auf Anlegen (5) wird der User in k5|Next angelegt.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 10,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Anlage-Prozesse in k5|Next",
+    "Datenpflege und Benutzer- bzw. Unternehmensmanagement"
+  ],
+  "initial_question": {
+    "rag_input": "Welche unterschiedlichen Pflichtdaten werden für die manuelle Anlage eines Unternehmens im Vergleich zu einem neuen User in k5|Next verlangt?",
+    "question": "Welche unterschiedlichen Pflichtdaten werden für die manuelle Anlage eines Unternehmens im Vergleich zu einem neuen User in k5|Next verlangt?",
+    "answer": "Für die manuelle Anlage eines Unternehmens sind der Name sowie spezifische Adressdaten (Adressart, Staat, Straße, Hausnummer, Postleitzahl und Ort) zwingend erforderlich. Bei einem neuen User muss hingegen eine noch nicht vergebene E-Mail-Adresse eingegeben werden, die als Benutzername dient, bevor die weiteren Pflichtfelder des Benutzers befüllt werden können.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Vergleich der Pflichtfelder bei den Anlage-Prozessen in k5|Next"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

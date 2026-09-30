@@ -1,0 +1,38 @@
+{
+  "root_id": "b4553c32-f458-4c49-97ee-654a94a83e95",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_40",
+    "text_snippet": "Kapitelüberschrift: Kontakt- und Wahllokaldetails kontrollieren\nInhalt: 82\nSind die Kontaktdetails korrekt klicken Sie auf “Speichern” . Dadurch gelangen Sie zur Überprüfung der Wahllokaldetails.\n Durch Aktivierung der Checkbox wird der Button “Bestätigen” aktiv. Mit diesem Button geben Sie die Kontakt- und Wahllokaldetails \nfrei.\n \nWeiter geht’s zur Freigabe für den zentralen Druck “Meine Wahlinfo”.\n\n83\nFreigabe für den zentralen Druck\n \nVoraussetzung für den zentralen Druck ist die Freigebe des Wahlbestandes. Vor der Bestellung der Wahlinfos ist ein Datenabgleich mit dem \nZMR möglich. Wir empfehlen zumindest den Abgleich “Verstorbene”, damit an diese Personen keine Wahlinfo gesendet wird. \nEbenso können alle Wahlkartenanträge unter “Meine Wahlkarte” bis dahin kontrolliert und genehmigt werden, damit diese Personen ebenso \nkeine Wahlinformationen erhalten, wenn Sie dies auswählen.\n \nDurch die Freigabe der Kontakt- und Wahllokaldetailkontrolle wird im Workflow die Druckfreigabe aktiviert.\nMit Klick auf “Druckfreigabe” öffnet sich nochmals ein neues Fenster, wo Sie auswählen können, ob alle Wahlkartenwähler ebenfalls eine \nWahlinformation erhalten sollen und wenn ja, ob jene mit Wahlkartenabo (meist AÖ) ausgenommen werden sollen.\nDurch Aktivierung der Checkbox „Ich habe die Daten für die Druckvorschau geprüft und gebe die Daten für den zentralen Druck \nfrei.“ schaltet sich der Button aktiv.\nGemäß § 24 (3) EuWO bzw. § 26 (3) NRWO haben die Gemeinden den Wahlberechtigten nach Abschluss des \nWählerverzeichnisses schnellstmöglich eine amtliche Wahlinformation zuzustellen. Das heißt, wird von Ihnen die Druckfreigabe \nerteilt, wird der Datensatz an die Druckerei übermittelt und gedruckt bzw. an die Wahlberechtigten zugestellt.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 40,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_17",
+    "text_snippet": "Kapitelüberschrift: Vorzugsstimmenerfassung pro Partei und Sprengel + Wahlkreis\nInhalt: 22\nGeben Sie anschließend die Vorzugsstimmen pro Partei und Wahlkreis ein und speichern diese, bevor Sie die Partei, den Wahlkreis \nbzw. den Sprengel wechseln!\nUm die eingetragenen Vorzugsstimmen zu kontrollieren, können Sie sich das Vorzugsstimmenprotokoll dazu ausdrucken.\n \nDamit das endgültige Wahlergebnis übermittelt werden kann, muss vorab die Freigabe gemacht werden. Einen Überblick über den Status \nfinden Sie im Reiter “Übersicht”\n\n23\nVorzugsstimmen Freigabe / Freigabe aufheben\nFreigabe Vorzugsstimmen\nFreigabe Vorzugsstimmen aufheben\nFreigabe Vorzugsstimmen\nUm das Endgültiges Wahlergebnis übermitteln zu können, müssen Sie im Register “Übersicht“ die Freigabe tätigen.\nDafür klicken Sie auf den 3-Punkte-Button rechts neben dem Sprengel.\n \nFreigabe Vorzugsstimmen aufheben\nSollte nach der Freigabe ein Fehler bei der Eingabe entdeckt werden, können Sie die Freigabe aufheben. Dies wird ebenso im Register \n“Übersicht“ gemacht. Mit Klick auf den 3-Punkte-Button neben dem Sprengel haben Sie die Möglichkeit zur Aufhebung. \n Dazu muss eine Begründung eingetragen werden.\nDie bestehenden Daten bleiben dabei vorhanden.\nNach Korrektur der Daten und erneutem Speichern, muss die Freigabe für die Vorzugsstimmen nochmals durchgeführt werden.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 17,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Freigabeprozesse in der Wahlsoftware",
+    "Voraussetzungen für die Datenübermittlung/Druck",
+    "Workflow-Schritte der Wahlabwicklung"
+  ],
+  "initial_question": {
+    "rag_input": "Welche Systemfreigaben sind zwingend nötig, bevor Daten für den zentralen Druck und das finale Wahlergebnis übermittelt werden dürfen?",
+    "question": "Welche Systemfreigaben sind zwingend nötig, bevor Daten für den zentralen Druck und das finale Wahlergebnis übermittelt werden dürfen?",
+    "answer": "Für die Datenübermittlung zum zentralen Druck müssen der Wahlbestand sowie die Kontakt- und Wahllokaldetails freigegeben werden, woraufhin die eigentliche 'Druckfreigabe' erteilt werden kann. Um das finale Wahlergebnis zu übermitteln, muss zusätzlich die Freigabe der Vorzugsstimmen im Register 'Übersicht' erfolgen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Voraussetzungen für die Datenübermittlung/Druck"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

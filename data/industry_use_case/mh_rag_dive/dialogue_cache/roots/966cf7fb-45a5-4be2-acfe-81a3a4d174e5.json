@@ -1,0 +1,38 @@
+{
+  "root_id": "966cf7fb-45a5-4be2-acfe-81a3a4d174e5",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_13",
+    "text_snippet": "Kapitelüberschrift: Mitarbeiter ist entweder Administrator oder Fach-User\nInhalt: 27\nMitarbeiter ist Administrator und Fach-User\nBetrifft Personen in der Gemeinde, die in k5|Next:\nadministrativ tätig sind UND fachliche Aufgaben erledigen\nZwei E-Mail-Adressen sind vorhanden\nVerfügt die Person bereits über zwei unterschiedliche E-Mail-Adressen, dürfen diese unter Voraussetzung der Anforderungen an die E-Mail-\nAdressen für die Useranlagen verwendet werden.\nBeispiel\nEine Person besitzt die Adressen abteilung@gemeinde.at und nachname@gemeinde.at. Beide Adressen sind über die Postfächer eindeutig \ndieser Person zugeordnet. Für die Anlage eines Administrators ist die personifizierte E-Mail-Adresse zu präferieren, in diesem Fall \nnachname@gemeinde.at. Der Fach-User wird dann mit abteilung@gemeinde.at angelegt.\nHinweis\nUm beide User mit personifizierten und nachvollziehbaren E-Mail-Adressen anzulegen, kann (unter überschaubarem Mehraufwand der \nAnlage einer Alias-Adresse) auf die allgemeine Abteilungsadresse verzichtet werden. Im konkreten Beispiel würde:\nfür den fachlichen User die Adresse nachname@gemeinde.at verwendet\nund\neine zusätzliche Alias-Adresse nachname.admin@gemeinde.at für den Administrator angelegt\nEine E-Mail-Adresse ist vorhanden\nVerfügt die Person über eine E-Mail-Adresse, darf diese unter Voraussetzung der Anforderungen an die E-Mail-Adressen für die Useranlage \ndes ersten Users verwendet werden.\nFür den zweiten User kann:\nEine weitere E-Mail-Adresse als Alias auf dasselbe Postfach angelegt werden\noder\nEine neue E-Mail-Adresse auf ein eigenes Postfach angelegt werden\nBeispiel\nEine Person besitzt die Adresse nachname@gemeinde.at. Die Adresse ist über das Postfach eindeutig dieser Person zugeordnet. Diese \nAdresse kann für die Anlage des ersten Users verwendet werden. Für die Anlage des zweiten Users (z.B. Administrators) gibt es zwei \nMöglichkeiten:\nEs kann eine weitere Adresse nachname.admin@gemeinde.at als Alias auf dasselbe Postfach angelegt werden\nEs kann eine neue Adresse nachname.admin@gemeinde.at auf ein eigenes Postfach angelegt werden",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 13,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_8",
+    "text_snippet": "Kapitelüberschrift: Beispiel 2: Es ändert sich die E-Mail-Adresse\nInhalt: 11\nBenutzeroberfläche\nk5|Next folgt den Designvorgaben von „Material Design“ und hat den Anspruch, möglichst intuitiv aufgebaut zu sein. Die Benutzeroberfläche \nfindet sich in allen k5|Next Applikationen bzw. Modulen gleichermaßen wieder.\nIm Zentrum steht der Arbeitsbereich, darauf liegt der Fokus der Arbeit. Per Tastenkombination Strg + \n bzw. Strg + \n  (oder Strg + \nRollen des Mausrads) kann der Zoom-Faktor verändert werden und die Darstellung den persönlichen Vorstellungen angepasst werden. \nAm linken Rand des Bildschirms befindet sich das Menü. Im oberen Bereich wird der Mandant angezeigt, mit dem Sie momentan \nangemeldet sind. Darunter stehen Ihnen alle Module zur Verfügung, wofür Sie von Seiten des Dienstleisters und Gemeinde-Administrators \nberechtigt wurden. Im unteren Bereich finden Sie Systembenachrichtigungen und Ihren aktuellen User. Per Klick darauf navigieren Sie zu \nIhrem Benutzerprofil.\nAm rechten Rand des Bildschirms befindet sich der Bereich mit Zusatzfunktionen. Je nach Modul, mit dem Sie arbeiten, stehen hier \nunterschiedliche Funktionen zur Verfügung.\nAm oberen Rand liegt die Schnellsuche. Diese intuitive Suche ist eines der Kern-Features von k5|Next und steht in allen k5|Next Modulen \nzur Verfügung.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 8,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Benutzerverwaltung in k5|Next",
+    "E-Mail-Adressänderung und Benutzerprofil",
+    "Administrative Anforderungen für k5|Next-Accounts"
+  ],
+  "initial_question": {
+    "rag_input": "Welcher E-Mail-Adresstyp wird für die Rolle bevorzugt, die neben dem Dienstleister die Modulberechtigungen vergibt?",
+    "question": "Welcher E-Mail-Adresstyp wird für die Rolle bevorzugt, die neben dem Dienstleister die Modulberechtigungen vergibt?",
+    "answer": "Die Rolle, die gemeinsam mit dem Dienstleister für die Berechtigung der Module zuständig ist, ist der Gemeinde-Administrator. Für die Anlage eines Administrators ist laut den Richtlinien die personifizierte E-Mail-Adresse (wie z.B. nachname@gemeinde.at) zu präferieren.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Administrative Anforderungen für k5|Next-Accounts"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

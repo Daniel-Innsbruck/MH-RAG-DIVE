@@ -1,0 +1,1423 @@
+{
+    "file_path": "/home/qe/git_projects/mh_rag_dive_evaluierungspipeline/industry_use_case/rag_dive_baseline/RAG_DIVE_20260827_1240_dialogues.jsonl",
+    "evaluation_config": {
+        "llm_as_a_judge": "gpt-5-nano",
+        "embedding_model": "text-embedding-3-small"
+    },
+    "overall_evaluation": {
+        "average_scores": {
+            "correctness_aspect_critic": 0.8442211055276382,
+            "faithfulness_aspect_critic": 0.6603672596951685,
+            "context_precision_critic": 0.8700347221895709,
+            "context_recall_critic": 0.8458333333333333
+        },
+        "token_usage": {
+            "total_tokens": 6287681,
+            "prompt_tokens": 2709357,
+            "completion_tokens": 3578324,
+            "total_cost_usd": 0.0
+        },
+        "detailed_results": [
+            {
+                "content": "Welche Voraussetzungen müssen erfüllt sein, damit ein k5|Next_Kontakt Modul von einem Mitarbeiter in der Gemeinde tatsächlich genutzt werden kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen auf Ebene der Gemeinde erfüllt sein, damit das Modul k5|Next_Kontakt für die Anwender überhaupt zur Verfügung steht?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Unterschiede gibt es bei der Anlage von natürlichen Personen und Unternehmen im Modul k5|Next_Kontakt hinsichtlich der Datenquellen und der Datenaktualisierung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9473684210526315,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann eine abweichende Zustelladresse für eine natürliche Person in k5|Next_Kontakt hinterlegt werden, wenn diese nicht aus dem ZMR stammt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Welchen Unterschied hat es für die angebundenen k5 Fachanwendungen, wenn eine manuelle Zustelladresse in k5|Next_Kontakt nur angelegt versus zusätzlich als 'bevorzugt' markiert wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte müssen in der Wahlvorbereitung von k5|Next_Wahl zwingend abgeschlossen sein, bevor der Wahlbestand für eine Wahl freigegeben werden kann?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Muss der Schritt 'Freigabe für den zentralen Druck für Meine Wahlinfo' bereits vor der Freigabe des Wahlbestands in k5|Next_Wahl abgeschlossen sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Korrekturmöglichkeiten bestehen in k5|Next_Wahl noch, wenn der Wahlbestand bereits freigegeben wurde, insbesondere in Bezug auf Reklamationen oder Datenabgleiche zu verstorbenen Personen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Erfolgt die Markierung von verstorbenen Personen im Wahlbestand nach einem Datenabgleich automatisch, oder müssen diese Anmerkungen durch den Benutzer manuell in k5|Next_Wahl vorgenommen werden?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Werden Namensänderungen nach einem Datenabgleich in k5|Next_Wahl automatisch im Wählerverzeichnis aktualisiert, oder müssen diese Korrekturen durch den Anwender manuell durchgeführt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Wer ist für die Anlage eines neuen Users in k5|Next verantwortlich, welche technischen Voraussetzungen gelten dabei für die E-Mail-Adresse und in welchem Status kann ein User zunächst ohne sofortige Aktivierung angelegt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Wie kann der Status eines als 'ungültig' angelegten Users in k5|Next auf 'gültig' gesetzt werden, und welche Möglichkeiten bestehen zur nachträglichen Änderung der E-Mail-Adresse durch den Gemeinde-Administrator?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9166666666666666,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie muss ein User konfiguriert werden, wenn eine Person in k5|Next sowohl administrative Aufgaben als auch fachliche Aufgaben in Modulen übernehmen soll?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein Mitarbeiter, der aufgrund der Trennung von administrativen und fachlichen Aufgaben über zwei separate k5|Next-Accounts verfügt, diese mit seiner ID-Austria verknüpfen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche anderen Methoden der Zwei-Faktor-Authentifizierung (neben der ID-Austria) stehen zur Verfügung, um für den Account, der nicht mit der ID-Austria verknüpft ist, eine sichere Anmeldung in k5|Next zu gewährleisten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in der Anwendung k5|Next_Wahltag zwingend erforderlich, um ein vorläufiges Wahlergebnis erfolgreich an das Land OÖ zu übermitteln?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche zusätzlichen Schritte sind neben der Übermittlung des vorläufigen Wahlergebnisses erforderlich, um das endgültige Wahlergebnis in k5|Next_Wahltag an das Land OÖ zu übermitteln?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann nach der Übermittlung des endgültigen Wahlergebnisses an das Land OÖ die Veröffentlichung der Wahldaten auf der Gem2Go-Homepage in k5|Next_Wahltag initiiert werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann in k5|Next_Wahltag eine grafische Aufbereitung des Wahlergebnisses inklusive eines Wahlvergleichs mit historischen Wahldaten erstellt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6153846153846154,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann in k5|Next_Wahltag bei der Erfassung von Wahlbehördenmitgliedern vorgegangen werden, wenn eine gesuchte Person nicht in der internen k5-Personendatenbank gefunden wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Verfahren erforderlich, um eine neue Jagdpachtberechnung anzulegen und sicherzustellen, dass die Daten für den Stichtag korrekt fixiert werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7727272727272727,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert in k5|Next_Verfahren, wenn man nach dem Starten der Berechnung einer Jagdpachtkorrekturen an der Zuordnung oder den Merkmalen der Teilflächen vornehmen möchte?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.2857142857142857,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wenn nach dem Starten der Jagdpachtberechnung in k5|Next_Verfahren keine Korrekturen an den Detaildaten mehr möglich sind, muss die Berechnung dann vollständig gelöscht und neu angelegt werden, um Änderungen wirksam zu machen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet k5|Next_Verfahren innerhalb der Detailansicht für die Jagdpachtberechnung, um Daten vor der finalen Erstellung der Auszahlungsliste zu sortieren oder weiterzuverarbeiten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheiden sich in k5|Next_Verfahren die beiden Abrechnungsvarianten 'Gesamtsumme pro Person' und 'Gesamtsumme pro Person pro Revier' bei der Erstellung der Auszahlungsliste?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was sind die wesentlichen Unterschiede zwischen 'Tags' und 'Gruppen' bei der Organisation von Kontakten in k5|Next_Kontakt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7647058823529411,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann in k5|Next_Kontakt eine Gruppe so konfiguriert werden, dass andere Kollegen sie zwar einsehen können, aber keine Berechtigung haben, die Mitgliederliste zu verändern?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ich in k5|Next meine Benutzeroberfläche optisch individuell anpassen, etwa durch ein anderes Farbschema oder den Darkmode?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann in k5|Next neben den verschiedenen Farbschemas auch ein Darkmode für die Benutzeroberfläche aktiviert werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ein Benutzer in k5|Next zwischen verschiedenen Mandanten wechseln, wenn er für mehr als einen Mandanten berechtigt ist?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche inhaltlichen Schritte in der Wahlvorbereitung müssen im Bereich 'k5|Next_Wahl' zwingend vor der Freigabe des Wahlbestandes abgeschlossen sein, um eine erfolgreiche Bearbeitung sicherzustellen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.85,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Sind die Kontrolle der Kontakt- und Wahllokaldetails sowie die Freigabe für den zentralen Druck in 'k5|Next_Wahl' zwingend vor der Freigabe des Wahlbestandes durchzuführen, oder sind diese Schritte erst nach der Freigabe des Wahlbestandes im Workflow erforderlich?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in 'k5|Next_Wahl' möglich, den Wahlbestand nach dessen Freigabe noch zu bearbeiten, etwa durch das Anpassen von Personendaten oder eine Neusortierung der Daten?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Zu welchem Zeitpunkt ist in 'k5|Next_Wahl' die Erfassung von Wahlkartenanträgen möglich und ab wann ist der Druck der Wahlkarten, Etiketten und Postaufgabelisten zulässig?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie wird bei einer in 'k5|Next_Wahl' anstehenden Stichwahl (einem zweiten Wahlgang) mit dem Wahlbestand verfahren und wird dieser automatisch übernommen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Voraussetzungen müssen bei der Neuanlage eines Benutzers in k5|Next hinsichtlich der E-Mail-Adresse zwingend erfüllt sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie muss ein Mitarbeiter in k5|Next angelegt werden, der sowohl administrative als auch fachliche Rollen ausüben soll, wenn für diese Person nur ein E-Mail-Postfach zur Verfügung steht?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9411764705882353,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie funktioniert das Zurücksetzen des Passworts bei zwei verschiedenen k5|Next-Usern (ein administrativer und ein fachlicher User), die über Alias-Adressen auf dasselbe E-Mail-Postfach zugreifen, und gibt es dabei Probleme hinsichtlich der Eindeutigkeit?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, demselben administrativen User und dem fachlichen User jeweils dieselben Rollen zuzuweisen, oder verhindert das System dies aufgrund der Rollentrennung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Unterschiede bestehen in k5|Next zwischen System-Rollen, Dienstleister-Rollen und Kunden-Rollen hinsichtlich ihrer Erstellbarkeit, Bearbeitbarkeit und Verantwortlichkeit?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8235294117647058,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Welche Schritte sind im 'Monitoring'-Reiter erforderlich, um das vorläufige Wahlergebnis an das Land OÖ zu übermitteln, und welche zeitliche Einschränkung gilt dabei?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was ist im System k5|Next_Wahltag zu tun, wenn nach der Freigabe der Stimmen pro Sprengel ein Fehler bei der Eingabe entdeckt wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie geht man in k5|Next_Wahltag vor, wenn nach der Freigabe der Vorzugsstimmen ein Fehler bei der Eingabe bemerkt wird, und unterscheidet sich dieser Vorgang von der Korrektur der Parteistimmen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahltag möglich, eine bereits erfolgte Freigabe der Vorzugsstimmen wieder aufzuheben, wenn sich nachträglich ein Fehler bei der Eingabe herausstellt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo kann man in k5|Next_Wahltag den aktuellen Status der Stimmenerfassung für alle Sprengel gesammelt einsehen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Bereiche werden durchsucht, wenn ich die Schnellsuche in k5|Next_Verfahren nutze, und wie viele Treffer werden maximal in der Liste angezeigt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet k5|Next_Verfahren für eine gezielte Suche nach Datensätzen, wenn die Schnellsuche nicht ausreicht?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktionen bietet k5|Next_Verfahren, um markierte Datensätze aus einer Detailsuche in andere Programmmodule zu überführen oder weiterzuverarbeiten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8636363636363636,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte und Eingaben sind erforderlich, um in der Stapelverwaltung von k5|Next_Verfahren manuell einen neuen Eintrag anzulegen, insbesondere in Bezug auf das dritte Feld?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheidet sich die Auswahl im dritten Feld bei der manuellen Anlage eines Stapeleintrags in der Stapelverwaltung von k5|Next_Verfahren, je nachdem, ob man ein Grundstück oder eine Einlagezahl abfragt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.2,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen erfüllt sein, damit ich eine neue E-Mail-Adresse als Standardkontakt in k5|Next_Kontakt festlegen kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9166666666666666,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, in k5|Next_Kontakt eine E-Mail-Adresse zu speichern, ohne einen Zustimmungsbereich zu definieren, sofern diese nicht als Standardkontakt festgelegt wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.25,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie werden Telefon- oder Mobilnummern in k5|Next_Kontakt behandelt, wenn für diese Kategorien bereits mehrere Nummern erfasst wurden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Kontakt möglich, einen bereits erfassten Kontakt, der aktuell nicht als Standardkontakt markiert ist, nachträglich zum Standardkontakt für seine jeweilige Kategorie zu befördern?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es möglich, den Standardkontakt für eine Kategorie in k5|Next_Kontakt durch das Bearbeiten des bereits bestehenden Standardkontakts zu ändern, indem man dessen Daten durch die einer anderen gewünschten Nummer überschreibt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6153846153846154,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind im Workflow der Wahlvorbereitung für die Erstellung eines Wahlbestands in k5|Next_Wahl zwingend abzuschließen, bevor die Freigabe für den zentralen Druck der Wahlinformationen erfolgen kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können die Schritte im Workflow zur Erstellung und Bearbeitung des Wahlbestands in k5|Next_Wahl mehrfach durchgeführt werden, oder ist eine Neuerstellung nach der Freigabe des Wahlbestands ausgeschlossen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten zur Korrektur oder Bearbeitung bestehen in k5|Next_Wahl, wenn nach der endgültigen Freigabe des Wahlbestands noch ein Fehler bemerkt oder eine kurzfristige Änderung notwendig wird?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.2857142857142857,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Gibt es in k5|Next_Wahl nach der Freigabe des Wahlbestands noch Möglichkeiten, wahlberechtigte Personen nachträglich in das Wählerverzeichnis aufzunehmen oder daraus zu streichen, beispielsweise im Rahmen eines Reklamationsverfahrens?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.2,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Ist es in k5|Next_Wahl wirklich ausgeschlossen, nach der Freigabe des Wahlbestands Personen aufgrund von Berichtigungs- oder Reklamationsverfahren aufzunehmen oder zu streichen, oder gibt es spezielle Funktionen, die diese gesetzlich vorgesehenen Abläufe nach der Freigabe unterstützen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Voraussetzungen müssen erfüllt sein, damit ein Mitarbeiter in k5|Next sowohl administrative als auch fachliche Aufgaben übernehmen kann, und wie muss das Benutzerkonto dafür konfiguriert werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9473684210526315,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es für einen Mitarbeiter, der aufgrund der Trennung von administrativen und fachlichen Aufgaben zwei separate k5|Next-Benutzerkonten besitzt, Einschränkungen bei der Einrichtung der Zwei-Faktor-Authentifizierung (2FA), oder kann für beide Konten dieselbe Methode verwendet werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.3,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "Welche Möglichkeiten hat ein k5|Next-Benutzer, dessen 2FA-Methode nicht mehr funktioniert oder verloren gegangen ist, um wieder Zugriff auf sein Benutzerkonto zu erhalten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein k5|Next-Administrator den Zugriff auf sein eigenes Administratorkonto wiederherstellen, wenn er die 2FA-Methode verloren hat, oder ist hierfür die Unterstützung eines anderen Administrators erforderlich?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.25,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie kann ein Gemeinde-Administrator in der k5|Next Administration gezielt die 2FA-Methoden für einen anderen Benutzer zurücksetzen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Schritte muss ich in k5|Next_Wahltag zwingend durchführen, bevor ich das vorläufige Wahlergebnis an das Land OÖ übermitteln kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9090909090909091,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Müssen in k5|Next_Wahltag bereits Vorzugsstimmen erfasst werden, bevor man das vorläufige Wahlergebnis an das Land OÖ übermitteln kann, oder ist dies erst für das endgültige Wahlergebnis erforderlich?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.2,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Wie kann ich in k5|Next_Wahltag einen Fehler korrigieren, falls mir nach der Freigabe der Stimmen (Parteistimmen oder Vorzugsstimmen) auffällt, dass die eingegebenen Daten nicht korrekt sind?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Funktioniert das Aufheben der Freigabe bei einem Fehler sowohl für das vorläufige als auch für das endgültige Wahlergebnis in k5|Next_Wahltag identisch?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Ist das technische Vorgehen zum Aufheben der Freigabe via 3-Punkte-Button im Register „Übersicht“, um Eingabefehler zu korrigieren, identisch für sowohl das vorläufige als auch das endgültige Wahlergebnis?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Bereiche werden bei der Schnellsuche in k5|Next_Verfahren durchsucht und wie wird verfahren, wenn mehr als 5 Treffer gefunden werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man in der Detailsuche von k5|Next_Verfahren gezielt nach Grundstücken filtern, wenn man als Suchkriterium die Katastralgemeinde verwenden möchte?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man markierte Datensätze aus der Grundstückssuche in k5|Next_Verfahren an ein GIS-System übergeben?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie können markierte Datensätze aus der Grundstückssuche in k5|Next_Verfahren der Stapelverwaltung zur Abfrage im Grundbuch hinzugefügt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Felder müssen bei einer manuellen Anlage eines Eintrags in der Stapelverwaltung von k5|Next_Verfahren ausgefüllt werden?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Schritte sind erforderlich, um eine natürliche Person in k5|Next_Kontakt anzulegen, die ihren Wohnsitz nicht in Österreich hat?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7222222222222222,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind erforderlich, um ein Unternehmen in k5|Next_Kontakt anzulegen, das nicht im Unternehmensregister (URV) geführt wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4444444444444444,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Erfolgt bei Unternehmen, die manuell in k5|Next_Kontakt angelegt wurden, ein täglicher automatischer Abgleich der Daten, ähnlich wie bei natürlichen Personen, die aus dem ZMR stammen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Müssen Adressdaten von Unternehmen oder Personen, die nicht über einen automatischen täglichen Abgleich (wie beim ZMR) aktualisiert werden, manuell im System nachgepflegt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Funktion bietet k5|Next_Kontakt, um den Überblick über Änderungen an Kontakten zu behalten, die fachapplikationsübergreifend durchgeführt wurden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.25,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche vorbereitenden Schritte in der Wahlvorbereitung müssen zwingend abgeschlossen sein, damit ein Wahlbestand in k5|Next_Wahl erfolgreich erstellt werden kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": NaN,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert mit Klärungsfällen in k5|Next_Wahl, wenn der Wahlbestand nach seiner Freigabe erneut erstellt werden soll?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Möglichkeiten gibt es in k5|Next_Wahl, um eine wahlberechtigte Person nach der Freigabe des Wahlbestandes noch aus dem Wählerverzeichnis zu streichen oder neu aufzunehmen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.2727272727272727,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahl nach der Freigabe des Wahlbestandes tatsächlich unmöglich, Änderungen am Wahlbestand durchzuführen, und wozu dienen dann die Funktionen zur Berichtigung und Reklamation?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie geht k5|Next_Wahl mit Reklamationen oder notwendigen Streichungen um, die erst nach der Freigabe des Wahlbestandes oder nach Ablauf der Auflagefrist erforderlich werden, wenn der Wahlbestand für eine Neuerstellung bereits gesperrt ist?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.2222222222222222,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Welche Grundvoraussetzungen müssen erfüllt sein, um einen neuen Benutzer in k5|Next anzulegen, und was muss beachtet werden, wenn eine Person sowohl administrative als auch fachliche Aufgaben in k5|Next übernehmen soll?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9375,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein Mitarbeiter, der für seine administrative und fachliche Tätigkeit in k5|Next zwei unterschiedliche Benutzerkonten besitzt, für beide Konten dieselbe ID-Austria zur Authentifizierung verwenden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Zwei-Faktor-Authentifizierungsmethoden können neben der ID-Austria für die Anmeldung bei k5|Next verwendet werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die Verwendung von Windows Hello (PIN) zur Zwei-Faktor-Authentifizierung in k5|Next geräteübergreifend möglich oder auf ein spezifisches Gerät beschränkt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, für einen Benutzer in k5|Next mehrere Zwei-Faktor-Authentifizierungsmethoden gleichzeitig einzurichten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Unter welchen spezifischen Bedingungen ist eine Übermittlung der Anzahl der Wahlberechtigten und der ausgestellten Wahlkarten in k5|Next_Wahltag dennoch erforderlich, obwohl diese Daten grundsätzlich aus dem ZeWaeR eWVZ bezogen werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann das endgültige Wahlergebnis in k5|Next_Wahltag unabhängig vom Status der Übermittlung der Anzahl der Wahlberechtigten und Wahlkarten freigegeben werden, oder ist diese Übermittlung zwingende Voraussetzung für die Nationalratswahl?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.16666666666666666,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man in k5|Next_Wahltag eine bereits erfolgte Freigabe für die Vorzugsstimmen aufheben, falls nach der Eingabe ein Fehler entdeckt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist das Vorgehen zur Aufhebung einer Sprengelfreigabe bei fehlerhaften Parteistimmen identisch mit dem Vorgehen bei den Vorzugsstimmen, also über den 3-Punkte-Button im Reiter Übersicht unter Angabe einer Begründung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es für die Freigabe der Sprengel eine zwingende Reihenfolge zwischen der Erfassung der Parteistimmen und der Vorzugsstimmen in k5|Next_Wahltag?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Verfahren erforderlich, um eine neue Jagdpachtberechnung anzulegen und sicherzustellen, dass die Daten für den Stichtag fixiert bleiben?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Kann die Gruppierung der Auszahlungsliste (z. B. Gesamtsumme pro Person oder Gesamtsumme pro Person pro Revier) nach dem Speichern der Jagdpachtberechnung in k5|Next_Verfahren noch geändert werden?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Sind nach dem Start der Berechnung der Detaildaten einer Jagdpachtberechnung in k5|Next_Verfahren noch Korrekturen an den Daten möglich, oder ist der Prozess dann vollständig abgeschlossen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es in k5|Next_Verfahren eine Möglichkeit, Grundstücke nach dem Start der Berechnung der Detaildaten wieder in den Datenpool zurückzuholen, oder muss bei Korrekturbedarf die gesamte Jagdpachtberechnung neu angelegt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es möglich, bei der Neuanlage einer Jagdpachtberechnung in k5|Next_Verfahren die Revierdefinitionen aus einer bereits bestehenden Berechnung zu übernehmen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welchen Zweck erfüllen Standardkontakte in k5|Next_Kontakt und woran erkenne ich, ob ein Kontakt als solcher markiert ist?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen erfüllt sein, um in k5|Next_Kontakt eine E-Mail-Adresse als Standardkontakt zu definieren?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet k5|Next_Kontakt, um eine Zustimmungserklärung zur E-Mail-Kommunikation formal zu erstellen und zu hinterlegen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9285714285714286,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheiden sich Zustimmungserklärungen von Tags, die in k5|Next_Kontakt für Kontakte vergeben werden können?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheiden sich Gruppen von Tags in Bezug auf ihre Stabilität und die Verwaltungsmöglichkeiten innerhalb eines Teams?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7692307692307693,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche inhaltlichen Voraussetzungen müssen in der k5|Next_Wahl Wahlvorbereitung erfüllt sein, damit der Button 'Wahlbestand erstellen' betätigt werden kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahl möglich, den Wahlbestand nach der ersten Erstellung neu zu sortieren, bevor die endgültige Freigabe erfolgt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Werden Personen, die im Zuge eines Reklamationsverfahrens in das Wählerverzeichnis aufgenommen wurden, bei einer erneuten Erstellung des Wahlbestands vor der Freigabe automatisch korrekt einsortiert?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9166666666666666,
+                "context_precision_critic": 0.4777777777618519,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert mit dem Status oder Hinweis einer Person im Wahlbestand, wenn diese Person nach der Erstellung des Wahlbestands händisch gestrichen wird, und wird dieser Vorgang bei einer erneuten Erstellung des Wahlbestands vor der Freigabe berücksichtigt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, den Wahlbestand in k5|Next_Wahl nach der endgültigen Freigabe noch einmal neu zu erstellen oder neu zu sortieren?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen bei der Neuanlage eines Benutzers in k5|Next hinsichtlich der E-Mail-Adresse beachtet werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie werden Benutzerkonten für Mitarbeiter in k5|Next angelegt, die sowohl administrative als auch fachliche Aufgaben übernehmen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, die ID-Austria bei einem Mitarbeiter, der zwei getrennte Benutzerkonten für administrative und fachliche Aufgaben besitzt, für beide Konten als 2FA-Anmeldemethode zu hinterlegen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche anderen Methoden der Zwei-Faktor-Authentifizierung (2FA) stehen neben der ID-Austria für ein Benutzerkonto in k5|Next zur Verfügung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, für einen Benutzer in k5|Next mehrere Methoden der Zwei-Faktor-Authentifizierung gleichzeitig einzurichten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte muss ich in k5|Next_Wahltag zwingend in der richtigen Reihenfolge durchführen, um das vorläufige Wahlergebnis erfolgreich an das Land OÖ zu übermitteln?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Wie kann ich in k5|Next_Wahltag einen Fehler bei der Stimmeneingabe korrigieren, nachdem der jeweilige Sprengel bereits im Register 'Übersicht' für das vorläufige Wahlergebnis freigegeben wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Muss in k5|Next_Wahltag für die Erfassung der Vorzugsstimmen eine separate Freigabe im Register 'Übersicht' erfolgen, nachdem die Stimmen pro Sprengel bereits freigegeben wurden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es beim Erfassen der Vorzugsstimmen in k5|Next_Wahltag inhaltliche Einschränkungen hinsichtlich der Anzahl der Stimmen pro Partei?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet k5|Next_Wahltag, um die erfassten Vorzugsstimmen zur Kontrolle auszudrucken?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Verfahren erforderlich, um eine neue Jagdpachtberechnung anzulegen und sicherzustellen, dass die Grundstücksdaten für die Berechnung eingefroren werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9285714285714286,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann man das 'jagdbar'-Kennzeichen oder die Revierzuordnung für Grundstücke in k5|Next_Verfahren noch korrigieren, nachdem die Jagdpachtberechnung bereits gespeichert wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Verfahren möglich, Grundstücke aus dem Datenpool in das Formular für Teilflächen hinzuzufügen, bevor die Berechnung der Jagdpacht gestartet wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welchen Unterschied gibt es bei der Erstellung der Auszahlungsliste in k5|Next_Verfahren zwischen den Abrechnungsvarianten 'Gesamtsumme pro Person' und 'Gesamtsumme pro Person pro Revier'?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5384615384615384,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie lässt sich in k5|Next_Verfahren verhindern, dass sehr kleine Beträge ausgezahlt werden, und welche Rolle spielt dabei die sogenannte Bagatellgrenze?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Welche Voraussetzungen müssen erfüllt sein, damit ein k5|Next_Kontakt Modul von einem Mitarbeiter in der Gemeinde genutzt werden kann?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "Welche Schritte sind erforderlich, damit ein für das Modul k5|Next_Kontakt berechtigter Benutzer die Gruppen-Funktion verwenden kann, um Kontakte zu organisieren?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was sind die wesentlichen Unterschiede zwischen Gruppen und Tags in Bezug auf deren Handhabung und Verwaltung innerhalb von k5|Next_Kontakt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ein Benutzer in k5|Next_Kontakt eine erstellte Gruppe für andere Kollegen in der Organisation freigeben?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "Sind Änderungen an einer Gruppe, wie das Hinzufügen von weiteren Kontakten, automatisch für die Kollegen sichtbar, mit denen die Gruppe geteilt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche inhaltlichen Voraussetzungen müssen in k5|Next_Wahl erfüllt sein, damit der Button 'Wahlbestand erstellen' aktiv wird und der Wahlbestand somit generiert werden kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6875,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Können Klärungsfälle oder fehlende Sprengelzuordnungen in k5|Next_Wahl auch noch nach der endgültigen Freigabe des Wahlbestands korrigiert werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahl nach der Freigabe des Wahlbestands noch möglich, einen Datenabgleich für Änderungen wie etwa neue Meldeadressen durchzuführen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Bleibt die Sortierung des Wählerverzeichnisses in k5|Next_Wahl auch dann unverändert, wenn nach der Freigabe des Wahlbestands ein Namensabgleich via Datenabgleich durchgeführt wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Warum ist der Datenabgleich 'Name' in k5|Next_Wahl technisch gesperrt, wenn die Gemeinde nur über einen einzigen Sprengel verfügt?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.45454545454545453,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche konkreten Voraussetzungen müssen erfüllt sein, damit ich in k5|Next einen neuen Benutzer anlegen kann, und worauf muss ich bei der Vergabe der E-Mail-Adresse für Personen achten, die sowohl administrative als auch fachliche Aufgaben wahrnehmen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9411764705882353,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein Mitarbeiter, der sowohl über einen Administrator- als auch über einen Fach-User-Account verfügt, für beide Accounts dieselbe ID-Austria zur Anmeldung in k5|Next verwenden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Optionen zur Zwei-Faktor-Authentifizierung (2FA) stehen in k5|Next für einen Administrator-Account zur Verfügung, wenn die ID-Austria bereits für einen anderen Benutzer-Account verwendet wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, für einen Administrator-Account in k5|Next mehrere Methoden der Zwei-Faktor-Authentifizierung gleichzeitig einzurichten, um beispielsweise bei einem Ausfall eines Faktors abgesichert zu sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ein Administrator in k5|Next eine 2FA-Methode zurücksetzen, wenn diese nicht mehr funktioniert?",
+                "correctness_aspect_critic": NaN,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Wahltag zwingend erforderlich, um ein vorläufiges Wahlergebnis an das Land OÖ zu übermitteln?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5416666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ich in k5|Next_Wahltag Korrekturen an der Stimmenerfassung vornehmen, nachdem ich die Freigabe für einen Sprengel bereits durchgeführt habe?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8823529411764706,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann in k5|Next_Wahltag die Freigabe für bereits erfasste Vorzugsstimmen aufgehoben werden, wenn nach der Freigabe ein Fehler bei der Eingabe entdeckt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen in k5|Next_Wahltag erfüllt sein, um das endgültige Wahlergebnis übermitteln zu können, und gibt es dabei Abhängigkeiten zu den vorherigen Schritten?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche inhaltlichen Voraussetzungen müssen in k5|Next_Wahltag erfüllt sein, damit der Button zur Übermittlung des endgültigen Wahlergebnisses aktiv wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Verfahren erforderlich, um eine neue Jagdpachtberechnung anzulegen und sicherzustellen, dass die Grundstücksdaten für die Berechnung eingefroren werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8235294117647058,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert in k5|Next_Verfahren mit der Jagdpachtberechnung, wenn nach dem Starten der Berechnung noch Korrekturen an den Teilflächen oder dem Status vorgenommen werden müssen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.42857142857142855,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann die Auszahlungsliste der Jagdpachtberechnung in k5|Next_Verfahren noch angepasst werden, wenn sie bereits auf Basis der Detaildaten erstellt wurde, oder verhindern die eingefrorenen Daten auch hier eine nachträgliche Änderung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten gibt es in k5|Next_Verfahren, um Fehler in der Jagdpachtberechnung zu korrigieren, nachdem die Berechnung der Detaildaten bereits gestartet wurde?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet k5|Next_Verfahren, um die Daten der Jagdpachtberechnung – auch bei eingeschränkten Korrekturmöglichkeiten – extern weiterzuverarbeiten, etwa durch einen Excel-Export?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ich möchte in k5|Next_Kontakt eine natürliche Person anlegen, die nicht im ZMR gefunden wird. Welche Daten sind dafür als Pflichtfelder zwingend erforderlich?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5789473684210527,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Pflichtfelder sind beim manuellen Anlegen eines Unternehmens in k5|Next_Kontakt erforderlich, wenn dieses nicht im Unternehmensregister (URV) gefunden wird?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheidet sich die Datenaktualisierung von manuell angelegten Unternehmen gegenüber natürlichen Personen, die mit dem ZMR verknüpft sind?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann sichergestellt werden, dass Adressänderungen von manuell angelegten Kontakten oder Unternehmen korrekt an die angebundenen k5 Fachanwendungen übermittelt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Auswirkungen hat die Funktion, eine manuelle Zustelladresse in k5|Next_Kontakt als 'bevorzugt' zu kennzeichnen, auf die angebundenen k5 Fachanwendungen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Welche Bedingungen müssen in k5|Next_Wahl erfüllt sein, damit ein Wahlbestand für die Freigabe bereit ist, und darf diese Freigabe vor oder nach der Bearbeitung von Berichtigungen und Reklamationen erfolgen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8461538461538461,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Wie können in k5|Next_Wahl auf Berichtigungen und Reklamationen reagiert werden, wenn der Wahlbestand bereits freigegeben wurde und laut System nach der Freigabe keine Sortierung oder Änderungen mehr möglich sind?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie können nach der Freigabe des Wahlbestandes in k5|Next_Wahl noch notwendige Berichtigungen oder Reklamationen durchgeführt werden, wenn laut System nach der Freigabe keine Änderungen mehr möglich sind?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.4444444444444444,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Warum erlaubt k5|Next_Wahl laut Dokumentation die Freigabe des Wahlbestands nach der Auflage, aber noch vor der Bearbeitung von Berichtigungen und Reklamationen, wenn das System laut aktueller Auskunft danach keine Änderungen mehr zulässt?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6428571428571429,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie geht k5|Next_Wahl mit gesetzlich verpflichtenden Reklamationen oder Korrekturen um, die nach einer bereits erfolgten Freigabe des Wahlbestands eingehen, wenn das System laut aktuellen Informationen keine Änderungen mehr zulässt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7692307692307693,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Voraussetzungen müssen bei der Neuanlage eines Benutzers in k5|Next hinsichtlich der E-Mail-Adresse zwingend erfüllt sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie müssen bei der Neuanlage eines Benutzers in k5|Next die E-Mail-Adressen konfiguriert werden, wenn eine Person sowohl administrative Aufgaben als auch fachliche Aufgaben (als Fach-User) wahrnehmen soll?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9444444444444444,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, die ID-Austria für zwei verschiedene k5|Next-Benutzerkonten derselben Person (z.B. einen Administrator-Account und einen Fach-User-Account) zu verwenden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ein k5|Next-Benutzer sicherstellen, dass er bei einem Ausfall einer 2FA-Methode weiterhin Zugriff auf sein Benutzerkonto hat?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was muss ein Benutzer tun, wenn sein k5|Next-Account aufgrund zu vieler fehlgeschlagener Anmeldeversuche gesperrt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Wahltag zwingend erforderlich, um ein vorläufiges Wahlergebnis erfolgreich an das Land OÖ zu übermitteln?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8823529411764706,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man in k5|Next_Wahltag die Freigabe der Stimmen pro Sprengel wieder aufheben, wenn nach der Freigabe ein Fehler bei der Dateneingabe entdeckt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie lässt sich die Freigabe der Vorzugsstimmen in k5|Next_Wahltag aufheben, falls nach der Freigabe im Register „Übersicht“ ein Fehler bei der Dateneingabe entdeckt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahltag möglich, das endgültige Wahlergebnis an das Land OÖ zu übermitteln, bevor die Erfassung und Freigabe der Vorzugsstimmen für alle Sprengel vollständig abgeschlossen ist?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.4444444444444444,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktion wird in k5|Next_Wahltag nach der erfolgreichen Übermittlung des endgültigen Wahlergebnisses an das Land OÖ aktiv, um das Ergebnis auf der eigenen Gemeinde-Homepage zu veröffentlichen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind in k5|Next_Verfahren erforderlich, um eine neue Jagdpachtberechnung erfolgreich anzulegen und welche Voraussetzungen müssen für die betroffenen Grundstücke erfüllt sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8181818181818182,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert in k5|Next_Verfahren mit dem Datensatz eines Eigentümers, wenn der errechnete Pachtbetrag unter der definierten Bagatellgrenze liegt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.14285714285714285,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, in k5|Next_Verfahren nach dem Start der Berechnung einer Jagdpacht noch Korrekturen an den Zuordnungen der Teilflächen oder den Änderungsfunktionen vorzunehmen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ich die Detaildaten einer Jagdpachtberechnung in k5|Next_Verfahren exportieren oder für weiterführende Analysen in Excel aufbereiten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Besonderheiten gibt es beim Excel-Export in der Grundstückssuche von k5|Next_Verfahren im Hinblick auf die Darstellung von Eigentümerdaten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind erforderlich, um eine natürliche Person in k5|Next_Kontakt anzulegen, wenn sie noch nicht in den vorhandenen Kontaktdaten gefunden wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8823529411764706,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es Unterschiede zwischen der manuellen Anlage einer natürlichen Person und der manuellen Anlage eines Unternehmens in k5|Next_Kontakt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8125,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Werden Unternehmen in k5|Next_Kontakt beim täglichen Abgleich genauso automatisch aktualisiert wie natürliche Personen aus dem ZMR?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Auswirkungen hat das Hinzufügen einer manuellen Zustelladresse in k5|Next_Kontakt auf die angebundenen Fachanwendungen wie das k5 Finanzmanagement, k5 Verfahren oder k5 DMS?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ich in k5|Next_Kontakt nachvollziehen, welche Fachapplikationen auf einen bestimmten Kontakt zugreifen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte müssen in der Wahlvorbereitung im Workflow von k5|Next_Wahl abgeschlossen sein, damit der Wahlbestand freigegeben werden kann?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.35714285714285715,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert mit bereits ausgestellten Wahlkarten, wenn nach der Freigabe des Wahlbestands im Programm k5|Next_Wahl ein Fehler im Wahlbestand entdeckt wird und der Wahlbestand korrigiert werden muss?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, bei einer Stichwahl den Wahlbestand aus der Hauptwahl in k5|Next_Wahl wiederzuverwenden, oder muss dieser komplett neu erstellt werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Was passiert bei der automatischen Übernahme des Wahlbestands für eine Stichwahl mit Personen, die über ein Wahlkartenabo verfügen?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Was passiert bei der automatischen Übernahme des Wahlbestands für eine Stichwahl mit Personen, bei denen in der Hauptwahl das Wahlkartenabo bzw. die Wahlkarte storniert wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen bei der Neuanlage eines Benutzers in k5|Next hinsichtlich der E-Mail-Adresse zwingend beachtet werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie muss ein Mitarbeiter in k5|Next angelegt werden, wenn er sowohl administrative Aufgaben als auch fachliche Tätigkeiten ausüben soll?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein Benutzer in k5|Next die ID-Austria für die Anmeldung bei mehreren verschiedenen Benutzer-Accounts, beispielsweise bei einem Administrator-Account und einem Fach-User-Account, gleichzeitig verwenden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Muss ein Benutzer bei der Anmeldung in k5|Next seinen Benutzernamen angeben, wenn er sich mittels ID-Austria authentifiziert, oder wird der verknüpfte Account automatisch erkannt?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, für einen einzelnen Benutzer in k5|Next mehrere Zwei-Faktor-Authentifizierungsmethoden (2FA) gleichzeitig einzurichten?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte sind zwingend erforderlich, bevor das vorläufige Wahlergebnis in k5|Next_Wahltag an das Land OÖ übermittelt werden kann?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7333333333333333,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man in k5|Next_Wahltag eine bereits durchgeführte Freigabe der Stimmen oder Vorzugsstimmen eines Sprengels rückgängig machen, falls nach der Freigabe ein Fehler bei der Eingabe entdeckt wurde?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie lässt sich die Übermittlung des endgültigen Wahlergebnisses in k5|Next_Wahltag rückgängig machen oder wiederholen, falls nach der Freigabe der Vorzugsstimmen noch Korrekturbedarf besteht?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6923076923076923,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next_Wahltag möglich, das endgültige Wahlergebnis auf der Gem2Go-Homepage zu veröffentlichen, und wenn ja, welche Voraussetzungen müssen dafür erfüllt sein?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Gibt es bei der Übermittlung von Wahldaten (wie etwa der Anzahl der Wahlberechtigten oder den Wahlergebnissen) an das Land OÖ in k5|Next_Wahltag zeitliche Einschränkungen oder Intervalle, die zwischen den Übermittlungen eingehalten werden müssen?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Bereiche werden durch die Schnellsuche in k5|Next_Verfahren abgedeckt und wie verhält sich das System, wenn mehr als 5 Treffer gefunden werden?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie unterscheidet sich die Schnellsuche von der Detailsuche in k5|Next_Verfahren hinsichtlich ihrer Funktion und Anwendung?",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9375,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie lassen sich in der Detailsuche von k5|Next_Verfahren zusätzliche Suchkriterien hinzufügen und wie wird die Suche in den entsprechenden Feldern spezifiziert?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Gibt es in der Detailsuche von k5|Next_Verfahren eine Funktion, um individuelle Suchkriterien dauerhaft zu speichern, und wo genau findet man diese?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.4777777777618519,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wo befindet sich in der Benutzeroberfläche von k5|Next_Verfahren der 'Teilen'-Button, um markierte Datensätze oder Suchergebnisse weiterzuverarbeiten?",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 0.5
+            }
+        ]
+    }
+}

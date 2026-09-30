@@ -1,0 +1,38 @@
+{
+  "root_id": "5eb9efa9-d9c2-4446-a505-1e89dd99997a",
+  "chunk_a": {
+    "id": "854641588#chunk_17",
+    "text_snippet": "Title: The Bronx\nSection(s): New York City expands\n\nIn 2006, successfully reelected Senator Hillary Clinton won 89.5% of the Bronx's vote (82.8% Dem. + 4.1% Working Families + 2.6% Independence) against Yonkers ex-Mayor John Spencer's 9.6% (8.2% Republican + 1.4% Cons.), while Eliot Spitzer won 88.8% of the Borough's vote (82.1% Dem. + 4.1% Working Families + 2.5% Independence Party) in winning the Governorship against John Faso, who received 9.7% of the Bronx's vote (8.2% Republican + 1.5% Cons.)\n\nIn the Presidential primary elections of February 5, 2008, Sen. Clinton won 61.2% of the Bronx's 148,636 Democratic votes against 37.8% for Barack Obama and 1.0% for the other four candidates combined (John Edwards, Dennis Kucinich, Bill Richardson and Joe Biden). On the same day, John McCain won 54.4% of the borough's 5,643 Republican votes, Mitt Romney 20.8%, Mike Huckabee 8.2%, Ron Paul 7.4%, Rudy Giuliani 5.6%, and the other candidates (Fred Thompson, Duncan Hunter and Alan Keyes) 3.6% between them.\n\nAfter becoming a separate county in 1914, the Bronx has supported only two Republican Presidential candidates. It voted heavily for the winning Republican Warren G. Harding in 1920, but much more narrowly on a split vote for his victorious Republican successor Calvin Coolidge in 1924 (Coolidge 79,562; John W. Davis, Dem., 72,834; Robert La Follette, 62,202 equally divided between the Progressive and Socialist lines).\n\nSince then, the Bronx has always supported the Democratic Party's nominee for President, starting with a vote of 2–1 for the unsuccessful Al Smith in 1928, followed by four 2–1 votes for the successful Franklin D. Roosevelt. (Both had been Governors of New York, but Republican former Gov. Thomas E. Dewey won only 28% of the Bronx's vote in 1948 against 55% for Pres. Harry Truman, the winning Democrat, and 17% for Henry A. Wallace of the Progressives. It was only 32 years earlier, by contrast, that another Republican former Governor who narrowly lost the Presidency, Charles Evans Hughes, had won 42.6% of the Bronx's 1916 vote against Democratic President Woodrow Wilson's 49.8% and Socialist candidate Allan Benson's 7.3%.)\n\nThe Bronx has often shown striking differences from other boroughs in elections for Mayor. The only Republican to carry the Bronx since 1914 was Fiorello La Guardia in 1933, 1937 and 1941 (and in the latter two elections, only because his 30% to 32% vote on the American Labor Party line was added to 22% to 23% as a Republican). The Bronx was thus the only borough not carried by the successful Republican re-election campaigns of Mayors Rudolph Giuliani in 1997 and Michael Bloomberg in 2005. The anti-war Socialist campaign of Morris Hillquit in the 1917 mayoral election won over 31% of the Bronx's vote, putting him second and well ahead of the 20% won by the incumbent pro-war Fusion Mayor John P. Mitchel, who came in second (ahead of Hillquit) everywhere else and outpolled Hillquit citywide by 23.2% to 21.7%.",
+    "article_id": "854641588",
+    "article_title": "The Bronx",
+    "chunk_index": 17,
+    "total_chunks": 35
+  },
+  "chunk_b": {
+    "id": "865179918#chunk_4",
+    "text_snippet": "Title: United States Congress\nSection(s): 1910s–1960s: committee era, 1970s–present: contemporary era\n\nThe Great Depression ushered in President Franklin Roosevelt and strong control by Democrats and historic New Deal policies. Roosevelt's election in 1932 marked a shift in government power towards the executive branch. Numerous New Deal initiatives came from the White House rather than being initiated by Congress. The Democratic Party controlled both houses of Congress for many years. During this time, Republicans and conservative southern Democrats formed the Conservative Coalition. Democrats maintained control of Congress during World War II. Congress struggled with efficiency in the postwar era partly by reducing the number of standing congressional committees. Southern Democrats became a powerful force in many influential committees although political power alternated between Republicans and Democrats during these years. More complex issues required greater specialization and expertise, such as space flight and atomic energy policy. Senator Joseph McCarthy exploited the fear of communism and conducted televised hearings. In 1960, Democratic candidate John F. Kennedy narrowly won the presidency and power shifted again to the Democrats who dominated both houses of Congress until 1994.\n\nthumb|right|upright=2.75|Historical graph of party control of the Senate, House, and Presidency. Since 1980, the Democrats have held the Presidency for four terms, but because of the Senate filibuster, have only been able to freely legislate in two years. The Republicans have been similarly disabled.\nCongress enacted Johnson's Great Society program to fight poverty and hunger. The Watergate Scandal had a powerful effect of waking up a somewhat dormant Congress which investigated presidential wrongdoing and coverups; the scandal \"substantially reshaped\" relations between the branches of government, suggested political scientist Bruce J. Schulman. Partisanship returned, particularly after 1994; one analyst attributes partisan infighting to slim congressional majorities which discouraged friendly social gatherings in meeting rooms such as the Board of Education. Congress began reasserting its authority. Lobbying became a big factor despite the 1971 Federal Election Campaign Act. Political action committees or PACs could make substantive donations to congressional candidates via such means as soft money contributions. While soft money funds were not given to specific campaigns for candidates, the money often benefited candidates substantially in an indirect way and helped reelect candidates. Reforms such as the 2002 McCain-Feingold act limited campaign donations but did not limit soft money contributions. One source suggests post-Watergate laws amended in 1974 meant to reduce the \"influence of wealthy contributors and end payoffs\" instead \"legitimized PACs\" since they \"enabled individuals to band together in support of candidates\". From 1974 to 1984, PACs grew from 608 to 3,803 and donations leaped from $12.5 million to $120 million along with concern over PAC influence in Congress. In 2009, there were 4,600 business, labor and special-interest PACs including ones for lawyers, electricians, and real estate brokers. From 2007 to 2008, 175 members of Congress received \"half or more of their campaign cash\" from PACs.",
+    "article_id": "865179918",
+    "article_title": "United States Congress",
+    "chunk_index": 4,
+    "total_chunks": 22
+  },
+  "t_bridge": [
+    "Franklin D. Roosevelt's electoral success",
+    "Democratic Party dominance in the mid-20th century",
+    "Historical voting patterns and political control"
+  ],
+  "initial_question": {
+    "rag_input": "How did the president who won four 2-to-1 votes in the Bronx shift government power in 1932?",
+    "question": "How did the president who won four 2-to-1 votes in the Bronx shift government power in 1932?",
+    "answer": "Franklin D. Roosevelt, who won four 2-to-1 votes in the Bronx, shifted government power in 1932 towards the executive branch, resulting in numerous New Deal initiatives being driven by the White House rather than Congress.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Franklin D. Roosevelt's electoral success"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

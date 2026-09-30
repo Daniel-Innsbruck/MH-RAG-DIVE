@@ -1,0 +1,37 @@
+{
+  "root_id": "b9dbd1b8-3bdf-4ef8-8a49-fa93a9bb9d43",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_22",
+    "text_snippet": "Kapitelüberschrift: Arbeiten mit Rollenvorlagen\nInhalt: 37\nWie werden Rollen zugeordnet?\nDamit ein User in k5|Next arbeiten kann, muss mindestens eine Rolle zugeordnet werden. Damit wird gesteuert, welche Module und \nApplikationen ein Benutzer aufrufen darf und welche Rechte – wie z.B. Lesen oder Schreiben – der Benutzer in den entsprechenden \nApplikationen besitzt.\nSystem-Rollen oder Dienstleister-Rollen können direkt zugeordnet werden. Um eine Kunden-Rolle zuzuordnen, muss diese im Vorfeld \nerstellt werden. \nDie Zuordnung von Rollen wird wie folgt durchgeführt:\nNavigieren Sie in der Administrationsumgebung im Menü auf Benutzer (1).\nWählen Sie den entsprechenden User, Sie können dafür die Suche verwenden (2), und klicken Sie auf \n (bearbeiten) (3).\nWählen Sie je nach dem, ob es sich um einen fachlichen oder administrativen User handelt, den entsprechenden Reiter. In diesem Fall \nFachliche Rollen (1).\nMittels Klicks auf \n (Fachliche Rollen hinzufügen) gelangen Sie zur Zuordnungsmaske (2).\nWählen Sie Ihren Mandant (3) und die entsprechende Rolle (4), mit “gültig bis” können Sie optional auch ein Ablaufdatum setzen.\nBestätigen Sie die Zuordnung mit Speichern (5).\nDie Zuordnung administrativer Rollen funktioniert auf gleichem Weg.\nEinem User können entweder Fachliche Rollen oder Administrative Rollen hinzugefügt werden, niemals beide. Mehr Informationen \ndazu unter Rollenkonzept und Rollenarten.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 22,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_13",
+    "text_snippet": "Kapitelüberschrift: Systembenachrichtigungen\nInhalt: 16\nBenutzerprofil\nMit Klick auf Ihren Benutzernamen navigieren Sie direkt zu Ihrem Benutzereinstellungen.\nVon dort kommen Sie mit Klick auf „Benutzerprofil bearbeiten“ (1) in Ihr k5|Next_Identity, wo Ihre spezifischen Benutzereinstellungen \nabgelegt sind und eingerichtet bzw. geändert werden können. Die Links „Passwort ändern“ und „2FA verwalten“ können auch direkt geklickt \nwerden (1), Sie gelangen aber auch über Ihr Benutzerprofil zu diesen Einstellungen. Weiters können Sie ein Profilbild hochladen (2).\nMit Klick auf das Bleistift-Symbol unter „Persönliche Einstellungen“ (3) können Sie für Ihre k5|Next Umgebung eines der vorhanden \nFarbschemas wählen (Petrol, Orange, Cyan, Green) (4). Sind Sie für mehr als einen Mandanten berechtigt (das ist im Zuge von \nVerwaltungsgemeinschaften möglich), können Sie Ihren Start-Mandanten wählen (5). Sie sind dann nach Anmeldung in k5|Next für diesen \nMandanten aktiv. Voraussetzung dafür, für eine weitere Gemeinde berechtigt zu werden, ist, dass Sie den Parameter „für Administrierende \nsichtbar“ auf „ja“ gesetzt haben (6). (Das ist optional und per Standard auf „nein“, da in der Regel nicht notwendig.) Ein Feature für die \noptische Darstellung ist der Darkmode, der nach eigenen Belieben gesetzt werden kann (7).",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 13,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Benutzer-Mandanten-Berechtigung",
+    "Rollen- und Mandantenverwaltung in k5|Next"
+  ],
+  "initial_question": {
+    "rag_input": "Wie weise ich einem User eine fachliche Rolle für eine weitere Gemeinde zu?",
+    "question": "Wie weise ich einem User eine fachliche Rolle für eine weitere Gemeinde zu?",
+    "answer": "Damit dies möglich ist, muss der Benutzer zunächst in seinem eigenen Profil den Parameter 'für Administrierende sichtbar' auf 'ja' setzen. Danach navigieren Sie in der Administrationsebene zu 'Benutzer', suchen und bearbeiten den entsprechenden User und fügen im Reiter 'Fachliche Rollen' über 'Fachliche Rollen hinzufügen' den neuen Mandanten sowie die gewünschte Rolle hinzu, bevor Sie speichern.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Benutzer-Mandanten-Berechtigung"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

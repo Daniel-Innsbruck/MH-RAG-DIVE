@@ -1,0 +1,39 @@
+{
+  "root_id": "127bb942-75fc-45ac-b634-6d1885e3c1d5",
+  "chunk_a": {
+    "id": "836794862#chunk_2",
+    "text_snippet": "Title: Morpheme\nSection(s): Morphological analysis, Changing definitions of morpheme, Linguistics, Lexicology\n\nIn natural language processing for Korean, Japanese, Chinese and other languages, morphological analysis is the process of segmenting a sentence into a row of morphemes. Morphological analysis is closely related to part-of-speech tagging, but word segmentation is required for these languages because word boundaries are not indicated by blank spaces.\n\nThe purpose of the morphological analysis is to determine the minimal units of meaning in a language or morphemes by using comparisons of similar forms—for example, comparing forms such as “She is walking” and “They are walking” rather than comparing either of these with something completely different like \"You are reading\". Thus, we can effectively break down the forms in parts and distinguish the different morphemes. Similarly, the meaning and the form are equally important for the identification of morphemes. For instance, agent and comparative morphemes illustrate this point. An agent morpheme is an affix like -er that transforms a verb into a noun (e.g. teach → teacher). On the other hand, –er can also be a comparative morpheme that changes an adjective into another degree of the same adjective (e.g. small → smaller). In this case, the form is the same, but the meaning of both morphemes is different. Also, the opposite can occur in which the meaning is the same but the form is different.\n\nIn generative grammar, the definition of a morpheme depends heavily on whether syntactic trees have morphemes as leaves or features as leaves.\nDirect surface-to-syntax mapping in lexical functional grammar (LFG) – leaves are words\nDirect syntax-to-semantics mapping\nLeaves in syntactic trees spell out morphemes: distributed morphology – leaves are morphemes\nBranches in syntactic trees spell out morphemes: radical minimalism and nanosyntax – leaves are \"nano-\" (small) morpho-syntactic features\n\nGiven the definition of a morpheme as \"the smallest meaningful unit\", nanosyntax aims to account for idioms where it is often an entire syntactic tree which contributes \"the smallest meaningful unit.\" An example idiom is \"Don't let the cat out of the bag\" where the idiom is composed of \"let the cat out of the bag\" and that might be considered a semantic morpheme, which is composed of many syntactic morphemes. Other cases where the \"smallest meaningful unit\" is larger than a word include some collocations such as \"in view of\" and \"business intelligence\" where the words together have a specific meaning.\n\nThe definition of morphemes also plays a significant role in the interfaces of generative grammar in the following theoretical constructs;\nEvent semantics: the idea that each productive morpheme must have a compositional semantic meaning (a denotation), and if the meaning is there, there must be a morpheme (null or overt).\nSpell-out: the interface where syntactic/semantic structures are \"spelled-out\" using words or morphemes with phonological content. This can also be thought of as lexical insertion into the syntactic.\n\nAlternation (linguistics)\n Hybrid word\n Morphological parsing\n Theoretical linguistics\n Word stem\n Phoneme\n Bound morpheme\n\nFloating tone\n Greek morphemes\n Morphophonology",
+    "article_id": "836794862",
+    "article_title": "Morpheme",
+    "chunk_index": 2,
+    "total_chunks": 3
+  },
+  "chunk_b": {
+    "id": "865617413#chunk_4",
+    "text_snippet": "Title: Stress (linguistics)\nSection(s): Stress and rhythm, Historical effects of stress, Stress \"deafness\"\n\nSome languages, such as English, are said to be stress-timed languages; that is, stressed syllables appear at a roughly constant rate and non-stressed syllables are shortened to accommodate this. This contrasts with languages that have syllable timing (e.g. Spanish) or mora timing (e.g. Japanese), where syllables or moras are spoken at a roughly constant rate regardless of stress. For details, see Isochrony.\n\nIt is common for stressed and unstressed syllables to behave differently as a language evolves. For example, in the Romance languages, the original Latin short vowels  and  have often become diphthongs when stressed. Since stress takes part in verb conjugation, this has produced verbs with vowel alternation in the Romance languages. For example, the Spanish verb volver has the form volví in the past tense but vuelvo in the present tense (see Spanish irregular verbs). Italian shows the same phenomenon but with  alternating with  instead. This behavior is not confined to verbs; note for example Spanish viento \"wind\" from Latin ventum, or Italian fuoco \"fire\" from Latin focum.\n\nAn operational definition of word stress may be provided by the stress \"deafness\" paradigm. The idea is that if listeners perform poorly on reproducing the presentation order of series of stimuli that minimally differ in the position of phonetic prominence (e.g. [númi]/[numí]), the language doesn't have word stress. The task involves a reproduction of the order of stimuli as a sequence of key strokes, whereby key '1' is associated with one stress location (e.g. [númi]) and key '2' with the other (e.g. [numí]). A trial may be from 2 to 6 stimuli in length. Thus, the order [númi-númi-numí-númi] is to be reproduced as '1121'. It was found that listeners whose native language was French performed significantly worse than Spanish listeners in reproducing the stress patterns by key strokes. The explanation is that Spanish has lexically contrastive stress, as evidenced by the minimal pairs like tópo (\"mole\") and topó (\"met\"), while in French, stress does not convey lexical information and there is no equivalent of stress minimal pairs as in Spanish.",
+    "article_id": "865617413",
+    "article_title": "Stress (linguistics)",
+    "chunk_index": 4,
+    "total_chunks": 7
+  },
+  "t_bridge": [
+    "Morphological alternation",
+    "Linguistic units of meaning",
+    "Lexical contrast",
+    "Vowel alternation"
+  ],
+  "initial_question": {
+    "rag_input": "How does the English suffix '-er' differ from Spanish words like 'tópo' in signaling different meanings?",
+    "question": "How does the English suffix '-er' differ from Spanish words like 'tópo' in signaling different meanings?",
+    "answer": "The English suffix '-er' relies on the exact same form to convey different minimal units of meaning, acting as either an agent or a comparative morpheme. In contrast, Spanish words like 'tópo' and 'topó' use lexically contrastive word stress—shifting the position of phonetic prominence—to differentiate their meanings.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Lexical contrast"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "6fe9285b-152c-4616-88b4-add0624778b8",
+  "chunk_a": {
+    "id": "854736235#chunk_11",
+    "text_snippet": "Title: Emperor of Japan\nSection(s): Wealth\n\nUntil World War II, the Japanese monarchy was thought to be among the wealthiest in the world. Before 1911, no distinction was made between the imperial crown estates and the Emperor's personal properties, which were considerable. The Imperial Property Law, which came into effect in January 1911, established two categories of imperial properties: the hereditary or crown estates and the personal (\"ordinary\") properties of the imperial family. The Imperial Household Minister was given the responsibility for observing any judicial proceedings concerning imperial holdings. Under the terms of the law, imperial properties were only taxable in cases where no conflict with the Imperial House Law existed; however, crown estates could only be used for public or imperially-sanctioned undertakings. Personal properties of certain members of the imperial family, in addition to properties held for imperial family members who were minors, were exempted from taxation. Those family members included the Empress Dowager, the Empress, the Crown Prince and Crown Princess, the Imperial Grandson and the consort of the Imperial Grandson. As a result of the poor economic conditions in Japan, 289,259.25 acres of crown lands (about 26% of the total landholdings) were either sold or transferred to government and private-sector interests in 1921. In 1930, the Nagoya Detached Palace (Nagoya Castle) was donated to the city of Nagoya, with six other imperial villas being either sold or donated at the same time. In 1939, Nijō Castle, the former Kyoto residence of the Tokugawa shoguns and an imperial palace since the Meiji Restoration, was likewise donated to the city of Kyoto.\n\nAt the end of 1935, according to official government figures, the Imperial Court owned roughly 3,111,965 acres of landed estates, the bulk of which (2,599,548 acres) were the Emperor's private lands, with the total acreage of the crown estates amounting to some 512,161 acres; those landholdings comprised palace complexes, forest and farm lands and other residential and commercial properties. The total value of the imperial properties was then estimated at ¥650 million, or  roughly US$195 million at prevailing exchange rates. This was in addition to the Emperor's personal fortune, which itself amounted to hundreds of millions of yen and included numerous family heirlooms and furnishings, purebred livestock and investments in major Japanese firms, such as the Bank of Japan, other major Japanese banks, the Imperial Hotel and Nippon Yusen.",
+    "article_id": "854736235",
+    "article_title": "Emperor of Japan",
+    "chunk_index": 11,
+    "total_chunks": 13
+  },
+  "chunk_b": {
+    "id": "845984358#chunk_3",
+    "text_snippet": "Title: Finances of the British royal family\nSection(s): Taxation, Private wealth of the Queen, Crown Estate, Assets held in trust\n\nThe Prince of Wales voluntarily pays a sum equivalent to income tax on that part of his income from the Duchy of Cornwall that is in excess of what is needed to meet official expenditure. From 1969 he made voluntary tax payments of 50% of the profits, but this reduced to 25% in 1981 when he married Lady Diana Spencer. These arrangements were replaced by the memorandum in 1993. The income of the Prince of Wales from sources other than the Duchy of Cornwall is subject to tax in the normal way.\n\nThe Queen has a private income from her personal investment portfolio, though her personal wealth and income are not known. Jock Colville, a former private secretary to the Queen (when she was Princess Elizabeth) and a director of her bank, Coutts, estimated her wealth at £2 million in 1971 (the equivalent of about £ today). An official statement from Buckingham Palace in 1993 called estimates of £100 million \"grossly overstated\". In 2002, she inherited her mother's estate, thought to have been worth £70 million (the equivalent of about £ today).\n\nForbes magazine estimated the Queen's net worth at around $500 million (about £325 million) in 2011, while an analysis by the Bloomberg Billionaires Index put it at $425 million (about £275 million) in 2015. In 2012 the Sunday Times estimated the Queen's wealth as being £310 million ($504 million), and that year the Queen received a Guinness World Record as Wealthiest Queen. The Sunday Times Rich List 2015 estimated her wealth at £340 million, making her the 302nd richest person in the United Kingdom; that was the first year she was not among the Sunday Times Rich List's top 300 most wealthy since the list began in 1989. She was number one on the list when it began in 1989.\n\nSandringham House and Balmoral Castle are privately owned by the Queen.\n\nThe Crown Estate is one of the largest property owners in the United Kingdom, producing £211 million for the Treasury in the financial year 2007–8. and with holdings of £7.3 billion in 2011. The Crown Estate is not the private property of the Monarch. It cannot be sold or owned by the Sovereign in a private capacity, nor do any revenues, or debts, from the estate accrue to her. Instead the Crown Estate is owned by the Crown, a corporation representing the legal embodiment of the State. It is held in trust and governed by Act of Parliament, to which it makes an annual report. Revenue from the Crown Estate is thought to be due to double in real terms between 2010 and 2020 with additional lease revenues deriving from the development of offshore wind farms within Britain's Renewable Energy Zone, the rights of which were granted to the Crown Estate by the Energy Act 2004.\n\nA number of State possessions are held in trust by the Sovereign.",
+    "article_id": "845984358",
+    "article_title": "Finances of the British royal family",
+    "chunk_index": 3,
+    "total_chunks": 5
+  },
+  "t_bridge": [
+    "Taxation of royal property",
+    "Distinction between crown estates and private wealth",
+    "Monarchical financial management"
+  ],
+  "initial_question": {
+    "rag_input": "How did the 1969 tax treatment of the British Prince of Wales differ from that of the Japanese Crown Prince in 1911?",
+    "question": "How did the 1969 tax treatment of the British Prince of Wales differ from that of the Japanese Crown Prince in 1911?",
+    "answer": "In 1969, the British Prince of Wales voluntarily began paying a sum equivalent to income tax (50% of profits) on his Duchy of Cornwall income. In contrast, under the 1911 Imperial Property Law, the personal properties of the Japanese Crown Prince were entirely exempted from taxation.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Taxation of royal property"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

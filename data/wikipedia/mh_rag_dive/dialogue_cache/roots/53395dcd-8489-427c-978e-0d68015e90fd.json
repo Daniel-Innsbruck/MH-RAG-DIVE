@@ -1,0 +1,38 @@
+{
+  "root_id": "53395dcd-8489-427c-978e-0d68015e90fd",
+  "chunk_a": {
+    "id": "843528211#chunk_0",
+    "text_snippet": "Title: Nice for What\nSection(s): Introduction, Background, Composition, Music video, Critical reception\n\n\"Nice for What\" is a song recorded by Canadian rapper Drake. It was released by Young Money Entertainment and Cash Money Records on April 6, 2018, along with its music video. The song was produced by Murda Beatz with co-production handled by Blaqnmild, and features additional vocals by Big Freedia and 5th Ward Weebie. It debuted at number one on the US Billboard Hot 100, replacing Drake's own \"God's Plan\" and becoming his fifth US number one. It also debuted atop the UK Singles Chart, becoming his second number-one song of 2018 in the country after \"God's Plan\".\n\nOn March 14, 2018, Lauryn Hill's son Joshua Omaru Marley posted a snippet of the song on Snapchat. Drake later confirmed an upcoming Murda Beatz-produced single during an Instagram Live session. On April 5, Drake made a surprise appearance during a Majid Jordan concert in Toronto. \"The reason I'm here tonight is because I'm back in the city finishing my album,\" he told the audience. \"I've got a new single dropping tomorrow night, too, just in case you got some free time.\"\n\nMusically, \"Nice for What\" is an upbeat hip hop and bounce song that contains elements of early 2000s R&B, with a length of three minutes thirty seconds. It samples Lauryn Hill's song \"Ex-Factor\" (1998), \"Drag Rap\" by the Showboys (1986), \"Get Your Roll On\" by Big Tymers (2000), and also features clips from performances by Big Freedia. Lyrically, the hook of Drake's song samples Lauryn Hill singing about \"cutting loose in the midst of a relationship\".\n\nDirected by Karena Evans, the accompanying music video focuses on women carrying out various activities, including swimming, dancing, modeling and riding horses. It features guest appearances from, in order of appearance, Olivia Wilde, Misty Copeland, Issa Rae, Rashida Jones, Jourdan Dunn, Tracee Ellis Ross, Tiffany Haddish, Yara Shahidi, Zoe Saldana, Elizabeth and Victoria Lejonhjärta, Letitia Wright, Bria Vinaite, Emma Roberts, Syd, Michelle Rodriguez and Drake himself. Evans called it an honour to work on the video, writing on Instagram that it was \"a privilege and a blessing to have told this story with every single one of you revolutionary women, both in front and behind the camera\".\n\n\"Nice for What\" received positive reviews from music critics, with many praising its promotion of female empowerment. Hugh McIntyre of Forbes regarded the \"perfectly-pitched\" song as \"another perfect delivery from the biggest artist in hip-hop\", writing that the \"vocal sample helps the track stand out from much of the rest of his discography\". Kevin Lozano of Pitchfork awarded the song \"Best New Track\", praising Drake for \"smoothly handling the impeccable production from Murda Beatz\", and lauding the song as \"a fantastic piece of hip-hop machinery\" and \"one of Drake's most complete releases in some time\".\n\nChris DeVille of Stereogum deemed the song \"a big, brash, almost obnoxiously loud New Orleans bounce-inspired production\", describing it as \"extremely poppy and sounds like a bid for continued commercial dominance\".",
+    "article_id": "843528211",
+    "article_title": "Nice for What",
+    "chunk_index": 0,
+    "total_chunks": 2
+  },
+  "chunk_b": {
+    "id": "854416359#chunk_0",
+    "text_snippet": "Title: Be Careful (Cardi B song)\nSection(s): Introduction, Background and release, Composition, Music video, Live performances, Charts, Release history\n\n\"Be Careful\" is a song recorded by American rapper Cardi B. It was released on March 29, 2018, as the third single from her debut studio album Invasion of Privacy (2018). The song was written by Cardi B, Jordan Thorpe, and its producers Boi-1da, Vinylz, and Frank Dukes. It contains an interpolation from \"Ex-Factor\", written and performed by Lauryn Hill, which itself samples \"Can It Be All So Simple\", written and performed by Wu-Tang Clan. The latter song also samples \"The Way We Were\". Therefore, Hill, the members of Wu-Tang Clan, and Marvin Hamlisch, Alan Bergman and Marilyn Bergman are credited among the composers.\n\nA song about infidelity, \"Be Careful\" was inspired by her past romantic relationships in New York City, which annoyed Almanzar when she was finishing recording Invasion of Privacy there. \"Be Careful\" peaked at number 11 on the US Billboard Hot 100, and reached the top 40 in Canada, Ireland, New Zealand and the United Kingdom.\n\nA draft of one verse for \"Be Careful\" was first written by Jordan Thorpe. Later, Cardi and the producers Frank Dukes, Boi-1da and Vinylz added the hook and finished writing the rest of the song. Cardi was motivated to write the song when she was in New York City finishing her debut album, Invasion of Privacy (2018). Annoyed about her past romantic relationships and the unfaithfulness in them, she found herself tense and upset – prioritising work, with too many bad thoughts. \n\n\"Be Careful\", the third and final single that preceded the album, was recorded at Chuing King Studios in NY by Commissioner Gordon (who also recorded Lauryn Hill's Ex-Factor single in the same studio) and mixed at Hit Factory Studios in New York as well. The song was released a week after its recording with \"Drip\" on February 2018.\n\nCardi B performs the hook using a softly sung vocal style over a \"laidback\" beat. The song also comprises \"flickering\" hi-hats and \"slick\" synths. Lyrically, \"Be Careful\" is a song about infidelity, where the performer warns her cheating partner and asks him to treat her better. During an interview, Cardi B expressed she drew inspiration from past relationships, while denying that the song was directed at her fiancé Offset.\n\nDirected by Jora Frantzis, the song's music video premiered on May 21, 2018. The clip opens with a wedding in a church filled with Jesus statues and crucifixes located in the middle of the dessert. Cardi B walks down the aisle in a wedding dress. The clip shifts to a darker hue as the rapper returns to the church, this time for her husband's funeral.\n\nOn April 7, 2018, Cardi B performed \"Be Careful\" on Saturday Night Live. During the performance she revealed her pregnancy.\n\nChart (2018) Peak position Australia (ARIA) 65 Ireland (IRMA) 25 New Zealand (Recorded Music NZ) 39 Sweden Heatseeker (Sverigetopplistan) 6 US Billboard Hot 100 11\n\nRegion Date Format Label  VariousMarch 29, 2018Digital downloadAtlantic United States April 24, 2018 Urban contemporary",
+    "article_id": "854416359",
+    "article_title": "Be Careful (Cardi B song)",
+    "chunk_index": 0,
+    "total_chunks": 1
+  },
+  "t_bridge": [
+    "Lauryn Hill's 'Ex-Factor' sample usage",
+    "2018 Hip-hop songs",
+    "Sampling in contemporary rap music"
+  ],
+  "initial_question": {
+    "rag_input": "Which 2018 song using Lauryn Hill's 'Ex-Factor' was released first: 'Nice for What' or 'Be Careful'?",
+    "question": "Which 2018 song using Lauryn Hill's 'Ex-Factor' was released first: 'Nice for What' or 'Be Careful'?",
+    "answer": "Cardi B's 'Be Careful' was released first on March 29, 2018. Drake's 'Nice for What' was released shortly after on April 6, 2018.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Lauryn Hill's 'Ex-Factor' sample usage"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

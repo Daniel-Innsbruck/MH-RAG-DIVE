@@ -1,0 +1,37 @@
+{
+  "root_id": "e3d1f509-e475-4936-b62d-ca3f90a65548",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_53",
+    "text_snippet": "Kapitelüberschrift: Release Aug 2023\nInhalt: 85\nRelease Aug 2023\nWidget \"Gespeichert Gruppen\"\nWohnsitze im ZMR-Suchergebnis\n \nDas Widget \"Gespeichert Gruppen\" ist nun am Dashboard verfügbar. In diesem neuen Widget werden die gespeicherten und geteilten \nGruppen in einer Liste dargestellt. Die neueste Gruppe steht immer ganz oben. Mit einem Klick auf die Gruppe wird die Detailsuche im \nKontaktmanagement geöffnet.\nAb sofort werden bei natürlichen Personen alle Wohnsitze inklusive der Wohnsitzqualität im ZMR-Suchergebnis angezeigt.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 53,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_9",
+    "text_snippet": "Kapitelüberschrift: Benutzeroberfläche\nInhalt: 12\nDashboard & Widgets\nDas Dashboard ist der zentrale Einstiegspunkt in k5|Next und ermöglicht die Anzeige von Widgets (Kacheln). Neben Neuigkeiten und \nInformationen zu Ihrem Dienstleister können Sie hier auch direkt Funktionen aufrufen. Aktuell stehen im Kontaktmanagement nachfolgende \nWidgets zur Verfügung.\nMeine gespeicherten Suchen\nWenn Sie eine Suche öfters anwenden wollen und zu diesem Zweck speichern, können Sie diese hier aufrufen und gelangen direkt zum \ngewünschten Suchergebnis.\nMeine gespeicherten Gruppen\nAusgewählte Personen können zu einer zuvor erstellten Gruppe hinzugefügt werden und über dieses Widget direkt aufgerufen werden.\nZMR-Abgleich\nHier sehen Sie, wann der letzte ZMR-Abgleich erfolgreich durchgeführt wurde. Je nachdem wie aktuell die Daten sind, wird hier entweder \nein grünes Hakerl (Alles OK), eine gelbe Warnung oder ein rotes X angezeigt. In diesen Fällen sollten Sie unbedingt nachforschen, woran \nes liegt, dass die ZMR-Daten nicht aktuell sind (siehe FAQ Warum sind meine ZMR Daten nicht aktuell?)",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 9,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Widget 'Gespeichert Gruppen'",
+    "Dashboard-Funktionalitäten in k5|Next"
+  ],
+  "initial_question": {
+    "rag_input": "Wo in der Liste befindet sich die neueste Gruppe innerhalb des Widgets, über das man Gruppen mit ausgewählten Personen direkt aufruft?",
+    "question": "Wo in der Liste befindet sich die neueste Gruppe innerhalb des Widgets, über das man Gruppen mit ausgewählten Personen direkt aufruft?",
+    "answer": "Die neueste Gruppe steht in diesem Widget immer ganz oben in der Liste.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Verknüpfung der widget-spezifischen Funktion 'ausgewählte Personen hinzufügen' mit der Sortierreihenfolge der Gruppenliste"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

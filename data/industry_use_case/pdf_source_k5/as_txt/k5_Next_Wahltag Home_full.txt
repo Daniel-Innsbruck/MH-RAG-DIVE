@@ -1,0 +1,619 @@
+k5|Next_Wahltag Home
+2
+ 
+     Programmfunktionen
+3
+ 
+          Partei
+4
+ 
+          Personen
+5
+ 
+          Wahl
+6
+ 
+               Monitoring
+7
+ 
+                    Vorläufige/Endgültige Anzahl Wahlberechtigte
+8
+ 
+                    Anzahl der ausgestellten Wahlkarten
+9
+ 
+                    Vorläufiges Wahlergebnis übermitteln
+10
+ 
+                    Endgültiges Wahlergebnis übermitteln
+11
+ 
+                    Wahlergebnis an Gem2Go senden
+12
+ 
+               Ansprechperson
+13
+ 
+               Parteienzuordnung
+14
+ 
+               Kandidatenzuordnung
+15
+ 
+               Stimmenerfassung
+16
+ 
+                    Stimmenerfassung pro Partei und Sprengel
+17
+ 
+                    Sprengel Freigabe / Freigabe aufgeben
+19
+ 
+                    Vorzugsstimmenerfassung pro Partei und Sprengel + Wahlkreis
+21
+ 
+                    Vorzugsstimmen Freigabe / Freigabe aufheben
+23
+ 
+                    Übersicht
+24
+ 
+               Wahlbehörde (wahlspezifisch)
+25
+ 
+                    Wahlzeugen/Hilfspersonal/Vertrauenspersonen
+27
+ 
+                    Kundmachung
+31
+ 
+               Druck/Reports
+32
+ 
+                    Gemeindewahlergebnis
+34
+ 
+                    Ergebnis nach Wahlsprengel in PDF und Excel
+35
+ 
+                    Druck Vorzugsstimmenprotokoll
+36
+ 
+                    Niederschrift
+38
+ 
+                    Grafische Aufbereitung Wahlergebnis + Wahlvergleich
+41
+ 
+                    Wahlvergleich
+42
+ 
+               Historische Wahlen
+44
+ 
+          Wahlbehörde
+45
+ 
+               Wahlbehörde anlegen/bearbeiten
+46
+ 
+               Funktionen zuweisen
+48
+ 
+               Wahlbehörde drucken
+51
+ 
+
+2
+k5|Next_Wahltag Home
+Mit k5|Next_Wahltag können Sie die Stimmen pro Sprengel wie auch die Vorzugsstimmen am Wahltag eingetragen und ans Land OÖ 
+übermittelt. Die Veröffentlichung auf der Gem2Go-Homepage ist ebenso möglich.
+Weiters haben wir die laufende Wahlbehörde und eine wahlspezifische Wahlbehörde, welche nur bei der jeweiligen Wahl im Einsatz ist.
+
+3
+Programmfunktionen
+In diesem Bereich finden Sie eine umfangreiche Dokumentation zu der Anwendung k5|Next_Wahltag.
+
+4
+Partei
+In diesem Bereich werden die wahlwerbenden Parteien automatisch von uns angelegt. Dieser Bereich ist aktuell für Sie nur dann von 
+Belang, wenn Sie Parteien für die Eingabe der Wahlbehörde benötigen. 
+ 
+Über den Plus-Button rechts unten können neue Parteien angelegt werden.
+Parteibezeichnung und -Farbe sind Pflichtfelder. Die Kurzbezeichnung kann auch frei bleiben, sollte es keine geben.
+Von uns angelegte Parteien können von Ihnen nicht bearbeitet werden. 
+Parteien, wo ein Bleistift- und Papierkorb-Symbol aufscheint, können von Ihnen bearbeitet werden, da es sich um selbst angelegte 
+Datensätze handelt.
+ 
+
+5
+Personen
+Wurde die zentrale Person bei Ihnen migriert befinden sich bereits Personen in diesem Bereich. Auch alle wahlberechtigten Personen 
+werden hier gefunden.
+Dieser Bereich wird für die Anlage der Wahlbehörde benötigt.
+ 
+Person korrigieren
+Wenn Sie mittels Bleistiftsymbol zu den Personendetails gehen, können Sie mit dem 3-Punkte-Button rechts oben die Person 
+korrigieren. Dabei werden die aktuellen ZMR-Daten eingespielt und bei der Person überschrieben.
+ 
+
+6
+Wahl
+In diesem Bereich finden Sie die aktuell aktiven Wahlen, welche von uns zentral angelegt werden. Mit Klick auf die Wahl öffnen sich 
+weitere Bereiche:
+ 
+Untermenü:
+·     Parteienzuordnung
+·     Kandidatenzuordnung
+·     Stimmenerfassung
+·     Wahlbehörde
+ 
+Monitoring:
+Im Reiter „Monitoring“ sehen Sie, wie viele Wahlberechtigte im Wahlbestand vorhanden sind bzw. wie viele Wahlkarten bereits ausgestellt 
+wurden. Mit „Anzahl übermitteln“ spielen Sie folgende Daten ans Land OÖ, wobei hier die Reihenfolge eingehalten werden muss.
+·     Vorläufige Anzahl der Wahlberechtigten
+·     Endgültige Anzahl der Wahlberechtigten
+·     Anzahl der ausgestellten Wahlkarten
+·     Vorläufiges Wahlergebnis
+·     Endgültiges Wahlergebnis
+·     Wahldaten an Gem2Go
+ 
+Wahl:
+Im Reiter „Wahl“ sehen Sie die Wahldetails und können eine Ansprechperson hinterlegen.
+
+7
+Monitoring
+Im Reiter „Monitoring“ sehen Sie, wie viele Wahlberechtigte im Wahlbestand vorhanden sind bzw. wie viele Wahlkarten bereits ausgestellt 
+wurden. 
+Weiters werden die Stimmen pro Parteien und die Vorzugsstimmen weitergeleitet. Es besteht die Möglichkeit das Wahlergebnis an Ihre 
+Gem2Go-Homepage zu senden. 
+Mit „Anzahl übermitteln“ spielen Sie folgende Daten ans Land OÖ, wobei hier die Reihenfolge eingehalten werden muss.
+ 
+Die Übermittlungen sind nur 1 x innerhalb von 20 Sekunden erlaubt!
+Erhalten Sie diese Information, warten Sie bitte 20 Sekunden vor einer weiteren Übermittlung.
+ 
+
+8
+Vorläufige/Endgültige Anzahl Wahlberechtigte
+Die Anzahl ist nicht mehr zu übermitteln!
+Diese erhält das Land OÖ aus dem ZeWaeR eWVZ.
+Ausnahme: Für die NR-Wahl muss die Übermittlung gestartet werden, damit Sie die 
+Wahlergebnisse am Wahltag übermitteln können!
+
+9
+Anzahl der ausgestellten Wahlkarten
+Die Anzahl ist nicht mehr zu übermitteln!
+Diese erhält das Land OÖ aus dem ZeWaeR eWVZ.
+Ausnahme: Für die NR-Wahl muss die Übermittlung gestartet werden, damit Sie die 
+Wahlergebnisse am Wahltag übermitteln können!
+
+10
+Vorläufiges Wahlergebnis übermitteln
+Das vorläufige Wahlergebnis kann erst übermittelt werden, wenn unter Stimmenerfassung alle Stimmen pro Sprengel pro Partei 
+eingetragen wurden und die Freigabe erfolgt ist.
+ Mit Klick auf “vorläufiges Wahlergebnis übermitteln” werden die Daten gesendet. 
+Die Daten werden direkt übermittelt. Sie sehen, wer und wann die Daten übermittelt hat.
+Eine erneute Übermittlung ist nur möglich, wenn die Sprengel Freigabe / Freigabe aufgeben und erneut gesetzt wird.
+
+11
+Endgültiges Wahlergebnis übermitteln
+Dieser Punkt ist erst aktiv, wenn das “vorläufige Wahlergebnis” bereits übermittelt wurde und die Vorzugsstimmen pro Partei und pro 
+Sprengel und Wahlkreis eingetragen und die Freigabe durchgeführt wurden.
+Kontrollieren Sie den Status der Sprengel nochmals in der Übersicht:
+ 
+Mit Klick auf die Wahl können Sie im “Monitoring“ auf “Anzahl übermitteln“.
+Die Daten werden direkt übermittelt. Sie sehen, wer und wann die Daten übermittelt hat.
+Eine erneute Übermittlung ist nur möglich, wenn die Vorzugsstimmen Freigabe aufgehoben und erneut gesetzt wird.
+ 
+Durch die Übermittlung wird der Link „Wahlergebnis veröffentlichen“ im letzten Schritt aktiv.
+
+12
+Wahlergebnis an Gem2Go senden
+Nach der Sendung des endgültigen Wahlergebnisses ist der Punkt “Wahlergebnis an Gem2Go senden” aktiv und kann mit Klick auf 
+“Wahlergebnis veröffentlichen” an die Homepage gesendet werden. Dabei wird darauf acht genommen, dass die Veröffentlichung nicht 
+vor der gesetzlich vorgeschriebenen Uhrzeit stattfindet!
+   
+ 
+
+13
+Ansprechperson
+Unter dem Reiter “Wahl” sind Daten zur Wahl zur Ansicht, wie auch die Eingabe einer Ansprechperson möglich:
+Bitte geben Sie die Ansprechperson am Wahltag inkl. Telefonnummer und Schließung des letzten Wahllokales in Ihrer Gemeinde ein. Dies 
+dient uns zur raschen Kontaktaufnahme.
+
+14
+Parteienzuordnung
+Wird für Bundes- und Landeswahlen von uns zentral für die jeweilige Wahl angelegt.
+ 
+ 
+
+15
+Kandidatenzuordnung
+Kandidaten werden für Bundes- und Landeswahlen von uns zentral eingespielt.
+Bei der Nationalratswahl gibt 3 Wahlkreise:
+Bund = 0
+Land = 4 
+Regionalwahlkreis = 4A, 4B, … - je nach Viertel
+
+16
+Stimmenerfassung
+Unter Stimmenerfassung können Sie die Stimmenerfassung pro Partei und Sprengel erfassen und ebenso die Vorzugsstimmen. Diese 
+werden anschließend unter “Übersicht” freigegeben, bevor Sie im Monitoring mittels “Vorläufiges Wahlergebnis übermitteln” bzw. 
+“Endgültiges Wahlergebnis übermitteln” ans Land OÖ gesendet werden können.
+ 
+ 
+ 
+ 
+ 
+ 
+
+17
+Stimmenerfassung pro Partei und Sprengel
+Im Menü „Stimmenerfassung“ wählen Sie zuerst den Sprengel aus. 
+Die Anzahl der Wahlberechtigten wird bereits aus dem Wahlbestand befüllt. 
+ 
+Geben Sie die Daten der Reihe nach ein:
+Amtliche Stimmzettel übernommen: Anzahl der von Ihrem Regionalwahlkreis vorhandenen Stimmzettel vom Sprengel = wird für die 
+Niederschrift verwendet. Leere Stimmzettel sind hier NICHT einzutragen!
+Amtliche Stimmzettel am Wahltag ausgegeben: Anzahl der von Ihrem Regionalwahlkreis im Sprengel ausgegebenen Stimmzettel = 
+wird für die Niederschrift verwendet. Leere Stimmzettel sind hier NICHT einzutragen!
+Wahlkarten, die zur Stimmabgabe mittels Briefwahl verwendet werden: Bereits unterschriebene Wahlkarten, die zur Weiterleitung 
+an die BH gedacht sind. Anzahl wird für die Niederschrift verwendet.
+fremde Wahlkartenwähler (ohne Briefwahlkarte): Sind Personen aus einem anderen Sprengel, welche mit Wahlkarte im Wahllokal 
+gewählt und ein beige-farbenes Kuvert erhalten haben.
+Befüllen Sie die Felder „abgegebene und gültige Stimmen“. Die Summe „ungültige Stimmen“ wird automatisch berechnet, wie auch 
+die Wahlbeteiligung.
+ 
+Das Feld „Status“ wird automatisch durch die Freigabe im Register „Übersicht“ geändert. Ist der Status „Freigegeben“ können keine 
+Änderungen mehr getätigt werden.
+ 
+Geben Sie die gültigen Stimmen pro Partei ein und speichern die Eingabe. Die Eingabe ist mittels TAB möglich. Dies wiederholen Sie 
+für alle Sprengel.
+
+18
+Die Anzahl der Stimmen muss mit der Anzahl der gültigen Stimmen, ansonsten erhalten Sie folgende Meldung:
+ 
+Möchten Sie das vorläufige Wahlergebnis übermitteln bzw. für diesen Sprengel die Vorzugsstimmen erfassen, führen Sie vorab die 
+Freigabe durch!
+Es handelt sich dabei lediglich um Beispielswerte!
+
+19
+Sprengel Freigabe / Freigabe aufgeben
+Stimmen pro Sprengel freigeben
+Freigabe Sprengel aufheben
+Stimmen pro Sprengel freigeben
+Um das Vorläufiges Wahlergebnis übermitteln zu können bzw. die Vorzugsstimmen erfassen zu können, müssen Sie im Register 
+“Übersicht“ die Freigabe des jeweiligen Sprengels tätigen.
+ Dafür klicken Sie auf den 3-Punkte-Button rechts neben dem Sprengel.
+ Nur wenn bei “Status Parteistimmen – Freigegeben“ steht, können die Vorzugsstimmen erfasst werden!
+ 
+Freigabe Sprengel aufheben
+Sollte nach der Freigabe ein Fehler bei der Eingabe entdeckt werden, können Sie die Freigabe aufheben.
+Dies wird ebenso im Register “Übersicht“ gemacht. Mit Klick auf den 3-Punkte-Button neben dem Sprengel haben Sie die Möglichkeit 
+zur Aufhebung.
+ Dazu muss eine Begründung eingetragen werden.
+
+20
+Die bestehenden Daten bleiben dabei vorhanden.
+Nach Korrektur der Daten und erneutem Speichern, muss die Freigabe nochmals durchgeführt werden.
+
+21
+Vorzugsstimmenerfassung pro Partei und Sprengel + Wahlkreis
+Im Bereich “Vorzugsstimmen“ unter “Stimmenerfassung“ kann die Eingabe erst erfolgen, wenn der jeweilige Sprengel freigegeben wurde. 
+Tragen Sie hier für Bundes-, Landes- und Regionalwahlkreis die jeweiligen Vorzugsstimmen ein:
+Wählen Sie den Sprengel und die jeweilige Partei beziehungsweise den Wahlkreis aus.
+Die Stimmen pro Partei werden zur Information angezeigt und dürfen nicht überschritten werden mit den Vorzugsstimmen. Sie erhalten 
+ansonsten beim Speichern einen Fehler:
+Die Eingabe ist mittels TAB oder auch über die Suche möglich. Die Anzahl der Vorzugsstimmen wird automisch durch die Eingabe 
+berechnet.
+
+22
+Geben Sie anschließend die Vorzugsstimmen pro Partei und Wahlkreis ein und speichern diese, bevor Sie die Partei, den Wahlkreis 
+bzw. den Sprengel wechseln!
+Um die eingetragenen Vorzugsstimmen zu kontrollieren, können Sie sich das Vorzugsstimmenprotokoll dazu ausdrucken.
+ 
+Damit das endgültige Wahlergebnis übermittelt werden kann, muss vorab die Freigabe gemacht werden. Einen Überblick über den Status 
+finden Sie im Reiter “Übersicht”
+
+23
+Vorzugsstimmen Freigabe / Freigabe aufheben
+Freigabe Vorzugsstimmen
+Freigabe Vorzugsstimmen aufheben
+Freigabe Vorzugsstimmen
+Um das Endgültiges Wahlergebnis übermitteln zu können, müssen Sie im Register “Übersicht“ die Freigabe tätigen.
+Dafür klicken Sie auf den 3-Punkte-Button rechts neben dem Sprengel.
+ 
+Freigabe Vorzugsstimmen aufheben
+Sollte nach der Freigabe ein Fehler bei der Eingabe entdeckt werden, können Sie die Freigabe aufheben. Dies wird ebenso im Register 
+“Übersicht“ gemacht. Mit Klick auf den 3-Punkte-Button neben dem Sprengel haben Sie die Möglichkeit zur Aufhebung. 
+ Dazu muss eine Begründung eingetragen werden.
+Die bestehenden Daten bleiben dabei vorhanden.
+Nach Korrektur der Daten und erneutem Speichern, muss die Freigabe für die Vorzugsstimmen nochmals durchgeführt werden.
+
+24
+Übersicht
+Im Reiter “Übersicht” sehen Sie alle Sprengel zu den aktuellen Status.
+Nach Erfassung der Stimmen pro Sprengel muss hier die Freigabe durchgeführt werden. Ebenso ist nach Vorzugsstimmenerfassung die 
+Freigabe gemacht werden.
+Erst, wenn dies für alle Sprengel gemacht wurde, kann die jeweilige Übermittlungen ans Land OÖ gemacht werden.
+ 
+
+25
+Wahlbehörde (wahlspezifisch)
+In diesem Bereich können Sie die laufende Wahlbehörde kopieren und für die jeweilige Wahl anpassen.
+Klicken Sie dazu auf den Button “Wahlbehörde importieren” neben dem Dropdown. 
+Durch den Import werden alle bestehenden Daten überschrieben!
+Wählen Sie die Wahlbehörde aus, die importiert werden soll:
+Die übernommenen Daten können bearbeitet werden. Waren bereits Einträge für diese Wahlbehörde vorhanden, so werden diese 
+überschrieben.
+Übernimmt die Gemeindewahlbehörde auch die Aufgaben einer Sprengelwahlbehörde, finden Sie hier eine Checkbox “übernimmt 
+Sprengel”. 
+
+26
+ 
+Wählen Sie die Sprengelgruppe und den Sprengel aus, den die Gemeindewahlbehörde übernimmt. 
+Für diesen Sprengel sind dann keine Einträge zu tätigen.
+ 
+Zur Eingabe von Vertrauenspersonen, Wahlzeugen und Hilfsperson wechseln Sie in den eigenen Reiter. 
+
+27
+Wahlzeugen/Hilfspersonal/Vertrauenspersonen
+In diesem Reiter können Sie alle Wahlzeugen | Hilfspersonal | Vertrauenspersonen für die Wahl eintragen. 
+Der Eintrag von Personen klappt mit Hilfe des Plus-Symbols rechts unten:
+In Schritt 1 wählen Sie die Funktionsart (Wahlzeugen | Hilfspersonal | Vertrauenspersonen) aus:
+Mit “Funktion anlegen” gelangen Sie zu Schritt 2.
+ 
+In Schritt 2 suchen Sie die Person in der k5|Person. Wird die gewünschte Person gefunden, wird diese ausgewählt und mit 
+“Übernehmen” angelegt.
+
+28
+Wenn die gewünschte Person nicht gefunden wird, kann die Suche im ZMR erfolgen.
+Auch hier muss die Person ausgewählt und mittels “Anlegen” übernommen werden:
+
+29
+ 
+In Schritt 3 können Sie noch Details wie das Von-Datum der Funktion oder eine Partei und Telefonnummer + E-Mailadresse 
+eintragen. Bei “Datum Von” wird automatisch das Tagesdatum eingetragen.
+Mit “Speichern” wird die Person zur Wahlbehörde zugeordnet.
+Die in Schritt 3 vorhandenen Daten können mittels Bleistift-Symbol nochmals bearbeitet werden. 
+Über den 3-Punkte-Button können folgende Bearbeitungen durchgeführt werden:
+Person hinzufügen
+Ist nur zur Auswahl, wenn Person vorher bei der 
+Funktion entfernt wurde. Gleiche Vorgehensweise 
+Person entfernen
+Funktion bleib bestehen, Verknüpfung mit der 
+Person wird gelöscht.
+
+30
+wie in Schritt 2 und 3 (siehe oben).
+Funktion löschen
+Funktion wird aus der Wahlbehörde gelöscht. Auch  
+wenn eine Person zugeordnet ist.
+Person wechseln
+Wurde irrtümlich die falsche Person ausgewählt, 
+kann diese einfach gewechselt werden. Sie 
+gelangen wieder zur Personensuche bzw. Anlage.
+
+31
+Kundmachung
+Wurde die wahlspezifische Wahlbehörde von der Wahlbehörde übernommen (und eventuell bearbeitet), kann mittels „Teilen-Button“ die 
+jeweilige Kundmachung erstellt werden:
+ 
+
+32
+Druck/Reports
+Die Berichte/Reports und Excel-Exporte werden immer über den Teilen-Button 
+  aufgerufen.
+PDF-Dateien öffnet direkt im Programm, die Excel-Datei finden Sie im Downloadbereich.
+Bei den PDF-Berichten können Sie die Datei downloaden oder über das Drucksymbol drucken.
+Ergebnis nach Wahlsprengel in PDF und Excel
+Unter Stimmenerfassung zu erstellen:
+ 
+Gemeindewahlergebnis
+Unter Stimmenerfassung zu erstellen
+ 
+
+33
+Kundmachung Wahlbehörde
+Die Kundmachung der wahlspezifischen Wahlbehörde finden Sie hier.
+ 
+Bericht Stimmenerfassung
+Um die erfassten Stimmen pro Partei pro Sprengel zu kontrollieren, finden Sie in der Stimmenerfassungsmaske eine Excel-Datei.
+ 
+Vorzugsstimmenprotokoll
+Zur Kontrolle der eingetragenen Vorzugsstimmen können Sie sich hier ein Protokolle ausdrucken.
+ 
+Niederschrift
+Aktuell ist die gelbe Niederschrift vorhanden.
+
+34
+Gemeindewahlergebnis
+Das Gesamtergebnis der Stimmen pro Parteien kann über die Stimmenerfassung geöffnet werden:
+Das Ergebnis kann auch für den Aushang verwendet werden.
+ 
+Beispieldaten!
+
+35
+Ergebnis nach Wahlsprengel in PDF und Excel
+Zur Kontrolle der Stimmeneingabe können Sie über den Teilen-Button einen Excel-Export mit dem Ergebnis nach Wahlsprengel 
+bzw. PDF-Dateien nach Wahlsprengel oder eine PDF-Datei mit dem Gemeindewahlergebnis erstellen:
+ 
+ Die PDF-Datei öffnet direkt im Programm, die Excel-Datei finden Sie im Downloadbereich:
+ 
+Beispieldaten
+
+36
+Druck Vorzugsstimmenprotokoll
+Vorzugsstimmenprotokoll Sprengelergebnis
+Vorzugsstimmenprotokoll Gemeindeergebnis
+Um Ihre erfassten Vorzugsstimmen zu kontrollieren, können Sie Vorzugsstimmenprotokolle erstellen. Über das „Teilen-Symbol“ gelangen 
+Sie zu den PDF-Dateien pro Wahlkreis.
+Es wird unterschieden auf Sprengelergebnisse bzw. Gemeindeergebnis:
+ 
+Vorzugsstimmenprotokoll Sprengelergebnis
+Im Sidepanel können Sie auf eine Partei oder einen Sprengel eingrenzen. Wird hier keine Eingrenzung getätigt, erhalten Sie alle 
+Parteien und alle Sprengel. Mit „Aktualisieren“ erhalten Sie die Auswahl. Bitte aktivieren Sie die Checkbox (am Wahltag):
+Zusätzlich haben Sie die Auswahl zwischen:
+„Nur Vorzugsstimmen nach Stimmen“ bedeutet, dass nur jene Personen aufscheinen, die eine Vorzugsstimme erhalten haben. Diese 
+werden absteigend nach Anzahl sortiert.
+
+37
+ „Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird 
+nach lfd. Nr. sortiert.
+ 
+Vorzugsstimmenprotokoll Gemeindeergebnis
+Sie erhalten eine Ansicht mit Summe aller Einträge aus den Sprengeln. Im Sidepanel können Sie auf eine Partei eingrenzen. Mit 
+„Aktualisieren“ erhalten Sie die Auswahl. Wird hier keine Eingrenzung getätigt, erhalten Sie alle Parteien. Bitte aktivieren Sie die 
+Checkbox (am Wahltag) in der PDF:
+Zusätzlich haben Sie auch hier die Auswahl zwischen:
+„Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird 
+nach lfd. Nr. sortiert.
+„Nur Vorzugsstimmen nach Stimmen“ bedeutet, dass nur jene Personen aufscheinen, die eine Vorzugsstimme erhalten haben. Diese 
+werden absteigend nach Anzahl sortiert.
+Mit „Aktualisieren“ erhalten Sie die Auswahl.
+
+38
+Niederschrift
+Gelbe Niederschrift / Gemeindewahlbehörde
+Tabelle A (gelbe Niederschrift)
+Tabelle B (gelbe Niederschrift)
+Grüne Niederschrift / Sprengelwahlbehörde
+ 
+Befüllbare, weitere Niederschriften finden Sie in den BM.I-Drucksorten.
+Unter Stimmenerfassung können Sie beim „Teilen-Button“ jederzeit die grüne bzw. gelbe Niederschrift inkl. Tabelle A und Tabelle B 
+öffnen. Diese wird nur soweit befüllt, wie die Daten im Programm eingetragen wurden.
+Wurde die Wahlbehörde (wahlspezifisch) bei der Wahl angelegt, scheinen diese in der Niederschrift auf. Wird die Datei vor der Eintragung 
+der Stimmen pro Partei und Sprengel erstellt, scheinen die Parteistimmen nicht auf.
+Bedenken Sie bitte, dass gewisse Felder NICHT befüllt werden können, welche Sie noch manuell befüllen oder auswählen 
+müssen!
+ 
+Gelbe Niederschrift / Gemeindewahlbehörde
+ 
+
+39
+Tabelle A (gelbe Niederschrift)
+Dieses Formular wurde an DIN A3 Querformat angepasst. Haben Sie nicht die Möglichkeit, auf A3 zu drucken, können Sie beim Druck unter 
+„weitere Einstellungen“ – „An den Druckbereich anpassen“:
+ 
+Tabelle B (gelbe Niederschrift)
+Dieses Formular wurde an DIN A3 Querformat angepasst. Haben Sie nicht die Möglichkeit, auf A3 zu drucken, können Sie beim Druck unter 
+„weitere Einstellungen“ – „An den Druckbereich anpassen“:
+ 
+ 
+Grüne Niederschrift / Sprengelwahlbehörde
+Auswahl steht erst zur Verfügung, sobald ein Sprengel ausgewählt wurde. Die grüne Niederschrift wird auch verwendet, wenn Sie nur 
+einen Sprengel haben.
+Wenn Sie nur einen Sprengel haben, wählen Sie bitte die Gemeindewahlbehörde aus. Wahllokal und Anzahl der besonderen 
+Wahlbehörden (tatsächlich im Einsatz) müssen manuell befüllt werden.
+
+40
+ 
+
+41
+Grafische Aufbereitung Wahlergebnis + Wahlvergleich
+In der Stimmenerfassung gelangen Sie über das „Grafik-Symbol“ zur grafischen Aufbereitung der eingetragenen Stimmen.
+Unter „Sprengel“ können Sie folgende Auswahl tätigen:
+Gesamtergebnis
+Sprengelergebnis
+ 
+Wählen Sie unter Vergleichswahl die „Nationalratswahl 2019“ aus, werden die Daten ebenso als Balkendiagramm (rechts davon) angezeigt:
+Diese Ansicht können Sie sich auch als Bild-Datei downloaden, indem Sie auf „Download als JPG“ klicken.
+Beispieldaten!
+
+42
+Wahlvergleich
+Wahlvergleich in PDF
+Wahlvergleich in Excel
+Wahlvergleich in PDF
+Durch den Import der historischen Wahl aus WebWahl, kann bei der Wahl NR2024 ein Wahlvergleich erstellt werden.
+Wählen Sie zuerst bei den Einstellungen die Vergleichswahl „Nationalratswahl 2019“ aus:
+Mit Klick auf „Aktualisieren“ wird der Bericht erstellt.
+ 
+ 
+Wahlvergleich in Excel
+Möchten Sie den Wahlvergleich in Excel exportieren, können Sie diesen über den Teilen-Button im PDF-Dokument öffnen:
+Beispieldaten
+
+43
+ 
+
+44
+Historische Wahlen
+Wir haben unter „Historische Wahlen“ die Nationalratswahl 2019 mit den Daten aus WebWahl für Sie importiert. Mit diesen Daten kann ein 
+Wahlvergleich gemacht werden.
+Mit Klick auf das Bleistift-Symbol gelangen Sie in die Detaildaten.
+ 
+
+45
+Wahlbehörde
+Hier legen Sie die konstituierte Wahlbehörde an, welche Sie anschließend zur aktuellen wahlspezifischen Wahlbehörde übernehmen 
+können. 
+Die einzelnen Behördenarten (Gemeindewahlbehörde/Sprengelwahlbehörde/besondere Wahlbehörde) samt Funktionsdefinition werden von 
+uns zentral hinterlegt.
+Je nach Wahlart können Sie selbst Wahlbehörden anlegen:
+ 
+Ist bei Ihnen die Gemeindewahlbehörde gleichzeitig Sprengelwahlbehörde, legen Sie nur die Gemeindewahlbehörde an. Bei der 
+wahlspezifischen Wahlbehörde können Sie dann festlegen, welchen Sprengel diese übernimmt. Ebenso werden “Wahlzeugen | 
+Vertrauenspersonen | Hilfspersonal” nur bei der wahlspezifischen Wahlbehörde eintragen.
+ 
+
+46
+Wahlbehörde anlegen/bearbeiten
+Um eine neue Wahlbehörde anzulegen, klicken Sie auf das Plus-Symbol im jeweiligen Reiter der gewünschten Wahlart:
+Geben Sie die Bezeichnung ein und wählen eine Behördenart aus und bestätigen mit Speichern. Ob eine Gemeindewahlbehörde auch 
+die Funktion der Sprengelwahlbehörde übernimmt, wird unter Wahlbehörde (wahlspezifisch) definiert!
+Bei Anlage einer Sprengelwahlbehörde erhalten Sie noch die Auswahl der Sprengelgruppe bzw. des Sprengels:
+ 
+Nach der Anlage scheint die Wahlbehörde im Dropdownfeld auf. Mit dem Bleistiftsymbol können Sie die Bezeichnung ändert bzw. die 
+Wahlbehörde mittels Löschsymbol wieder entfernen. Dies ist jedoch nur dann möglich, solange noch keine Funktion zugewiesen ist.
+Sie können auch das Datum der konstituierenden Sitzung eintragen:
+
+47
+ 
+
+48
+Funktionen zuweisen
+Funktion besetzen
+Funktion bearbeiten
+ 
+Die Funktionen wurden bereits von uns nach der jeweiligen Rechtsgrundlage zugewiesen. Benötigen Sie manche der vorhandenen 
+Funktionen nicht (z.B. zweiter STV), lassen Sie diese einfach leer. Diese scheinen dann weder auf dem Export, noch auf der Kundmachung 
+auf.
+ 
+Funktion besetzen
+Um eine Person einer Funktion zuzuweisen, klicken Sie in der jeweiligen Zeile auf das Plussymbol rechts.
+Die Person wird zuerst in der k5-Person gesucht. Eine Suche mit Wildcard * ist nicht nötig. Es müssen mindestens zwei Buchstaben 
+angegeben werden. Die Eingabe von Sonderzeichen ist ebenfalls nicht notwendig. Wird die Person nicht gefunden in den k5-Personen, 
+können Sie die Suche im Zentralen Melderegister durchführen (Wichtig dafür sind korrekte Zugangsdaten fürs Stammportal!).
+
+49
+Mit Auswahl der betroffenen Person, wird der Button “Übernehmen” aktiv, womit die Person übernommen wird. Dabei haben Sie noch die 
+Möglichkeit, das Datum einzutragen, seitdem die Person im Amt ist und welcher Partei sie zugehörig ist. Zusätzlich können Sie noch 
+Telefonnummer und E-Mailadresse eintragen. 
+Mit “Speichern” wird die Person in Übersicht und unter Personen übernommen.
+ 
+Funktion bearbeiten
+Bereits bestehende Funktionen können über den Bleistiftbutton bearbeitet werden. 
+ 
+Zusätzlich gibt es noch folgende Möglichkeiten:
+
+50
+ 
+Vertrauenspersonen, Wahlzeugen und Hilfsperson erhalten einen eigenen Reiter zur Eingabe. Dies folgt noch!
+ 
+Austrittsdatum setzen
+Dazu markieren Sie die Person und klicken den Button. Die 
+Person ist dann nicht mehr in der “aktiven” Wahlbehörde zu 
+sehen, sobald das Datum erreicht wurde. Gelöscht kann das 
+Datum werden, indem man den Eintrag löscht und speichert.
+ 
+Angelobungsdatum setzen
+Dazu markieren Sie die Person und klicken den Button. 
+Gelöscht wird das Datum, indem man den Eintrag löscht und 
+speichert.
+
+51
+Wahlbehörde drucken
+Über den Teilen-Button können Sie die Wahlbehörde in Excel exportieren.
+Die Kundmachung für die einzelnen Wahlen finden Sie unter Wahlbehörde (wahlspezifisch) .
+ 

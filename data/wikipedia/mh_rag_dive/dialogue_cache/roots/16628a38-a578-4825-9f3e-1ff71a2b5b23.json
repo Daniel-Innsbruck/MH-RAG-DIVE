@@ -1,0 +1,38 @@
+{
+  "root_id": "16628a38-a578-4825-9f3e-1ff71a2b5b23",
+  "chunk_a": {
+    "id": "843512328#chunk_12",
+    "text_snippet": "Title: Trail of Tears\nSection(s): Landmarks and commerations, Trail of Tears outdoor historical drama, ''Unto These Hills'', Commemorative medallion, In literature and oral history, Documentary\n\nthumb|upright=1.35|Map of National Historic trails\n\nIn 1987, about  of trails were authorized by federal law to mark the removal of 17 detachments of the Cherokee people. Called the \"Trail of Tears National Historic Trail\", it traverses portions of nine states and includes land and water routes.\n\nA historical drama based on the Trail of Tears, Unto These Hills written by Kermit Hunter, has sold over five million tickets for its performances since its opening on July 1, 1950, both touring and at the outdoor Mountainside Theater of the Cherokee Historical Association in Cherokee, North Carolina.\n\nCherokee artist Troy Anderson was commissioned to design the Cherokee Trail of Tears Sesquicentennial Commemorative Medallion. The falling-tear medallion shows a seven-pointed star, the symbol of the seven clans of the Cherokees.\n\nFamily Stories From the Trail of Tears is a collection edited by Lorrie Montiero and transcribed by Grant Foreman, taken from the Indian-Pioneer History Collection\n Walking the Trail (1991) is a book by Jerry Ellis describing his 900-mile walk retracing of the Trail of Tears in reverse\n\nThe Trail of Tears: Cherokee Legacy (2006) – directed by Chip Richie; narrated by James Earl Jones",
+    "article_id": "843512328",
+    "article_title": "Trail of Tears",
+    "chunk_index": 12,
+    "total_chunks": 13
+  },
+  "chunk_b": {
+    "id": "835214350#chunk_24",
+    "text_snippet": "Title: American Civil War\nSection(s): Beardian historiography, Battlefield preservation, Civil War commemoration\n\nThe Beards themselves abandoned their interpretation by the 1940s and it became defunct among historians in the 1950s, when scholars shifted to an emphasis on slavery. However, Beardian themes still echo among Lost Cause writers.\n\nThe first efforts at Civil War battlefield preservation and memorialization came during the war itself with the establishment of National Cemeteries at Gettysburg, Mill Springs and Chattanooga. Soldiers began erecting markers on battlefields beginning with the First Battle of Bull Run in July 1861, but the oldest surviving monument is the Hazen monument, erected at Stones River near Murfreesboro, Tennessee, in the summer of 1863 by soldiers in Union Col. William B. Hazen's brigade to mark the spot where they buried their dead in the Battle of Stones River. In the 1890s, the United States government established five Civil War battlefield parks under the jurisdiction of the War Department, beginning with the creation of the Chickamauga and Chattanooga National Military Park in Tennessee and the Antietam National Battlefield in Maryland in 1890. The Shiloh National Military Park was established in 1894, followed by the Gettysburg National Military Park in 1895 and Vicksburg National Military Park in 1899. In 1933, these five parks and other national monuments were transferred to the jurisdiction of the National Park Service.\n\nThe modern Civil War battlefield preservation movement began in 1987 with the founding of the Association for the Preservation of Civil War Sites (APCWS), a grassroots organization created by Civil War historians and others to preserve battlefield land by acquiring it. In 1991, the original Civil War Trust was created in the mold of the Statue of Liberty/Ellis Island Foundation, but failed to attract corporate donors and soon helped manage the disbursement of U.S. Mint Civil War commemorative coin revenues designated for battlefield preservation. Although the two organizations joined forces on a number of battlefield acquisitions, ongoing conflicts prompted the boards of both organizations to facilitate a merger, which happened in 1999 with the creation of the Civil War Preservation Trust. In 2011, the organization was renamed The Civil War Trust. From 1987 through late 2017, The Trust and its predecessor organizations saved more than 40,000 acres at 126 Civil War battlefields and sites in 21 states.\n\nThe American Civil War has been commemorated in many capacities ranging from the reenactment of battles, to statues and memorial halls erected, to films being produced, to stamps and coins with Civil War themes being issued, all of which helped to shape public memory. This varied advent occurred in greater proportions on the 100th and 150th anniversary.\n\nHollywood's take on the war has been especially influential in shaping public memory, as seen in such film classics as Birth of a Nation (1915), Gone with the Wind (1939), and more recently Lincoln (2012). Ken Burns produced a notable PBS series on television titled The Civil War (1990). It was digitally remastered and re-released in 2015.",
+    "article_id": "835214350",
+    "article_title": "American Civil War",
+    "chunk_index": 24,
+    "total_chunks": 26
+  },
+  "t_bridge": [
+    "Historical commemoration",
+    "Federal land/national park preservation",
+    "1987 as a significant year for US historical preservation"
+  ],
+  "initial_question": {
+    "rag_input": "What historic preservation organization was founded the same year the Trail of Tears National Historic Trail was authorized?",
+    "question": "What historic preservation organization was founded the same year the Trail of Tears National Historic Trail was authorized?",
+    "answer": "The Association for the Preservation of Civil War Sites (APCWS) was founded in 1987, which is the exact same year the Trail of Tears National Historic Trail was authorized by federal law.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "1987 as a significant year for US historical preservation"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

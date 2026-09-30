@@ -1,0 +1,39 @@
+{
+  "root_id": "d642e0be-6b87-428c-b7f7-4dc03fbfe253",
+  "chunk_a": {
+    "id": "862159990#chunk_8",
+    "text_snippet": "Title: Long Island Sound\nSection(s): Further development, Pollution\n\nUnderwater cables transmit electricity under Long Island Sound, most notably a new and controversial Cross Sound Cable that runs from New Haven in western Connecticut, to Shoreham in central Long Island, and an older one from Rye in Westchester County to Oyster Bay on Long Island. Scientists debate whether submarine power cables are safe for underwater lifeforms.\n\nBroadwater Energy LLC, a joint venture between the Shell Oil Company and TransCanada Corporation, has proposed building a floating liquefied natural gas (LNG) terminal  from the Connecticut shore and  from Long Island. The installation is estimated to save the region in excess of $600 million a year in energy costs. The terminal would regasify LNG offloaded from ships, and this gas would flow through pipelines under the sound to New York and Connecticut. Some politicians from both states, such as New York Senator Chuck Schumer, are fiercely opposed to the terminal, claiming that alternative energy sources and conservation should be pursued instead of adding new distribution lines and supply sources. Local Connecticut politicians have little influence since the terminal would be located entirely within waters that are part of New York State (although Connecticut senators and representatives may be able to stop the platform at the federal level).\n\nCertain politicians in the United States Congress have proposed offshore oil drilling in Long Island Sound, which has met staunch opposition by residents of New York and Connecticut, environmentalists, and Democrats.\n\nOver the years, bridges over the sound have been proposed, including a bridge between Rye in Westchester County and Oyster Bay on Long Island; between New Haven, Connecticut and Shoreham on Long Island; between Bridgeport, Connecticut and Port Jefferson on Long Island; or between Orient Point, New York and Rhode Island. A tunnel under the sound, as between Rye and Oyster Bay has also been proposed, to carry both freeway lanes and railroads. However, no crossing has been built since the Throgs Neck Bridge in the early 1960s.\n\nLong Island Sounds ecosystem has historically undergone negative impacts by a number of different sources delivering contaminates such as toxic substances like heavy metals (a specific example includes mercury influx from the hatting industry in Danbury, Connecticut.), pathogens, debris, man-made pollution and fertilizers (like nitrogen and phosphorus). Sources of contamination to the Sound consist of street run off from developed areas, waste water treatment plant effluent, and industries located within the watershed.",
+    "article_id": "862159990",
+    "article_title": "Long Island Sound",
+    "chunk_index": 8,
+    "total_chunks": 12
+  },
+  "chunk_b": {
+    "id": "854641588#chunk_6",
+    "text_snippet": "Title: The Bronx\nSection(s): New York City expands\n\nIn addition, there is a revitalization of the existing housing market in areas such as Hunts Point, the Lower Concourse, and the neighborhoods surrounding the Third Avenue Bridge as people buy apartments and renovate them. Several boutique and chain hotels have opened in recent years in the South Bronx.\n\nNew developments are underway. The Bronx General Post Office on the corner of the Grand Concourse and East 149th Street is being converted into a market place, boutiques, restaurants and office space with a USPS concession. The Kingsbridge Armory, often cited as the largest armory in the world, is scheduled for redevelopment as the Kingsbridge National Ice Center.\n\nUnder consideration for future development is the construction of a platform over the New York City Subway's Concourse Yard adjacent to Lehman College. The construction would permit approximately  of development and would cost . In addition, a La Quinta Inn has been proposed for the Mott Haven waterfront.\n\nGeography\n\nLocation and physical features\nthumb|The New York Times 1896 map of parks and transit in the newly annexed Bronx. Marble Hill is in pink, cut off by water from the rest of Manhattan in orange. Parks are light green, Woodlawn Cemetery medium green, sports facilities dark green, the not-yet-built Jerome Park Reservoir light blue, St. John's College (now Fordham University) in violet, and the city limits of the newly expanded New York in red.\n\nAccording to the U.S. Census Bureau, Bronx County has a total area of , of which  is land and  (27%) is water.\n\nThe Bronx is the only part of New York City that is almost entirely situated on the North American mainland. Its bedrock is primarily Fordham gneiss, a high-grade heavily banded metamorphic rock containing significant amounts of pink feldspar. Marble Hill – politically part of Manhattan but now physically attached to the Bronx – is so-called because of the formation of Inwood marble there as well as in Inwood, Manhattan and parts of the Bronx and Westchester County.\n\nThe Hudson River separates the Bronx on the west from Alpine, Tenafly and Englewood Cliffs in Bergen County, New Jersey; the Harlem River separates it from the island of Manhattan to the southwest; the East River separates it from Queens to the southeast; and to the east, Long Island Sound separates it from Nassau County in western Long Island. Directly north of the Bronx are (from west to east) the adjoining Westchester County communities of Yonkers, Mount Vernon, Pelham Manor and New Rochelle. (There is also a short southern land boundary with Marble Hill in the Borough of Manhattan, over the filled-in former course of the Spuyten Duyvil Creek. Marble Hill's postal ZIP code, telephonic area codes and fire service, however, are shared with the Bronx and not Manhattan.)\n\nThe Bronx River flows south from Westchester County through the borough, emptying into the East River; it is the only entirely freshwater river in New York City. A smaller river, the Hutchinson River (named after the religious leader Anne Hutchinson, killed along its banks in 1641), passes through the East Bronx and empties into Eastchester Bay.\n\nThe Bronx also includes several small islands in the East River and Long Island Sound, such as City Island and Hart Island. Rikers Island in the East River, home to the large jail complex for the entire city, is also part of the Bronx.",
+    "article_id": "854641588",
+    "article_title": "The Bronx",
+    "chunk_index": 6,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Long Island Sound",
+    "Geographic boundary",
+    "New York State infrastructure",
+    "Coastal geography of the Bronx"
+  ],
+  "initial_question": {
+    "rag_input": "What energy terminal was proposed for the water separating the Bronx from Nassau County?",
+    "question": "What energy terminal was proposed for the water separating the Bronx from Nassau County?",
+    "answer": "A floating liquefied natural gas (LNG) terminal by Broadwater Energy LLC was proposed for Long Island Sound, which is the specific body of water that separates the Bronx from Nassau County.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Long Island Sound"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

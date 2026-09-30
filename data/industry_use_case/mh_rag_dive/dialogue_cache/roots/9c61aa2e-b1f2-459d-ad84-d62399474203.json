@@ -1,0 +1,38 @@
+{
+  "root_id": "9c61aa2e-b1f2-459d-ad84-d62399474203",
+  "chunk_a": {
+    "id": "k5_Next_Verfahren Home#chunk_1",
+    "text_snippet": "Kapitelüberschrift: Programmfunktionen\nInhalt: 5\nBenutzeroberfläche\nIn diesem Bereich befindet sich die umfangreiche Dokumentation zu der Anwendung k5|Next_Verfahren.",
+    "article_id": "k5_Next_Verfahren Home",
+    "article_title": "k5_Next_Verfahren Home",
+    "chunk_index": 1,
+    "total_chunks": 48
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_2",
+    "text_snippet": "Kapitelüberschrift: Sie haben Fragen?\nInhalt: 6\nProgrammfunktionen\nIn diesem Bereich finden Sie eine umfangreiche Dokumentation zu der Anwendung k5|Next_Wahl.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 2,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "Dokumentationsstruktur",
+    "k5|Next Produktfamilie",
+    "Programmfunktionen"
+  ],
+  "initial_question": {
+    "rag_input": "Für welche k5|Next-Anwendungen gibt es in den Kapiteln 'Programmfunktionen' und 'Sie haben Fragen?' umfangreiche Dokumentationen?",
+    "question": "Für welche k5|Next-Anwendungen gibt es in den Kapiteln 'Programmfunktionen' und 'Sie haben Fragen?' umfangreiche Dokumentationen?",
+    "answer": "Laut den Inhalten gibt es umfangreiche Dokumentationen für k5|Next_Verfahren (im Kapitel 'Programmfunktionen') und für k5|Next_Wahl (im Kapitel 'Sie haben Fragen?').",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "k5|Next Produktfamilie"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

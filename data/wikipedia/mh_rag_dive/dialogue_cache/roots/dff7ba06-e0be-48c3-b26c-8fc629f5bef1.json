@@ -1,0 +1,38 @@
+{
+  "root_id": "dff7ba06-e0be-48c3-b26c-8fc629f5bef1",
+  "chunk_a": {
+    "id": "804622010#chunk_33",
+    "text_snippet": "Title: Byzantine Empire\nSection(s): Legacy, Byzantine studies, resources and bibliography\n\nFollowing the conquest of Constantinople by the Ottoman Turks in 1453, Sultan Mehmed II took the title \"Kaysar-i Rûm\" (the Ottoman Turkish equivalent of Caesar of Rome), since he was determined to make the Ottoman Empire the heir of the Eastern Roman Empire. According to Cameron, regarding themselves as \"heirs\" of Byzantium, the Ottomans preserved important aspects of its tradition, which in turn facilitated an \"Orthodox revival\" during the post-communist period of the Eastern European states.\n\nFox, Clinton R. What, If Anything, Is a Byzantine? (Online Encyclopedia of Roman Emperors)\n Byzantine studies homepage at Dumbarton Oaks. Includes links to numerous electronic texts.\n Byzantium: Byzantine studies on the Internet. Links to various online resources.\n Translations from Byzantine Sources: The Imperial Centuries, c. 700–1204. Online sourcebook.\n De Re Militari. Resources for medieval history, including numerous translated sources on the Byzantine wars.\n Medieval Sourcebook: Byzantium. Numerous primary sources on Byzantine history.\n Bibliography on Byzantine Material Culture and Daily Life. Hosted by the University of Vienna; in English.\n Constantinople Home Page. Links to texts, images and videos on Byzantium.\n Byzantium in Crimea: Political History, Art and Culture.\n Institute for Byzantine Studies of the Austrian Academy of Sciences (with further resources and a repository with papers on various aspects of the Byzantine Empire)\n\n \nCategory:1453 disestablishments in Europe\nCategory:1453 disestablishments in Asia\nCategory:330s establishments\nCategory:States and territories established in 330\nCategory:States and territories disestablished in 1453",
+    "article_id": "804622010",
+    "article_title": "Byzantine Empire",
+    "chunk_index": 33,
+    "total_chunks": 34
+  },
+  "chunk_b": {
+    "id": "857029248#chunk_28",
+    "text_snippet": "Title: New Testament\nSection(s): In the arts, General references, Development and authorship, Greek\n\nBiblical paraphrases and poetic renditions of stories from the life of Christ (e.g., the Heliand) became popular in the Middle Ages, as did the portrayal of the arrest, trial and execution of Jesus in Passion plays. Indeed, the Passion became a central theme in Christian art and music. The ministry and Passion of Jesus, as portrayed in one or more of the New Testament Gospels, has also been a theme in film, almost since the inception of the medium (e.g., \"La Passion\", France, 1903).\n\nNew Testament Gateway Annotated guide to academic New Testament Web resources including not only other Web sites, but articles and course materials\nJewish Studies for Christians An Online Study Group exploring the Jewish setting of the early Jesus movement. (An Israeli blog led by Dr. Eliyahu Lizorkin-Eyzenberg).\n\"Introduction to New Testament History and Literature\" course materials \"Open Yale course\" taught at Yale University by Dale B. Martin\nNew Testament Reading Room: Extensive on-line New Testament resources (including reference works, commentaries, translations, atlases, language tools, and works on New Testament theology), Tyndale Seminary\nBiblicalstudies.org New Testament pages Bibliographies on the New Testament and its individual books\nChristianity.com Bible Study Tools For-profit, conservative religious site with links to translations, as well as to mostly out-dated and non-critical commentaries, concordances, and other reference works\nPastoral articles on the New Testament for ministerial training Wisconsin Lutheran Seminary (WELS)\n Jewish reading of the New Testament Haaretz essay on reclaiming the New Testament as an integral part of Jewish literature\n\nThe Gospels in the official canon, and some that were not included in the Bible\nDating the New Testament A compilation of the dates ascribed by various scholars to the composition of the New Testament documents, accompanied by an odd statistical average of the dates\n\nNew Testament Koine Greek Original Side by side with the English (King James) and Russian (Synodal) translation Commentary by the Greek Fathers – Icons from Mount Athos\nNew Testament, Greek Polytonic Text according to Ecumenical Patriarchate (Greek)\nGreek New Testament text (searchable only; no downloads) with lexical aids\n\n \nCategory:Christian terminology\nCategory:Greek literature (post-classical)\nCategory:Biblical exegesis",
+    "article_id": "857029248",
+    "article_title": "New Testament",
+    "chunk_index": 28,
+    "total_chunks": 29
+  },
+  "t_bridge": [
+    "Greek language and literature",
+    "Ecumenical Patriarchate",
+    "Byzantine influence on Christianity"
+  ],
+  "initial_question": {
+    "rag_input": "Which patriarchate provides the Greek Polytonic text of the New Testament for the tradition that experienced an 'Orthodox revival' after 1453?",
+    "question": "Which patriarchate provides the Greek Polytonic text of the New Testament for the tradition that experienced an 'Orthodox revival' after 1453?",
+    "answer": "The Ecumenical Patriarchate provides the Greek Polytonic text of the New Testament. This connects to the 'Orthodox revival' of the post-communist period, a movement facilitated by the Ottoman Turks preserving Eastern Roman traditions following their 1453 conquest.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Ecumenical Patriarchate"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

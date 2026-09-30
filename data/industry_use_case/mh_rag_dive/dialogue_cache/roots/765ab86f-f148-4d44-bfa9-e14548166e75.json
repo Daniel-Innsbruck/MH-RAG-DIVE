@@ -1,0 +1,38 @@
+{
+  "root_id": "765ab86f-f148-4d44-bfa9-e14548166e75",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_33",
+    "text_snippet": "Kapitelüberschrift: Wählerverzeichnis\nInhalt: 67\nWählerverzeichnis Gesamt\n \nWählerverzeichnis Besondere Wahlbehörde\n \n\n68\nWählerverzeichnis Wahlkartenwähler\n \nSummenblatt\nWeiters steht Ihnen mit „Summenblatt“ noch ein weiterer Menüpunkt zur Verfügung. Hier haben Sie die Möglichkeit sich die \nWahlberechtigten pro Sprengel gegliedert nach HWS, Obdachlos, in Haft, Auslandsösterreicher, Gesamt und davon EU-Bürger anzeigen zu \nlassen.\n \n \nExport für k5 ASV / für Parteien\nZudem steht Ihnen mit „Exporte“ noch ein weiterer Menüpunkt zur Verfügung. \n\n69\nHier haben Sie folgende Möglichkeiten. Zum einen den Export für das elektronische Abstimmungsverzeichnis k5-ASV am Wahltag und \nzum anderen das Wählerverzeichnis für die Parteien. \nDas „Wählerverzeichnis für Parteien (nicht durchsuchbar)” (PDF als grafische Datei) ist für den Antrag der wahlwerbenden Parteien vor der \nAuflage gedacht. Beim Erstellen der undurchsuchbaren Datei kommt es vor allem bei größeren Wählerverzeichnissen öfters zu Abbrüchen \n(Timeouts). Anstatt der nicht durchsuchbaren Datei kann generell auch ein Ausdruck des Wählerverzeichnisses „Gesamt” auf Papier zur \nVerfügung gestellt werden.\nIm LWG für Vorarlberg ist dieses Wählerverzeichnis nicht mehr vorgesehen.\nDas „Wählerverzeichnis Excel”  ist für den Antrag der zu wählenden Parteien gedacht. Bei der Übergabe sind die Gesetze und \nInformationen von Bund und Land bezüglich sicherer Datenträger, Verschlüsselung und Datenschutz zu beachten.\nGesetzliche Bestimmungen\n§ 15 EuWO\n§ 27 NRWO\n\n70\nHauskundmachung\nEinstellungen der Hauskundmachung\nBevor die Hauskundmachung ausgedruckt werden kann, müssen unter Wahl-Einstellungen die Einspruchsstelle sowie die Öffnungszeiten \neingetragen werden. Klicken Sie dazu auf den Bleistift, um die Daten bearbeiten zu können.\n \nDer Aufruf\nDie Hauskundmachung wird über den Button “Weiterverarbeitung” aufgerufen  \n .\nJe nach Wahlordnung ist dieser Aufruf vorhanden oder ausgeblendet. \n \nDie Seitenansicht\nNach Aufruf der Hauskundmachung wird eine Seitenansicht erstellt. Der QR-Code wird automatisch erstellt und verweist zum Link: \nwww.bmi.gv.at/selbstauskunft, wo die Bürger mit E-ID ihre Wahlrechte abrufen können.\nIm rechten Side-Panel kann nach Sprengel oder Postleitzahl eingegrenzt werden. Je nach Auswahl im Bereich Druck im Side-Panel, \nwerden unterschiedliche Daten angedruckt. Sobald “mit Gebäudeadresse” ausgewählt ist, erhalten Sie pro Adresse eine PDF-Seite.\nBitte achten Sie bei der Auswahl auf die Vorgabe der Post. Für die Aussendung wird eine Gebäudeadresse sowie Postvermerk verlangt.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 33,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_26",
+    "text_snippet": "Kapitelüberschrift: Druck Vorzugsstimmenprotokoll\nInhalt: 37\n „Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird \nnach lfd. Nr. sortiert.\n \nVorzugsstimmenprotokoll Gemeindeergebnis\nSie erhalten eine Ansicht mit Summe aller Einträge aus den Sprengeln. Im Sidepanel können Sie auf eine Partei eingrenzen. Mit \n„Aktualisieren“ erhalten Sie die Auswahl. Wird hier keine Eingrenzung getätigt, erhalten Sie alle Parteien. Bitte aktivieren Sie die \nCheckbox (am Wahltag) in der PDF:\nZusätzlich haben Sie auch hier die Auswahl zwischen:\n„Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird \nnach lfd. Nr. sortiert.\n„Nur Vorzugsstimmen nach Stimmen“ bedeutet, dass nur jene Personen aufscheinen, die eine Vorzugsstimme erhalten haben. Diese \nwerden absteigend nach Anzahl sortiert.\nMit „Aktualisieren“ erhalten Sie die Auswahl.\n\n38\nNiederschrift\nGelbe Niederschrift / Gemeindewahlbehörde\nTabelle A (gelbe Niederschrift)\nTabelle B (gelbe Niederschrift)\nGrüne Niederschrift / Sprengelwahlbehörde\n \nBefüllbare, weitere Niederschriften finden Sie in den BM.I-Drucksorten.\nUnter Stimmenerfassung können Sie beim „Teilen-Button“ jederzeit die grüne bzw. gelbe Niederschrift inkl. Tabelle A und Tabelle B \nöffnen. Diese wird nur soweit befüllt, wie die Daten im Programm eingetragen wurden.\nWurde die Wahlbehörde (wahlspezifisch) bei der Wahl angelegt, scheinen diese in der Niederschrift auf. Wird die Datei vor der Eintragung \nder Stimmen pro Partei und Sprengel erstellt, scheinen die Parteistimmen nicht auf.\nBedenken Sie bitte, dass gewisse Felder NICHT befüllt werden können, welche Sie noch manuell befüllen oder auswählen \nmüssen!\n \nGelbe Niederschrift / Gemeindewahlbehörde",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 26,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Wahlprozess-Verwaltung",
+    "Erstellung von Wahldokumenten",
+    "Wahlbehörden-Administration"
+  ],
+  "initial_question": {
+    "rag_input": "Über welche unterschiedlichen Buttons rufe ich die Hauskundmachung und die Wahlniederschriften auf?",
+    "question": "Über welche unterschiedlichen Buttons rufe ich die Hauskundmachung und die Wahlniederschriften auf?",
+    "answer": "Die Hauskundmachung wird über den Button „Weiterverarbeitung“ aufgerufen. Die Wahlniederschriften (wie die grüne oder gelbe Niederschrift) öffnet man hingegen über den „Teilen-Button“ im Bereich „Stimmenerfassung“.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Erstellung von Wahldokumenten"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "3f67e2f4-1f08-4545-bc04-bb4dc58459a7",
+  "chunk_a": {
+    "id": "826375490#chunk_0",
+    "text_snippet": "Title: Marble Falls, Texas\nSection(s): Introduction, History, Geography\n\nMarble Falls is a city in Burnet County, Texas, United States.  As of the 2016 United States Census, the city population was 7,154. It is about  northwest of downtown Austin and  north of San Antonio.\n\nLake Marble Falls is part of the Highland Lakes on the Colorado River, the largest chain of lakes in Texas.  It hosts one of the largest drag boat races in the United States each August.\n\nMarble Falls was founded in 1887 by Adam Rankin Johnson, a former Indian fighter and Confederate general, known as \"Stovepipe\" Johnson for his Civil War escapades, which included duping the Union army in Newburgh, Indiana, with fake \"cannons,\" constructed from stovepipes and wagon wheels. Johnson had viewed the natural Marble Falls during his pre-war days as a Burnet County surveyor, and had dreamed of building an industrial city, powered by the tumbling Colorado River, not to be confused with the river of the same name in Colorado and Arizona. Despite a \"friendly fire\" incident which blinded him near the end of the Civil War, General Johnson followed through with his dream, facilitating the construction of a railroad to nearby Granite Mountain in 1884, then (with ten partners, including one son, one nephew and two sons-in-law) platting the townsite and selling lots, beginning July 12, 1887. Johnson built a fine home, a college (soon to be home of the \"Falls on the Colorado Museum\") and a large factory near the falls. The town grew to a population of 1,800 within ten years.\n\nMarble Falls made history in 1917 by electing Ophelia Crosby \"Birdie\" Harwood as the nation's first woman mayor, three years before women were allowed to vote.\n\nWhen the Max Starcke Dam was completed in 1951, the marble falls which had given the town its name were submerged under the new Lake Marble Falls. While the town's economy struggled through the drought of the 1950s, a new economy based on tourism and retirement began to grow in the 1970s. During the last thirty years, Marble Falls has grown into the retail and entertainment center for the Highland Lakes area, and continues to attract tourists, retirees and new businesses.\n\nMarble Falls is located in southern Burnet County at  (30.5741, -98.2782), on the banks of Lake Marble Falls. According to the Handbook of Texas website, the former falls were flooded by the lake, which was created by a shelf of limestone running diagonally across the Colorado River from northeast to southwest. The upper layer of limestone, brownish on the exterior but a deep blue inside, was so hard and cherty it was mistaken for marble. The falls were actually three distinct formations at the head of a canyon  long, with a drop of some  through the limestone strata. The natural lake and waterfall were covered when the Colorado River was dammed with the completion of Max Starcke Dam in 1951. A photo of the falls as they once existed can be seen at the website for the Wallace Guest House, a local bed and breakfast. Lake Marble Falls sits between Lake Lyndon B. Johnson to the north and Lake Travis to the south. The falls for which the city is named are now underwater but are revealed every few years when the lake is lowered.",
+    "article_id": "826375490",
+    "article_title": "Marble Falls, Texas",
+    "chunk_index": 0,
+    "total_chunks": 2
+  },
+  "chunk_b": {
+    "id": "852958770#chunk_0",
+    "text_snippet": "Title: London Bridge (Lake Havasu City)\nSection(s): Introduction, History\n\nLondon Bridge is a bridge in Lake Havasu City, Arizona. It was built in the 1830s and formerly spanned the River Thames in London, England. It was dismantled in 1967 and relocated to Arizona. The Arizona bridge is a reinforced concrete structure clad in the original masonry of the 1830s bridge, which was purchased by Robert P. McCulloch from the City of London. McCulloch had exterior granite blocks from the original bridge numbered and transported to America to construct the present bridge in Lake Havasu City, a planned community he established in 1964 on the shore of Lake Havasu. The bridge was completed in 1971 (along with a canal), and links an island in the Colorado River with the main part of Lake Havasu City.\n\nThe 1831 London Bridge was the last project of engineer John Rennie and was completed by his son, John Rennie the Younger. By 1962, the bridge was not sound enough to support the increased load of modern traffic, and it was sold by the City of London.\n\nThe purchaser, Robert P. McCulloch, the chairman of McCulloch Oil Corporation, was the founder of Lake Havasu City, his retirement real estate development on the east shore of Lake Havasu, a large reservoir on the Colorado River. McCulloch purchased the bridge as a tourist attraction for Lake Havasu, which was then far from the usual tourist track. The idea was successful, bringing interested tourists and retirement home buyers to the area.\n\nOriginally, the deserted Lake Havasu vacant land was given to the state of Arizona by the U.S. Federal Government. The federal property was an abandoned military landing strip. McCulloch made a deal with the state government and received the property for free with a promise to develop the land. But the real estate agents could not bring in prospective buyers, because the land was far from centers of population and had a very hot, arid climate. McCulloch's real estate agent, Robert Plumer, learned that London Bridge was for sale and convinced McCulloch to buy it and bring it to the area to attract potential land buyers. The initial response from McCulloch was, \"That's the craziest idea I have ever heard,\" but after consideration, he decided to go ahead and purchased it for $2.46m (£1.78m). Plumer then arranged with a cargo shipping company that was going to sail a newly-built ship from Great Britain to the United States without any cargo. Plumer said they would pay for all operating costs of the sailing, which was far less than the going rate shipping costs. The bridge's facing stones were disassembled, and each was numbered. After the bridge was dismantled, it was transported to Merrivale Quarry where  were sliced off many of the original stones. The bridge arrived in pieces at the Port of Long Beach, California and was transported overland to Lake Havasu City, where re-assembly began in 1968. On 23 September 1968, the foundation stone was relaid by Sir Gilbert Inglefield, Lord Mayor of London.",
+    "article_id": "852958770",
+    "article_title": "London Bridge (Lake Havasu City)",
+    "chunk_index": 0,
+    "total_chunks": 3
+  },
+  "t_bridge": [
+    "Colorado River",
+    "Tourism-based real estate development",
+    "Reservoirs/Lakes"
+  ],
+  "initial_question": {
+    "rag_input": "Which two cities on Colorado River reservoirs developed tourism and retirement economies in the 1970s?",
+    "question": "Which two cities on Colorado River reservoirs developed tourism and retirement economies in the 1970s?",
+    "answer": "The two cities are Marble Falls, Texas (where a new economy based on tourism and retirement began to grow in the 1970s on Lake Marble Falls) and Lake Havasu City, Arizona (a retirement real estate development on Lake Havasu that used the relocated London Bridge, completed in 1971, as a tourist attraction).",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Cities on Colorado River reservoirs with tourism and retirement economies"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

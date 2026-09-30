@@ -1,0 +1,38 @@
+{
+  "root_id": "349639e9-bcbc-4787-9313-377f651a0e64",
+  "chunk_a": {
+    "id": "799567928#chunk_6",
+    "text_snippet": "Title: Can't Get You Out of My Head\nSection(s): Legacy\n\nThe music video served as an inspiration for Morley while writing his book Words and Music: the history of pop in the shape of a city. In the book, Morley \"turned the lonely drive she [Minogue] made in the song's video towards a city [...] into a fictional history of music,\" referring to the opening sequence of the music video. The critic takes a ride with Minogue through a city and encounters various musicians and artists like the ghost of Elvis Presley, and Madonna, Kraftwerk, and [Ludwig] Wittgenstein. Academics Diane Railton and Paul Weston, in their 2005 essay Naughty Girls and Red Blooded Women (Representations of Female Heterosexuality in Music Video), contrasted the music video of \"Can't Get You Out of My Head\" with that of American singer Beyoncé's 2003 single \"Baby Boy.\" Railton and Weston concluded that while both videos focus on two singers performing seductive dance routines, Minogue is presented in a calculated manner and \"is always provisional, restricted, and contingent,\" whereas Beyoncé displays a particular \"primitive, feral, uncontrolled and uncontrollable\" sexuality embodied by the black female body. The two felt that the videos were representative of the raced depictions of white and black women in colonial times and pop culture, respectively.",
+    "article_id": "799567928",
+    "article_title": "Can't Get You Out of My Head",
+    "chunk_index": 6,
+    "total_chunks": 11
+  },
+  "chunk_b": {
+    "id": "845699215#chunk_7",
+    "text_snippet": "Title: Runaway (Kanye West song)\nSection(s): Background and synopsis, Chart positions, Certifications, Release history\n\nIn Runaway, the short film he released this fall, he uses a plinking piano to summon a ballet troupe, then sings about raising a toast to the douchebags and assholes of the world — in other words, he sticks a symbol of classical refinement next to a lyric about being toxic and acting ugly. (Ballet already does this, too: All that beauty is built on twisted toes, bloody shoes, deformed legs.) [...] He’s attracted to these symbols of classical refinement and aristocracy — ballet, golden goblets, 'Persian rugs with cherub imagery,' Greek mythology, next-level luxury brands — and then he sits among them reminding us that it doesn’t make him any different, or keep him from acting poisonous, or pissing the world off by grabbing people’s microphones. \n\nright|thumb|330px|A screenshot of the \"Runaway\" segment of Runaway. Directed by West, the video features the ballerina iconography that was presented within many of the promotional content released for the song, such as the single covers and the live performances. \n\nReception\nThe music video was praised by Entertainment Weeklys Ken Tucker, calling it \"a carefully modulated art-film made by a man on a mission\", noting the usage of dominant colors as well as the imagery in the film. Jozen Cummings of The Wall Street Journal described the video as \"a cross between an epic music video and a charming indie-house flick\", stating that the greatest achievement of the video was how it \"brought West's music to life\". Will Dean of The Guardian called the video as a creative promotional tool, praising the video's scope and creativity, noting that it was \"ridiculous, ostentatious and egotistical\", citing that it fit perfectly into West's aesthetic.\n\nNicole Jones of MTV Buzzworthy stated that the majority of the video was nonsensical and added up to little coherently, but wrote that regardless of its true meaning, the video was \"really pretty to watch, the music is great, and it reminds us once again why there is only one Mr. West.” Jorge Cullar offered a less favorable opinion of the video, stating that the video failed to be coherent, because West didn't have the \"creative polymath capable of combining disparate elements like those exemplified by the cunning of a Picasso, the deconstruction of a Derrida, the creativity of a Warhol, or the glam avant-garde of David Bowie\". Clair Saddath of Time listed the video amongst the best of all time.<ref name=\"Browne\">Saddath, Claire (2011-07-28). The 30 All-TIME Best Music Videos. Time\". Retrieved on 2010-11-18.</ref> The video was nominated for Video of the Year at the BET Awards of 2011, and West was nominated for Director of the Year. As of January 2015, Billboard'' named the video as one of the 20 best of the 2010s (so far). NME listed it as the fourth best video of the decade in 2014.\n\nPersonnelTechnical Andrew Dawson – recording\n Anthony Kilhoffer – recording, mixing\n Mike Dean – recording\n Christian Mochizuki – recording assistance\n Cary Clark – assistant mix engineeringMusicians'''\n Tony Williams – background vocals\n The-Dream – additional vocals\n Jeff Bhasker – keybaords\n Chris \"Hitchcock\" Chorney – cello\n\nChart (2010-11) Peakposition South Korea (Gaon Chart)14\n\nCountry Provider Certification Australia ARIA Gold United States RIAA Platinum\n\nRelease history  Format  Release dateUnited States Digital download October 4, 2010 Rhythmic crossover radio  October 5, 2010",
+    "article_id": "845699215",
+    "article_title": "Runaway (Kanye West song)",
+    "chunk_index": 7,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Music video analysis",
+    "Symbolism and cultural interpretation in music videos",
+    "Critical reception of visual media in pop culture"
+  ],
+  "initial_question": {
+    "rag_input": "How does the symbolic meaning of the dancing in Kylie Minogue's 'Can't Get You Out of My Head' video differ from the ballet troupe in Kanye West's 2010 'Runaway' video?",
+    "question": "How does the symbolic meaning of the dancing in Kylie Minogue's 'Can't Get You Out of My Head' video differ from the ballet troupe in Kanye West's 2010 'Runaway' video?",
+    "answer": "In Kylie Minogue's 'Can't Get You Out of My Head', a 2005 essay by Diane Railton and Paul Weston interprets her seductive dance routine as calculated, restricted, and representative of colonial-era raced depictions of white women. In contrast, the ballet troupe in Kanye West's 2010 'Runaway' video acts as a symbol of classical refinement and aristocracy, which West intentionally uses to contrast with lyrics about acting toxic and ugly.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Symbolism and cultural interpretation in music videos"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

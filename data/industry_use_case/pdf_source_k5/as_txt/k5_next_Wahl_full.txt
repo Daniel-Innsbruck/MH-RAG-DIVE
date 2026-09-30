@@ -1,0 +1,2078 @@
+k5|next_Wahl
+3
+ 
+     Jetzt starten
+4
+ 
+     Sie haben Fragen?
+5
+ 
+     Programmfunktionen
+6
+ 
+          Wahl
+7
+ 
+               Allgemeine Gemeindedaten für die Wahl
+9
+ 
+               Dashboard
+11
+ 
+               Einstellungen
+13
+ 
+               eWählerverzeichnis übernehmen
+16
+ 
+               Manueller Import Wählerverzeichnis
+17
+ 
+               Wahlbestand erstellen
+18
+ 
+                    Klärungsfälle bearbeiten
+20
+ 
+               Wahlbestand bearbeiten
+23
+ 
+                    Spalten/Ansicht
+24
+ 
+                    Schnellsuche
+26
+ 
+                    Detailsuche/Filter
+27
+ 
+                    Person bearbeiten
+29
+ 
+                         Person als verstorben markieren
+31
+ 
+                         Person korrigieren
+32
+ 
+                         Zustelladresse
+33
+ 
+                    Berichtigungen/Reklamationen
+36
+ 
+               Wahlkarte
+39
+ 
+                    Barcode/QR-Code Scanner
+42
+ 
+                    Wahlkartendruck
+43
+ 
+                         Einzeldruck
+44
+ 
+                              Übernahmebestätigungen
+46
+ 
+                         Sammeldruck
+49
+ 
+                         Etikettendruck
+52
+ 
+                         Postaufgabeliste
+54
+ 
+                    Versendung der Wahlkarte
+56
+ 
+                    Meine Wahlkarte
+58
+ 
+               Druck/Auswertungen
+63
+ 
+                    Statistik
+64
+ 
+                    Wählerverzeichnis
+66
+ 
+                    Hauskundmachung
+70
+ 
+                    Meine Wahlinfo
+72
+ 
+                    Individuelle Listen
+74
+ 
+               Übermittlungen
+76
+ 
+               Wahlbestand freigeben
+78
+ 
+               Datenabgleich
+79
+ 
+               Kontakt- und Wahllokaldetails kontrollieren
+81
+ 
+               Freigabe für den zentralen Druck
+83
+ 
+                    Druckauftrag für die Druckerei DMS
+85
+ 
+          Konfiguration
+86
+ 
+               Adressen
+87
+ 
+
+               Sprengel
+88
+ 
+                    Adresszuordnung
+93
+ 
+                    Fehlende Sprengelzuordnung bearbeiten
+95
+ 
+                    Export Files für Upload im Zentralen Wahlsprengel-Tool
+96
+ 
+               ZMR-Abgleich
+98
+ 
+          Release Notes
+99
+ 
+               Release September 2024
+100
+ 
+     Wahlen & Wahlspezifika
+102
+ 
+          EU Wahl 2024
+103
+ 
+               Selbstauskunft
+105
+ 
+               Checkliste
+106
+ 
+          NR Wahl 2024
+111
+ 
+     Video-Tutorials
+112
+ 
+
+3
+k5|next_Wahl
+ 
+Die beste Wahl.
+Wahlen sind eine Herausforderung für jede Gemeinde. Umso wichtiger, dass alles einfacher, übersichtlicher und sicherer erledigt 
+werden kann. 
+
+4
+Jetzt starten
+Bei k5|Next handelt es sich um die logische Weiterentwicklung der k5 Lösungen. Den Mitarbeitern einer Gemeinde stehen damit eine Reihe 
+von Applikationen zu Verfügung, mit deren Hilfe die täglichen Verwaltungsaufgaben abgewickelt werden können. Eines dieser neuen 
+Module ist k5|Next_Wahl (Wahlmanagement).
+Das Wahlmanagement wird im Wesentlichen für die Vorbereitung einer Wahl verwendet und beinhaltet 
+Wahlbestand/ Wählerverzeichnis erstellen und verwalten und freigeben
+Wahlkartenmanagement
+Sprengelverwaltung
+Meine Wahlkarte und Meine Wahlinfo als optionaler Service
+
+5
+Sie haben Fragen?
+Wir haben die Antworten - meistens.
+Für die häufigsten Fragen (FAQ) zu k5|Next_Wahl finden Sie hier Antworten und für weitere Infos die Verweise auf die entsprechenden 
+Kapitel in unserer Hilfe. Sollte darüber hinaus Erklärungsbedarf bestehen, sind wir gerne jederzeit über unsere Hotline für Sie erreichbar.
+
+6
+Programmfunktionen
+In diesem Bereich finden Sie eine umfangreiche Dokumentation zu der Anwendung k5|Next_Wahl. 
+
+7
+Wahl
+Klickt man direkt auf den Menüeintrag “Wahl” so erscheint das konfigurierte Dashboard und darunter die aktiven Wahlen. Klickt man auf 
+eine aktive Wahl, so erscheinen die Karteireiter
+Je nach Wahl können einzelne Karteireiter sichtbar oder ausgeblendet sein.
+ 
+Wahldetail
+Die Bezeichnung der Wahl sowie der Typ werden vom Provider angelegt. Der Bereich “Zentrale Services” wird ebenfalls vom Provider 
+eingetragen und sind für die Gemeinde nur einsehbar. Der Bereich “Wählerverzeichnis” muss für die Wahl befüllt werden.
+Wurden bereits im Bereich “Einstellungen” Einträge durchgeführt, so werden diese unter “Wählerverzeichnis” übernommen und können für 
+die Wahl angepasst werden. 
+Wahlvorbereitung
+In diesem Register wird ein Workflow schrittweise durchlaufen. Schritte mit einem grünen Häkchen sind bereits abgeschlossen. Ein rotes 
+Kreuz bedeutet, dass weitere Arbeitsschritte erforderlich sind. Ein Pfeil nach rechts zeigt den nächsten Schritt an. 
+Folgende Schritte gibt es:
+eWählerverzeichnis übernehmen
+Wahlbestand erstellen
+Wahlbestand freigeben
+Kontakt- und Wahllokaldetails kontrollieren
+Freigabe für den zentralen Druck für Meine Wahlinfo
+Sortierung WVZ:
+Es gilt die eingestellte Sortierung des Wählerverzeichnisses für diese 
+Wahl.
+Verkürzte Auflagefrist:
+Für Gemeinden die eine Hauskundmachung drucken müssen gilt die 
+verkürzte Auflagefrist.
+Einschreibnummer:
+Für eingeschriebene Briefsendungen gibt es Einschreibnummern. Diese 
+werden auf das Etikett und die Postaufgabenliste gedruckt. Die Nummern 
+erhalten Sie zugesandt. Geben Sie bitte die erste und letzte Nummern 
+Ihrer Rollen, in das dafür vorgesehene Feld ein. 
+Sollten Sie weitere Rollen benötigen, melden Sie sich bitte unter Angabe 
+der genauen Lieferadresse und der Anzahl der Rollen (je 100 Stück pro 
+Rolle) bei pstm.support@post.at.
+Wahlkarten Unterschrift:
+Dieser Wert gilt als Vorschlag für den Druck einer Wahlkarte.
+Amtssignatur verwenden:
+Dieses Feld ist nur sichtbar, wenn unter Mandant eine Amtssignatur 
+hinterlegt wurde. Die Amtssignatur wird bei gesetzter Checkbox auf die 
+Wahlkarte gedruckt.
+Sprengelgruppe:
+Es gilt die Einteilung der Sprengel laut ausgewählter Sprengelgruppe für 
+diese Wahl.
+
+8
+Wahltag
+ 
+Datenabgleich
+Vor dem Druck der Wahlinformationen oder Druck des Wählerverzeichnisses vor dem Wahltag ist es möglich einen Datenabgleich mit dem 
+ZMR durchzuführen. Das Wählerverzeichnis muss dazu “freigegeben” sein.
+Personen im Wählerverzeichnis, die über das eWählerverzeichnis importiert werden.
+ 
+Klärungsfälle
+Dieses Registerblatt erscheint, wenn Wahlbezugsadressen einer wahlberechtigten Person einer aus dem bestehenden Adresspool nicht 
+zugeordnet werden kann. Diese Personen müssen mit einer Wahlbezugsadresse aus dem lokalen Adressbestand versehen werden. Wie 
+das erfolgt lesen Sie im Artikel “Klärungsfälle bearbeiten”.
+ 
+Fehlende Sprengelzuordnung
+Diese Information weist darauf hin, dass Adressen ohne Sprengelzuordnung vorhanden sind und dadurch der Wahlbestand nicht erstellt 
+werden kann. Wie Sie die fehlende Sprengelzuordnung bearbeiten erfahren Sie hier.
+ 
+Übermittlungen
+In diesem Punkt sehen Sie die Kommunikation zwischen k5|Next und dem eWählerverzeichnis im ZeWaeR (Reklamationen, 
+Wahlkartenausstellung, …)
+Meldeadresse:
+Personen deren Hauptwohnsitz sich verändert haben, bekommen eine 
+Zustelladresse mit dem neuen Hauptwohnsitz eingetragen. 
+Namen:
+Personen die eine Namensänderung nach dem Stichtag hatten werden 
+aktualisiert.  Nicht zu empfehlen bei Wählerverzeichnissen die nach Namen 
+sortiert wurden!
+Verstorbene:
+Vermerkt im Wählerverzeichnis unter Anmerkung “verstorben” bei Personen die 
+nach dem Stichtag verstorben sind.
+
+9
+Allgemeine Gemeindedaten für die Wahl
+Für die Wahl werden einige Daten aus den Mandantenstammdaten in der Administration verwendet. Diese Daten können nur von 
+Gemeindeadministratoren eingetragen werden. Dazu gehören: 
+Der Text für den Andruck des Bürgermeisters (Unterschrift + der Unterschrift vorangestellt) wird auf diversen Berichten (z.B. Wahlkarte, 
+Wahlinformation) benötigt. 
+Die Adresse bei den Kontaktdaten wird bei der Wahlinformation (Meine Wahlinfo) benötigt. 
+Das Logo wird beim zentralen Druck der Wahlinformtaion (Meine Wahlinfo) benötigt.
+ 
+Die Amtssignatur kann optional auf die Wahlkarte aufgedruckt werden und ersetzt damit die Unterschrift des Bürgermeisters/ der 
+Bürgermeisterin.
+ 
+Im Reiter Applikationseinstellungen kann die Adressierung der Gemeinde angepasst werden.
+Als Standard ist Gemeinde eingetragen, diese Einstellung ist für die meisten Gemeinden passend. In Gemeinden mit Ortschaften kann eine 
+andere Einstellung sinnvoll sein. Die möglichen Varianten werden hier beschrieben.
+
+10
+ 
+
+11
+Dashboard
+Die Startseite unter „Wahl“ ist standardmäßig leer. Das Dashboard unter Wahl besteht aus einzelnen Widgets. Diese können individuell pro 
+Benutzer und Mandant eingerichtet werden. Die Widgets können per drag&drop verschoben werden. Bei mehreren aktiven Wahlen kann 
+dies auch pro Wahl ausgewählt werden.
+Vordefinierte Widget können mit dem Plus-Button hinzugefügt werden. Wählen Sie die gewünschte Wahl aus und klicken Sie den Button 
+“Hinzufügen”. 
+ 
+ 
+Wahlkartenstatus
+Übersicht der ausgestellten Wahlkarten bzw. Wahlkarten, wo 
+der Druck noch offen ist. Zusätzlich wie viele Etiketten noch 
+
+12
+Die Bereiche können Sie nach der Einspielung selbst anordnen, indem Sie mit der linken Maustaste auf die „Widget-Überschrift“ klicken und 
+verschieben. Gelöscht werden kann das einzelne Widget über das x-Symbol.
+ 
+Wird eine Wahl gelöscht, so werden die im Dashboard angezeigten Grafiken mit einem k5|Next Logo ersetzt. Klicken Sie auf das X-Symbol 
+um das Widget zu schließen. 
+ 
+Wahlberechtigte aktuell
+Grafische Auswertung inkl. Legende der wahlberechtigten 
+Personen inkl. Aufteilung nach Österreicher mit 
+Hauptwohnsitz, EU-Bürger und Auslandsösterreicher und 
+davon in Haft oder Obdachlos.
+Meine Wahlkarte – Wahlkartenanträge
+Auflistung der Wahlkarten, die über „www.meinewahlkarte.at“ 
+eingelangt sind. Zusätzlich wird noch aufgelistet, wie viele 
+davon genehmigt, offen, abgelehnt bzw. zurückgezogen sind. 
+Grafische Aufbereitung ist in der Fußzeile des Widgets.
+Wahlkartenanträge nach 
+Identitätsnachweis
+Grafische Auswertung inkl. Legende wie die Wahlkarten 
+beantragt wurden auf „www.meinewahlkarte.at“ (Antragscode, 
+Reisepassnummer, gescannter Lichtbildausweis oder 
+Handysignatur).
+Wahlkartenanträge nach Antragsart
+Grafische Auswertung inkl. Legende nach welcher Antragsart 
+die Wahlkarten beantragt wurden
+(elektronisch, persönlich, schriftlich oder Wahlkartenabo). 
+Wahlkalender
+Übersichtliche Darstellung des Wahlkalenders mit den 
+wichtigsten Punkten, die im Programm durchgeführt werden 
+müssen.
+nicht gedruckt wurden und wie viele Personen mit 
+eingeschriebener Sendung noch nicht auf der Aufgabeliste 
+Post gedruckt wurden. Grafische Aufbereitung ist in der 
+Fußzeile des Widgets.
+Die Anzahl unter “Wahlkarte beantragt” entspricht der Summe 
+der unten aufgeführten Daten.
+
+13
+Einstellungen
+Mandantenspezifische Einstellungen
+Einstellungen je Wahltyp
+Einspruchstelle
+ 
+Unter Wahl-Einstellungen werden die Stammdaten zu den einzelnen Wahlen angelegt. 
+ 
+Mandantenspezifische Einstellungen
+Bitte die Daten entsprechend den einzelnen Feldern befüllen. Verkürzter Einsichtszeitraum ist nur bei Gemeinden zu aktivieren, die eine 
+Hauskundmachung verwenden.
+Die Amtssignatur wird vom Gemeinde-Administrator eingerichtet. Wurde eine Amtssignatur in den Mandantenstammdaten hinterlegt, kann 
+diese für den Wahlkartendruck verwendet werden. Wird im Feld “Amtssignatur Hinweistext” ein Text eingegeben, wird dieser Text statt 
+dem Standardtext bei der Mandanteneinstellung auf die Wahlkarte aufgedruckt. Bleibt das Feld leer, wird der Standardtext der 
+Mandanteneinstellung verwendet.
+ 
+Einstellungen je Wahltyp
+Wählen Sie die Wahlsprengelgruppe aus und treffen die Auswahl für die Sortierung des Wählerverzeichnisses des Wahltyps. Bei Bundes- 
+und EU-Wahlen  richtet sich die Sortierung nach der Anzahl der Sprengel. Bei mehreren Sprengeln erfolgt die Sortierung nach 
+
+14
+Ortschaft/Adresse bis Tür/Name, während bei einem Sprengel die Sortierung nach Namen erfolgt.[1]
+ 
+Einspruchstelle
+Die Einspruchstelle ist zu befüllen, wenn eine Hauskundmachung notwendig ist (Gemeinden über 10.000 Einwohner).
+ 
+ 
+
+15
+[1] § 23 (4) NRWO und § 11 (4) EuWO
+
+16
+eWählerverzeichnis übernehmen
+Im Bereich ZeWaeR wird bestimmt, ob der Wahlbestand vom Softwareanbieter oder von der Gemeinde eingespielt werden soll. 
+Wurde der zentrale Import bestimmt, so startet die Gemeinde beim Punkt Wahlbestand erstellen.
+Sind keine Klärungsfälle oder fehlende Sprengelzuordnungen vorhanden, können Sie den Wahlbestand erstellen.
+Wie Sie den Wahlbestand bearbeiten erfahren Sie hier.
+ 
+
+17
+Manueller Import Wählerverzeichnis
+Der manuelle Import durch die Gemeinde darf nur durchgeführt werden, wenn kein Import durch den Softwareanbieter gewünscht wird. Die 
+Einstellungen dafür wird im ZeWaeR im Bereich BehördenAdmin eingestellt. 
+Im ZeWaeR im Bereich Download befindet sich das Wählerverzeichnis zum Download.
+Speichern Sie die Datei ab und wechseln Sie ins Programm k5|Next in den Bereich Wahlvorbereitung.
+ 
+Klicken Sie auf “eWählerverzeichnis manuell einspielen”. Es erscheint ein Explorer zur Auswahl der Datei. Wählen Sie die Datei aus. 
+Danach klicken Sie auf Wahlbestand einspielen. 
+ 
+
+18
+Wahlbestand erstellen
+Stichwahl (Zweiter Wahlgang)
+Das eWählerverzeichnis wird zentral von uns eingespielt.
+Sofern keine Klärungsfälle oder fehlende Sprengelzuordnung vorhanden sind, können Sie den Wahlbestand erstellen und anschließend 
+bearbeiten.
+Erscheint die Meldung “Auslandsösterreicher mit Wahlkartenabo ohne Zustelladresse vorhanden” müssen Sie die Zustelladressen im 
+Wahlbestand (und am besten auch gleich im ZeWaeR) eintragen.
+Der Wahlbestand kann mehrfach neu erstellt werden. Dadurch können Sie die Sortierung ändern. Reklamationen bis zum Ende der 
+Auflage werden dadurch an die korrekte Stelle (anhand der Wahlbezugsadresse) sortiert und der Hinweis “Person aufgenommen / Person 
+gestrichen” verschwindet.
+Nach der Freigabe des Wahlbestandes ist eine Neuerstellung nicht mehr möglich.
+Stichwahl (Zweiter Wahlgang)
+Falls eine Stichwahl (Zweiter Wahlgang) erforderlich ist, wird diese zentral von uns angelegt und für die entsprechenden Mandanten 
+aktiviert. Für die Stichwahl wird automatisch der Wahlbestand aus der Hauptwahl übernommen.
+Sobald die Wahl von uns angelegt ist, ist sie als Zweiter Wahlgang als eigenständige Wahl unter dem Menüpunkt Wahlen zu sehen. 
+Zusätzlich gibt es am Ende bzw. Anfang der der beiden Wahlen Links, mit denen man einfach zur jeweils anderen Wahl wechseln kann.
+Wenn Sie die neue Wahl zum ersten Mal öffnen, ist der Wahlbestand schon fertig, da er im Hintergrund automatisch unverändert von der 
+Hauptwahl übernommen wurde. Im Protokoll sehen Sie, dass die Wahlkarten bereinigt wurden, da die Wahlkarten für den zweiten 
+Wahlgang separat beantragt werden müssen.
+ACHTUNG: Wurde bei Personen mit Wahlkartenabo die Wahlkarte storniert, wird diese durch die Neuerstellung wieder aktiviert! 
+
+19
+ 
+§ 19 EuWO
+ 
+
+20
+Klärungsfälle bearbeiten
+Scheint bei Ihnen vor „Wahlbestand erstellen“ ein rotes X auf und Sie erhalten die Info „x von x Klärungsfälle noch zu bearbeiten“, müssen 
+vorm Klick auf „Wahlbestand erstellen“ diese Fälle im gleichnamigen Reiter korrigiert werden. Bei Klärungsfällen handelt es sich um 
+Personen, die an Klärungsadressen auf Stiegen-Ebene (Gebäude) gemeldet sind. Zusätzlich scheinen noch Häftlinge  auf, die im ZeWaeR 
+keine Sprengeladresse (= Adresse in Gemeinde) eingetragen haben.
+Mit Klick auf das Bleistiftsymbol vor der jeweiligen Person, gelangen Sie zur Korrektur der Adresse. Bei der Wahlbezugsadresse 
+(Adresse, auf der die Person im Wählerverzeichnis aufscheint) muss es sich um eine aktive Adresse (für Wohnzwecke) handeln! 
+Eventuell müssen vorab im AGWR noch Änderungen (Errichtungsdatum, Anlage Gebäude/Nutzungseinheiten, …) und ein Adressen-
+Abgleich durchgeführt werden, bevor die Klärungsfälle zu korrigieren sind.
+Im Feld „Neue Wahlbezugsadresse*“ geben Sie die gewünschte Adresse ein. Alle aktiven Adressen werden nach Eingabe von zwei 
+Buchstaben angezeigt. Achten Sie darauf, dass keine Adressen mit falscher Gebäudeunterscheidung (Garage, Kirche, Aufbahrungshalle, 
+…) ausgewählt werden.
+
+21
+Erst nach Auswahl der Nutzungseinheit mit Hilfe der Dropdownliste wird der Speichern-Button aktiv. Sollte es im AGWR nur eine 
+Nutzungseinheit geben, wählen Sie diese aus:
+Mit „Speichern“ wird die Eingabe bestätigt.
+ 
+Befinden sich noch weitere wahlberechtigte Personen auf dieser Adresse, erhalten Sie folgende Meldung:
+ 
+Mit „Ja“ können Sie den soeben getätigten Eintrag auch auf weitere Personen übernehmen.
+ 
+Sie gelangen zurück zur Übersicht und der Info, wie viele offene Klärungsfälle noch vorhanden sind:
+Information, sollten weitere Personen die gleiche Klärungsadresse haben.
+
+22
+Wählen Sie die nächste offene Person aus und tragen hier alle korrekten Wahlbezugsadressen ein. Solange noch offene Klärungsfälle 
+vorhanden sind, kann der Wahlbestand nicht erstellt werden!
+Ist keine Sprengeladresse im ZeWaeR vorhanden (bei Person in Haft) geben Sie diese bitte vor der Wahl auch direkt im ZeWaeR ein!
+ 
+ 
+Nach Korrektur der Klärungsfälle muss die Meldung unter „Wahlbestand erstellen“ mit „0 von x Klärungsfälle noch zu bearbeiten“ 
+aufscheinen. Anschließend können Sie den Button „Wahlbestand erstellen“ betätigen.
+ 
+
+23
+Wahlbestand bearbeiten
+Der Einstieg erfolgt über den Menüpunkt „Wahl“ und Klick auf die Wahl selbst. Hier haben Sie die Möglichkeit entweder über das Menü 
+oder den Reiter „Wahlvorbereitung – Zum Wahlbestand“ einzusteigen.
+Sollten im ZeWaeR Auslandsösterreicher ohne Zustelladresse (Adresse im Ausland) vorhanden sein, erhalten Sie einen Hinweis. Wenn 
+Sie bei dieser Meldung „Zum Wahlbestand“ wechseln, werden gleich die betroffenen Personen gefiltert.
+In der Maske Wahlbestand sehen Sie alle Personen lt. Filter. Zusätzlich können Sie weitere Einstellungen bzw. Suchen tätigen:
+Schnellsuche
+Detailsuche/Filter
+Spalten sortieren, verschieben, ändern
+Personendetails
+Person hineinreklamieren
+Wählerverzeichnis
+Weiterverarbeitung
+Statistik
+Suche teilen (Auswahl Filter in PDF exportieren)
+
+24
+Spalten/Ansicht
+Spalten sortieren
+Spalten verschieben
+Weitere Spalten hinzufügen/entfernen
+Spalten sortieren
+Als Standard wird nach „SprNr/lfdNr“ aufsteigend sortiert. Die einzelnen Spalten können mit Klick auf die Überschrift auf- bzw. 
+absteigend sortiert werden. Aufgrund des Pfeilsymbols sehen Sie, nach welcher Spalte aktuell sortiert ist. Mit dem Mouse-Over-Effekt 
+erscheint das Pfeilsymbol bei den anderen Spalten ebenso. Es kann immer nur nach einer Spalte sortiert werden.
+ 
+Spalten verschieben
+Mittels Drag and Drop können Sie die Spaltenüberschrift an einen anderen Platz verschieben und dadurch die Reihung der Spalten 
+ändern, wenn gewünscht.
+Nach dem Wechsel sehen Sie die Spaltenansicht so:
+ 
+Weitere Spalten hinzufügen/entfernen
+Mit Hilfe des Einstellungsbuttons rechts bei den Spalten können Sie noch weitere Spalten auswählen und anzeigen lassen.
+Sie erhalten eine Ansicht aller möglichen Spalten, die Sie nach Wunsch auswählen bzw. auch löschen können.
+
+25
+Mit “Spalten zurücksetzen” erhalten Sie wieder die ursprüngliche Einstellung. 
+Sobald Änderungen gemacht wurden, fixieren Sie bitte die Einstellung, indem Sie nochmals auf Zahnrad klicken und auf „Spalten 
+speichern“ klicken:
+ 
+
+26
+Schnellsuche
+Mit Hilfe dieses Feldes können Sie eine Schnellsuche nach Namen oder laufender Wählerverzeichnisnummer starten. Die Suche erfolgt 
+dabei ohne Wildcards (*).
+ 
+Je mehr Daten Sie eintragen, umso genauer wird das Ergebnis angezeigt. Mit Klick auf einen Eintrag, gelangen Sie direkt in die 
+Personendetails bzw. wird mit der Enter-Taste das gesamte Suchergebnis angezeigt. Die Suche kann auch mittels Scans der 
+Anforderungskarte von der Wahlinformation erfolgen.
+
+27
+Detailsuche/Filter
+Person
+Wahlkarte
+Weitere Suchkriterien
+Die Detailsuche kann manuell geöffnet werden, indem Sie auf das Pfeilsymbol im Feld der Schnellsuche klicken.
+Wir empfehlen vor einer Suche den Button „neue Suche“  zu betätigen, damit keine Eingrenzungen der letzten Suche vorhanden sind und dadurch das Ergebnis 
+verfälscht wird.
+Es wird dabei in drei Bereiche unterschieden:
+Person
+Hier können Sie folgende Daten filtern:
+ 
+Wahlkarte
+Geburtsdatum
+Eingabe einzelnes Datum möglich, wie auch ein Zeitraum:
+Wahlbezugsadresse
+Suche nach Straße. Nach Eingabe von 2 Buchstaben erhalten Sie eine Auswahl 
+der vorhandenen Straßen. Eventuell muss vorher der AGWR-Abgleich durchgeführt 
+werden.
+Wahlkartenabo
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen ja 
+oder nein möglich.
+Zustelladresse 
+vorhanden
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen ja 
+oder nein sowie unvollständig möglich.
+Personentyp
+Mehrfachauswahl ist möglich. Auswahl Österreicher, Auslandsösterreicher, EU-
+Bürger, Obdachlos, Person in Haft.
+Status
+Mehrfachauswahl ist möglich. Auswahl Gestrichen, Hineinreklamiert, Verstorben.
+Datenabgleich
+Mehrfachauswahl ist möglich. Auswahl Gestrichen, Hineinreklamiert, Verstorben.
+Abgleichdatum
+Hier können Datenabgleiche zu einem bestimmten Datum gesucht werden.
+Sprengelnummer
+Auswahl je nach Zuordnung. Wenn „leer“ ausgewählt ist, werden alle Sprengel 
+angezeigt. Ansonsten ist die Auswahl nur für einen Sprengel möglich.
+Status Wahlkarte
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen 
+Keine Wahlkarte, Wahlkarte beantragt, Wahlkarte gedruckt, Etikett gedruckt, 
+Wahlkarte ausgestellt, Aufgabeliste Post gedruckt.
+Antragsart
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen 
+Persönlich, Schriftlicher Antrag, Elektronisch/Portal, Wahlkartenabo
+Zustellart
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen 
+Persönlich, Standardpost, Vollmacht, durch Boten, Einschreiben
+Offene 
+Bearbeitungen
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen 
+Wahlkartendruck offen, Etikettdruck offen, Aufgabeliste Post offen (= Wahlkarte 
+gedruckt, aber noch auf keiner Liste vorhanden)
+
+28
+ 
+Weitere Suchkriterien
+Mit Klick auf den Link „weitere Suchkriterien“  erhalten Sie zusätzlich die Möglichkeit, weitere Filter auszuwählen.
+Eine Mehrfachauswahl ist hier möglich. Durch Aktivierung der Checkbox(en) und Klick auf „fertig“ wird der jeweilige Bereich in der Detailsuche angezeigt.
+Die weiteren Kriterien bleiben solange zur Auswahl, bis Sie den Menübereich wechseln.
+Siehe hierzu auch den Artikel Individuelle Listen.
+Besondere 
+Wahlbehörde
+Wenn „leer“ ausgewählt ist, werden alle Personen angezeigt. Auswahl zwischen ja 
+oder nein möglich
+Einschreibnummer
+Eingabefeld im Bereich Wahlkarte
+Notiz zur Wahlkarte
+Suche nach Stichwort im Feld Notiz.
+Identitätsnachweis
+Mehrfachauswahl ist möglich. Auswahl ID-Austria, Antragscode (nur bei externen 
+Anträgen von www.meinewahlkarte.at), Reisepass, Andere Urkunde
+Schablone Wahlkarte
+Suche ob Wahlberechtigte, Wahlkarten mit Schablone beantrag haben.
+Name
+Eingabefeld im Bereich Person. Suche ohne Wildcards (*).
+
+29
+Person bearbeiten
+Wahlberechtigte Person
+Wahlkarte
+Änderungshistorie
+Person streichen
+Person als verstorben markieren
+Person korrigieren
+ 
+Wählen Sie die gewünschte Person im Wahlbestand (vorherige Schnellsuche oder Detailsuche nötig) mit Klick auf das Bleistiftsymbol aus. Sie gelangen in die 
+Personendetails. Hier erhalten Sie drei Reiter mit „Wahlberechtigte Person“, „Wahlkarte“ und „Änderungshistorie“. Unter dem 3 Punkte-Button haben Sie ebenso weitere 
+Bearbeitungsmöglichkeiten.
+Wahlberechtigte Person
+Unter „Wahlberechtigte Person“ sehen Sie die Daten zur Person inklusive Anmerkung (wie Wahlkarte, EU-Bürger, Auslandsösterreicher, …). Die Zustelladresse und die 
+Kontaktdaten können bearbeitet werden mit Hilfe des Bleistiftsymbols. Die Kontaktdaten werden automatisch befüllt, sobald eine Wahlkarte über 
+http://www.meinewahlkarte.at beantragt wird.
+Eine Unterstützungserklärung kann mittels + Symbol eingetragen werden:
+Als Erklärdatum wird automatisch das Tagesdatum ausgefüllt, welches aber überschrieben werden kann. Mit Klick auf speichern wird die Abgabe der Unterstützungserklärung 
+eingetragen:
+Die Unterstützungserklärung kann in weiterer Folge auch wieder gelöscht werden:
+ 
+Wahlkarte
+In diesem Reiter können Sie die Beantragung der Wahlkarte eintragen und verwalten. Der Druck funktioniert erst, sobald der Wahlbestand freigeben wurde. Wurde die 
+Wahlkarte über www.meinewahlkarte.at beantragt, sehen Sie hier alle getätigten Eingaben.
+
+30
+ 
+Änderungshistorie
+Hier sehen Sie, wann und von wem welche Änderungen durchgeführt wurden:
+ 
+Person streichen
+Bedeutet, dass die Person hinausreklamiert wird.
+ 
+Person als verstorben markieren
+Dies kann manuell erfolgen, wie auch durch den Datenabgleich vorm Druck der Wahlinformationen.
+ 
+Person korrigieren
+Mit diesem Punkt können Daten (wie akad. Grade, Name, Staatsangehörigkeit und Zustelladresse mit den Daten aus dem ZMR aktualisiert werden. Dazu müssen Sie eine 
+Begründung eintragen, die wiederum in der Änderungshistorie dokumentiert wird.
+Diese Daten werden auch automatisch durch den Datenabgleich aktualisiert.
+
+31
+Person als verstorben markieren
+Suchen Sie jene Person, die Sie als verstorben markieren möchten und wählen anschließend über den 3-Punkte Button „Person als verstorben markieren“ aus.
+ 
+Es öffnet sich eine Maske, wo Sie die Möglichkeit haben, eine Anmerkung hinzuzufügen. Anders als bei „Person streichen“ ist es in diesem Fall kein Pflichtfeld.
+ 
+Mit Klick auf  den Button “Verstorben” markieren Sie die Person als verstorben.
+Dies kann ebenso automatisch mit dem Datenabgleich vorm Druck der Wahlinformationen eingetragen werden.
+
+32
+Person korrigieren
+Suchen Sie jene Person, die Sie korrigieren möchten (akad. Grade, Name, Staatsangehörigkeit und Zustelladresse) und wählen „Person 
+korrigieren“ über den 3-Punkte Button aus.
+ 
+Anschließend können Sie die laut ZMR-Meldedaten möglichen Änderungen übernehmen, indem Sie diese markieren. Es muss eine 
+Begründung erfasst werden.
+ 
+Mit Klick auf  übernehmen Sie die Daten. Die Person wird auch im Wahlbestand damit dargestellt. In der Änderungshistorie ist ersichtlich, 
+ob und welche Personendaten Sie korrigiert haben.
+ 
+Diese Daten werden ebenso mittels Datenabgleich aktualisiert.
+ 
+
+33
+Zustelladresse
+Zustelladresse hinzufügen
+Zustelladresse bearbeiten
+Zustelladresse löschen
+Zustelladresse hinzufügen
+Die Zustelladresse wird direkt bei der Person eingetragen im Reiter „Wahlberechtigte Person“:
+Ist noch keine Zustelladresse hinterlegt, wird diese mit dem Button „Hinzufügen“ eingetragen. Es öffnet ein Fenster, indem Sie die Daten 
+eintragen:
+Bei Auswahl Staat „Österreich“ steht nach Eingabe von zwei Buchstaben unter Straße/Hausnummer eine Liste der möglichen Adressen 
+zur Verfügung:
+
+34
+Es kann aber auch eine manuelle Erfassung erfolgen, sollte die gewünschte Adresse nicht zur Auswahl stehen. Erfassen Sie hier zusätzlich 
+noch die PLZ. Mit Klick auf Speichern, werden die Einträge übernommen und Sie gelangen zurück zur Person. Bitte beachten Sie, dass bei 
+der Zustelladresse zusätzlich zum Staat noch 2 weitere Zeilen befüllt, werden müssen.
+ 
+Zustelladresse bearbeiten
+Ist eine Zustelladresse bereits vorhanden (z.B. durch den Import aus dem ZeWaeR), kann diese mit Hilfe des Bleistiftsymbols bearbeitet 
+werden:
+Wurde die Adresse aus dem ZeWaeR übernommen, bitte auch im zentralen Wählerregister die Adresse korrigieren.
+ 
+Zustelladresse löschen
+Wurde eine Zustelladresse nicht korrekt eingetragen bzw. aus dem ZeWaeR übernommen, kann diese auch gelöscht und wenn nötig neu 
+eingetragen werden.
+
+35
+Wurde die Adresse aus dem ZeWaeR übernommen, bitte auch im zentralen Wählerregister die Adresse korrigieren.
+ 
+
+36
+Berichtigungen/Reklamationen
+Person hineinreklamieren
+Person hinausreklamieren/streichen
+Person hineinreklamieren
+Legen Sie vor der Aufnahme eines Auslandsösterreichers die Personen im Zentralen Wählerregister an (siehe dazu ZeWaeR-Wiki oder das Video im Gemdat Portal) 
+bzw. kontrollieren Sie, ob die Person korrekt im ZeWaeR aufscheint! (Wahlrecht, Auslandsadresse, Information, …)
+Personen, die im Zuge eines Reklamationsverfahrens in das Wählerverzeichnis aufgenommen werden sollen, können im Wahlbestand in der Übersicht, mit Klick auf das 
+Plus-Symbol, eingetragen und aufgenommen werden.
+Sie erhalten ein Fenster, indem Sie die Daten der Person eintragen und im ZMR suchen können. Damit die Suche korrekt funktioniert ist es wichtig, dass die 
+Kommunalnetzugangsdaten (mit aktuellem Passwort) korrekt hinterlegt sind im Benutzerprofil.
+Befüllen Sie die Pflichtfelder *. Eine Suche nach Sonderzeichen und Wildcard (*) ist nicht nötig!
+ 
+Die Suche erfolgt ebenso im ERnP (Ergänzungsregister natürlicher Personen). Bei der Testwahl ist dies nicht der Fall, da hier keine Kommunikation mit dem 
+eWählerverzeichnis besteht bzw. die Suche im ERnP nicht freigeschalten ist!
+Nach Eingabe und Klick auf „Suchen“ erhalten Sie eine Auswahl der gefundenen Person(en).
+Ist die gesuchte Person nicht vorhanden, kontrollieren Sie bitte nochmals die Suchkriterien (korrekte Schreibweise Name, …).
+Wird die Person gefunden, wählen Sie diese mit Mausklick aus. Sie erhalten nochmals eine Ansicht der Personendaten und können die Begründung für die Aufnahme 
+überschreiben. Die Checkbox „Wahlkartenabo“ (Wahlkarte AÖ oder Wahlkarte Inland) kann auch gleich aktiviert werden, wenn benötigt.
+
+37
+Mit dem Button „Person aufnehmen“ wird der Wahlberechtigte ans eWählerverzeichnis übermittelt. Es erfolgt eine Prüfung, ob die Person im Wahlbestand einer anderen 
+Gemeinde bereits vorhanden ist. Ist dies der Fall, können Sie den Vorgang nicht abschließen. Sie erhalten folgende Information:
+In diesem Fall kontrollieren Sie bitte die Person im ZeWaeR bei welcher Gemeinde die Person eingetragen ist. Damit Sie diese hineinreklamieren können, muss 
+sie bei der anderen Gemeinde hinausreklamiert werden.
+Unter Anmerkung sehen Sie „Person aufgenommen“.
+ 
+ 
+Person hinausreklamieren/streichen
+Ist eine wahlberechtigte Person im Wählerverzeichnis mehrerer Orte (Gemeinden, Wahlsprengel) eingetragen, so ist er unverzüglich aus dem Wählerverzeichnis, in das er zu 
+Unrecht eingetragen wurde, zu streichen. Dies ist unter § 24 NRWO bzw. § 12 der EUWO gesetzlich geregelt.
+Um Jemanden aus dem Wahlbestand hinausreklamieren bzw. streichen zu können, suchen Sie die entsprechende Person und wählen diese aus.
+Sie gelangen zu den Personendetails und haben die Möglichkeit über den 3-Punkte Button „Person streichen“ auszuwählen.
+Dadurch öffnet sich ein neues Fenster, wo Sie eine Begründung angeben müssen.
+Ist die wahlberechtigte Person in keinem anderen Wahlbestand vorhanden, wird sie ohne Fehler aufgenommen. Sie erhält die nächsthöhere laufende Nummer im 
+Wählerverzeichnis des betreffenden Wahlsprengels (wenn z.B. 999 die letzte vergebene Zahl bisher war, erhält Person die Nr. 1.000). Zusätzlich wird an der 
+Stelle, an der die Person ursprünglich eingereiht worden wäre, eine Anmerkung eingetragen. Diese Regelung ist im § 31 NRWO bzw. § 19 der EUWO gesetzlich 
+verankert. Die Reihung kann vor der Freigabe des Wahlbestandes nochmals neu sortiert werden, indem Sie den Wahlbestand erneut erstellen.
+
+38
+Im Anschluss finden Sie die Person nach wie vor im Wahlbestand. Unter Anmerkung finden Sie den Hinweis „Person gestrichen“.
+
+39
+Wahlkarte
+Wahlkarte manuell erfassen
+Wahlkarte löschen
+ 
+Die Erfassung von Wahlkarten ist schon vor Freigabe des Wahlbestandes möglich. Der Druck ist erst nach der Freigabe des 
+Wahlbestandes freigeschaltet!
+Beachten Sie bitte die gesetzlichen Regelungen zur Übermittlung von Wahlkarten. 
+ 
+Alle Gemeinden, die das Wahlpaket in Anspruch nehmen, erhalten die Einschreib-Etiketten (100er-Rollen) per Post zugesandt. Die 
+Nummer der ersten Rolle wird durch die Gemeinde in den Wahldetails eingetragen! Sollten Sie weitere Rollen benötigen, melden Sie sich 
+bitte unter Angabe der genauen Lieferadresse und der Anzahl der Rollen (je 100 Stück pro Rolle) bei pstm.support@post.at.
+Hinweis: Für jede Wahl gibt es seitens Post einen eigenen Nummernkreis für die Einschreibetiketten. Diese dürfen nur für die 
+jeweilige Wahl verwendet werden!
+ 
+ 
+Wahlkarte manuell erfassen
+Um eine Wahlkarte manuell zu erfassen, suchen Sie bitte die entsprechende Person, für die Sie die Wahlkarte eintragen möchten. Hierfür 
+stehen Ihnen sowohl die Detailsuche als auch die Schnellsuche zur Verfügung. Wechseln Sie in den Personendetails zum Reiter 
+„Wahlkarte“ und geben die Daten ein.
+In der Schnellsuche können Sie den bereits bekannten Scanner verwenden. Stellen Sie den Cursor in die Schnellsuchanwendung und 
+scannen den Barcode von der Anforderungskarte der Wahlinformation. Dadurch gelangen Sie automatisch zu den Personendetails in den 
+Reiter „Wahlkarte“ der gesuchten Person.
+ 
+Beim Scan ist die Antragsart automatisch vorbefüllt.
+Antragsart
+Persönlich
+Schriftlicher Antrag
+
+40
+Anschließend können Sie mit dem Button “Antrag erstellen” die Wahlkarte speichern.
+ 
+Wahlkarte löschen
+Wurde irrtümlich eine Wahlkarte hinterlegt, kann diese wie folgt gelöscht/storniert werden:
+Suchen Sie die entsprechende Person, bei der Sie die Wahlkarte löschen möchten und öffnen die Personendetails. Wechseln Sie auf den 
+Reiter „Wahlkarte“ und klicken auf den 3 Punkte-Button rechts oben.
+Identitätsnachweis
+Leer
+Führerschein
+Reisepass
+Personalausweis
+Andere Urkunde
+ID-Austria (ist inaktiv, da nur über www.meinewahlkarte.at möglich)
+Antragscode (hier wird das Feld Dokumenten-ID nicht angezeigt)
+Besondere Wahlbehörde
+Wird eine besondere Wahlbehörde angefordert, besteht hier die 
+Möglichkeit diese Auswahl zu treffen. Durch Aktivierung der Checkbox wird 
+eine Zeile für Informationen für die Besondere Wahlbehörde 
+freigeschalten. Als Begründung ist dann “Gesundheitliche Gründe” oder 
+“Unterbringung in Haftanstalt” zur Auswahl.
+Wahlkarten- und 
+Stimmzettel-Schablone
+Für Blinde oder schwer sehbehinderte Personen vorhanden.
+Begründung
+Ortsabwesenheit
+Gesundheitliche Gründe
+Auslandsaufenthalt
+Notiz
+Platz für Notizen zum Wahlkartenantrag
+Zustellungsart
+Persönlich (Übernahmebestätigung notwendig)
+Standardpost: Wahlbezugsadresse wird angezeigt – Möglichkeit eine   
+Zustelladresse hinzuzufügen
+Vollmacht: Es muss eine bevollmächtigte Person erfasst werden 
+(Übernahmebestätigung notwendig)
+durch Boten: Wahlbezugsadresse wird angezeigt – Möglichkeit eine 
+Zustelladresse hinzuzufügen. Bote muss eingetragen werden.
+Einschreiben: Wahlbezugsadresse wird angezeigt – Möglichkeit eine 
+Zustelladresse hinzuzufügen + die Checkbox „Nicht an 
+postbevollmächtigte Person“ wird angezeigt.
+Elektronisch/Portal 
+(ist inaktiv, da nur über www.meinewahlkarte.at möglich)
+Wahlkartenabo (ist inaktiv, da dies vom eWählerverzeichnis aus 
+  dem ZeWaeR übernommen wird)
+
+41
+Wählen Sie „Wahlkarte stornieren“. Sie werden nochmal gefragt, ob Sie sicher sind, dass Sie diese Wahlkarte stornieren wollen.
+Sie gelangen zur Eingabe der Wahlkarte und können mit „Seite verlassen“ zurück zur Person. Die Anmerkung „Wahlkarte“ wurde gelöscht.
+ 
+ 
+Versendung der Wahlkarten:
+EuWO § 27 (5)
+NRWO § 39 (5)
+
+42
+Barcode/QR-Code Scanner
+Ein Scanner kann für folgende Bereiche der Wahl verwendet werden:
+die Rückerfassung der Wahlkarten im ZeWaeR
+für die Eintragung der Wahlkarte im Wahlbestand mittels Anforderungskarte
+für die Eintragung im elektronischen Abstimmungsverzeichnis (k5-ASV) mittels Wahlinformation
+ 
+Wir empfehlen einen 2D-Scanner, der QR-Code und Barcode lesen kann.
+Wichtig ist, dass die deutsche Sprache eingestellt wird. Wie Sie dies einstellen können, entnehmen Sie dem jeweiligen Benutzerhandbuch 
+Ihres Scanners.
+ 
+ 
+
+43
+Wahlkartendruck
+ 
+Vor dem Druck sollten folgende Punkte kontrolliert werden:
+Ist die richtige Behördenkennzahl hinterlegt?
+Sind die Unterschriften hinterlegt?
+Ist die Amtssignatur eingebunden?
+Ist das Hakerl “Amtssignatur” unter Wahldetails gesetzt?
+Gibt es eine Verbindung zum ZeWaeR?
+Wurden die Einschreibnummern hinterlegt?
+Sind noch Wahlkartenanträge im Bereich “meine Wahlkarte” offen?
+Damit der Druck der Wahlkarte möglich ist, muss der Wahlbestand vorher freigegeben worden sein! Wie eine Wahlkarte erfasst wird, lesen 
+Sie im Artikel Wahlkarte.
+
+44
+Einzeldruck
+Der Einzeldruck wird vor allem verwendet, wenn die antragsstellende Person oder eine bevollmächtigte Person persönlich im Gemeindeamt 
+erscheint und die Drucksorten bereits vorhanden sind. Für den Einzeldruck der Wahlkarte suchen Sie sich die wahlberechtigte Person , für 
+welche der Wahlkartenantrag erfasst wurde und wechseln Sie in den Reiter „Wahlkarte“.
+Mit Klick auf „Wahlkarte drucken“ wird die Wahlkarte erstellt.
+ 
+Sie haben direkt beim Druck die Möglichkeit die Seitenränder einzustellen.
+Wir im Feld „Verschiebung oben (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach unten verschoben 
+wird. Wird der Wert -3 eingegeben, wird die Schrift um 3 mm nach oben verschoben.
+Wir im Feld „Verschiebung links (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach rechts verschoben 
+wird. Wird der Wert -3 eingegeben, wird die Schrift um 3 mm nach links verschoben.
+Im Feld „Unterschrift“ kann zwischen folgenden Optionen ausgewählt werden. Je nachdem welche Option ausgewählt wird, wird der 
+jeweils hinterlegte Name auf der Wahlkarte angedruckt (s. Bild oben).
+
+45
+Wird die Amtssignatur verwendet, ersetzt die Bildmarke und der Hinweistext die persönliche Unterschrift auf der Wahlkarte!
+ 
+“Wahlkarte Ausnahme” bringt nur die Daten, die auf der bereits vorgedruckten Wahlkarte anzudrucken sind.
+Mit „Aktualisieren“ wird dir Vorschau angepasst und mit „Speichern“ werden die Einstellungen für weitere Drucke für Ihren User hinterlegt. 
+Gedruckt wird die Wahlkarte mit Klick auf das Drucksymbol.
+Vergessen Sie bitte nicht, dass bei einer Sofortwahl die Wahlkarte im ZeWaeR rückerfasst werden muss!
+
+46
+Übernahmebestätigungen
+Bei persönlicher Abholung der Wahlkarte
+Bei Abholung der Wahlkarte durch Vollmacht
+Bei Überbringung der Wahlkarte durch Boten
+Bei persönlicher Abholung der Wahlkarte
+Laut Gesetz * ist bei persönlicher Abholung eine Übernahmebestätigung zu unterfertigen. Wechseln Sie unter Personendetails in den Reiter 
+„Wahlkarte“.
+Mit Klick auf  “Übernahmebestätigung drucken” öffnet sich diese.  Blau markierte Felder können im Programm ausgefüllt werden vorm 
+Druck.
+ 
+
+47
+Bei Abholung der Wahlkarte durch Vollmacht
+Gesetzlich ** ist bei Ausfolgung einer schriftlich beantragten Wahlkarte, an eine vom Antragsteller bevollmächtigte Person, die Übernahme 
+der Wahlkarte zu bestätigen.
+Wechseln Sie unter Personendetails in den Reiter „Wahlkarte“.
+Klicken Sie auf “Übernahmebestätigung drucken”. Es öffnet sich die Übernahmebestätigung an die mit Vollmacht ausgestattete Person. 
+Blau markierte Felder können im Programm ausgefüllt werden vorm Druck.
+ 
+Die Übernahmebestätigung mit Vollmacht ersetzt nicht die Vollmacht selbst! Diese muss bereits vorhanden sein und vorgelegt 
+werden. (siehe NRWO § 39 Abs. 1 / EuWO § 27 Abs. 1)
+ 
+Bei Überbringung der Wahlkarte durch Boten
+Gesetzlich *** ist bei durch Boten oder im Weg einer österreichischen Vertretungsbehörde übermittelten Wahlkarten, analog zu § 16 Abs. 1 
+und 2 des Zustellgesetzes – ZustG vorzugehen.
+
+48
+Klicken Sie auf “Übernahmebestätigung drucken”. Es öffnet sich die Übernahmebestätigung an die mit Vollmacht ausgestattete Person. 
+Blau markierte Felder können im Programm ausgefüllt werden vorm Druck.
+* § 39 Abs. 5 Zi. 1 NRWO / § 27 Abs. 5 Zi. 1 EuWO
+** § 39 Abs. 5 Zi. 6 NRWO / § 27 Abs. 5 Zi. 6 EuWO
+*** § 39 Abs. 5 Zi. 5 NRWO / § 27 Abs. 5 Zi. 5 EuWO
+ 
+
+49
+Sammeldruck
+ 
+Um einen Sammeldruck aller noch nicht gedruckten Wahlkarten zu starten, kann zuvor ein Filter in der Detailsuche gesetzt werden.
+Wählen Sie im Bereich „Wahlkarte“ unter dem Auswahlfeld „Offene Bearbeitungen“ – „Wahlkartendruck offen“ aus.
+Klicken Sie auf „Suchen“. Anschließend erhalten Sie ein Suchergebnis von allen Wahlkarten, die noch nicht gedruckt wurden. Sie haben nun folgende Möglichkeit, bevor 
+Sie den Seriendruck starten:
+Start des Seriendrucks: Alle Wahlkarten werden gedruckt (es muss keine Auswahl getätigt werden).
+Auswahl einzelner Wahlkarten: Die ausgewählten Wahlkarten werden gedruckt.
+Durch Klick auf „Weiterverarbeitung“ öffnet sich das Menü und es kann der Sammeldruck gestartet werden.
+Sie erhalten im Anschluss eine Mitteilung wie viele ungedruckte Wahlkarten sich im Wahlbestand befinden und wie viele davon für den Druck ausgewählt wurden.
+Mit Klick auf  “Wahlkarten drucken” wird der Sammeldruck gestartet.
+
+50
+Sie gelangen in die Maske des Wahlkartendrucks, mit dem Unterschied zum Einzeldruck, dass nun alle ausgewählten Wahlkarten durchgeblättert werden können.
+ 
+Sie haben direkt beim Druck die Möglichkeit die Seitenränder einzustellen.
+Wird im Feld „Verschiebung oben (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach unten verschoben wird. Wird der Wert -3 
+eingegeben, wird die Schrift um 3 mm nach oben verschoben.
+Wird im Feld „Verschiebung links (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach rechts verschoben wird. Wird der Wert -3 
+eingegeben, wird die Schrift um 3 mm nach links verschoben.
+Im Feld „Unterschrift“ kann zwischen folgenden Optionen ausgewählt werden. Je nachdem welche Option ausgewählt wird, wird der jeweils hinterlegte Name auf der 
+Wahlkarte angedruckt (s. Bild oben).
+Wird die Amtssignatur verwendet, ersetzt die Bildmarke und der Hinweistext die persönliche Unterschrift auf der Wahlkarte!
+“Wahlkarte Ausnahme” bringt nur die Daten, die auf der bereits vorgedruckten Wahlkarte anzudrucken sind.
+Mit „Aktualisieren“ wird dir Vorschau angepasst und mit „Speichern“ werden die Einstellungen für weitere Drucke für Ihren User hinterlegt.
+ 
+Gedruckt werden die Wahlkarten mit Klick auf das Drucksymbol.
+Wurde die Wahlkarte erfolgreich gedruckt, ist dies in den Personendetails ersichtlich.
+ 
+Besonderheit zum Sammeldruck
+Auch ohne vorherige Filterung kann der Sammeldruck von Wahlkarten, Etiketten und Postaufgabeliste gestartet werden. 
+Ein Nachdruck funktioniert nur, wenn vorher explizit nach dem Status der Wahlkarte gefiltert wurde.
+
+51
+
+52
+Etikettendruck
+Einzeldruck Etiketten
+Etikettendruck Sammeldruck
+Etikettenvorlauf
+Einzeldruck Etiketten
+Bei Personen, bei denen eine Wahlkarte gedruckt wurde, kann in den Personendetails auch ein Etikett gedruckt werden. (Etiketten Zweckform 3664). Klicken Sie dafür auf 
+“Etiketten drucken”.
+Sie gelangen wieder in den Druckbereich.
+Etikettenvorlauf siehe unten.
+Wurde das Etikett erfolgreich gedruckt, ist dies in den Personendetails ersichtlich.
+ 
+Etikettendruck Sammeldruck
+Um einen Sammeldruck aller noch nicht gedruckten Etiketten zu starten, muss zuvor ein Filter in der Detailsuche gesetzt werden.
+Klicken Sie anschließen auf „Suchen“.
+Sie erhalten ein Suchergebnis von allen Etiketten, die noch nicht gedruckt wurden. Sie haben nun folgende Möglichkeiten, bevor Sie den Seriendruck starten:
+Start des Seriendrucks: Alle Wahlkarten werden gedruckt – keine Auswahl nötig.
+
+53
+Auswahl einzelner Personen: Die Etiketten der ausgewählten Personen werden gedruckt.
+Durch Klick auf „Weiterverarbeitung“ öffnet sich das Menü und es kann der Etiketten-Sammeldruck gestartet werden.
+Sie erhalten im Anschluss eine Mitteilung wie viele ungedruckte Etiketten sich im Wahlbestand befinden und wie viele davon für den Druck ausgewählt wurden.
+Mit Klick auf “Etiketten drucken” wird der Sammeldruck gestartet. Sie gelangen in die Maske des Etikettendrucks, mit dem Unterschied zum Einzeldruck, dass nun alle 
+ausgewählten Etiketten angezeigt werden.
+ 
+Etikettenvorlauf
+Sind bereits Etiketten verbraucht, besteht die Möglichkeit einen Etikettenvorlauf einzutragen. Wurden zum Beispiel bereits zwei Etiketten gedruckt, geben Sie im 
+Etikettenvorlauf die Zahl 2 ein.
+und klicken anschließend auf “Aktualisieren”. Dadurch verändert sich die Druckvorschau:
+ 
+
+54
+Postaufgabeliste
+Hier finden Sie eine Übersicht der aufgegebenen Wahlkarten an die Post mit Info Einschreibnummer.
+Um die Postaufgabeliste für alle Wahlkarten zu suchen, welche bisher noch nicht auf jener gedruckt wurden, muss zuvor ein Filter in der Detailsuche gesetzt werden.
+Wählen Sie im Bereich „Wahlkarte“ unter dem Auswahlfeld „Offene Bearbeitungen“ – „Aufgabeliste Post offen“ aus.
+Klicken Sie auf „Suchen“. Anschließend erhalten Sie ein Suchergebnis von allen gedruckten Wahlkarten mit der Zustellart „Einschreiben“, die noch nicht auf der 
+Aufgabeliste Post gedruckt wurden.
+Durch Klick auf „Weiterverarbeitung“ öffnet sich das Menü und es kann „Postaufgabeliste“ geöffnet werden.
+Sie erhalten im Anschluss eine Mitteilung wie viele Wahlkarten für die Postaufgabeliste sich im Wahlbestand befinden und wie viele davon für den Druck ausgewählt wurden.
+Mit Klick auf “Postaufgabeliste drucken” gelangen Sie in die Maske für den Druck der Postaufgabeliste.
+
+55
+ 
+
+56
+Versendung der Wahlkarte
+Das Angebot der Post “Einschreiben einfach” ist bei der Wahl nicht zulässig! 
+Versendung der Wahlkarte in Heil- und Pflegeanstalten
+Aufgrund von Zwischenfällen bei früheren Wahlgängen bei der Zustellung von Wahlkarten in Heil- und Pflegeanstalten, wurden schon vor geraumer Zeit die 
+Lieferbedingungen (NRWO § 39 Abs. 5 Z. 2 bzw. EUWO § 27 Abs. 5 Z. 2) verschärft.
+Ist daher an der Zustelladresse erkennbar, dass es sich um eine Heil- oder Pflegeanstalt handelt, ist über die Zustellart Eingeschriebene Briefsendung hinaus auch noch 
+zusätzlich das Kennzeichen „Nicht an Postbevollmächtigten“ zu setzen:
+Bei Etikettendruck wird der Hinweis ebenso angedruckt:
+Zustellart auf Meine Wahlkarte
+Bei den Wahleinstellungen kann dem Bürger die Auswahl der Zustellart auf Meine Wahlkarte erlaubt werden.
+Bundeswahlen
+Standardpost
+Eingeschrieben
+Standardpost
+Standardpost
+kein RSa und 
+kein RSb
+Europawahl
+Standardpost
+Eingeschrieben
+Standardpost
+Standardpost
+kein RSa und 
+kein RSb
+ 
+Digitale Signatur 
+(ID Austria)
+Schriftliche 
+Beantragung
+Wahlkartenabo
+Persönliche 
+Beantragung
+Anmerkung
+
+57
+ 
+Diese Einstellung kommt nur bei Authentifizierung über ID-Austria zum Tragen. Es erscheint dann eine Checkbox, über welche der Bürger die Zustellart der beantragten 
+Wahlkarte von Standardpost auf Einschreiben abändern kann. 
+ 
+sd
+
+58
+Meine Wahlkarte
+Bearbeiten der Anträge
+Sammelgenehmigung von Anträgen
+Prüfung Reisepassnummer mit IDR
+Bericht Onlinewahlkartenantrag
+Anträge vom Portal www.meinewahlkarte.at werden in den Arbeitsbereich Meine Wahlkarte gestellt. Dort können die Anträge eingesehen 
+werden. Erst nach der Bestätigung des Antrages sind diese im Wahlbestand ersichtlich. Sortieren Sie die Liste nach Status, so dass neu 
+eingelangte Anträge oben in der Liste angeführt sind. Neu eingelangte Anträge sind mit einem Plus Zeichen versehen. In der Liste kann 
+auch nach Status und Identitätsnachweis gefiltert werden. 
+Im Filter können Sie nach dem Status bzw. nach einer Art vom Identitätsnachweis suchen:
+Über das Zahnrad  in der Liste können weitere Spalten eingeblendet werden. 
+ 
+ 
+Möglicher Status:
+ 
+Übernommen:
+Der Wahlkartenantrag wurde genehmigt und in den Wahlbestand übernommen.
+ 
+Abgelehnt:
+ 
+Neuer Wahlkartenantrag:
+Der Antrag ist neu eingelangt und wurde noch nicht bearbeitet. Genehmigung ist noch ausständig.
+
+59
+Bearbeiten der Anträge
+Klicken Sie auf den Bleistift, es öffnet sich der Bearbeitungsdialog. Wurde der Identitätsnachweis Dokument ausgewählt und ein Dokument 
+hochladen, so kann dieses Dokument mit Klick geöffnet werden. 
+Eine Anmerkung kann erfasst werden und mit den Buttons wird der nächste Schritt gesetzt. Der Button “Genehmigen” übernimmt den 
+Wahlkartenantrag in den Wahlbestand. 
+ 
+Sammelgenehmigung von Anträgen
+Über die Funktion “Alle Anträge genehmigen” können Anträge gesammelt genehmigt werden. Durch Klick auf den Button öffnet sich eine 
+Abfrage.
+Der Wahlkartenantrag ist abzulehnen. z.B. bei falschem Ausweis. Informieren Sie die 
+wahlberechtigte Person!
+ 
+Zurückgezogen:
+Die wahlberechtigte Person möchte den Wahlkartenantrag zurückziehen.
+ 
+Zur Bearbeitung vormerken:
+Antrag für spätere Bearbeitung vormerken.
+ 
+ 
+Identität geprüft:
+Anträge mit ID-Austria werden automatisch als geprüft angezeigt. Diese Anträge müssen nur noch 
+genehmigt werden. 
+ 
+Mehrfachantrag:
+Dies kann passieren, wenn entweder der Wahlberechtigte doppelt eine Wahlkarte über das Portal 
+beantragt oder der Wahlberechtigte bereits im Wahlbestand eine Wahlkarte eingetragen hat. In 
+diesem Fall ist keine Bearbeitung möglich. Das Symbol erscheint erst, wenn einer der Anträge 
+genehmigt wurde.
+
+60
+Wurde vorher kein Datensatz selektiert, werden alle Anträge zur Genehmigung ausgewählt, die entweder per Antragscode oder ID-Austria 
+beantragt wurden. [Zeile: Zur Genehmigung ausgewählte Anträge: ]
+Wurden über die Checkbox vorher Datensätze selektiert, werden diese Datensätze unabhängig von der Antragsart zur Genehmigung 
+ausgewählt. 
+Durch Bestätigen werden die Anträge in den Wahlbestand übernommen und der Status auf “übernommen” gesetzt.
+ 
+Prüfung Reisepassnummer mit IDR
+Für die Prüfung benötigen Sie im Stammportal das PVP-Recht “Integrierte Anlage-Plattform”.
+Anträge, die mit Reisepassnummer erstellt wurden, können nun mit dem IDR überprüft werden. Filtern Sie diesbezüglich nach offenen 
+Reisepassanträgen:
+Markieren Sie die Personen, indem Sie neben dem Namen die Checkbox aktivieren. Oben rechts sehen Sie den „Prüfbutton“.
+
+61
+Die Prüfung wird im Hintergrund mit dem IDR gemacht. Es werden Familiennamen, Vorname, Geburtsdatum geprüft. Für die Eindeutigkeit 
+müssen alle drei Kriterien exakt übereinstimmen. Alle eindeutig identifizierbaren Personen bekommen den neuen Status „Geprüft”.
+Wenn kein (eindeutiger) Treffer erzielt wurde, dann bleibt der Antrag weiter auf ungeprüft. Sollte im IDR z.B. der zweite Vorname nicht 
+hinterlegt sein, kann es dazu kommen, dass die Prüfung nicht korrekt durchgeführt werden kann.
+Bericht Onlinewahlkartenantrag
+Über den Button „Suchergebnis teilen” kann der Bericht Druck/PDF geöffnet werden, wo alle online eingebrachte Wahlkartenanträge 
+gesammelt sind. 
+ 
+Wurde vorher kein Datensatz selektiert, werden alle Onlinewahlkartenanträge angezeigt.
+Wurden über die Checkbox vorher Datensätze selektiert, werden nur diese Datensätze als Ergebnis geliefert.
+Die IDR-Prüfung prüft lediglich die vom Bürger eingegebene Passnummer gegen die Daten im IDR und dient damit der 
+Arbeitserleichterung.
+Das „Genehmigen” oder „Ablehnen” eines Antrags obliegt – unabhängig von der Art des Identitätsnachweises und einer 
+programmtechnischen Prüfung (ID-Austria oder IDR-Prüfung) immer dem Gemeindemitarbeiter.
+So kann z. B. ein Antrag, der bei der IDR-Prüfung durchgefallen ist, weil die Passnummer einen offensichtlichen Tippfehler enthält 
+oder die Identität anderweitig geprüft wurde, durchaus genehmigt werden.
+Auf der anderen Seite kann ein Antrag, der die IDR-Prüfung bestanden hat, abgelehnt werden, wenn ein Missbrauch festgestellt 
+wurde.
+
+62
+ 
+ 
+ 
+ 
+
+63
+Druck/Auswertungen
+Für den Druck bzw. für Auswertungen stehen Ihnen mehrere Möglichkeiten zur Verfügung. Gestartet werden diese über die Symbole 
+Wählerverzeichnis
+Wahlkarte
+Statistik
+Druck Wahlinformationen
+Hauskundmachung
+ 
+
+64
+Statistik
+Vorläufige Wahlberechtigte / Endgültige Wahlberechtigte
+Sie haben die Möglichkeit im Wahlbestand unter Statistik die Anzahl der vorläufigen Wahlberechtigten und endgültigen Wahlberechtigten 
+erstellen zu lassen.
+ 
+Wahlkartenstatistik
+Die Wahlkartenstatistik dient zur Erstellung einer Statistik über alle ausgestellten Wahlkarten. Sie können die Statistik pro Sprengel und/oder 
+Gesamt erstellen.
+Beispiel für Wahlkarten pro Sprengel:
+
+65
+ 
+
+66
+Wählerverzeichnis
+Wählerverzeichnis Gesamt
+Wählerverzeichnis Besondere Wahlbehörde
+Wählerverzeichnis Wahlkartenwähler
+Summenblatt
+Export für k5 ASV / für Parteien
+Für den Druck des Wählerverzeichnisses steht Ihnen ein eigener Menüpunkt zur Verfügung, wo Sie die Möglichkeit haben, ein „normales“ 
+Wählerverzeichnis, ein Wählerverzeichnis für die Besondere Wahlbehörde sowie ein Wählerverzeichnis über alle Wahlkartenwähler zu 
+drucken.
+ 
+ Sprengelnummer: haben Sie in Ihrer Gemeinde mehrere Sprengel, dann können Sie das WVZ je Sprengel auswählen und drucken.
+ 
+Seitenumbruch: Wenn JA, wird bei der „Sortierung nach Name“ jeder neue Buchstabe mit einer neuen Seite begonnen. Bei der 
+Sortierung nach Straße, beginnt jede Straße mit einer neuen Seite.
+ 
+ 
+Tipp: wird bereits vorher in der Detailsuche auf einen Sprengel eingegrenzt, wird diese Auswahl auch beim Druck des WVZ übernommen!
+ 
+WICHTIG: Wählen Sie einen Sprengel aus oder aktivieren Sie die Checkbox “Seitenumbruch” muss vor dem Druck einmal 
+auf “Aktualisieren” geklickt werden, damit die Änderung übernommen wird.
+
+67
+Wählerverzeichnis Gesamt
+ 
+Wählerverzeichnis Besondere Wahlbehörde
+ 
+
+68
+Wählerverzeichnis Wahlkartenwähler
+ 
+Summenblatt
+Weiters steht Ihnen mit „Summenblatt“ noch ein weiterer Menüpunkt zur Verfügung. Hier haben Sie die Möglichkeit sich die 
+Wahlberechtigten pro Sprengel gegliedert nach HWS, Obdachlos, in Haft, Auslandsösterreicher, Gesamt und davon EU-Bürger anzeigen zu 
+lassen.
+ 
+ 
+Export für k5 ASV / für Parteien
+Zudem steht Ihnen mit „Exporte“ noch ein weiterer Menüpunkt zur Verfügung. 
+
+69
+Hier haben Sie folgende Möglichkeiten. Zum einen den Export für das elektronische Abstimmungsverzeichnis k5-ASV am Wahltag und 
+zum anderen das Wählerverzeichnis für die Parteien. 
+Das „Wählerverzeichnis für Parteien (nicht durchsuchbar)” (PDF als grafische Datei) ist für den Antrag der wahlwerbenden Parteien vor der 
+Auflage gedacht. Beim Erstellen der undurchsuchbaren Datei kommt es vor allem bei größeren Wählerverzeichnissen öfters zu Abbrüchen 
+(Timeouts). Anstatt der nicht durchsuchbaren Datei kann generell auch ein Ausdruck des Wählerverzeichnisses „Gesamt” auf Papier zur 
+Verfügung gestellt werden.
+Im LWG für Vorarlberg ist dieses Wählerverzeichnis nicht mehr vorgesehen.
+Das „Wählerverzeichnis Excel”  ist für den Antrag der zu wählenden Parteien gedacht. Bei der Übergabe sind die Gesetze und 
+Informationen von Bund und Land bezüglich sicherer Datenträger, Verschlüsselung und Datenschutz zu beachten.
+Gesetzliche Bestimmungen
+§ 15 EuWO
+§ 27 NRWO
+
+70
+Hauskundmachung
+Einstellungen der Hauskundmachung
+Bevor die Hauskundmachung ausgedruckt werden kann, müssen unter Wahl-Einstellungen die Einspruchsstelle sowie die Öffnungszeiten 
+eingetragen werden. Klicken Sie dazu auf den Bleistift, um die Daten bearbeiten zu können.
+ 
+Der Aufruf
+Die Hauskundmachung wird über den Button “Weiterverarbeitung” aufgerufen  
+ .
+Je nach Wahlordnung ist dieser Aufruf vorhanden oder ausgeblendet. 
+ 
+Die Seitenansicht
+Nach Aufruf der Hauskundmachung wird eine Seitenansicht erstellt. Der QR-Code wird automatisch erstellt und verweist zum Link: 
+www.bmi.gv.at/selbstauskunft, wo die Bürger mit E-ID ihre Wahlrechte abrufen können.
+Im rechten Side-Panel kann nach Sprengel oder Postleitzahl eingegrenzt werden. Je nach Auswahl im Bereich Druck im Side-Panel, 
+werden unterschiedliche Daten angedruckt. Sobald “mit Gebäudeadresse” ausgewählt ist, erhalten Sie pro Adresse eine PDF-Seite.
+Bitte achten Sie bei der Auswahl auf die Vorgabe der Post. Für die Aussendung wird eine Gebäudeadresse sowie Postvermerk verlangt. 
+
+71
+Gesetzliche Bestimmungen
+§ 14 EuWO
+§ 26 NRWO
+
+72
+Meine Wahlinfo
+Meine Wahlinfo als PDF drucken
+Meine Wahlinfo als Excel exportieren
+Normalerweise werden die amtlichen Wahlinformationen zentral gedruckt und versendet.
+Es gibt jedoch Ausnahmen:
+Eine einzelne Wahlinformationen soll nachgedruckt werden, weil der Bürger das Original verloren oder nicht erhalten hat.
+Teilweise können z. B. für den zweiten Wahlgang bei Gemeindewahlen (Stichwahl des Bürgermeisters) die Wahlinformationen von 
+den Gemeinden auf Wunsch selbst erstellt und versendet werden.
+Dazu können entweder vordefinierte Wahlinformationen als PDF erstellt werden oder es kann ein Excel heruntergeladen werden, aus dem 
+dann ein Serienbrief erstellt wird.
+Meine Wahlinfo als PDF drucken
+Wie gewohnt können Sie entweder alle Wahlinformationen erstellen (wenn Sie nichts auswählen), oder nur die gewünschten Datensätze 
+auswählen.
+ 
+ Bei dieser Variante werden verstorbene oder gestrichene Personen automatisch ausgefiltert. Für diese Personen werden keine 
+Wahlinformationen erstellt.
+
+73
+Für das Layout haben Sie mehrere Einstellungen zur Verfügung. Nach Änderung bitte auf „Aktualiseren“ klicken.
+Bitte prüfen Sie die aufgedruckten Angaben vor dem Ausdrucken.
+Es wird ein (mehrseitiges) PDF mit jeweils drei Wahlinformationen auf einem A4-Blatt erstellt. Sie können dieses abspeichern und/oder 
+ausdrucken und die Wahlinformationen zuschneiden und versenden.
+Meine Wahlinfo als Excel exportieren
+Das heruntergeladene Excel enthält alle notwendigen Felder und Daten für die Wahlinformationen, sodass Sie daraus einen persönlichen 
+Serienbrief nach Ihren eigenen Vorstellungen gestalten können.
+ 
+Anders als bei den Wahlkarten protokolliert oder verhindert k5|Next nicht den doppelten oder mehrfach Ausdruck von 
+Wahlinformationen. Hier sollten Sie also selbst den Überblick behalten.
+Das Excel enthält auch gestrichene Personen und Verstorbene. Diese haben Sie selbst auszufiltern.
+
+74
+Individuelle Listen
+Mit Hilfe des Buttons „Suchergebnis teilen“ 
+  
+können Sie alle Abfragen der Detailsuche/Filter als Listen exportieren. („What you see is what you get.“)
+Benötigen Sie weitere Daten, können Sie die Spalten bearbeiten bzw. entfernen. Damit die Liste die Daten übernimmt, müssen die Spalten 
+gespeichert werden.
+ 
+ 
+Beispiel 1:
+Jungwählerliste
+Möchten Sie eine Liste erhalten, wo alle Personen aufscheinen, die aufgrund ihres Alters das erste Mal bei einer Wahl wahlberechtigt 
+sind, empfehlen wir folgende Sucheingabe: 
+  -> mit dem Suchbutton erhalten Sie die betroffenen Personen.
+ 
+Wenn alle Daten, die Sie benötigen, im Suchergebnis vorhanden sind (ansonsten noch weitere Spalten hinzufügen und speichern) erstellen 
+Sie mit dem „Suchergebnis teilen-Button“  eine Liste nach Wunsch in PDF oder Excel.
+ 
+Beispiel 2:
+Bericht über alle elektronisch eingelangten Wahlkarten
+Möchten Sie eine Liste erhalten, wo alle Wahlberechtigten Personen aufscheinen, welche die Wahlkarte elektronisch bzw. über das 
+Antragsportal beantragt haben, empfehlen wir folgende Sucheingabe:
+Beispiel Nationalratswahl 2024
+
+75
+-> mit dem Suchbutton erhalten Sie die betroffenen Personen.
+Wenn alle Daten, die Sie benötigen, im Suchergebnis vorhanden sind (ansonsten noch weitere Spalten hinzufügen und speichern) erstellen 
+Sie mit dem „Suchergebnis teilen-Button“  eine Liste nach Wunsch in PDF oder Excel.
+ 
+
+76
+Übermittlungen
+In diesem Punkt sehen Sie die Kommunikation zwischen k5|Next und dem eWählerverzeichnis im ZeWaeR (Reklamationen, 
+Wahlkartenausstellung, …) Der Punkt neben „eWVZ” muss grün aufleuchten.
+Mit dem Filter können Sie nach Status bzw. Aktion eingrenzen. 
+Sollten Daten nicht übermittelt worden sein, können Sie diese „Erneut übermitteln”.
+Auch bei korrekt eingetragenen Zugangsdaten kann es vorkommen, dass das ZeWaeR temporär nicht gleich reagiert (z. B. Timeouts 
+infolge von Updates, oder Überlastungen oder bei schwacher Internetverbindung) und, dass einzelne Übermittlungen hängen bleiben. 
+In diesem Fall lassen sich die betreffenden Einträge (gelbes Warndreieck) einzeln übermitteln. Der Button „Übermitteln” erscheint, wenn Sie 
+über den Eintrag fahren. Nach dem Klicken und erfolgreichen Übermitteln bekommt der Eintrag einen grünen Haken .
+ 
+ 
+Wichtig ist, dass die Verbindung zum ZeWaeR und somit die Zugangsdaten für andere Anwendungen korrekt vorhanden 
+sind! 
+Achten Sie regelmäßig darauf, dass keine Übermittlungen offen sind (ersichtlich am roten Warndreieck und direkt beim 
+jeweiligen Eintrag am gelben Warndreieck).
+Nur so klappt dann auch die Rückerfassung der Wahlkarten im ZeWaeR!
+
+77
+ 
+
+78
+Wahlbestand freigeben
+Nach Auflage kann die Freigabe (vor Berichtigungen und Reklamation) durchgeführt werden. Falls es nötig sein sollte, kann der 
+Wahlbestand vorher durch “Wahlbestand erneut erstellen” neu sortiert werden. 
+Nach der Freigabe ist eine erneute Sortierung nicht mehr möglich!
+Wechseln Sie zur Timeline der Wahlvorbereitung. Hier können Sie den Wahlbestand freigeben.
+Nachdem Sie auf „Wahlbestand freigeben“ geklickt haben, öffnet ein Fenster, indem Sie folgendem Hinweis erhalten:
+Durch Klick auf „Freigeben“, geben Sie den Wahlbestand endgültig frei. Dies ist auch im Workflow ersichtlich.
+Nach der Freigabe des Wahlbestands können Wahlkarten, Etiketten und die Postaufgabeliste gedruckt werden.
+
+79
+Datenabgleich
+Es kann für den bereits freigegebenen Wahlbestand ein Datenabgleich für Verstorbene, geänderte Meldeadressen sowie geänderte 
+Namen erfolgen, welche vor der Freigabe für den zentralen Druck der Wählerinformation sinnvoll ist. Wichtig ist hier, dass der 
+tägliche ZMR-Abgleich korrekt läuft!
+ Durch Aktivierung einer oder mehrerer Checkboxen wird der Button aktiv und durch Klick auf den Button wird der Abgleich für die 
+jeweils aktivierten Bereiche gestartet. Dies kann etwas Zeit in Anspruch nehmen.
+Der aktuelle sowie die letzten Abgleiche sind ersichtlich. Sind Änderungen vorhanden so können Sie mit Klick auf  zum Wahlbestand 
+wechseln, um sich die betroffenen Personen anzusehen.
+Meldeadresse
+Mit dieser Checkbox wird ein Datenabgleich für alle Personen angefordert, die nach 
+dem Stichtag umgemeldet wurden. Ist noch keine Zustelladresse hinterlegt, wird die 
+neue Wohnsitz-Adresse als Zustelladresse eingetragen. Ist bereits eine Zustelladresse 
+eingetragen, wird diese nicht überschrieben. Die Wahlbezugsadresse im 
+Wählerverzeichnis bleibt unverändert. 
+Verstorbene
+Die Person wird im Wahlbestand mit der Anmerkung „verstorben“ erfasst. Im 
+Wählerverzeichnis wird diese Anmerkung ebenfalls angedruckt. Für diese Personen 
+wird keine Wahlinformation erstellt.
+
+80
+Im Wahlbestand können Sie über die Suche ebenso nach Datenabgleich und Abgleichdatum suchen:
+Änderungen sind für Sie hier nicht mehr nötig.
+ 
+Namen
+Der Datenabgleich „Name“ kann nur durchgeführt werden, wenn Sie mehrere 
+Sprengel haben! Bei nur 1 Sprengel ist der Datenabgleich “Name” technisch gesperrt. 
+Beim Namensabgleich werden nicht nur Namensänderungen (z.B. nach 
+Eheschließungen) sondern auch die Verleihung von akademischen Graden 
+berücksichtigt. Die Daten werden sowohl im Wahlbestand (und damit im 
+Wählerverzeichnis) aktualisiert als auch auf der Wählerinformation angedruckt. Die 
+Sortierung bleibt jedoch wie bei der Freigabe erhalten!
+
+81
+Kontakt- und Wahllokaldetails kontrollieren
+Wir empfehlen, vor der Bestellung den Datenabgleich zu machen.
+Die Kontakt- und Wahllokaldetails Kontrolle findet in der Wahlvorbereitung im Workflow statt.
+ Klicken Sie auf den Link “Kontakt- und Wahllokaldetails kontrollieren” um die Kontrolle zu starten. Es öffnet sich ein neues Fenster, wo Ihre 
+Kontaktdetails angezeigt werden:
+Befindet sich in den Kontaktdetails ein Fehler, so können Sie direkt im Workflow die Daten bearbeiten. Klicken Sie dafür auf “Bearbeiten” . 
+Es öffnet sich ein neues Fenster mit allen relevanten Kontaktdetails.
+Der Button “Speichern” wird aktiv, sobald Sie eine Änderung vornehmen.
+
+82
+Sind die Kontaktdetails korrekt klicken Sie auf “Speichern” . Dadurch gelangen Sie zur Überprüfung der Wahllokaldetails.
+ Durch Aktivierung der Checkbox wird der Button “Bestätigen” aktiv. Mit diesem Button geben Sie die Kontakt- und Wahllokaldetails 
+frei.
+ 
+Weiter geht’s zur Freigabe für den zentralen Druck “Meine Wahlinfo”.
+
+83
+Freigabe für den zentralen Druck
+ 
+Voraussetzung für den zentralen Druck ist die Freigebe des Wahlbestandes. Vor der Bestellung der Wahlinfos ist ein Datenabgleich mit dem 
+ZMR möglich. Wir empfehlen zumindest den Abgleich “Verstorbene”, damit an diese Personen keine Wahlinfo gesendet wird. 
+Ebenso können alle Wahlkartenanträge unter “Meine Wahlkarte” bis dahin kontrolliert und genehmigt werden, damit diese Personen ebenso 
+keine Wahlinformationen erhalten, wenn Sie dies auswählen.
+ 
+Durch die Freigabe der Kontakt- und Wahllokaldetailkontrolle wird im Workflow die Druckfreigabe aktiviert.
+Mit Klick auf “Druckfreigabe” öffnet sich nochmals ein neues Fenster, wo Sie auswählen können, ob alle Wahlkartenwähler ebenfalls eine 
+Wahlinformation erhalten sollen und wenn ja, ob jene mit Wahlkartenabo (meist AÖ) ausgenommen werden sollen.
+Durch Aktivierung der Checkbox „Ich habe die Daten für die Druckvorschau geprüft und gebe die Daten für den zentralen Druck 
+frei.“ schaltet sich der Button aktiv.
+Gemäß § 24 (3) EuWO bzw. § 26 (3) NRWO haben die Gemeinden den Wahlberechtigten nach Abschluss des 
+Wählerverzeichnisses schnellstmöglich eine amtliche Wahlinformation zuzustellen. Das heißt, wird von Ihnen die Druckfreigabe 
+erteilt, wird der Datensatz an die Druckerei übermittelt und gedruckt bzw. an die Wahlberechtigten zugestellt.
+
+84
+Mit Klick auf “Freigeben” wird die Datei für die Druckerei zur Verfügung gestellt. Über den Link “Anmeldung zur Freigabe für Meine 
+Wahlinfo” gelangen Sie direkt zur Startmaske von der Druckerei DMS.
+ 
+Die nächsten Schritte finden Sie unter “Druckauftrag für die Druckerei DMS”.
+ 
+ 
+ 
+
+85
+Druckauftrag für die Druckerei DMS
+Nach der Freigabe für den zentralen Druck, erstellt die Druckerei  DMS DATA+MAIL Schinnerl GmbH (kurz DMS) ein PDF und sendet an 
+die verantwortliche Person eine E-Mail, in der Sie gebeten werden, sich zur Freigabe anzumelden. Im Portal kann das PDF eingesehen 
+werden. Es werden pro Sprengel drei Wähler als Prüfdatei aufbereitet. Die verantwortliche Person muss die Freigabe betätigen oder den 
+Auftrag stornieren. Bitte bestätigen Sie Ihre Auswahl in beiden Fällen.
+Im Anschluss erhalten Sie von der Druckerei ein Bestätigungsmail Ihrer Auswahl.
+Nach der Stornierung muss der Ablauf im k5|Next nochmals gestartet werden (Kontakt- und Wahllokaldetails kontrollieren und Freigabe für 
+den zentralen Druck)
+ 
+Ablauf Druckauftrag mit der Druckerei DMS
+
+86
+Konfiguration
+Im Bereich “Konfiguration” befindet sich der Bereich Adressen, Sprengel und ZMR-Abgleich. Änderungen in diesem Bereich wirken sich auf 
+alle Programme im k5|Next aus. 
+ 
+
+87
+Adressen
+k5|Next verwendet die Adressen aus dem AGWRII und greift über eine SOAP-Schnittstelle auf diese Daten zu.  Um die Daten abfragen zu 
+können, müssen die Zugangsdaten zum Stammportal hinterlegt sein.
+Beim ersten Einstieg (egal von welchem Mitarbeiter) des Tages wird der AGWR-Abgleich automatisch gestartet. Der Abgleich kann aber 
+jederzeit manuell angestoßen werden.
+
+88
+Sprengel
+Import Sprengel 
+Sprengelgruppe
+Sprengel
+Adresszuordnung
+Wahllokal
+Unter „Konfiguration – Sprengel“ gelangen Sie in die Sprengelverwaltung. Je nach Verwendungszweck können Sprengelarten definiert 
+werden. Für den Bereich “Wahlen” wird die Art “Wahl” verwendet. 
+ 
+Import Sprengel 
+Bestehende Sprengel können von anderen Programmen übernommen werden, sofern noch keine Sprengel mit der gleichen Sprengelart 
+angelegt wurden. 
+ 
+Sprengelgruppe
+Bevor Sprengel erfasst werden können, müssen Sprengelgruppen angelegt werden. Werden unterschiedliche Sprengeleinteilungen pro 
+Wahl benötigt, so empfehlen wir unterschiedliche Sprengelgruppen. 
+Die Neuanalage erfolgt über den Button mit dem Plus Zeichen. 
+
+89
+ 
+ 
+Sprengel
+Für die Abwicklung einer Wahl muss zumindest ein Sprengel angelegt und ein Wahllokal zugeordnet werden. Ist die Gemeinde in 
+mehrere Sprengel aufgeteilt, legen Sie mehrere Sprengel an. Um zu den Sprengeln zu gelangen, klicken Sie auf die bereits angelegte 
+Sprengelgruppe. In der nächsten Maske sehen Sie den Karteireiter “Sprengel”. Eine Neuanlage erfolgt über den Plus-Button, bestehende 
+Einträge können mit dem Bleistift-Button bearbeitet werden. Der Bleistift-Button wird sichtbar, wenn man mit dem Mouse-Pfeil über die 
+gewünschte Zeile fährt.
+Folgende Felder sind zu befüllen. Felder mit einem Stern gekennzeichnet sind Pflichtfelder. 
+
+90
+Mit “Speichern” wird die Auswahl übernommen.
+ 
+Bezeichnung:
+Bezeichnung des Sprengels. Auch diese sollte eindeutig sein.
+Wahllokal:
+Das zugehörige Wahllokal, dass unter Wahllokal angelegt wurde.
+Örtliche Wahlbehörde:
+Die Wahlbehörde, die in diesem Sprengel eingeteilt ist.
+Auswahl zwischen
+Sprengelwahlbehörde = Wenn Sie mehrere Sprengel haben und dies 
+nicht die Gemeindewahlbehörde ist.
+Gemeindewahlbehörde ohne Einteilung = Wenn Sie nur einen 
+Sprengel haben
+Gemeindewahlbehörde mit Einteilung = Wenn Sie mehrere Sprengel 
+haben und es sich um die Gemeindewahlbehörde handelt.
+Wahlkartensprengel:
+Sprengel, in dem auch Wähler aus „fremden” Sprengeln mit offener 
+Wahlkarte ihre Stimme abgeben können. Das kann je nach Wahlart 
+unterschiedlich sein und ist von der jeweiligen Wahlordnung geregelt.
+Bei einem Export/Import der Wahlsprengel ins ZWT wird die Information in in 
+die Checkbox „wahlkartentauglich” übergeben.
+Besonderer 
+Wahlsprengel:
+Sprengel, der als besonderer Wahlsprengel definiert wurde.
+Wahlsprengelcodes:
+Die im ZeWaT eingetragenen Codes werden durch das Befüllen der 
+laufenden Nummer, Bezeichnung und Wahllokal automatisch befüllt. Diese 
+sind notwendig für die Verbindung zum ZeWaT. 
+Nummer:
+Fortlaufende Zahl die nur einmal vergeben werden darf.
+
+91
+Adresszuordnung
+Unter dem Reiter „Adresszuordnung“ kann die Zuordnung kontrolliert werden. Weitere Informationen erfahren Sie hier.
+ 
+Wahllokal
+Die Anlage der Wahllokale kann auch vor der Sprengelanlage passieren. Die Anlage wird über den Plus-Button gestartet, bestehende 
+Wahllokale können mit dem Bleistift-Button bearbeitet werden.
+Geben Sie die Daten des Wahllokales ein. 
+
+92
+Die Gebäudeadresse wird Ihnen nach Eingabe von zwei Buchstaben aus den vorhandenen AGWR-Adressen vorgeschlagen. Achten 
+Sie bei der Auswahl auf die Spalte „Rest“, damit Sie das korrekte Gebäude (sollten mehrere vorhanden sein) auswählen.
+ 
+Öffnungszeiten:
+Die Öffnungszeiten sind relevant für den Druck der Wahlinformationen.
+Gemeindefremde Adresse:
+Möglichkeit eine Adresse außerhalb des Gemeindegebietes zu erfassen.
+Gebäudeadresse:
+Die Adresse des Wahllokales, diese muss im AGWR vorhanden sein.
+Beschreibung des Raumes:
+Wird für das ZeWaT benötigt.
+Sonstige Beschreibung:
+Wird für das ZeWaT benötigt.
+Barrierefreier Zugang
+Diese Information wird auf der Wahlinformation angedruckt.
+Verbotszone:
+Wird für das ZeWaT benötigt.
+Hinweistexte:
+Hinweistexte werden auf der Wahlinformation angedruckt.
+Bezeichnung:
+Bezeichnung des Wahllokales
+
+93
+Adresszuordnung
+Neuanlage Straße in Adresszuordnung
+Gebäudeadressen ohne Zuordnung
+Unter dem Reiter „Adresszuordnung“ kann die Zuordnung getätigt bzw. bei einem Import kontrolliert und bearbeitet werden.
+Mit Klick auf das Bleistiftsymbol kann die jeweilige Zuordnung der Straße zum Sprengel angepasst werden.
+Hierfür klicken Sie auf das Dropdownfeld „Sprengel*“ und der neue Sprengel kann ausgewählt werden. Es kann aber auch eine „Hausnummer von“ und „Hausnummer bis“ 
+eingetragen werden.
+Damit eine neue Zuordnung gespeichert werden kann, muss auf „Aktualisieren“ geklickt werden.
+ 
+ 
+Neuanlage Straße in Adresszuordnung
+Mit Klick auf das Plus-Symbol (rechts unten) kann eine neue Zuordnung (Neuanlage einer Straße) erstellt werden.
+Suchen Sie die neue Straße unter „Straße“. Eine Hausnummer von und Hausnummer bis eintragen (z.B.: 1 bis 9999) bzw. ein Sub von (Hausnummernzusatz) und eine Sub 
+bis (z.B.: a bis z). Es kann hier auch ein Hausnummernbereich ausgewählt werden (z.B.: gerade und ungerade – wird nichts ausgewählt werden alle Hausnummern 
+übernommen). Anschließend wählen Sie den Sprengel aus, wo die neue Straße zugeordnet werden soll.
+Mit „Aktualisieren“ wird die Zuordnung erstellt und kann anschließend gespeichert werden.
+
+94
+ 
+Gebäudeadressen ohne Zuordnung
+Rechts oben sehen Sie eine Information, ob es Gebäudeadressen ohne Zuordnung gibt:
+Hier befinden sich alle Gebäude, die nicht zugeordnet worden sind. Diese Adressen müssen kontrolliert werden, ob sie berechtigterweise nicht zugeordnet sind (z.B. Kirche) 
+oder ob sie einen Sprengel zugeordnet werden müssen (Wohngebäude).
+Kontrollieren Sie, ob die Straße bereits unter „Adressenzuordnung“ vorhanden ist.
+Sollte eine Adresse zugeordnet werden müssen, kann dies mittels „Manuelle Zuordnung“ erfolgen:
+ 
+
+95
+Fehlende Sprengelzuordnung bearbeiten
+Erscheint unter “Wahlbestand erstellen” die Info, dass Adressen mit fehlender Sprengelzuordnung gefunden wurden, müssen diese korrigiert werden, um einen Wahlbestand 
+zu erhalten.
+Es erscheint ein neuer Reiter:
+ 
+Wechseln Sie in den gleichnamigen Reiter und bearbeiten die Adressen mit Klick auf das Bleistiftsymbol in der jeweiligen Zeile:
+ 
+Sie gelangen in den Bereich Konfiguration - Sprengel, wo Sie die Adressen bzw. die Straßen neu anlegen und zuordnen müssen.
+Mit dem „Zurück-Button“  gelangen Sie wieder zur Übersicht der „fehlenden Sprengelzuordnung“ und können die nächste Straße/Adresse bearbeiten.
+ 
+Wurden alle Adressen zugeordnet, klicken Sie auf den Link „Prüfen der Sprengelzuordnung und erstellen des Wahlbestands“ oben rechts. Sie gelangen zurück zur 
+Wahlvorbereitung, wo der Wahlbestand neu erstellt wird.
+Der Reiter „Fehlende Sprengelzuordnungen“ verschwindet, sobald Sie die Wahl neu aufrufen.
+ 
+
+96
+Export Files für Upload im Zentralen Wahlsprengel-Tool
+Sie können im Zentralen Wahlsprengel-Tool vom k5|Next_Wahl Daten wie Wahllokale oder Sprengeleinteilungen/Objektzuordnungen 
+übernehmen. 
+Wichtig für die Übernahme ist, dass die „(Wahlsprengel-)Codes“ im k5|Next_Wahl unter „Sprengel“ mit denen im ZeWaT 
+übereinstimmen.
+ 
+Über den Bereich „Konfiguration – Sprengel“ und der Auswahl der jeweiligen Sprengelgruppe, können Sie über den „Teilen-Button“ 
+ rechts oben den Download starten.
+Mit Klick auf das gewünschte File im jeweiligen Bereich (Wahllokal / Objekt) wird die Datei unter Downloads gespeichert. Sollte das 
+gewünschte File zur Verfügung stehen, kontrollieren Sie bitte die Zuweisung der Wahlsprengelgruppe zur jeweiligen Wahlart. Siehe dazu 
+Wahl/Einstellungen.
+Wahlsprengelcodes aus ZeWaT unter Sprengel
+
+97
+ 
+Unter “Upload” werden die Files im ZeWaT importiert.
+ 
+ 
+Beispiel Files EU-Wahl
+
+98
+ZMR-Abgleich
+Mit dem Einstieg ins Programm k5|Next wird der ZMR-Abgleich für die zentrale Person angestoßen. 
+Details zu dieser Funktion hier. 
+
+99
+Release Notes
+Wir entwickeln unsere Software stetig weiter. In diesem Bereich finden Sie Informationen zu neuen Features
+Release September 2024
+ 
+
+100
+Release September 2024
+IDR-Prüfung bei „Meine Wahlkarte“
+Neue Filter bei „Meine Wahlkarte“
+Vereinfachter Freigabeprozess für den Druck der Wahlinformationen
+Bei Meine Wahlkarte können Reisepassnummern von Wahlkartenanträgen direkt gegen das IDR geprüft werden. Dazu muss der 
+Benutzer/Sachbearbeiter im Portal das Recht für IDR haben und die Zugangsdaten für das Stammportal müssen beim Benutzer 
+hinterlegt sein.
+Die neue Funktion ist hier zu finden:
+ 
+Bei den Wahlkartenanträgen gibt es neue Status-Filter. So kann z. B. mit dem Filter mehrfach nach Mehrfachanträgen gefiltert 
+werden.
+Achtung: Mehrfachanträge werden erst als solche gekennzeichnet, wenn der erste dieser Anträge genehmigt wurde.
+ 
+Nachdem in k5|Next alle Kontrollen durchgeführt und die Druckfreigabe für den zentralen Druck für Meine Wahlinfo erteilt wurde, 
+werden die Druckdaten an die Druckerei übermittelt.
+Anschließend kommt man jetzt über den Link Anmeldung zur Freigabe für meine Wahlinfo direkt auf das Portal der Druckerei. Dort 
+ist das fertige Druck-PDF zu sehen, welches freigegeben oder storniert werden muss. (Auf dieses Portal kommt man auch über 
+https://wahlinfo.dmsworld.at/)
+
+101
+ 
+
+102
+Wahlen & Wahlspezifika
+In diesem Bereich finden Sie weiterführende Artikel zum Thema Wahlen und Wahlabwicklung. 
+
+103
+EU Wahl 2024
+Wichtige Termine
+Gesetzliche Grundlagen und Informationen für die Wahlabwicklung
+Aktives Wahlrecht
+Wichtige Termine
+Wahltag: 09. Juni 2024
+Stichtag: 26. März 2024
+Weitere Termine entnehmen Sie dem Wahlkalender.
+Gesetzliche Grundlagen und Informationen für die Wahlabwicklung
+ 
+Europawählerevidenzgesetz EuWEG
+Europawahlordnung EuWO
+Wahlrechtsänderungsgesetz 2023
+ 
+Aktives Wahlrecht
+ 
+Aktiv wahlberechtigt bei Europawahlen, d.h. zur Stimmabgabe berechtigt, sind alle Personen, die
+am Wahltag das 16. Lebensjahr vollendet haben
+die die österreichische Staatsbürgerschaft besitzen oder nicht österreichische EU-Bürgerinnen/EU-Bürger mit Hauptwohnsitz in 
+Österreich
+am Stichtag in der betreffenden Gemeinde mit Hauptwohnsitz gemeldet sind
+vom Wahlrecht nicht ausgeschlossen sind
+Auflage des Wählerverzeichnisses 
+16. April 2024 bis 25. April 2024
+Auflage des Wählerverzeichnisses bei verkürztem 
+Einsichtszeitraum
+19. April 2024 bis 25. April 2024
+Hauskundmachung
+18. April 2024
+Zentraler Druck Wahlinformation
+frühestens 26. April 2024 - spätestens 15. Mai 2024
+Übermittlung der Wahlkarten
+16. Mai 2024
+Letztmöglicher Zeitpunkt für die schriftliche 
+Beantragung einer Wahlkarte
+05. Juni 2024
+Letztmöglicher Zeitpunkt für die mündliche 
+Beantragung einer Wahlkarte
+07. Juni 12:00 Uhr
+Gegenstand
+Datum
+
+104
+Auslandsösterreicher (AÖ), welche in der Wählerevidenz eingetragen sind
+
+105
+Selbstauskunft
+Die Europawahlordnung sieht die Möglichkeit einer Selbstauskunft mit qualifizierter elektronischer Signatur. Der Bürger sieht die Eintragung 
+in der Wählerevidenz sowie die Eintragung im Wählerverzeichnis. 
+Der Link dafür ist 
+https://www.bmi.gv.at/selbstauskunft  
+ 
+ 
+ 
+
+106
+Checkliste
+Checkliste unter 10.000 Einwohner
+Jederzeit möglich
+Info auf 
+Homepage/Gemeindezei
+tung zu 
+www.meinewahlkarte.at 
+und zur BM.I 
+Selbstauskunft www.bmi.
+gv.at/selbstauskunft
+siehe Online-Hilfe
+Selbstauskunft
+ 
+ 
+Sendung der vorläufigen 
+Anzahl Wahlberechtigte 
+über k5|Next_Wahltag.
+NICHT MEHR NÖTIG!
+ 
+spät. 16.04.2024
+Ausfolgung 
+Ausdruck/undurchsuchb
+ares PDF an Parteien
+Leitfaden BM.I Seite 
+19+20
+ 
+Bis spät. 16.04.2024
+Druck Wählerverzeichnis 
+für die Auflage
+Siehe Online-Hilfe 
+Wählerverzeichnis 
+ 
+spät. 24.04.2024
+(lt. BH eventuell früher)
+Eintrag/Kontrolle & 
+Freigabe der 
+Wahlsprengel im ZeWaT
+Siehe ZeWaeR-Wiki 
+(Gemdat Portal)
+https://wiki.gemdat.at/ze
+waerwiki/index.php/Freig
+abe_Wahllokal(e)_im_Ze
+WaT
+ 
+Bis. spät. 25.04.2024
+Antrag von AÖ für 
+Aufnahme - Person 
+hineinreklamieren.
+Siehe Leitfaden BM.I 
+Seite 15 bzw. Online-
+Hilfe 
+ 
+ 
+Eintrag erste & letzte 
+Einschreibnummern in 
+den Wahldetails der 
+Europawahl 2024.
+Siehe Online-Hilfe 
+Wahldetails
+ 
+26.04.2024
+Wahlbestand erneut 
+erstellen
+Siehe Online-Hilfe: 
+Wahlbestand erstellen
+ 
+26.04.2024
+Freigabe Wahlbestand 
+mit Ende der Auflage.
+Siehe Online-Hilfe: 
+Wahlbestand freigeben
+ 
+Sind keine Berichtigungsverfahren nötig, kann das Wählerverzeichnis 
+gleich nach Auflage abgeschlossen werden!
+Bis spät. 15.05.2024
+Berichtigungsverfahren 
+lt. Wahlkalender. 
+Spätester Abschluss 
+vom Wählerverzeichnis
+Siehe Online-Hilfe:
+Berichtigung/Reklamatio
+nen 
+ 
+Termin
+Gegenstand
+Erklärung
+Erledigt
+
+107
+spät. 15.05.2024
+Sendung der endgültigen 
+Anzahl Wahlberechtigte 
+über k5|Next_Wahltag.
+NICHT MEHR NÖTIG!
+ 
+Nach Abschluss WVZ, 
+bis spät. 15.05.2024
+Datenabgleich + 
+Bestellung Wahlinfo 
+(Nach Abschluss WVZ 
+jederzeit möglich)
+Siehe Online-Hilfe:
+Datenabgleich
+Bestellung Wahlinfo
+ 
+16.05.2024
+Erhalt Drucksorten von 
+BM.I für 
+Wahlkartenausstellung.
+Ausstellung Wahlkarten
+Ab Seite 38 im Leitfaden 
+BM.I.
+Siehe auch Online-Hilfe:
+Wahlkartendruck
+ 
+Ab Ausstellung
+Rückerfassung 
+Wahlkarten im ZeWaeR 
+bei Sofortwahl
+ Siehe ZeWaeR-Wiki
+ 
+bis 27.05.2024
+Wenn Antrag von Partei 
+von Wahlvorschlag, 
+Übermittlung WVZ in 
+bearbeitbarer Form
+Leitfaden BM.I Seite 
+19+20
+ 
+ 
+Bei Verwendung vom elektronischen Abstimmungsverzeichnis k5 ASV 
+bitte rechtzeitige Installation und Tests vorm Wahltag!
+07.06.2024
+Sendung der Anzahl der 
+ausgestellten Wahlkarten 
+ans Land OÖ über 
+k5|Next_Wahltag.
+Wird noch geprüft ob 
+notwendig!
+ 
+07.06.2024
+Datenabgleich 
+Verstorbene und 
+Erstellung der aktuellen 
+XML-Datei für das 
+elektronische 
+Abstimmungsverzeichnis 
+k5-ASV
+Siehe Online-Hilfe:
+Datenabgleich
+WVZ als XML
+ 
+Letzte Schließung örtlich 
+zuständigen Poststelle 
+vor Wahltag
+Zweite Chance – Eintrag 
+im ZeWaT
+siehe ZeWaeR-Wiki
+ 
+09.06.2024
+WAHLTAG
+Sendung vorläufiges 
+Wahlergebnis
+Sendung endgültiges 
+Wahlergebnis
+Sendung an Gem2Go
+siehe Online-Hilfe
+Stimmenerfassung 
+Partei und Sprengel
+Freigabe Stimmen
+Sendung vorläufiges 
+Wahlergebnis
+Vorzugsstimmenerfassu
+ng Partei und Sprengel
+ 
+
+108
+Checkliste über 10.000 Einwohner
+Freigabe 
+Vorzugsstimmen
+Sendung endgültiges 
+Wahlergebnis
+Senden an Gem2Go
+Druck/Reports
+Jederzeit möglich
+Info auf 
+Homepage/Gemeindezei
+tung zu 
+www.meinewahlkarte.at 
+und zur BM.I 
+Selbstauskunft www.bmi.
+gv.at/selbstauskunft
+siehe Online-Hilfe
+Selbstauskunft
+ 
+ 
+Sendung der vorläufigen 
+Anzahl Wahlberechtigte 
+über k5|Next_Wahltag.
+NICHT MEHR NÖTIG!
+ 
+spät. 18.04.2024
+Hauskundmachung
+Siehe Online-Hilfe:
+Hauskundmachung 
+ 
+spät. 19.04.2024
+Ausfolgung 
+Ausdruck/undurchsuchb
+ares PDF an Parteien
+Leitfaden BM.I Seite 
+19+20
+ 
+Bis spät. 19.04.2024
+Druck Wählerverzeichnis 
+für die Auflage
+Siehe Online-Hilfe 
+Wählerverzeichnis
+ 
+spät. 24.04.2024
+(lt. BH eventuell früher)
+Eintrag/Kontrolle & 
+Freigabe der 
+Wahlsprengel im ZeWaT
+Siehe ZeWaeR-Wiki 
+(Gemdat Portal)
+https://wiki.gemdat.at/ze
+waerwiki/index.php/Freig
+abe_Wahllokal(e)_im_Ze
+WaT
+ 
+Bis. spät. 25.04.2024
+Antrag von AÖ für 
+Aufnahme - Person 
+hineinreklamieren.
+Siehe Leitfaden BM.I 
+Seite 15 bzw. Online-
+Hilfe 
+ 
+ 
+Eintrag erste & letzte 
+Einschreibnummern in 
+den Wahldetails der 
+Europawahl 2024.
+Siehe Online-Hilfe 
+Wahldetails
+ 
+26.04.2024
+Wahlbestand erneut 
+erstellen
+Siehe Online-Hilfe: 
+Wahlbestand erstellen
+ 
+Termin
+Gegenstand
+Erklärung
+Erledigt
+
+109
+26.04.2024
+Freigabe Wahlbestand 
+mit Ende der Auflage.
+Siehe Online-Hilfe: 
+Wahlbestand freigeben
+ 
+Sind keine Berichtigungsverfahren nötig, kann das Wählerverzeichnis 
+gleich nach Auflage abgeschlossen werden!
+Bis spät. 15.05.2024
+Berichtigungsverfahren 
+lt. Wahlkalender. 
+Spätester Abschluss 
+vom Wählerverzeichnis
+Siehe Online-Hilfe:
+Berichtigung/Reklamatio
+nen 
+ 
+spät. 15.05.2024
+Sendung der endgültigen 
+Anzahl Wahlberechtigte 
+über k5|Next_Wahltag.
+NICHT MEHR NÖTIG!
+ 
+Nach Abschluss WVZ, 
+bis spät. 15.05.2024
+Datenabgleich + 
+Bestellung Wahlinfo 
+(Nach Abschluss WVZ 
+jederzeit möglich)
+Siehe Online-Hilfe:
+Datenabgleich
+Bestellung Wahlinfo
+ 
+16.05.2024
+Erhalt Drucksorten von 
+BM.I für 
+Wahlkartenausstellung.
+Ausstellung Wahlkarten
+Ab Seite 38 im Leitfaden 
+BM.I.
+Siehe auch Online-Hilfe:
+Wahlkartendruck
+ 
+Ab Ausstellung
+Rückerfassung 
+Wahlkarten im ZeWaeR 
+bei Sofortwahl
+ Siehe ZeWaeR-Wiki
+ 
+bis 27.05.2024
+Wenn Antrag von Partei 
+von Wahlvorschlag, 
+Übermittlung WVZ in 
+bearbeitbarer Form
+Leitfaden BM.I Seite 
+19+20
+ 
+ 
+Bei Verwendung vom elektronischen Abstimmungsverzeichnis k5 ASV 
+bitte rechtzeitige Installation und Tests vorm Wahltag!
+07.06.2024
+Sendung der Anzahl der 
+ausgestellten Wahlkarten 
+ans Land OÖ über 
+k5|Next_Wahltag.
+ NICHT MEHR NÖTIG!
+ 
+07.06.2024
+Datenabgleich 
+Verstorbene und 
+Erstellung der aktuellen 
+XML-Datei für das 
+elektronische 
+Abstimmungsverzeichnis 
+k5-ASV
+ Siehe Online-Hilfe:
+Datenabgleich
+WVZ als XML
+ 
+Letzte Schließung örtlich 
+zuständigen Poststelle 
+vor Wahltag
+Zweite Chance – Eintrag 
+im ZeWaT
+ siehe ZeWaeR-Wiki
+ 
+09.06.2024
+WAHLTAG
+Sendung vorläufiges 
+ siehe Online-Hilfe
+ 
+
+110
+Wahlergebnis
+Sendung endgültiges 
+Wahlergebnis
+Sendung an Gem2Go
+Stimmenerfassung 
+Partei und Sprengel
+Freigabe Stimmen
+Sendung vorläufiges 
+Wahlergebnis
+Vorzugsstimmenerfassu
+ng Partei und Sprengel
+Freigabe 
+Vorzugsstimmen
+Sendung endgültiges 
+Wahlergebnis
+Senden an Gem2Go
+Druck/Reports
+
+111
+NR Wahl 2024
+Wichtige Termine
+Gesetzliche Grundlagen und Informationen für die Wahlabwicklung
+Aktives Wahlrecht
+Wichtige Termine
+Wahltag: 29. September 2024
+Stichtag: 09. Juli 2024
+Weitere Termine entnehmen Sie dem Wahlkalender.
+Gesetzliche Grundlagen und Informationen für die Wahlabwicklung
+Wählerevidenzgesetz WEviG
+Nationalratswahlordnung NRWO
+Wahlrechtsänderungsgesetz 2023
+ 
+Aktives Wahlrecht
+Aktiv wahlberechtigt bei Nationalratswahlen, d.h. zur Stimmabgabe berechtigt, sind alle Personen, die
+am Wahltag das 16. Lebensjahr vollendet haben,
+die österreichische Staatsbürgerschaft besitzen mit Hauptwohnsitz in Österreich,
+am Stichtag in der betreffenden Gemeinde mit Hauptwohnsitz gemeldet sind,
+vom Wahlrecht nicht ausgeschlossen sind und
+Auslandsösterreicher (AÖ), welche in der Wählerevidenz eingetragen sind.
+Auflage des Wählerverzeichnisses
+30.07. - 08.08.2024
+Auflage des Wählerverzeichnisses bei verkürztem Einsichtszeitraum
+02.08. - 08.08.2024
+Hauskundmachung
+bis spät. 01.08.2024
+Zentraler Druck Wahlinformation
+09.08.-22.08.2024
+Übermittlung der Wahlkarten
+vorr. ab 02.09.2024
+Letztmöglicher Zeitpunkt für die schriftliche Beantragung einer Wahlkarte
+25.09.2024
+Letztmöglicher Zeitpunkt für die mündliche Beantragung einer Wahlkarte
+27.09.2024
+Gegenstand
+Datum
+
+112
+Video-Tutorials
+Hier finden Sie Erklärvideos zu den grundlegenden Programmfunktionen.
+Programmeinstieg und Sprengelkonfiguration
+ 
+Dashboard, Einstellungen und Wahlvorbereitung
+ 
+Wahlbestand, Wahlkarten und Wählerverzeichnis
+
+113
+ 

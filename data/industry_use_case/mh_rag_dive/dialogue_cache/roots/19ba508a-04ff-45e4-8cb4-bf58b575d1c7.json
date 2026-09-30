@@ -1,0 +1,38 @@
+{
+  "root_id": "19ba508a-04ff-45e4-8cb4-bf58b575d1c7",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_23",
+    "text_snippet": "Kapitelüberschrift: Wahlkartendruck\nInhalt: 44\nEinzeldruck\nDer Einzeldruck wird vor allem verwendet, wenn die antragsstellende Person oder eine bevollmächtigte Person persönlich im Gemeindeamt \nerscheint und die Drucksorten bereits vorhanden sind. Für den Einzeldruck der Wahlkarte suchen Sie sich die wahlberechtigte Person , für \nwelche der Wahlkartenantrag erfasst wurde und wechseln Sie in den Reiter „Wahlkarte“.\nMit Klick auf „Wahlkarte drucken“ wird die Wahlkarte erstellt.\n \nSie haben direkt beim Druck die Möglichkeit die Seitenränder einzustellen.\nWir im Feld „Verschiebung oben (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach unten verschoben \nwird. Wird der Wert -3 eingegeben, wird die Schrift um 3 mm nach oben verschoben.\nWir im Feld „Verschiebung links (in mm)“ z.B. der Wert 3 eingegeben, bedeutet dies, dass die Schrift um 3 mm nach rechts verschoben \nwird. Wird der Wert -3 eingegeben, wird die Schrift um 3 mm nach links verschoben.\nIm Feld „Unterschrift“ kann zwischen folgenden Optionen ausgewählt werden. Je nachdem welche Option ausgewählt wird, wird der \njeweils hinterlegte Name auf der Wahlkarte angedruckt (s. Bild oben).",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 23,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_26",
+    "text_snippet": "Kapitelüberschrift: Druck Vorzugsstimmenprotokoll\nInhalt: 37\n „Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird \nnach lfd. Nr. sortiert.\n \nVorzugsstimmenprotokoll Gemeindeergebnis\nSie erhalten eine Ansicht mit Summe aller Einträge aus den Sprengeln. Im Sidepanel können Sie auf eine Partei eingrenzen. Mit \n„Aktualisieren“ erhalten Sie die Auswahl. Wird hier keine Eingrenzung getätigt, erhalten Sie alle Parteien. Bitte aktivieren Sie die \nCheckbox (am Wahltag) in der PDF:\nZusätzlich haben Sie auch hier die Auswahl zwischen:\n„Nur Vorzugsstimmen nach Lfd. Nr.“ bedeutet, dass nur jene Personen aufscheine, die eine Vorzugsstimme erhalten haben. Es wird \nnach lfd. Nr. sortiert.\n„Nur Vorzugsstimmen nach Stimmen“ bedeutet, dass nur jene Personen aufscheinen, die eine Vorzugsstimme erhalten haben. Diese \nwerden absteigend nach Anzahl sortiert.\nMit „Aktualisieren“ erhalten Sie die Auswahl.\n\n38\nNiederschrift\nGelbe Niederschrift / Gemeindewahlbehörde\nTabelle A (gelbe Niederschrift)\nTabelle B (gelbe Niederschrift)\nGrüne Niederschrift / Sprengelwahlbehörde\n \nBefüllbare, weitere Niederschriften finden Sie in den BM.I-Drucksorten.\nUnter Stimmenerfassung können Sie beim „Teilen-Button“ jederzeit die grüne bzw. gelbe Niederschrift inkl. Tabelle A und Tabelle B \nöffnen. Diese wird nur soweit befüllt, wie die Daten im Programm eingetragen wurden.\nWurde die Wahlbehörde (wahlspezifisch) bei der Wahl angelegt, scheinen diese in der Niederschrift auf. Wird die Datei vor der Eintragung \nder Stimmen pro Partei und Sprengel erstellt, scheinen die Parteistimmen nicht auf.\nBedenken Sie bitte, dass gewisse Felder NICHT befüllt werden können, welche Sie noch manuell befüllen oder auswählen \nmüssen!\n \nGelbe Niederschrift / Gemeindewahlbehörde",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 26,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Wahl-Dokumentenerstellung",
+    "Funktionen der Wahlanwendersoftware",
+    "Druckvorgänge im Wahlprozess"
+  ],
+  "initial_question": {
+    "rag_input": "Über welche Schaltflächen starte ich den Einzeldruck einer Wahlkarte im Vergleich zur Erstellung einer Niederschrift?",
+    "question": "Über welche Schaltflächen starte ich den Einzeldruck einer Wahlkarte im Vergleich zur Erstellung einer Niederschrift?",
+    "answer": "Für den Einzeldruck der Wahlkarte müssen Sie auf „Wahlkarte drucken“ klicken, nachdem Sie in den Reiter „Wahlkarte“ gewechselt haben. Die Niederschriften (gelb oder grün) öffnen Sie hingegen über den „Teilen-Button“ im Bereich „Stimmenerfassung“.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Funktionen der Wahlanwendersoftware zur Dokumentenerstellung"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

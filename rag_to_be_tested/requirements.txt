@@ -1,0 +1,21 @@
+# --- API & Config ---
+fastapi==0.138.2
+uvicorn==0.49.0
+pydantic==2.13.4
+python-dotenv==1.2.2
+pyyaml==6.0.3
+requests>=2.32.5
+
+# --- LLM Connectors ---
+openai>=1.40.0
+google-genai==2.17.0
+
+# --- LangChain & Vector Store ---
+langchain==1.3.11
+langchain-community==0.4.2
+langchain-google-genai==4.2.6
+langchain-chroma==1.1.0
+chromadb==1.5.9
+
+# --- Huggingface Embeddings ---
+sentence-transformers==5.7.0

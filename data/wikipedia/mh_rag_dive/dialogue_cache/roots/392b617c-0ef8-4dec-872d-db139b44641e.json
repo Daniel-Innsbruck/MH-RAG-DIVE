@@ -1,0 +1,38 @@
+{
+  "root_id": "392b617c-0ef8-4dec-872d-db139b44641e",
+  "chunk_a": {
+    "id": "835662174#chunk_8",
+    "text_snippet": "Title: American Idol\nSection(s): History\n\nThe final showdown was between Justin Guarini, one of the early favorites, and Kelly Clarkson. Clarkson was not initially thought of as a contender, but impressed the judges with some good performances in the final rounds, such as her performance of Aretha Franklin's \"Natural Woman\", and Betty Hutton's \"Stuff Like That There\", and eventually won the crown on September 4, 2002.\n\nIn what was to become a tradition, Clarkson performed the coronation song during the finale, and released the song immediately after the season ended. The single, \"A Moment Like This\", went on to break a 38-year-old record held by The Beatles for the biggest leap to number one on the Billboard Hot 100. Guarini did not release any song immediately after the show and remains the only runner-up not to do so. Both Clarkson and Guarini made a musical film, From Justin to Kelly, which was released in 2003 but was widely panned. Clarkson has since become the most successful Idol contestant internationally, with worldwide album sales of more than 23 million.\n\nStarting September 30, 2006, this season was repackaged as \"American Idol Rewind\" and syndicated directly to stations in the U.S.\n\nSeason 2\n\nright|thumb|upright|Ruben Studdard, season two winner\nFollowing the success of season one, the second season was moved up to air in January 2003. The number of episodes increased, as did the show's budget and the charge for commercial spots. Dunkleman left the show, leaving Seacrest as the lone host. Kristin Adams was a correspondent for this season.\n\nCorey Clark was disqualified during the finals for having an undisclosed police record; however, he later alleged that he and Paula Abdul had an affair while on the show and that this contributed to his expulsion. Clark also claimed that Abdul gave him preferential treatment on the show due to their affair. The allegations were dismissed by Fox after an independent investigation. Two semi-finalists were also disqualified that year – Jaered Andrews for an arrest on an assault charge, and Frenchie Davis for having previously modelled for an adult website.\n\nRuben Studdard emerged as the winner, beating Clay Aiken by a small margin. Out of a total of 24 million votes, Studdard finished just 134,000 votes ahead of Aiken. This slim margin of victory was controversial due to the large number of calls that failed to get through. In an interview prior to season five, executive producer Nigel Lythgoe indicated that Aiken had led the fan voting from the wildcard week onward until the finale.\n\nBoth finalists found success after the show, but Aiken out-performed Studdard's coronation song \"Flying Without Wings\" with his single release from the show \"This Is the Night\", as well as in their subsequent album releases. The fourth-place finisher Josh Gracin also enjoyed some success as a country singer.\n\nSeason 3\n\nthumb|upright|Fantasia Barrino, season three winner\nSeason three premiered on January 19, 2004. One of the most talked-about contestants during the audition process was William Hung whose off-key rendition of Ricky Martin's \"She Bangs\" received widespread attention. His exposure on Idol landed him a record deal and surprisingly he became the third best-selling singer from that season.",
+    "article_id": "835662174",
+    "article_title": "American Idol",
+    "chunk_index": 8,
+    "total_chunks": 32
+  },
+  "chunk_b": {
+    "id": "866418206#chunk_14",
+    "text_snippet": "Title: Friends\nSection(s): Premise\n\nRatings \nThe table below shows the ratings of Friends in the United States, where it consistently ranked within the top ten of the final television season ratings. \"Rank\" refers to how well Friends rated compared to other television series that aired during primetime hours of the corresponding television season. It is shown in relation to the total number of series airing on the then-six major English-language networks in a given season. \"Viewers\" refers to the average number of viewers for all original episodes, broadcast during the television season in the series's regular timeslot. The \"season premiere\" is the date that the first episode of the season aired, and the \"season finale\" is the date that the final episode of the season aired. So far, Friends has been the last sitcom to reach the  1 spot on television, as its successors were CSI: Crime Scene Investigation, American Idol, NBC Sunday Night Football and NCIS.\n\n+Ratings table Season Timeslot Season premiere Season finale TV season Rank Viewers(in millions) Most-watched episode Title Viewers(in millions) 1 Thursday 8:30 pm  (1–16)  Thursday 9:30 pm  (17–24) September 22, 1994 May 18, 1995 1994–95 8 24.3 \"The One Where Rachel Finds Out\" 31.3 2 Thursday 8:00 pm September 21, 1995 May 16, 1996 1995–96 3 29.4 \"The One After the Superbowl\" 52.9 3 September 19, 1996 May 15, 1997 1996–97 4 24.9 \"The One Where Chandler Can't Remember Which Sister\" 29.8 4 September 25, 1997 May 7, 1998 1997–98 4 24.0 \"The One with Ross's Wedding\" 31.6 5 September 24, 1998 May 20, 1999 1998–99 2 23.5 \"The One After Ross Says Rachel\" 30.9 6 September 23, 1999 May 18, 2000 1999–2000 5 20.7 \"The One with the Proposal\" 30.7 7 October 12, 2000 May 17, 2001 2000–01 5 20.2 \"The One with Monica and Chandler's Wedding\" 30.1 8 September 27, 2001 May 16, 2002 2001–02 1 24.5 \"The One Where Rachel Has a Baby\" 34.9 9 September 26, 2002 May 15, 2003 2002–03 2 21.8 \"The One Where No One Proposes\" 34.0 10 September 25, 2003 May 6, 2004 2003–04 4 22.8 \"The Last One\" 52.5\n\n Syndication \nBecause of syndication revenue, Friends continues to generate approximately $1 billion each year for Warner Bros. That translates into about $20 million in annual residuals each for Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry and David Schwimmer, who each get 2% of syndication income for Friends. The series has a syndication deal through multiple networks including Nickelodeon, TBS, and Paramount (formerly known as Spike).\n\n Cultural impact \nthumb|right|Set of Central Perk at Warner Bros. Studios",
+    "article_id": "866418206",
+    "article_title": "Friends",
+    "chunk_index": 14,
+    "total_chunks": 21
+  },
+  "t_bridge": [
+    "American Idol",
+    "Television ratings history",
+    "Network television success"
+  ],
+  "initial_question": {
+    "rag_input": "Which winner of the show that succeeded Friends at the number one spot broke a 38-year-old Beatles record?",
+    "question": "Which winner of the show that succeeded Friends at the number one spot broke a 38-year-old Beatles record?",
+    "answer": "Kelly Clarkson. She won the first season of American Idol (which succeeded Friends at the number one spot on television) and her single \"A Moment Like This\" broke a 38-year-old record held by The Beatles.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "American Idol"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "b66fcaf4-cd87-4ce7-8db7-4f88f75cede2",
+  "chunk_a": {
+    "id": "866449443#chunk_3",
+    "text_snippet": "Title: Wonder Woman\nSection(s): Modern Age\n\nIn August 2010 (issue #600), J. Michael Straczynski took over the series' writing duties and introduced Wonder Woman to an alternate timeline created by the Gods in which Paradise Island had been destroyed and the Amazons scattered around the world. In this timeline, Diana is an orphan raised in New York. The entire world has forgotten Wonder Woman's existence and the main story of this run was of Diana trying to restore reality even though she does not properly remember it herself. A trio of Death Goddesses called The Morrigan acted as the main enemy of Wonder Woman. In this run, Wonder Woman wears a new costume designed by Jim Lee. Straczynski determined the plot and continued writing duties until Wonder Woman #605; writer Phil Hester then continued his run, which ultimately concluded in Wonder Woman #614.\n\nthumb|upright|Wonder Woman with Batman and Superman on the cover of Wonder Woman Annual vol. 5, #1 (July 2017). Art by Nicola Scott and Romulo Fajardo, Jr. In the 21st century, the three have appeared together in multiple titles as part of DC's trinity of its most popular and important superheroes.\nIn 2011's The New 52, DC Comics relaunched its entire line of publications to attract a new generation of readers, and thus released volume 4 of the Wonder Woman comic book title. Brian Azzarello and Cliff Chiang were assigned writing and art duties respectively and revamped the character's history considerably. In this new continuity, Wonder Woman wears a costume similar to her original Marston costume, utilizes a sword and shield, and has a completely new origin. No longer a clay figure brought to life by the magic of the gods, she is, instead, a demi-goddess and the natural-born daughter of Hippolyta and Zeus. Azzarello and Chiang's revamp of the character was critically acclaimed, but highly divisive among long time fans of the character.",
+    "article_id": "866449443",
+    "article_title": "Wonder Woman",
+    "chunk_index": 3,
+    "total_chunks": 28
+  },
+  "chunk_b": {
+    "id": "856834500#chunk_3",
+    "text_snippet": "Title: Doctor Strange\nSection(s): Early years\n\nDoctor Strange has appeared in four graphic novels: Doctor Strange: Into Shamballa (1986); Doctor Strange & Doctor Doom: Triumph and Torment (1989); Spider-Man/Dr. Strange: The Way to Dusty Death (1992); and Dr. Strange: What Is It That Disturbs You, Stephen? (1997).\n\n21st century\n2000s\nStrange appeared as a supporting character for the bulk of the 2000s. He appeared regularly in The Amazing Spider-Man under J. Michael Straczynski, before being cast into a time loop by Baron Mordo. He later appeared on and off in The New Avengers, where he was stated as being part of the secret group known as the Illuminati to deal with future threats to Earth. Ultimately Strange joined the team and allowed them to use his home as a base after the events of Civil War, which he sat out. Doctor Strange was critical of the federal Superhuman Registration Act and aided the anti-registration Avengers team led by Luke Cage.\n\nDuring the Bendis run, Doctor Doom attacked the Avengers and manipulated the Scarlet Witch into eliminating most of the mutant population.  Doctor Strange's failure to recognize Doom's hand in the former and to stop the latter caused him to start to doubt his abilities. After he was forced to use dark magic to confront an enraged Hulk, followed by further use of dark spells to save the New Avengers from the Hood's supervillain army, Strange renounced his status as Sorcerer Supreme, as he felt that he was no longer worthy of it. The Eye of Agamotto passed the mantle on to Brother Voodoo.\n\nHe was also featured in The Order, which spun out of the 2000 Defenders revival, and the Indefensible Defenders mini-series.\n\n2010s\nDoctor Strange appeared as a regular character throughout the 2010-2013 The New Avengers series. Brother Voodoo, now newly appointed Sorcerer Supreme Doctor Voodoo, sacrifices himself in order to stop the powerful mystical entity Agamotto from reclaiming the Eye. A guilt-ridden Strange rejoins the New Avengers, and offers the team his valet Wong to act as their housekeeper.\n\nStrange eventually regains his position of Sorcerer Supreme, but is possessed by a demon and becomes leader of the Black Priests.\n\nAfter the various Marvel universes merge into one, Doctor Strange acts as righthand man of Doctor Doom, who has become the ruler of this world after erasing all recollection of the previous separate realities that existed. Circumstances force Strange to open a pod that releases the surviving heroes of the original Marvel continuity, known as Earth-616. Doom kills Doctor Strange.\n\nIn 2015, Jason Aaron and Chris Bachalo teamed up for the fourth volume of Doctor Strange. A new character, reluctant librarian Zelma Stanton, agrees to reorganize Strange's magical library. Brother Voodoo returns, and the series and a spinoff, Dr. Strange: Last Days of Magic, sees such characters as Medico Mistico, Magik, Scarlet Witch, Mahatma Doom, Professor Xu, Monako, and Alice Gulliver. With the laws of magic fundamentally altered, and with the loss of his former resources, Doctor Strange is forced to depend on his own physical skills and inventive use of his few functional spells. He eventually no longer has access to most of his former spells or his levitating cape.",
+    "article_id": "856834500",
+    "article_title": "Doctor Strange",
+    "chunk_index": 3,
+    "total_chunks": 10
+  },
+  "t_bridge": [
+    "J. Michael Straczynski",
+    "Comic book history in the 2010s",
+    "DC and Marvel character reboots"
+  ],
+  "initial_question": {
+    "rag_input": "Who wrote The Amazing Spider-Man in the 2000s and took over Wonder Woman in August 2010?",
+    "question": "Who wrote The Amazing Spider-Man in the 2000s and took over Wonder Woman in August 2010?",
+    "answer": "J. Michael Straczynski wrote The Amazing Spider-Man in the 2000s and subsequently took over the writing duties for Wonder Woman starting in August 2010.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "J. Michael Straczynski"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

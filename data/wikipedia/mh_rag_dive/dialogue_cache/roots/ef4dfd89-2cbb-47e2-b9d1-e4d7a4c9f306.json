@@ -1,0 +1,38 @@
+{
+  "root_id": "ef4dfd89-2cbb-47e2-b9d1-e4d7a4c9f306",
+  "chunk_a": {
+    "id": "854641588#chunk_33",
+    "text_snippet": "Title: The Bronx\nSection(s): New York City expands\n\nSee also\n\nBronx Borough Hall\nBronx court system delays\nJoseph P. Day, early land auctioneer\nList of people from the Bronx\nNational Register of Historic Places listings in the Bronx\n\nGeneral:\nList of counties in New York\n\nReferences\nNotes\n\nCitations\n\nFurther reading\n\nGeneral:\n Barrows, Edward, and Mike Wallace. Gotham: A History of New York City to 1898 (1999)\n \n Briggs, Xavier de Souza, Anita Miller and John Shapiro. 1996. \"CCRP in the South Bronx.\" Planners' Casebook, Winter.\n Corman, Avery. \"My Old Neighborhood Remembered, A Memoir.\" Barricade Books (2014)\n Chronopoulos, Themis. \"Paddy Chayefsky's 'Marty' and Its Significance to the Social History of Arthur Avenue, The Bronx, in the 1950s.\" The Bronx County Historical Society Journal XLIV (Spring/Fall 2007): 50–59.\n Chronopoulos, Themis. \"Urban Decline and the Withdrawal of New York University from University Heights, The Bronx.\" The Bronx County Historical Society Journal XLVI (Spring/Fall 2009): 4–24.\n de Kadt, Maarten. The Bronx River: An Environmental and Social History. The History Press (2011)\n DiBrino, Nicholas. The History of the Morris Park Racecourse and the Morris Family (1977)\n Federal Writers' Project. New York City Guide: A Comprehensive Guide to the Five Boroughs of the Metropolis: Manhattan, Brooklyn, the Bronx, Queens, and Richmond (1939) online edition\n Gonzalez, Evelyn. The Bronx. (Columbia University Press, 2004. 263 ), scholarly history focused on the slums of the South Bronx online edition\nGoodman, Sam. \"The Golden Ghetto: The Grand Concourse in the Twentieth Century\", Bronx County Historical Society Journal 2004 41(1): 4–18 and 2005 42(2): 80–99\n Jackson, Kenneth T., ed. The Encyclopedia of New York City, (Yale University Press and the New-York Historical Society, (1995) ), has entries, maps, illustrations, statistics and bibliographic references on almost all of the significant topics in this article, from the entire borough to individual neighborhoods, people, events and artistic works.\n Jonnes, Jull. South Bronx Rising: The Rise, Fall, and Resurrection of an American City (2002) online edition\n McNamara, John History In Asphalt: The Origin of Bronx Street and Place Names (1993) \n McNamara, John McNamara's Old Bronx (1989) \n \n \n Rodríguez, Clara E. Puerto Ricans: Born in the U.S.A (1991) online edition\n Samtur, Stephen M. and Martin A. Jackson. The Bronx: Lost, Found, and Remembered, 1935–1975 (1999) online review, nostalgia\n Twomey, Bill and Casey, Thomas Images of America Series: Northwest Bronx (2011)\n Twomey, Bill and McNamara, John. Throggs Neck Memories (1993)\n Twomey, Bill and McNamara, John. Images of America Series: Throggs Neck-Pelham Bay (1998)\n Twomey, Bill and Moussot, Peter. Throggs Neck (1983), pictorial\n Twomey, Bill. Images of America Series: East Bronx (1999)\n Twomey, Bill. Images of America Series: South Bronx (2002)\n Twomey, Bill. The Bronx in Bits and Pieces (2007)\n Ultan, Lloyd. The Northern Borough: A History Of The Bronx (2009), popular general history\n Ultan, Lloyd. The Bronx in the frontier era: from the beginning to 1696 (1994)\n Ultan, Lloyd. The Beautiful Bronx (1920–1950) (1979), heavily illustrated\n Ultan, Lloyd. The Birth of the Bronx, 1609–1900 (2000), popular\n Ultan, Lloyd. The Bronx in the Innocent years, 1890–1925 (1985), popular\n Ultan, Lloyd. The Bronx: It Was Only Yesterday, \"The Bronx: It Was Only Yesterday 1935–1965 (1992), heavily illustrated popular history",
+    "article_id": "854641588",
+    "article_title": "The Bronx",
+    "chunk_index": 33,
+    "total_chunks": 35
+  },
+  "chunk_b": {
+    "id": "864864565#chunk_7",
+    "text_snippet": "Title: New Amsterdam\nSection(s): Legacy, Primary sources\n\nThe presentation of the legacy of the unique culture of 17th-century New Amsterdam remains a concern of preservationists and educators. The National Park Service celebrated in 2009 the 400th anniversary of Henry Hudson's 1609 voyage on behalf of the Dutch with the New Amsterdam Trail.\n\nThe Dutch-American historian and journalist Hendrik Willem van Loon wrote in 1933 a work of alternative history entitled \"If the Dutch Had Kept Nieuw Amsterdam\" (in If, Or History Rewritten, edited by J. C. Squire, 1931, Simon & Schuster).\n\nA similar theme, at greater length, was taken up by writer Elizabeth Bear, who published the \"New Amsterdam\" series of detective stories that take place in a world where the city remained Dutch until the Napoleonic Wars and retained its name also afterwards.\n\nOne of New York Broadway theatres is the New Amsterdam Theatre. The name New Amsterdam is also written on the architrave situated on top of the row of columns in front of the Manhattan Municipal Building, commemorating the name of the Dutch colony.\n\nAlthough no architectural monuments or buildings have survived, the legacy lived on in the form Dutch Colonial Revival architecture. A number of structures in New York City were constructed in the 19th and 20th centuries in this style, such as Wallabout Market in Brooklyn, South William Street in Manhattan, West End Collegiate Church at West 77th Street, and others.\n\nJackson, Kenneth T. and David S. Dunbar, eds. Empire City: New York Through the Centuries (2005), 1015 pages of excerpts excerpt",
+    "article_id": "864864565",
+    "article_title": "New Amsterdam",
+    "chunk_index": 7,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Kenneth T. Jackson",
+    "New York City history",
+    "Historical historiography of New York City"
+  ],
+  "initial_question": {
+    "rag_input": "What 2005 book was co-edited by the editor of the 1995 'The Encyclopedia of New York City'?",
+    "question": "What 2005 book was co-edited by the editor of the 1995 'The Encyclopedia of New York City'?",
+    "answer": "The 2005 book is 'Empire City: New York Through the Centuries', which was co-edited by Kenneth T. Jackson and David S. Dunbar.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Kenneth T. Jackson"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

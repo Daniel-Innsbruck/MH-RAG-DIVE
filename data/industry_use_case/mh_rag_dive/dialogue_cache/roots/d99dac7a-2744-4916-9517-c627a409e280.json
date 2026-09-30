@@ -1,0 +1,38 @@
+{
+  "root_id": "d99dac7a-2744-4916-9517-c627a409e280",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_16",
+    "text_snippet": "Kapitelüberschrift: Welche Rechte gibt es?\nInhalt: 30\nWahltag lesen\nErmöglicht das Öffnen des Moduls Wahltag\nWahltag bearbeiten\nErmöglicht das Konfigurieren von Einstellungen im Modul Wahltag\n\n31\nRollenkonzept und Rollenarten\nIn k5|Next wird zwischen Administrativen Rollen und Fachlichen Rollen unterschieden.\nAdministrative Rollen: berechtigen für administrative Aufgaben wie z.B. Einstieg auf die Administrationsumgebung, Pflege der \nGemeindeparameter, Userverwaltung, Rollen & Rechteverwaltung\nFachliche Rollen: berechtigen für fachliche Aufgaben wie z.B. die Verwaltung von Kontaktdaten in k5|Next_Kontakt oder \nWahlvorbereitung in k5|Next_Wahl\nBesitzt ein Benutzer bereits Fachliche Rollen, können keine Administrativen Rollen mehr vergeben werden, und umgekehrt. So ist es \nmöglich, einen Benutzer durch Rollenzuweisung zum Administrator zu erheben, gleichzeitig wird es diesem Benutzer aber unmöglich, \nfachliche Aufgaben zu erfüllen.\nDarüber hinaus wird zwischen System-Rollen, Kunden-Rollen und Dienstleister-Rollen unterschieden, die Erstellung und Bearbeitung \nerfolgt im Menü „Rollen“.\nSystem-Rollen: sind von k5|Next vorgegeben und können eingesehen, aber nicht verändert werden.\nDienstleister-Rollen: werden vom Dienstleister der Gemeinde erstellt. Für Änderungen und Anpassungen an diesen Rollen ist der \nDienstleister zuständig, die Hoheit und Verantwortung für Korrektheit und Vollständigkeit liegt auf Seite des Dienstleisters.\nKunden-Rollen: werden vom Kunden-Administrator der Gemeinde erstellt. Für Änderungen und Anpassungen an diesen Rollen ist die \nKunden-Administration zuständig, die Hoheit und Verantwortung für Korrektheit und Vollständigkeit liegt auf Seite der Gemeinde.\nEinem Benutzer können entweder Fachliche Rollen oder Administrative Rollen hinzugefügt werden, niemals beide.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 16,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_0",
+    "text_snippet": "Kapitelüberschrift: k5|next Wahl\nInhalt: 4\nJetzt starten\nBei k5|Next handelt es sich um die logische Weiterentwicklung der k5 Lösungen. Den Mitarbeitern einer Gemeinde stehen damit eine Reihe \nvon Applikationen zu Verfügung, mit deren Hilfe die täglichen Verwaltungsaufgaben abgewickelt werden können. Eines dieser neuen \nModule ist k5|Next_Wahl (Wahlmanagement).\nDas Wahlmanagement wird im Wesentlichen für die Vorbereitung einer Wahl verwendet und beinhaltet \nWahlbestand/ Wählerverzeichnis erstellen und verwalten und freigeben\nWahlkartenmanagement\nSprengelverwaltung\nMeine Wahlkarte und Meine Wahlinfo als optionaler Service",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 0,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "k5|Next_Wahl",
+    "Rollenkonzept",
+    "Benutzerberechtigungen für Fachanwendungen"
+  ],
+  "initial_question": {
+    "rag_input": "Darf ein Benutzer, der Wahlkarten und Sprengel verwaltet, gleichzeitig administrative Aufgaben übernehmen?",
+    "question": "Darf ein Benutzer, der Wahlkarten und Sprengel verwaltet, gleichzeitig administrative Aufgaben übernehmen?",
+    "answer": "Nein. Die Verwaltung von Wahlkarten und Sprengeln gehört zur Wahlvorbereitung im Modul k5|Next_Wahl. Für solche fachlichen Aufgaben benötigt der Benutzer eine sogenannte 'Fachliche Rolle'. Das Rollenkonzept in k5|Next besagt strikt, dass einem Benutzer entweder Fachliche Rollen oder Administrative Rollen zugewiesen werden können, jedoch niemals beide gleichzeitig.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Benutzerberechtigungen für k5|Next_Wahl"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

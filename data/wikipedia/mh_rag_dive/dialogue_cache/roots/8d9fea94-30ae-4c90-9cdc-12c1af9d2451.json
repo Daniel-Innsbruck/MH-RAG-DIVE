@@ -1,0 +1,38 @@
+{
+  "root_id": "8d9fea94-30ae-4c90-9cdc-12c1af9d2451",
+  "chunk_a": {
+    "id": "866527796#chunk_12",
+    "text_snippet": "Title: Call of Duty: Black Ops\nSection(s): Development\n\nIn January 2011, to a player complaining about the remaining connection problems for the game on PlayStation 3, an Activision customer service representative threatened that they could shut down the servers for the game for the PlayStation Network at any time. After some days and following some game media heat, Dan Amrich, Activision Social Media Manager, declared that even if they could kill the servers, they did not plan currently to do it. The Daily Telegraph praised Black Ops as a superb experience of gameplay, \"the meaty kick of the guns, the blistering pace of the action and the sterling soundtrack of explosions, gunshots and whistling bullets all serve to quicken the player's pulse and tighten their grip on the controller\", and mentioned, it is beyond the overwhelming, chaotic action in the game's major gun battles, offers among other things, a stealthy infiltration of a substation in the snow-capped steppes, in which the slow down in action is compensated for by nail-shredding tension and creepy atmosphere.Official Nintendo Magazine awarded the Wii version 90% and said \"Black Ops on Wii is a fantastic shooter packed with all the features of its HD brothers, with the only exception being split-screen multiplayer.\" Martin Gaston at VideoGamer.com gave the Wii version 6 out of 10, complaining of Treyarch's reworking of in-game sequences as movies, poor AI, and gameplay problems from lower-resolution graphics.\n\nIn February 2011, the Xbox 360 version was named the Xbox Live's top title of 2010 by GameSpot.\n\nSales\nWithin 24 hours of its release, Black Ops had sold a combined total of 5.6 million units in the U.S. and UK market, surpassing that of Modern Warfare 2 and establishing a new record for largest entertainment launch. Compared to the much anticipated opening of Harry Potter and the Deathly Hallows – Part 1, the game earned more than twice as much as the film, earning $360 million. Only five days after its release, sales from the game worldwide reached US$650 million, surpassing the previous record achieved by Modern Warfare 2 which earned $550 million in five days. By November 22, the game remained the bestselling title in the United Kingdom, despite sales dropping by 85%. Some estimates had placed sales of the game as reaching 18 million units sold, earning a revenue of $818 million. This would fall about 2 million copies and $182 million short of Modern Warfare 2. By December 22, worldwide revenue of Black Ops exceeded $1 billion. Sales remained strong months after the game's release, remaining at the top-seller list in February 2011. On March 3, 2011 the news magazine The Hollywood Reporter also reported on the best selling video games ever. It announced that Call of Duty: Black Ops was the best-selling game ever in the United States of America. Black Ops was the best-selling game of all time in the UK until Grand Theft Auto V overtook it in November 2014. By November 2013, the game had sold 26.2 million copies.\n\nControversy\nCuba has condemned the release of the game as it has special forces trying but failing to kill a young Fidel Castro, killing instead a body-double. The Cuba-based pro-Fidel Castro website Cubadebate said the game \"encourages sociopathic attitudes of American children and adolescents, the main consumers of these virtual games\".",
+    "article_id": "866527796",
+    "article_title": "Call of Duty: Black Ops",
+    "chunk_index": 12,
+    "total_chunks": 14
+  },
+  "chunk_b": {
+    "id": "836192773#chunk_14",
+    "text_snippet": "Title: PlayStation 3\nSection(s): Sales and production costs, Critical reception, Original model\n\nSince the system's launch, production costs have been reduced significantly as a result of phasing out the Emotion Engine chip and falling hardware costs. The cost of manufacturing Cell microprocessors has fallen dramatically as a result of moving to the 65 nm production process, and Blu-ray Disc diodes have become cheaper to manufacture. As of January 2008, each unit cost around $400 to manufacture; by August 2009, Sony had reduced costs by a total of 70%, meaning it only costs Sony around $240 per unit.\n\nEarly PlayStation 3 reviews after launch were critical of its high price and lack of quality games. Game developers regarded the architecture as difficult to program for. PS3 was, however, commended for its hardware including its Blu-ray home theater capabilities and graphics potential.\n\nCritical and commercial reception to PS3 improved over time, after a series of price revisions, Blu-ray's victory over HD DVD, and the release of several well received titles. Ars Technicas original launch review gave PS3 only a 6/10, but second review of the console in June 2008 rated it a 9/10. In September 2009, IGN named PlayStation 3 the 15th best gaming console of all time, behind both of its competitors: Wii (10th) and Xbox 360 (6th). However, PS3 has won IGN's \"Console Showdown\"—based on which console offers the best selection of games released during each year—in three of the four years since it began (2008, 2009 and 2011, with Xbox winning in 2010). IGN judged PlayStation 3 to have the best game line-up of 2008, based on their review scores in comparison to those of Wii and Xbox 360. In a comparison piece by PC Magazines Will Greenwald in June 2012, PS3 was selected as an overall better console compared to Xbox 360.\nPocket-lint said of the console \"The PS3 has always been a brilliant games console,\" and that \"For now, this is just about the best media device for the money.\"\n\nPS3 was given the number-eight spot on PC World magazine's list of \"The Top 21 Tech Screwups of 2006\", where it was criticized for being \"Late, Expensive and Incompatible\". GamesRadar ranked PS3 as the top item in a feature on game-related PR disasters, asking how Sony managed to \"take one of the most anticipated game systems of all time and — within the space of a year — turn it into a hate object reviled by the entire internet\", but added that despite its problems the system has \"untapped potential\". Business Week summed up the general opinion by stating that it was \"more impressed with what [the PlayStation 3] could do than with what it currently does\".",
+    "article_id": "836192773",
+    "article_title": "PlayStation 3",
+    "chunk_index": 14,
+    "total_chunks": 18
+  },
+  "t_bridge": [
+    "Call of Duty: Black Ops (PlayStation 3 version)",
+    "PlayStation 3 console gaming ecosystem",
+    "Activision-Sony platform relations"
+  ],
+  "initial_question": {
+    "rag_input": "What January 2011 Black Ops issue occurred on the console IGN ranked 15th best in September 2009?",
+    "question": "What January 2011 Black Ops issue occurred on the console IGN ranked 15th best in September 2009?",
+    "answer": "In January 2011, players experienced connection problems with Call of Duty: Black Ops on the PlayStation 3 (the console IGN ranked 15th best in September 2009). This prompted an Activision customer service representative to threaten to shut down the game's servers for the PlayStation Network.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "PlayStation 3 console gaming ecosystem"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "dfba2c5f-f607-49ee-b6ad-0db0cccb6b4e",
+  "chunk_a": {
+    "id": "854736235#chunk_10",
+    "text_snippet": "Title: Emperor of Japan\nSection(s): Succession, Current status\n\nArticle 2 of the Constitution of Japan, promulgated in 1947 by influence of the U.S. occupation administration, provides that \"The Imperial Throne shall be dynastic and succeeded to in accordance with the Imperial Household Law passed by the Diet.\" The Imperial Household Law of 1947, enacted by the ninety-second and last session of the Imperial Diet, retained the exclusion on female dynasts found in the 1889 law. The government of Prime Minister Yoshida Shigeru hastily cobbled together the legislation to bring the Imperial Household in compliance with the American-written Constitution of Japan that went into effect in May 1947. In an effort to control the size of the imperial family, the law stipulates that only legitimate male descendants in the male line can be dynasts; that imperial princesses lose their status as Imperial Family members if they marry outside the Imperial Family; and that the Emperor and other members of the Imperial Family may not adopt children. It also prevented branches, other than the branch descending from Taishō, from being imperial princes any longer.\n\nSuccession is now regulated by laws passed by the National Diet. The current law excludes women from the succession. A change to this law had been considered until Princess Kiko gave birth to a son.\n\nUntil the birth of Prince Hisahito, son of Prince Akishino, on September 6, 2006, there was a potential succession problem, since Prince Akishino was the only male child to be born into the imperial family since 1965. Following the birth of Princess Aiko, there was public debate about amending the current Imperial Household Law to allow women to succeed to the throne. In January 2005, Prime Minister Junichiro Koizumi appointed a special panel composed of judges, university professors, and civil servants to study changes to the Imperial Household Law and to make recommendations to the government.\n\nThe panel dealing with the succession issue recommended on October 25, 2005, amending the law to allow females of the male line of imperial descent to ascend the Japanese throne. On January 20, 2006, Prime Minister Junichiro Koizumi devoted part of his annual keynote speech to the controversy, pledging to submit a bill allowing women to ascend the throne to ensure that the succession continues in the future in a stable manner. Shortly after the announcement that Princess Kiko was pregnant with her third child, Koizumi suspended such plans. Her son, Prince Hisahito, is the third in line to the throne under the current law of succession. On January 3, 2007, Prime Minister Shinzō Abe announced that he would drop the proposal to alter the Imperial Household Law.",
+    "article_id": "854736235",
+    "article_title": "Emperor of Japan",
+    "chunk_index": 10,
+    "total_chunks": 13
+  },
+  "chunk_b": {
+    "id": "826032032#chunk_2",
+    "text_snippet": "Title: United States presidential line of succession\nSection(s): Motivation for changes to the succession in 1945, Constitutional provisions, Acting President and President\n\nSome of Truman's critics said that his ordering of the Speaker before the President pro tempore was motivated by his dislike of the then-current holder of the latter rank, Senator Kenneth McKellar. Further motivation may have been provided by Truman's preference for House Speaker Sam Rayburn to be next in the line of succession, rather than Secretary of State Edward R. Stettinius, Jr.\n\nThe line of succession is mentioned in three places in the Constitution: \n\nArticle II, Section 1, Clause 6 makes the Vice President first in the line of succession and allows the Congress to provide by law for cases in which neither the President nor Vice President can serve. The current such law governing succession is the Presidential Succession Act of 1947 ().\nSection 3 of the 20th Amendment provides that if the President-elect dies before his term begins, the Vice President-elect becomes President on Inauguration Day and serves for the full term to which the President-elect was elected. The section also provides that if, on Inauguration Day, a president has not been chosen or the President-elect does not qualify for the presidency, the Vice President-elect acts as president until a president is chosen or the President-elect qualifies. Finally, Section 3 allows the Congress to provide by law for cases in which neither a President-elect nor a Vice President-elect is eligible or available to serve.\nThe 25th Amendment, ratified in 1967, clarified Article II, Section 1: that the Vice President is the direct successor of the President. He or she becomes President if the President dies, resigns or is removed from office. The amendment also provides for the situation where the President is temporarily disabled, such as if the President has a surgical procedure or becomes mentally unfit.The amendment also provides for Vice Presidential succession, by requiring Vice Presidential vacancies to be filled by the President and confirmed by both houses of the Congress. Previously, whenever a Vice President had succeeded to the Presidency or had otherwise left the office empty (through death, resignation, or removal from office), the Vice Presidency remained vacant until the next Presidential and Vice Presidential terms began.\n\nthumb|275px|New President Lyndon Johnson was sworn in aboard Air Force One, following the assassination of John F. Kennedy in 1963.\n\nArticle II, Section 1 of the United States Constitution provides that:\n\nIn case of the removal of the President from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice President ... until the disability be removed, or a President elected.\n\nThis originally left open the question whether \"the same\" refers to \"the said office\" or only \"the powers and duties of the said office.\" Some historians, including Edward Corwin and John D. Feerick, have argued that the framers' intention was that the Vice President would remain Vice President while executing the powers and duties of the Presidency; however, there is also much evidence to the contrary, the most compelling of which is Article I, section 3, of the Constitution itself, the relevant text of which reads:",
+    "article_id": "826032032",
+    "article_title": "United States presidential line of succession",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Legislative regulation of head of state succession",
+    "1947 legal reforms governing national leadership succession",
+    "Constitutional provisions for dynastic vs. democratic succession"
+  ],
+  "initial_question": {
+    "rag_input": "Which specific 1947 laws govern the line of succession in the United States and Japan?",
+    "question": "Which specific 1947 laws govern the line of succession in the United States and Japan?",
+    "answer": "In the United States, succession is governed by the Presidential Succession Act of 1947, while in Japan, it is regulated by the Imperial Household Law of 1947.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "1947 legal reforms governing national leadership succession"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,1920 @@
+k5|Next_Basis
+3
+ 
+     Jetzt starten
+4
+ 
+     Sie haben Fragen? (FAQ)
+6
+ 
+          Benutzerverwaltung
+7
+ 
+          Mandantenverwaltung
+9
+ 
+          Fehlerhandling
+10
+ 
+          Datum und Zeiteingabe
+11
+ 
+     Programmfunktionen
+19
+ 
+          k5|Next_Admin
+20
+ 
+               Dashboard & Widgets
+21
+ 
+               Userverwaltung
+22
+ 
+                    Wie wird ein neuer User angelegt?
+23
+ 
+                         Anforderungen an die E-Mail-Adressen
+25
+ 
+                         Mitarbeiter ist entweder Administrator oder Fach-User
+26
+ 
+                         Mitarbeiter ist Administrator und Fach-User
+27
+ 
+               Rollen- & Rechtemanagement
+28
+ 
+                    Welche Rechte gibt es?
+29
+ 
+                    Rollenkonzept und Rollenarten
+31
+ 
+                         System-Rollen
+32
+ 
+                         Dienstleister-Rollen
+33
+ 
+                         Kunden-Rollen
+34
+ 
+                    Wie werden Kunden-Rollen erstellt?
+35
+ 
+                         Arbeiten mit Rollenvorlagen
+36
+ 
+                    Wie werden Rollen zugeordnet?
+37
+ 
+               Mandanten - Einstellungen
+38
+ 
+          k5|Next_Identity
+43
+ 
+               Benutzeraktivierung
+44
+ 
+               Benutzerprofil
+46
+ 
+               Zwei-Faktor-Authentifizierung
+47
+ 
+                    Einrichtung und Schaffen der Voraussetzungen
+48
+ 
+                    Authenticator App
+49
+ 
+                    Security Token
+51
+ 
+                    Windows Hello (PIN)
+52
+ 
+                    ID-Austria
+53
+ 
+               Zugangsdaten für andere Anwendungen
+55
+ 
+                    Kommunalnet Gemeinde
+56
+ 
+                    Portal Tirol Gemeinde
+57
+ 
+                    Portal Vorarlberg Gemeinde
+58
+ 
+          k5|Next_Person
+59
+ 
+               ZMR-Abgleich
+60
+ 
+          k5|Next_Sync
+62
+ 
+          Release Notes
+63
+ 
+               Release Dezember 2024
+64
+ 
+               Release Oktober 2024
+66
+ 
+               Release September 2024
+67
+ 
+
+               Release August 2024
+68
+ 
+               Release Juli 2024
+69
+ 
+               Release April 2024
+73
+ 
+               Release März 2024
+76
+ 
+               Release Feb 2024
+78
+ 
+               Release Jan 2024
+80
+ 
+               Release Dez 2023
+82
+ 
+               Release Sep 2023
+83
+ 
+               Release Aug 2023
+85
+ 
+
+3
+k5|Next_Basis
+k5|Next_Basis umfasst die Grundfunktionalitäten von k5|Next.
+ 
+
+4
+Jetzt starten
+Mit k5|Next stehen den Mitarbeitern einer Gemeinde eine Reihe von Applikationen zu Verfügung, mit deren Hilfe die täglichen 
+Verwaltungsaufgaben abgewickelt werden können. Die Verwaltung der Benutzer für k5|Next liegt in der Verantwortung der Gemeinde, die 
+Benutzeranlage und Rollenvergabe erfolgen durch den zuständigen Gemeinde-Administrator, welcher im Zuge der Mandantenanlage initial 
+vom Dienstleister einmalig angelegt wird.
+Benutzeraktivierung und 2FA
+Bevor sich ein User in k5|Next anmelden kann, muss dieser in k5|Next aktiviert werden und eine Variante der Zwei-Faktor-Authentifizierung 
+(2FA) eingerichtet werden. Die Authentifikation eines Benutzers kann auch über die ID-Austria erfolgen. Zum Kapitel 
+ 
+ Benutzeranlage
+Um User in k5|Next anlegen zu können, müssen bestimmte Voraussetzungen erfüllt sein. Eine der Voraussetzungen liegt in der 
+Eindeutigkeit der verwendeten E-Mail-Adresse. Zum Kapitel 
+ 
+Rollen & Rechtemanagement
+In k5|Next wird zwischen Rollen und Rechten unterschieden. Die Anlage und Vergabe von Rollen liegt ebenfalls im Zuständigkeitsbereich 
+des Kunden-Administrators. Zum Kapitel 
+ 
+
+5
+
+6
+Sie haben Fragen? (FAQ)
+Wir haben die Antworten - meistens.
+Für die häufigsten Fragen zu k5|Next_Basis finden Sie hier Antworten und für weitere Infos die Verweise auf die entsprechenden Kapitel in 
+unserer Hilfe. Sollte darüber hinaus Erklärungsbedarf bestehen, sind wir gerne jederzeit über unsere Hotline für Sie erreichbar.
+FAQs zu:
+Benutzerverwaltung
+Mandantenverwaltung
+Fehlerhandling
+k5|Next_Kontakt
+ 
+
+7
+Benutzerverwaltung
+Gibt es Grundvoraussetzungen für die Useranlage in k5|Next?
+Wie wird ein neuer User in k5|Next angelegt und aktiviert?
+Mein Aktivierungslink ist nicht mehr gültig, wie kann ich ihn erneut anfordern?
+Kann ein User in k5|Next ohne E-Mail-Adresse angelegt werden?
+Kann eine E-Mail-Adresse in k5|Next für mehrere User verwendet werden?
+Meine E-Mail Adresse hat sich geändert. Was ist zu tun?
+Ich habe mein Passwort vergessen, wie kann ich es zurücksetzen?
+Mein Benutzer wurde aufgrund zu vieler Anmeldeversuche gesperrt. Wie kann ich ihn entsperren?
+Wie kann ich meine 2FA-Methode zurücksetzen?
+Kann ich für meinen User mehr als eine 2FA-Methode einrichten?
+Kann ich die ID-Austria für mehrere Benutzer verwenden, z.B. für den Administrator und Fach-User?
+Wo werden die Zugangsdaten für andere Anwendungen (z.B. Stammportale) eingetragen?
+Wie wird ein User in k5|Next für Funktionen bzw. Module berechtigt?
+Ja. Um einen neuen User in k5|Next anlegen zu können, wird eine E-Mail-Adresse benötigt, deren Postfach eindeutig dieser Person 
+zugeordnet ist. Das kann auch eine (lesende) Alias-Adresse sein, die dem selben Postfach zugeordnet ist.
+Die Useranlage obliegt dem Gemeinde-Administrator und wird hier beschrieben. Der neue User erhält eine Aktivierungsmail und kann 
+die Useraktivierung durchführen.
+Sie können direkt im Aktivierungsfenster eine neue E-Mail mit einem gültigen Aktivierungslink anfordern.
+Nein. Eine eindeutig dieser Person zugeordnete E-Mail-Adresse ist Grundvoraussetzung für die Useranlage.
+Nein. Die E-Mail-Adresse ist in k5|Next Benutzername und ID. Sie darf nur einmal vorkommen und kann demnach nur einem User 
+zugeordnet werden.
+Der Gemeinde-Administrator hat die Möglichkeit, die E-Mail Adressen aller User zu ändern. Das passiert in der Benutzerverwaltung 
+unter Benutzer - Bearbeiten - Benutzer bearbeiten. Sobald die E-Mail Adresse geändert wurde, erhält der entsprechende User eine 
+Info-Mail und muss die Änderung bestätigen. Fortan dient die neue E-Mail Adresse als Benutzername für die Anmeldung.
+Klicken Sie in der Anmeldemaske zur Passworteingabe auf “Passwort vergessen?”. Per E-Mail erhalten Sie einen Link, mit dem Sie Ihr 
+Passwort neu vergeben können.
+Ihr Benutzer wird automatisch nach 30 Minuten entsperrt. Es ist keine weitere Aktion erforderlich.
+Ihr Gemeinde-Administrator kann für jeden User der eigenen Organisation (Anwender oder Administrator) vorhandene 2FA-Methoden 
+zurücksetzen. Beim nächsten Einstieg in k5|Next landen Sie in Ihrer Benutzerverwaltung und können dort eine neue 2FA-Variante 
+verknüpfen.
+Ja. Gemeinde-Administratoren sollten das in jedem Fall machen, da sonst bei Wegfall eines Faktors kein Einstieg in k5|Next mehr 
+möglich ist.
+Nein. Die ID-Austria kann nur einmal verwendet werden und kann daher nur einem Benutzer zugeordnet werden.
+Diese Zugangsdaten werden in k5|Next_Identity eingetragen.
+
+8
+Kann ich als Gemeinde-Administrator beliebige eigene Rollen anlegen?
+Ich bin Administrator und Fach-User, kann mein User für beide Bereiche berechtigt werden?
+Zur FAQ Übersicht
+ 
+Die Berechtigung in k5|Next wird über die Zuweisung von Rollen gesteuert und obliegt dem Gemeinde-Administrator. Die Beschreibung 
+finden Sie hier.
+Ja. Wenn Sie nicht mit Dienstleister-Rollen arbeiten wollen oder zusätzliche Rollen benötigen, können Sie diese anlegen. Infos dazu 
+finden Sie hier.
+Nein. Wollen Sie sowohl administrativ als auch fachlich tätig sein, benötigen Sie dafür in k5|Next zwei unterschiedliche User.
+
+9
+Mandantenverwaltung
+Die Amtssignatur der Gemeinde ist abgelaufen, was ist zu tun?
+Wie wird in k5|Next für meine Gemeinde ein (neues) Wappen hochgeladen?
+Zur FAQ Übersicht
+ 
+Bestellen oder verlängern Sie Ihre Amtssignatur und gehen Sie dabei wie im “Leitfaden Amtssignatur” vor. Für die Einbindung in 
+k5|Next wenden Sie sich an Ihren IT-Dienstleister.
+Das Hochladen eines Wappens wird vom Kunden-Administrator in der Verwaltungsumgebung durchgeführt. Navigieren Sie auf 
+Mandanten - Bearbeiten - Kontakt - Kontaktdaten bearbeiten, laden Sie das Wappen hoch und bestätigen Sie mit Speichern.
+
+10
+Fehlerhandling
+Ich sehe im Menü keine bzw. nicht alle Module, was nun?
+Der ZMR-/ UR-/ GWR-Abgleich und/oder Zugriff auf zentrale Register funktioniert nicht, was nun?
+Zur FAQ Übersicht
+ 
+Überprüfen Sie, ob:
+die gewünschten Module von Ihrer Gemeinde lizensiert wurden
+Ihr Gemeinde-Administrator die notwendigen Rollen für Sie vergeben hat
+Überprüfen Sie, ob Sie:
+Ihren entsprechenden Portalverbunds-User bei Ihren Zugängen für andere Anwendungen eingetragen haben (Stammportal / 
+Kommunalnet / Portal Vorarlberg)
+von Ihrem Gemeinde-Administrator die entsprechenden Rechte im jeweiligen Portalverbund erhalten haben
+
+11
+Datum und Zeiteingabe
+Folgende Formatierungen bei Datumseingaben werden dabei berücksichtigt:
+Jahreszehnerstellen (00-24) werden zu 20xx konvertiert und (25-99) werden zu 19xx wenn das aktuelles Jahr 2024 ist
+Trennzeichen ":"
+01:01:1970
+01.01.1970
+ 
+1:1:1970
+01.01.1970
+ 
+1:1:70
+01.01.1970
+ 
+01:01:70
+01.01.1970
+ 
+01.01.1970
+01.01.1970
+ 
+1:1:23
+01.01.2023
+ 
+01:01:23
+01.01.2023
+ 
+01 : 01 : 23
+01.01.2023
+ 
+01 : 01:99
+01.01.1999
+Trennzeichen "/"
+01/01/1970
+01.01.1970
+ 
+1/1/1970
+01.01.1970
+ 
+1/1/70
+01.01.1970
+ 
+01/01/70
+01.01.1970
+ 
+1/1/23
+01.01.2023
+ 
+01/01/23
+01.01.2023
+ 
+01 / 01 / 23
+01.01.2023
+ 
+01 / 01/99
+01.01.1999
+Trennzeichen "."
+01.01.1970
+01.01.1970
+ 
+1.1.1970
+01.01.1970
+ 
+1.1.70
+01.01.1970
+ 
+01.01.70
+01.01.1970
+ 
+1.1.23
+01.01.2023
+ 
+01.01.23
+01.01.2023
+ 
+01 . 01 . 23
+01.01.2023
+ 
+01 . 01.99
+01.01.1999
+Trennzeichen "-"
+01-01-1970
+01.01.1970
+ 
+aus
+wird
+
+12
+ 
+1-1-1970
+01.01.1970
+ 
+1-1-70
+01.01.1970
+ 
+01-01-70
+01.01.1970
+ 
+1-1-23
+01.01.2023
+ 
+01-01-23
+01.01.2023
+ 
+01 - 01 - 23
+01.01.2023
+ 
+01 - 01-99
+01.01.1999
+Trennzeichen "+"
+01+01+1970
+01.01.1970
+ 
+11+1+1970
+01.01.1970
+ 
+1+1+70
+01.01.1970
+ 
+01+01+70
+01.01.1970
+ 
+1+1+23
+01.01.2023
+ 
+01+01+23
+01.01.2023
+ 
+01 + 01 + 23
+01.01.2023
+ 
+01 + 01+99
+01.01.1999
+Trennzeichen "#"
+01#01#1970
+01.01.1970
+ 
+1#1#1970
+01.01.1970
+ 
+1#1#70
+01.01.1970
+ 
+01#01#70
+01.01.1970
+ 
+1#1#23
+01.01.2023
+ 
+01#01#23
+01.01.2023
+ 
+01 # 01 # 23
+01.01.2023
+ 
+01 # 01#99
+01.01.1999
+Trennzeichen ","
+01,01,1970
+01.01.1970
+ 
+1,1,1970
+01.01.1970
+ 
+1,1,70
+01.01.1970
+ 
+01,01,70
+01.01.1970
+ 
+1,1,23
+01.01.2023
+ 
+01,01,23
+01.01.2023
+ 
+01 , 01 , 23
+01.01.2023
+ 
+01 , 01,99
+01.01.1999
+Trennzeichen ";"
+01;01;1970
+01.01.1970
+
+13
+ 
+1;1;1970
+01.01.1970
+ 
+1;1;70
+01.01.1970
+ 
+01;01;70
+01.01.1970
+ 
+1;1;23
+01.01.2023
+ 
+01;01;23
+01.01.2023
+ 
+01 ; 01 ; 23
+01.01.2023
+ 
+01 ; 01;99
+01.01.1999
+Trennzeichen "_"
+01_01_1970
+01.01.1970
+ 
+1_1_1970
+01.01.1970
+ 
+1_1_70
+01.01.1970
+ 
+01_01_70
+01.01.1970
+ 
+1_1_23
+01.01.2023
+ 
+01_01_23
+01.01.2023
+ 
+01 _ 01 _ 23
+01.01.2023
+ 
+'01 _ 01_99
+01.01.1999
+Trennzeichen Leerzeichen
+01 01 1970
+01.01.1970
+ 
+1 1 1970
+01.01.1970
+ 
+1 1 70
+01.01.1970
+ 
+01 01 70
+01.01.1970
+ 
+1 1 23
+01.01.2023
+ 
+99 23
+FEHLER
+ 
+01 01 23
+01.01.2023
+Trennzeichen keins
+01011970
+01.01.1970
+ 
+111970
+FEHLER
+ 
+1170
+01.01.1970
+ 
+010170
+01.01.1970
+ 
+1123
+01.01.2023
+ 
+13123
+13.01.2023
+ 
+1
+FEHLER
+ 
+12
+FEHLER
+ 
+123
+FEHLER
+ 
+1270
+01.02.1970
+
+14
+Folgende Formatierungen bei Zeiteingaben werden dabei berücksichtigt:
+ 
+1223
+01.02.2023
+ 
+1166
+01.01.1966
+ 
+9923
+09.09.2023
+ 
+4523
+04.05.2023
+ 
+7070
+FEHLER
+ 
+12720
+12.07.2020
+ 
+11120
+11.01.2020
+ 
+41223
+04.12.2023
+ 
+41270
+04.12.1970
+ 
+010123
+01.01.2023
+ 
+1122023
+11.02.2023
+ 
+3222023
+FEHLER
+ 
+12dg
+FEHLER
+ 
+fghfghd
+FEHLER
+ 
+Leerstring
+FEHLER
+Trennzeichen ":"
+1:12
+01:12
+ 
+ 
+12:1
+12:01
+ 
+ 
+1:1
+01:01
+ 
+ 
+11:125
+00:00
+ 
+ 
+125:12
+00:00
+ 
+ 
+1255:
+12:55
+ 
+ 
+1255:1255
+00:00
+ 
+ 
+1255:dfgdfg
+00:00
+ 
+Trennzeichen "/"
+11/12
+11:12
+ 
+ 
+1/12
+01:12
+ 
+ 
+12/1
+12:01
+ 
+ 
+1/1
+01:01
+ 
+ 
+11/125
+00:00
+ 
+ 
+125/12
+00:00
+ 
+ 
+aus
+wird
+ 
+
+15
+ 
+1255/
+12:55
+ 
+ 
+1255/1255
+00:00
+ 
+ 
+1255/dfgdfg
+00:00
+ 
+Trennzeichen "."
+11.12
+11:12
+ 
+ 
+1.12
+01:12
+ 
+ 
+12.1
+12:01
+ 
+ 
+1.1
+01:01
+ 
+ 
+11.125
+00:00
+ 
+ 
+125.12
+00:00
+ 
+ 
+1255.
+12:55
+ 
+ 
+1255.1255
+00:00
+ 
+ 
+1255.dfgdfg
+00:00
+ 
+Trennzeichen "-"
+11-12
+11:12
+ 
+ 
+1-12
+01:12
+ 
+ 
+12-1
+12:01
+ 
+ 
+1-1
+01:01
+ 
+ 
+11-125
+00:00
+ 
+ 
+125-12
+00:00
+ 
+ 
+1255-
+12:55
+ 
+ 
+1255-1255
+00:00
+ 
+ 
+1255-dfgdfg
+00:00
+ 
+Trennzeichen "+"
+11+12
+11:12
+ 
+ 
+1+12
+01:12
+ 
+ 
+12+1
+12:01
+ 
+ 
+1+1
+01:01
+ 
+ 
+11+125
+00:00
+ 
+ 
+125+12
+00:00
+ 
+ 
+1255+
+12:55
+ 
+ 
+1255+1255
+00:00
+ 
+ 
+1255+dfgdfg
+00:00
+ 
+Trennzeichen "#"
+11#12
+11:12
+ 
+ 
+1#12
+01:12
+ 
+
+16
+ 
+12#1
+12:01
+ 
+ 
+1#1
+01:01
+ 
+ 
+11#125
+00:00
+ 
+ 
+125#12
+00:00
+ 
+ 
+1255#
+12:55
+ 
+ 
+1255#1255
+00:00
+ 
+ 
+1255#dfgdfg
+00:00
+ 
+Trennzeichen ","
+11,12
+11:12
+ 
+ 
+1,12
+01:12
+ 
+ 
+12,1
+12:01
+ 
+ 
+1,1
+01:01
+ 
+ 
+11,125
+00:00
+ 
+ 
+125,12
+00:00
+ 
+ 
+1255,
+12:55
+ 
+ 
+1255,1255
+00:00
+ 
+ 
+1255,dfgdfg
+00:00
+ 
+Trennzeichen ";"
+11;12
+11:12
+ 
+ 
+1;12
+01:12
+ 
+ 
+12;1
+12:01
+ 
+ 
+1;1
+01:01
+ 
+ 
+11;125
+00:00
+ 
+ 
+125;12
+00:00
+ 
+ 
+1255;
+12:55
+ 
+ 
+1255;1255
+00:00
+ 
+ 
+1255;dfgdfg
+00:00
+ 
+Trennzeichen "_"
+11_12
+11:12
+ 
+ 
+1_12
+01:12
+ 
+ 
+12_1
+12:01
+ 
+ 
+1_1
+01:01
+ 
+ 
+11_125
+00:00
+ 
+ 
+125_12
+00:00
+ 
+ 
+1255_
+12:55
+ 
+
+17
+ 
+1255_1255
+00:00
+ 
+ 
+1255_dfgdfg
+00:00
+ 
+Trennzeichen 
+Leerzeichen
+11_12
+11:12
+ 
+ 
+1_12
+01:12
+ 
+ 
+12_1
+12:01
+ 
+ 
+1_1
+01:01
+ 
+ 
+11_125
+00:00
+ 
+ 
+125_12
+00:00
+ 
+ 
+1255_
+12:55
+ 
+ 
+1255_1255
+00:00
+ 
+ 
+1255_dfgdfg
+00:00
+ 
+ 
+5_
+05:00
+ 
+ 
+_112
+11:02
+ 
+Trennzeichen keins
+1112
+11:12
+ 
+ 
+11125
+00:00
+ 
+ 
+11
+11:00
+Da die Ziffern gesamt 
+(11) < 23h ist, wird es als 
+11:00 interpretiert
+ 
+35
+03:05
+Da die Ziffern gesamt 
+(35) > 23h ist, wird es als 
+03:05 interpretiert
+ 
+5
+05:00
+ 
+ 
+112
+11:02
+Da die ersten beiden 
+Ziffern (11) < 23h ist, 
+wird es als 11:02 
+interpretiert
+ 
+630
+06:30
+Da die ersten beiden 
+Ziffern (63) > 23h ist, 
+wird es als 06:30 
+interpretiert
+ 
+dfgdfg
+00:00
+ 
+ 
+12551255
+00:00
+ 
+ 
+12dg
+00:00
+ 
+ 
+fghfghd
+00:00
+ 
+ 
+null
+00:00
+ 
+
+18
+ 
+ 
+""
+00:00
+ 
+
+19
+Programmfunktionen
+k5|Next_Basis umfasst die Grundfunktionalitäten von k5|Next.
+k5|Next_Admin: Als Gemeinde-Administrator sind Sie für die Userverwaltung und damit auch für das Rollen- & Rechtemanagement 
+verantwortlich.
+k5|Next_Identity: Für jeden User gibt es ein eigenes Userkonto, in welchem die userspezifischen Parameter gepflegt werden. Neben 
+Benutzername und Passwort werden hier Zwei-Faktor-Authentifizierungsmethoden und die Zugänge für andere Anwendungen (ZMR, 
+AGWR) konfiguriert.
+k5|Next_Sync: Im Hintergrund findet zwischen k5|Next und den angebundenen k5 Fachapplikationen und externen Anwendungen ein 
+Datenaustausch statt.
+k5|Next_Person: Die Grundfunktionalität der Zentralen Person wird durch dieses Modul abgedeckt. Kerndaten, die für den Austausch 
+zwischen den k5 Fachapplikationen vorgesehen sind, stehen damit zur Verfügung. Ergänzend dazu bietet aber erst k5|Next_Kontakt den 
+vollen Funktionsumfang in der Kontaktverwaltung.
+
+20
+k5|Next_Admin
+Dashboard & Widgets
+Userverwaltung
+Rollen- & Rechtemanagement
+Mandanten - Einstellungen
+
+21
+Dashboard & Widgets
+Auf der “Home”-Seite der k5|Next_Administration ist es möglich, Widgets auf das Dashboard zu legen. Diese Widgets können teilweise 
+auch mehrfach zum Dashboard hinzugefügt werden und mit unterschiedlichen Einstellungen versehen werden.
+Zum aktuellen Zeitpunkt gibt es folgende Widgets:
+Monitoring
+Im Monitoring-Widget werden relevante Informationen zu verschiedenen Funktionen, wie z.B. dem ZMR-Abgleich oder dem AGWR-Import 
+angezeigt. Es wird immer eine aktuelle Meldung pro Mandant angezeigt, alle vorherigen Meldungen können mit Historie anzeigen 
+eingeblendet werden.
+ 
+Die Meldungen werden kategorisiert und in Fehler, Warnung oder OK-Meldung eingestuft und farblich dargestellt. Nach diesen kann mittels 
+Klicks darauf auch gefiltert werden. Ebenso können Informationen über das Suchfeld eingegeben werden, und dann nur Monitoring 
+Einträge zu einem bestimmten Thema oder einer bestimmten Gemeinde angezeigt werden (wenn Sie für mehrere Gemeinden 
+verantwortlich sind).
+ 
+
+22
+Userverwaltung
+In k5|Next wird zwischen administrativen und fachlichen Usern unterschieden. Ein User kann dabei nie administrative und fachliche Rollen 
+gleichzeitig besitzen. Dieses Konzept der Usertrennung wurde aus Gründen der Datensicherheit gewählt.
+Die Anlage eines Users erfolgt in beiden Fällen grundsätzlich gleich und wird hier beschrieben. Sobald ein User angelegt ist, kann dieser mit 
+Rollen ausgestattet werden. Diese steuern die Berechtigungen des Users in den einzelnen Modulen und bestimmen, ob es sich in weiterer 
+Folge um einen Kunden-Administrator oder um einen Fach-User handelt.
+Kunden-Administrator
+Ist für die administrativen Aufgaben zuständig und kümmert sich um:
+Pflege der Gemeindeparameter in k5|Next (Kennzahlen, Adresse, Kontaktdaten, etc.)
+Verwaltung der vorhandenen Zustimmungsbereiche
+Rollen- und Rechtemanagement: Rollen anlegen und mit Rechten ausstatten, Rollen bearbeiten, Rollen löschen
+Userverwaltung: User anlegen und berechtigen, User bearbeiten, User löschen
+Fach-User
+Arbeitet fachlich in den Modulen, für die von Seiten des Kunden-Administrators eine Berechtigung erteilt wurde.
+
+23
+Wie wird ein neuer User angelegt?
+Um einen neuen User anzulegen, melden Sie sich mit Ihrem Kunden-Administrator in k5|Next an und navigieren Sie auf Benutzer (1) und 
+ (Benutzer hinzufügen) (2).
+Geben Sie eine E-Mail-Adresse ein (1) und bestätigen Sie mit Weiter (2). Die E-Mail-Adresse dient als Benutzername bei der Anmeldung. 
+Darüber hinaus erhält der User auf diese Adresse die E-Mail zur Benutzeraktivierung und alle zukünftigen System-Mails von k5|Next (z.B. 
+bei Änderungen am User, Neuvergabe des Kennworts oder Aktivierung von 2FA-Varianten).
+Bei der Anlage von neuen Usern darf die ausgewählte E-Mail Adresse noch nicht vergeben sein. In diesem Fall erhalten Sie den (korrekten) 
+Hinweis:
+Befüllen Sie die Pflichtfelder (1-3) das Benutzers und ergänzen Sie bei Bedarf die optionalen Felder. Sie können den neuen User in diesem 
+Zug auch gleich gültig setzten, in dem Sie ein “Gültig von”-Datum eintragen (4). Mit Klick auf Anlegen (5) wird der User in k5|Next angelegt.
+
+24
+Wurde das “Gültig von”-Datum mit dem aktuellen Tag eingetragen, erhält der User unmittelbar nach Anlage ein E-Mail. Dieses beinhaltet 
+einen Aktivierungs-Link, über welchen der User aktiviert werden kann.
+Wurde in diesem Zug kein “Gültig von”-Datum eingetragen, wird der User zwar angelegt, steht jedoch auf “ungültig”. Sie können den User 
+auch zu einem späteren Zeitpunkt gültig setzen. Erst mit dem ersten Tag der Gültigkeit wird die E-Mail mit dem Aktivierungslink versendet 
+und kann dann die Useraktivierung durchgeführt werden.
+
+25
+Anforderungen an die E-Mail-Adressen
+In k5|Next werden E-Mail-Adressen gleichermaßen als Benutzername und ID zur Benutzeranlage für einen User verwendet. Es gilt folgende 
+Voraussetzung:
+Besitzt eine Person mehr als eine E-Mail-Adresse, die für ein oder mehrere Postfächer registriert sind, und die alle eindeutig dieser 
+Person zugeordnet sind, dürfen diese Adressen im Wege der Benutzeranlagen verwendet werden. Damit eröffnet sich die Möglichkeit, mit 
+Alias-Adressen zu arbeiten.
+Beispiel
+Eine Person besitzt die Adresse nachname@gemeinde.at. Diese Adresse ist auf das Postfach nachname@gemeinde.at registriert. Es kann 
+eine Alias-Adresse nachname.admin@gemeinde.at angelegt werden, die ebenso auf das Postfach nachname@gemeinde.at registriert wird. 
+Beide Adressen sind somit über das Postfach eindeutig dieser Person zugeordnet und dürfen für die Benutzeranlage in k5|Next verwendet 
+werden.
+Das Postfach, auf welche die E-Mail-Adresse registriert ist, muss eindeutig EINER Person, bzw. EINEM User zugewiesen sein.
+
+26
+Mitarbeiter ist entweder Administrator oder Fach-User
+Betrifft Personen in der Gemeinde, die in k5|Next:
+rein administrativ tätig sind aber keine fachlichen Aufgaben erledigen
+ODER
+rein fachliche Aufgaben erledigen aber nicht administrativ tätig sind
+Unter Voraussetzung der Anforderungen an die E-Mail-Adressen dürfen vorhandene E-Mail-Adressen für die Useranlage verwendet 
+werden.
+Beispiel
+Eine Person besitzt die Adressen nachname@gemeinde.at und/oder abteilung@gemeinde.at und diese sind über das Postfach/die 
+Postfächer eindeutig dieser Person zugeordnet. So kann eine der beiden E-Mail-Adressen für die Benutzeranlage verwendet werden, 
+jedoch ist die personifizierte Adresse nachname@gemeinde.at zu bevorzugen.
+
+27
+Mitarbeiter ist Administrator und Fach-User
+Betrifft Personen in der Gemeinde, die in k5|Next:
+administrativ tätig sind UND fachliche Aufgaben erledigen
+Zwei E-Mail-Adressen sind vorhanden
+Verfügt die Person bereits über zwei unterschiedliche E-Mail-Adressen, dürfen diese unter Voraussetzung der Anforderungen an die E-Mail-
+Adressen für die Useranlagen verwendet werden.
+Beispiel
+Eine Person besitzt die Adressen abteilung@gemeinde.at und nachname@gemeinde.at. Beide Adressen sind über die Postfächer eindeutig 
+dieser Person zugeordnet. Für die Anlage eines Administrators ist die personifizierte E-Mail-Adresse zu präferieren, in diesem Fall 
+nachname@gemeinde.at. Der Fach-User wird dann mit abteilung@gemeinde.at angelegt.
+Hinweis
+Um beide User mit personifizierten und nachvollziehbaren E-Mail-Adressen anzulegen, kann (unter überschaubarem Mehraufwand der 
+Anlage einer Alias-Adresse) auf die allgemeine Abteilungsadresse verzichtet werden. Im konkreten Beispiel würde:
+für den fachlichen User die Adresse nachname@gemeinde.at verwendet
+und
+eine zusätzliche Alias-Adresse nachname.admin@gemeinde.at für den Administrator angelegt
+Eine E-Mail-Adresse ist vorhanden
+Verfügt die Person über eine E-Mail-Adresse, darf diese unter Voraussetzung der Anforderungen an die E-Mail-Adressen für die Useranlage 
+des ersten Users verwendet werden.
+Für den zweiten User kann:
+Eine weitere E-Mail-Adresse als Alias auf dasselbe Postfach angelegt werden
+oder
+Eine neue E-Mail-Adresse auf ein eigenes Postfach angelegt werden
+Beispiel
+Eine Person besitzt die Adresse nachname@gemeinde.at. Die Adresse ist über das Postfach eindeutig dieser Person zugeordnet. Diese 
+Adresse kann für die Anlage des ersten Users verwendet werden. Für die Anlage des zweiten Users (z.B. Administrators) gibt es zwei 
+Möglichkeiten:
+Es kann eine weitere Adresse nachname.admin@gemeinde.at als Alias auf dasselbe Postfach angelegt werden
+Es kann eine neue Adresse nachname.admin@gemeinde.at auf ein eigenes Postfach angelegt werden
+
+28
+Rollen- & Rechtemanagement
+Um User in k5|Next für bestimmte Module zu berechtigen, können Rollen vergeben werden. Rollen setzen sich aus einem oder mehreren 
+Rechten zusammen und können Usern zugewiesen werden. Auf diesem Weg ist es möglich, Benutzer durch Zuweisung einer zuvor 
+erstellten Rolle für mehrere – auch modulübergreifende – Tätigkeiten zu berechtigen.
+ 
+
+29
+Welche Rechte gibt es?
+Rechte in k5|Next sind exklusiv. D.h. kein Recht impliziert ein anderes, sondern jedes Recht steht für sich allein.
+Beispiel: Das Recht Kontakt bearbeiten allein berechtigt nicht zum lesen. Soll ein User Kontakte bearbeiten können, benötigt dieser beide 
+Rechte: Kontakt lesen und Kontakt bearbeiten.
+Die nachstehenden Rechte stehen in k5|Next zur Verfügung. Auf Basis dieser Rechte können Rollen erstellt und Usern in Ihrer Organisation 
+zugewiesen werden.
+Bundesland Spezifika
+Oberösterreich, Niederösterreich
+Person lesen
+Ermöglicht das Lesen von Personendaten
+Person bearbeiten
+Ermöglicht das Anlegen und Bearbeiten von Personendaten
+Person löschen
+Ermöglicht das Löschen von Personendaten
+Kontakt lesen
+Ermöglicht das Lesen von Kontaktdaten
+Kontakt bearbeiten
+Ermöglicht das Anlegen und Bearbeiten von Kontaktdaten
+Kontakt löschen
+Ermöglicht das Löschen von „nicht registergebundenen“ Adressen, 
+Kontaktdaten, Ansprechpartnern, Tags und Notizen
+Adresse lesen
+Ermöglicht das Lesen von gemeindeeigenen Adressen
+Adresse bearbeiten
+Ermöglicht den Import von gemeindeeigenen Adressen und deren 
+Aktualisierung
+Sprengel lesen
+Ermöglicht das Lesen von Sprengeldaten
+Sprengel bearbeiten
+Ermöglicht das Anlegen und Bearbeiten von Sprengeldaten
+Sprengel löschen
+Ermöglicht das Löschen von Sprengeldaten
+Wahldaten lesen
+Ermöglicht das Lesen von Wahldaten. Funktioniert nur, wenn 
+„Sprengel lesen“ ebenfalls vergeben wird.
+Wahldaten bearbeiten
+Ermöglicht das Anlegen und Bearbeiten von Wahldaten. Volle 
+Funktion, wenn Sprengel lesen und Adresse lesen ebenfalls vergeben 
+sind.
+Informationen von ZMR-Abgleich 
+lesen
+Ermöglicht das Anzeigen der Informationen vergangener ZMR 
+Abgleiche (beim fachlichen User unter “Konfiguration” - “ZMR 
+Abgleich”)
+ZMR-Gesamtabgleich durchführen
+Ermöglicht das Durchführen eines ZMR Gesamtabgleichs. Das Recht 
+“Informationen vom ZMR-Abgleich” lesen ist dazu auch notwendig!
+Recht
+Auswirkung
+Recht
+Auswirkung
+
+30
+Wahltag lesen
+Ermöglicht das Öffnen des Moduls Wahltag
+Wahltag bearbeiten
+Ermöglicht das Konfigurieren von Einstellungen im Modul Wahltag
+
+31
+Rollenkonzept und Rollenarten
+In k5|Next wird zwischen Administrativen Rollen und Fachlichen Rollen unterschieden.
+Administrative Rollen: berechtigen für administrative Aufgaben wie z.B. Einstieg auf die Administrationsumgebung, Pflege der 
+Gemeindeparameter, Userverwaltung, Rollen & Rechteverwaltung
+Fachliche Rollen: berechtigen für fachliche Aufgaben wie z.B. die Verwaltung von Kontaktdaten in k5|Next_Kontakt oder 
+Wahlvorbereitung in k5|Next_Wahl
+Besitzt ein Benutzer bereits Fachliche Rollen, können keine Administrativen Rollen mehr vergeben werden, und umgekehrt. So ist es 
+möglich, einen Benutzer durch Rollenzuweisung zum Administrator zu erheben, gleichzeitig wird es diesem Benutzer aber unmöglich, 
+fachliche Aufgaben zu erfüllen.
+Darüber hinaus wird zwischen System-Rollen, Kunden-Rollen und Dienstleister-Rollen unterschieden, die Erstellung und Bearbeitung 
+erfolgt im Menü „Rollen“.
+System-Rollen: sind von k5|Next vorgegeben und können eingesehen, aber nicht verändert werden.
+Dienstleister-Rollen: werden vom Dienstleister der Gemeinde erstellt. Für Änderungen und Anpassungen an diesen Rollen ist der 
+Dienstleister zuständig, die Hoheit und Verantwortung für Korrektheit und Vollständigkeit liegt auf Seite des Dienstleisters.
+Kunden-Rollen: werden vom Kunden-Administrator der Gemeinde erstellt. Für Änderungen und Anpassungen an diesen Rollen ist die 
+Kunden-Administration zuständig, die Hoheit und Verantwortung für Korrektheit und Vollständigkeit liegt auf Seite der Gemeinde.
+Einem Benutzer können entweder Fachliche Rollen oder Administrative Rollen hinzugefügt werden, niemals beide. 
+
+32
+System-Rollen
+Diese Rollen werden bei der Installation von k5|Next vorgegeben und stehen von Beginn an zur Verfügung. Sie sind weder durch Kunden, 
+noch durch Dienstleister veränderbar.
+System-Rollen werden den Usern direkt zugeordnet und Änderungen an diesen Rollen werden automatisch vererbt. Rechte, die über 
+System-Rollen vergeben werden, können nicht manuell anderen Rollen zugeordnet werden. Somit können System-Rollen auch nicht mit 
+anderen Rollen verschachtelt werden, d.h. sie können nicht in andere Rollen eingebunden werden.
+Folgende administrativen System-Rollen stehen auf Seite des Kunden momentan zur Verfügung:
+Folgende fachlichen System-Rollen stehen auf Seite des Kunden momentan zur Verfügung:
+ 
+Kunden-Administrator
+Ein Kunden-Administrator darf den Bereich Administration in k5|Next 
+aufrufen (admin.k5next.at) und ist für die Userverwaltung und das 
+Rollenmanagement innerhalb der Gemeinde (bzw. innerhalb einer 
+Verwaltungsgemeinschaft) verantwortlich.
+Rolle
+Auswirkung
+Basisbenutzer
+ 
+Datenschutzbeauftragter
+ 
+Rolle
+Auswirkung
+
+33
+Dienstleister-Rollen
+Diese Rollen werden vom Dienstleister definiert und sind für alle von diesem Dienstleister betreuten Mandanten einheitlich und sichtbar. Der 
+Kunden-Administrator kann diese Rollen den Benutzern direkt zuordnen. Änderungen darf nur der Dienstleister vornehmen und diese 
+werden vererbt, wirken sich also sofort auf die Kunden aus.
+ 
+Dienstleister-Rollen sind dynamisch. Sollte es zukünftig (z.B. aufgrund von Änderungen der Rechtestruktur in k5|Next und 
+verbundenen Fremdapplikationen) notwendig sein, die Rollen um einzelne Rechte zu erweitern oder vorhandene Rechte zu 
+entfernen, wird dies vom Dienstleister durchgeführt und Änderungen greifen sofort bei allen Kunden. (Im Gegensatz zu Kunden-
+Rollen)
+
+34
+Kunden-Rollen
+Kunden-Rollen können vom Kunden-Administrator für jene Mandanten, für die er berechtigt ist, definiert und angelegt werden. Eine Kunden-
+Rolle wird dabei jeweils für genau einen Mandanten erstellt und kann im Anschluss allen Usern dieses Mandanten zugeordnet werden.
+Für die Erstellung von Kunden-Rollen hat der Dienstleister die Möglichkeit, Rollenvorlagen anzubieten. Diese Vorlagen können Ihnen dabei 
+helfen, geeignete Rechtegruppen für Ihre Rollen zu definieren. Sie können, sofern Sie mit Vorlagen arbeiten wollen, die Vorauswahl der 
+Rechte bei der Anlage auch verändern und für Ihre Organisation ganz individuelle Rollen erstellen.
+ 
+Beachten Sie, dass es sich bei Kunden-Rollen (auch unter Verwendung von Rollenvorlagen) um statische Rollen handelt und diese 
+sich nicht verändern. Sollte es zukünftig (z.B. aufgrund von  Änderungen der Rechtestruktur in k5|Next und verbundenen 
+Fremdapplikationen) notwendig sein, die Rollen um einzelne Rechte zu erweitern oder vorhandene Rechte zu entfernen, muss dies 
+manuell vom Kunden-Administrator durchgeführt werden. (im Gegensatz zu Dienstleister-Rollen)
+
+35
+Wie werden Kunden-Rollen erstellt?
+System-Rollen oder Dienstleister-Rollen stehen bereits von Beginn an zur Verfügung und können den Usern in Ihrer Organisation 
+zugeordnet werden. Sollen User in Ihrer Organisation zusätzlich mit individuellen Rollen ausgestattet werden, müssen diese zuvor vom 
+Kunden-Administrator erstellt werden. Dies wird im Menü Rollen der Administrationsumgebung durch Klick auf Plus (Rolle hinzufügen) 
+angestoßen:
+Wenn Sie mit Rollenvorlagen arbeiten, können Sie eine Vorlage wählen (optional).
+Da Rollen immer auf den Mandant bezogen angelegt werden, muss dieser bei der Erstellung per Pflichtfeld ausgewählt werden (1).
+Außerdem muss für die Rolle ein Name angegeben werden (2). Optional können Sie eine Rollenbeschreibung erfassen.
+Weisen Sie die Rechte durch Setzen der Checkboxes zu (3).
+Mit Speichern schließen Sie die Rollenerstellung ab (4).
+ 
+
+36
+Arbeiten mit Rollenvorlagen
+Sofern vom Dienstleister zur Verfügung gestellt, kann mit Hilfe der Rollenvorlagen ein bereits erstellter Satz an Berechtigungen für diverse 
+Kategorien bzw. Module übernommen werden. Nach Wahl der entsprechenden Vorlage werden die Felder Name und Beschreibung befüllt, 
+sowie eine Vorauswahl der vorhandenen Rechte gesetzt. Es muss nur der Mandant manuell ausgewählt werden, da Rollen 
+mandantenbezogen erstellt werden.
+Diese Vorauswahl der Rechte, sowie Mandant, Name und Beschreibung, kann übernommen oder beliebig verändert werden. Mit Speichern 
+wird die Rollenerstellung abgeschlossen.
+ 
+
+37
+Wie werden Rollen zugeordnet?
+Damit ein User in k5|Next arbeiten kann, muss mindestens eine Rolle zugeordnet werden. Damit wird gesteuert, welche Module und 
+Applikationen ein Benutzer aufrufen darf und welche Rechte – wie z.B. Lesen oder Schreiben – der Benutzer in den entsprechenden 
+Applikationen besitzt.
+System-Rollen oder Dienstleister-Rollen können direkt zugeordnet werden. Um eine Kunden-Rolle zuzuordnen, muss diese im Vorfeld 
+erstellt werden. 
+Die Zuordnung von Rollen wird wie folgt durchgeführt:
+Navigieren Sie in der Administrationsumgebung im Menü auf Benutzer (1).
+Wählen Sie den entsprechenden User, Sie können dafür die Suche verwenden (2), und klicken Sie auf 
+ (bearbeiten) (3).
+Wählen Sie je nach dem, ob es sich um einen fachlichen oder administrativen User handelt, den entsprechenden Reiter. In diesem Fall 
+Fachliche Rollen (1).
+Mittels Klicks auf 
+ (Fachliche Rollen hinzufügen) gelangen Sie zur Zuordnungsmaske (2).
+Wählen Sie Ihren Mandant (3) und die entsprechende Rolle (4), mit “gültig bis” können Sie optional auch ein Ablaufdatum setzen.
+Bestätigen Sie die Zuordnung mit Speichern (5).
+Die Zuordnung administrativer Rollen funktioniert auf gleichem Weg.
+Einem User können entweder Fachliche Rollen oder Administrative Rollen hinzugefügt werden, niemals beide. Mehr Informationen 
+dazu unter Rollenkonzept und Rollenarten.
+
+38
+Mandanten - Einstellungen
+Kontakt
+Kennziffern / Signatur
+Kennzahlen
+Amtssignatur
+Applikationseinstellungen
+Erscheinungsbild
+Kontakt
+Im Menü Mandanten im Abschnitt Kontakt können Sie im Bereich BürgermeisterIn die Bürgermeister-Daten eintragen. Unter 
+Kontaktdaten werden die Adressdaten der Gemeinde, sowie Kontakte wie E-Mail-Adresse oder Telefonnummer eingetragen.
+Auch könne Sie hier ein Logo oder Wappen der Gemeinde hinzufügen. Das dient zum einen der optischen Aufwertung der 
+Mandantendarstellung in k5|Next. Zum anderen nutzen Applikationen wie k5|Next_Wahl dieses Bild für den Andruck bei bestimmten 
+Reports. Durch Klick auf Logo hochladen gelangen Sie in den Auswahldialog, wo Sie die entsprechende Datei auswählen und 
+übernehmen können.
+Kennziffern / Signatur
+In diesem Bereich werden gemeindespezifischen Kennzahlen eingetragen und (falls vorhanden) die Amtssignatur hinterlegt.
+Bitte achten Sie bei der Datei um eine höchstmögliche Qualität/Auflösung. Diese wird unter anderem für den Druck der 
+Wahlinformation verwendet.
+
+39
+Kennzahlen
+Mit Klick auf bearbeiten werden hier die folgenden Kennzahlen eingetragen: Behördenkennzahl, Behördenschlüssel, VKZ, Creditor-ID
+Amtssignatur
+Für die Einrichtung bzw. Verwendung der Amtssignatur wird Folgendes benötigt:
+Das gültige Signaturzertifikat (File mit der Spezifikation PCKS12)
+Das Passwort für das Signaturzertifikat
+Die Bildmarke
+Im Reiter Kennziffern / Signatur gibt es den Unterbereich Amtssignatur. Die Amtssignatur lässt sich durch einen Klick auf das Bleistift-
+Symbol bearbeiten.
+Sollten Sie Ihre Creditor-ID, sowie die weiteren Kennzahlen nicht kennen, finden Sie diese in den Gemeindedaten in k5 
+Finanzmanagement:
+
+40
+Anschließend können Zertifikat und Bildmarke hochgeladen sowie das Kennwort eingetragen werden. Der Signatur Hinweistext muss 
+manuell von Ihnen eingetragen werden. Wir empfehlen, dass Sie hier noch den Zusatz „Dieses Dokument wurde amtssigniert“ hinzufügen.
+Beispiel für einen Hinweistext: Dieses Dokument wurde amtssigniert. Informationen zur Verifizierung des Ausdrucks finden Sie unter: 
+https://www.gemeinde.at/amtssignatur
+Falls Sie die Amtssignatur im LMR bereits in Verwendung hatten, können Sie den bisherigen Signatur Hinweistext aus den LMR-
+Auswertungen unter Administration - Parameter -Wahlparameter kopieren. Wurden alle Eingaben gemacht, kann die Amtssignatur 
+übernommen und gespeichert werden.
+Applikationseinstellungen
+Im Bereich Adressierung kann die Schreibweise nach der Postleitzahl für die gemeindeeigenen Adressen eingestellt werden. Mit Klick auf 
+bearbeiten können Sie die Einstellung vornehmen, vier Möglichkeiten stehen Ihnen zur Verfügung:
+Gemeindename (Standard)
+Gemeindename, Ortsname zusätzlich als eigene Zeile
+Ortsname
+Ortsname, bei gleicher Straßenbezeichnung Gemeindename
+Nachfolgend werden die Auswirkungen der entsprechenden Einstellungen anhand von 2 Beispielen beschrieben:
+Einstellung: Gemeindename (Standard)
+Es wird immer der Gemeindename nach der PLZ angezeigt.
+Beispiel 1
+Straßenbezeichnung = Hauptstraße
+Hausnummer = 5
+Ortsname = Oberdorf
+Gemeindebezeichnung = Musterhausen
+Beispiel 2
+Straßenbezeichnung = Oberdorf
+Hausnummer = 5
+Ortsname = Oberdorf
+Gemeindebezeichnung = Musterhausen
+
+41
+Erscheinungsbild
+Im Bereich Erscheinungsbild haben Sie die Möglichkeit, die Darstellung Ihres Mandanten im Hauptmenü optisch anzupassen. Zur 
+Auswahl stehen drei Möglichkeiten, diese lassen sich nach Klick auf das Bleistift-Symbol auswählen:
+Gemeindename
+Gemeindename + Logo/Wappen
+nur Logo/Wappen
+Hauptstraße 5 
+9999 Musterhausen
+einzeilig:    Hauptstraße 5, 9999 Musterhausen
+Oberdorf 5 
+9999 Musterhausen
+einzeilig:    Oberdorf 5, 9999 Musterhausen
+Einstellung: Gemeindename, Ortsname zusätzlich als eigene Zeile
+Es wird immer der Gemeindename nach der PLZ angezeigt, im Adresskopf wird nach Straße/Hausnummer 
+in einer eigenen Zeile der Ortsname angezeigt. Falls Straßenname = Ortsname, dann wird der Ortsname 
+NICHT zusätzlich angezeigt.
+Hauptstraße 5
+Oberdorf
+9999 Musterhausen
+einzeilig:    Hauptstraße 5, 9999 Musterhausen
+Oberdorf 5
+9999 Musterhausen
+einzeilig:    Oberdorf 5, 9999 Musterhausen
+Einstellung: Ortsname
+Es wird immer der Ortsname nach der PLZ angezeigt.
+Hauptstraße 5
+9999 Oberdorf
+einzeilig:    Hauptstraße 5, 9999 Oberdorf
+Oberdorf 5
+9999 Oberdorf
+einzeilig:    Oberdorf 5, 9999 Oberdorf
+Einstellung: Ortsname, bei gleicher Straßenbezeichnung Gemeindename
+Es wird der Ortsname nach der PLZ angezeigt. Falls Ortsname = Straßenbezeichnung, dann wird der 
+Gemeindename angezeigt.
+Hauptstraße 5
+9999 Oberdorf
+einzeilig:    Hauptstraße 5, 9999 Oberdorf
+Oberdorf 5
+9999 Musterhausen
+einzeilig:    Oberdorf 5, 9999 Musterhausen
+
+42
+Sobald Sie Ihre Auswahl speichern, wird die Darstellung für alle User in Ihrer Organisation entsprechend angepasst.
+ 
+ 
+
+43
+k5|Next_Identity
+Benutzeraktivierung
+Benutzerprofil
+Zwei-Faktor-Authentifizierung
+Zugangsdaten für andere Anwendungen
+
+44
+Benutzeraktivierung
+Sobald vom Gemeindeadministrator ein User in k5|Next angelegt wird, wird eine Aktivierungs-Mail ausgelöst und dem neuen User auf eben 
+jene E-Mail-Adresse zugestellt, welche als Benutzername im Zuge der Anlage gewählt wurde. Mit Klick auf „Benutzer aktivieren“ startet der 
+Aktivierungsvorgang.
+ 
+Der User wird aufgefordert, ein Passwort zu vergeben. Dieses muss bestimmten Richtlinien entsprechen. So muss es mindestens 16 
+Zeichen lang sein und darf keine Teile des Benutzernamens sowie Wiederholungen beinhalten.
+Beispiele für ungültige Passwörter
+ 
+Bestehen Zweifel, ob es sich tatsächlich um eine Aktivierungsmail von k5|Next handelt, so kann die Korrektheit des Links überprüft 
+werden, indem mit dem Mauszeiger über den Button „Benutzer aktivieren“ navigiert, aber nicht geklickt wird. Der Link wird dann als 
+Text angezeigt und die erste Zeile, muss immer https://id.k5next.at/Account/ActivateUser? lauten.
+„Passwort“ (Grund: keine 16 Stellen lang)
+„PasswortPasswort“ (Grund: Wiederholung)
+„PasswortTest-User“ (Grund: Attribut des Benutzernamens im Passwort)
+
+45
+ 
+
+46
+Benutzerprofil
+Benutzerkonto: hier können Name und Titel der Person geändert werden. Weiters kann ein Profilbild erfasst und eine Mobilfunknummer 
+eingetragen werden. Die E-Mail-Adresse kann hier nicht geändert werden, da diese Adresse gleichzeitig die eindeutige Identifikation des 
+Benutzers ist. Sollte es dennoch notwendig sein, die E-Mail-Adresse zu ändern (da sie sich geändert hat), hat der Kunden-Administrator in 
+der Administrationsumgebung die Möglichkeit, das zu tun.
+Passwort: hier kann ein neues Passwort vergeben werden.
+Zwei-Faktor-Authentifizierung: hier stehen unterschiedliche Authentifizierungsmethoden zur Verfügung, weitere Informationen dazu finden 
+Sie hier.
+Meine Anmeldungen: hier finden Sie eine Übersicht Ihrer aktuellen k5|Next Sitzungen und können diese an dieser Stelle auch beenden.
+Zugangsdaten für andere Anwendungen: hier wird die Benutzerkennung Ihres Portals eingetragen, damit Rechte für z.B. Registerzugriffe 
+in k5|Next abgefragt werden können. Weitere Informationen dazu finden Sie hier.
+ID Austria: Verfügen Sie über eine ID-Austria, könne sie diese hier einrichten. Dies gilt als eigene 2FA Variante, kann aber auch zusätzlich 
+zu einer bestehenden 2FA Variante registriert werden. Informationen dazu finden Sie hier.
+
+47
+Zwei-Faktor-Authentifizierung
+Zwei-Faktor-Authentifizierung (2FA) bedeutet, dass für die Identifizierung in k5|Next ein zweites Gerät herangezogen werden muss. Er 
+reicht nicht aus, dass ein User sein Passwort kennt, sondern es muss zusätzlich zu dessen Wissen (Benutzername und Kennwort) ein 
+zweiter Faktor für die Anmeldung vorliegen. Eine Anmeldung ohne 2FA ist nicht möglich. 
+Dabei werden nachstehende Möglichkeiten unterstützt:
+ein mobiles Gerät (z.B. Smartphone) für die Authenticator App oder ID Austria
+ein Security-Token (FIDO2 Sicherheits-USB-Stick)
+die Identifikation via Windows Hello (biometrische Merkmale oder Pin-Code)
+In Abhängigkeit der gewählten Methode sind unter Umständen noch bestimmte Voraussetzungen zu schaffen.
+ 
+
+48
+Einrichtung und Schaffen der Voraussetzungen
+Mobiles Gerät
+Um eine Authenticator App als 2FA-Methode für k5|Next verwenden zu können, muss diese auf Ihrem mobilen Gerät vorhanden sein. Laden 
+Sie dazu die App aus Google Play oder App Store und installieren Sie sie auf Ihrem Gerät.
+Betriebssystem
+Die Einrichtung der unterschiedlichen (Betriebssystem abhängigen) Login-Optionen geschieht üblicherweise unter 
+Windows/Einstellungen/Konten/Anmeldeoptionen. Sowohl ein Sicherheits-Schlüssel (4), als auch die Einrichtungen biometrischer Merkmale 
+für Windows-Hello (1) (2) (3) können hier gemacht werden. Diese sind abhängig von der Hardware, die Sie verwenden und können sich 
+unterschiedlich darstellen. Erst nach erfolgreicher Einrichtung könne diese Optionen in k5|Next als 2FA-Variante verwendet werden.
+Eine Anmeldung an einem anderen Rechner (z.B. Server) ist damit nicht möglich. Für eine detaillierte Beschreibung zur Einrichtung von 
+Windows-Hello wenden Sie sich bitte an den Windows Support unter:
+Anmeldeoptionen in Windows - Microsoft-Support  
+Windows Hello funktioniert nur auf jenem Gerät, an dem es eingerichtet wurde.
+
+49
+Authenticator App
+Mit dieser Funktion wird eine App aktiviert, die am Mobiltelefon oder Tablet den zweiten Faktor der Authentifikation übernimmt. Diese App 
+muss zuvor auf Ihrem mobilen Gerät installiert werden. Unterstützt werden Apps, die das TOTP Verfahren verwenden.
+Wir empfehlen, Microsoft Authenticator oder Google Authenticator zu verwenden.
+Für die Einrichtung gehen Sie wie folgt vor:
+Am Computer (Bildschirm)
+Rufen Sie in k5|Next_Identity das Menü „Zwei-Faktor-Authentifizierung“ auf und wählen Sie  „Authenticator App hinzufügen“
+Am Smartphone (Handy)
+Öffnen Sie die App „Authenticator“ auf Ihrem Smartphone
+Fügen Sie mit Plus (+) ein neues Konto hinzu
+Wählen Sie „QR-Code scannen“
+Evtl. müssen Sie den Zugriff der Kamera extra erlauben - > wählen Sie „NUR DIESES MAL“
+Scannen Sie den QR-Code, der am Bildschirm angezeigt wird
+Das neue k5|Next Konto ist in der Authenticator-App erstellt.
+Öffnen Sie das soeben erstellte Konto auf Ihrem Mobiltelefon
+Am Computer (Bildschirm)
+Geben Sie die sechsstellige Nummer im Feld „Code“ (1) ohne Abstand in der k5|Next_Identity Applikation ein. Zusätzlich können Sie 
+einen Kommentar erfassen (2). Dies könnte z.B. die Bezeichnung der App sein, mit welcher die Authentifikation erfolgte (in diesem Fall 
+„Microsoft Authenticator“).
+Bestätigen Sie Ihre Eingaben
+Somit ist die Einrichtung abgeschlossen und die Anmeldung erfolgt ab sofort mittels Benutzername bzw. E-Mail-Adresse, Passwort und 
+Code aus der Authenticator App.
+
+50
+ 
+
+51
+Security Token
+Es können nur Security Token bzw. Sicherheitsschlüssel verwendet werden, die den FIDO2 Standard unterstützen.
+Für die Einrichtung gehen Sie wie folgt vor:
+Am Computer (Bildschirm)
+Rufen Sie in k5|Next Identity die App „Zwei-Faktor-Authentifizierung“ auf und wählen Sie „Sicherheitsschlüssel, biometrische Merkmale 
+oder PIN-Code“
+Öffnen Sie „Sicherheitsschlüssel hinzufügen“
+In der Zeile „Gerätename“ geben Sie den Namen des Schlüssels ein. Erfassen Sie den vollen Namen und auch Zusatzinformationen wie 
+die Seriennummer, sodass der verwendete Schlüssel (sofern Sie mehrere verwenden) eindeutig identifiziert werden kann.
+Bestätigen Sie die Sicherheitsschlüsseleinrichtung und folgen Sie den Anweisungen des Einrichtungsdialogs. geben Sie Ihren PIN-Code 
+ein und tippen Sie anschließend auf den Sicherheitsschlüssel.
+Somit ist die Einrichtung abgeschlossen und die Anmeldung erfolgt ab sofort mittels Benutzername bzw. E-Mail-Adresse, Passwort und 
+Berührung des Sicherheitsschlüssels.
+ 
+
+52
+Windows Hello (PIN)
+Mit Windows Hello (PIN) lässt sich eine gerätespezifische MFA-Variante verknüpfen. Mit gerätespezifisch ist gemeint, dass Sie diese 
+Variante ausschließlich auf jenem Gerät nutzen können, auf dem sie verknüpft wurde. Um Windows Hello (PIN) nutzen zu können, muss 
+diese Funktion im Vorfeld auf Ihrem PC aktiviert und eingerichtet worden sein.
+Für die Verknüpfung gehen Sie wie folgt vor:
+Rufen Sie in k5|Next_Identity die App „Zwei-Faktor-Authentifizierung“ auf und wählen Sie „Sicherheitsschlüssel, biometrische Merkmale 
+oder PIN-Code“
+Öffnen Sie „Biometrisches Merkmal / PIN hinzufügen“
+Geben Sie in der Zeile „Gerätename“ die gewählte Variante ein, z.B. „Windows Hello PIN“ und bestätigen Sie die Eingabe mit Klick auf 
+„Registrieren”.
+Sie werden aufgefordert, Ihren Windows Hello PIN einzugeben.
+Nach erfolgreicher Eingabe ist die Einrichtung abgeschlossen.
+Sie können sich ab sofort mittels Benutzername, Passwort und Eingabe Ihres Windows-Hello PIN bei k5|Next anmelden.
+ 
+
+53
+ID-Austria
+Jeder User in k5|Next kann seinen persönlichen ID-Austria Account (E-ID) für die Anmeldung bei k5|Next nutzen und diese 
+Identifikationsmöglichkeit an seinen Benutzer-Account binden.
+Besitzen Sie für Ihre Gemeinde zwei User, da Sie sowohl Administrator als auch Fach-User sind, müssen Sie sich für einen User 
+entscheiden. Wir empfehlen, jeweils den Fach-User mit der ID-Austria zu verknüpfen, da dieser i.d.R. häufiger zum Einsatz kommt.
+Für die Einrichtung gehen Sie wie folgt vor:
+Wählen Sie „ID Austria verknüpfen“
+Lesen Sie die Erklärung, wie die Verknüpfung durchzuführen ist, gewissenhaft durch und wählen Sie „ID Austria verknüpfen“
+Folgen Sie den Anweisungen der folgenden Registrierungsdialoge
+Identifizieren Sie sich zum Abschluss der Authentifikation wie gewohnt über die App auf Ihrem mobilen Gerät
+Ihr User ist damit mit Ihrer ID Austria verknüpft.
+Anmeldung mit ID-Austria:
+Um sich mittels ID-Austria in k5|Next anzumelden, ist keine Angabe des Benutzers nötig. Dieser ist direkt an die ID-Austria gebunden und 
+wird bei Anmeldung richtig erkannt. Das Feld Benutzerkennung/E-Mail kann leer bleiben. Klicken Sie auf „Anmeldung mit ID Austria“ und 
+folgen Sie den Anweisungen am Bildschirm.
+An die ID-Austria kann nur ein k5|Next-User gebunden werden. 
+
+54
+Nach abschließender Identifizierung auf Ihrem mobilen Gerät sind Sie in k5|Next angemeldet.
+ 
+
+55
+Zugangsdaten für andere Anwendungen
+Damit User in k5|Next auf sekundäre Applikationen (z.B. ZMR, URV, AGWR, etc.) zugreifen können, werden in diesem Bereich 
+Benutzername und Kennwort für andere Anwendungen hinterlegt. 
+Die Einträge gestalten sich unterschiedlich, je nach dem welches der nachfolgenden Stammportale Ihre Gemeinde verwendet:
+Kommunalnet
+Portal Tirol
+Portal Vorarlberg
+ 
+Der Eintrag dieser Zugänge ist NUR für Fach-User relevant. Administratoren müssen hier nichts eintragen, da aus der 
+Administration keinerlei Zugriffe auf sekundäre Applikationen stattfinden.
+
+56
+Kommunalnet Gemeinde
+Als Kommunalnet Gemeinde sind für Sie die Zugänge unter „Kommunalnet/Stammportal (Produktivsystem) einzutragen.
+Achten Sie auf den richtigen Benutzernamen.
+ 
+
+57
+Portal Tirol Gemeinde
+Als Portal Tirol Gemeinde sind für Sie die Zugänge unter „Portal Tirol (Produktivsystem)“ einzutragen.
+Achten Sie auf den richtigen Benutzernamen.
+ 
+
+58
+Portal Vorarlberg Gemeinde
+Als Portal Vorarlberg Gemeinde sind für Sie die Zugänge unter „Portal Vorarlberg (Produktivsystem)“ einzutragen.
+ 
+ 
+ 
+
+59
+k5|Next_Person
+Mit diesem Modul verfügen Sie über die Basisfunktionalität der zentralen Ablage von Personen-Kerndaten. Angebundene k5 
+Fachapplikationen greifen darauf zu und sind damit auf dem aktuellen und einheitlichen Stand.
+Aufbauend darauf erhalten Sie den vollen Funktionsumfang eines intelligenten Kontaktmanagements mit dem Modul k5|Next_Kontakt.
+
+60
+ZMR-Abgleich
+Der tägliche Abgleich
+Um die Personen in der k5|Next_Person aktuell zu halten, wird täglich ein Abgleich durchgeführt.
+Im ZMR wird jede Nacht eine Datei mit Änderungen des Vortages erstellt. Darin sind nur Änderungen jener Personen enthalten, die in der 
+eigenen Gemeinde wohnhaft sind.
+Der erste Benutzer des Tages, der die entsprechende Berechtigung hat, triggert das Abholen dieser Datei(en) an. Der erste Benutzer kann 
+sowohl ein Benutzer der angebundenen Fachanwendungen sein (z.B. k5 Finanzmanagement) oder auch ein Benutzer, der direkt in die 
+k5|Next Oberfläche einsteigt (Kontaktmanagement oder Wahl).
+(1) Die Ansicht ZMR-Abgleich ist nur für Benutzer sichtbar, die von ihrem Gemeindeadministrator das Recht Informationen von ZMR-
+Abgleich lesen erhalten haben.
+In dieser Liste ist ersichtlich, wann der letzte ZMR-Abgleich durchgeführt wurde und ob dieser erfolgreich durchgelaufen ist.
+(2) Die Details geben zusätzliche Informationen zu den einzelnen Schritten des Abgleichs. Gerade bei Fehlern können diese Details auf die 
+Fehlerursache hinweisen.
+Solange sich kein Benutzer mit entsprechender Berechtigung anmeldet (Relevant ist hier ein Stammportal-Benutzer mit ZMR-
+Leseberechtigung), wird auch kein Abgleich durchgeführt. Sind seit dem letzten Abgleich mehrere Tage vergangen, werden alle offenen 
+(also nicht abgeholten) Abgleichsdateien abgeholt und verarbeitet.
+Dieser Mechanismus funktioniert, solange zwischen den Abgleichen nicht mehr als 30 Tage liegen. Wurde ein Abgleich 30 Tage nicht mehr 
+durchgeführt, muss ein Gesamtabgleich durchgeführt werden.
+Der Gesamtabgleich
+Bei einem Gesamtabgleich werden alle registergebundenen natürlichen Personen gegen das ZMR abgeglichen und aktualisiert. Danach 
+wird der Mechanismus des täglichen Abgleichs wieder angestoßen.
+Der Gesamtabgleich wird in der Ansicht ZMR-Abgleich gestartet (3) und ist nur für die Benutzer sichtbar, die von ihrem 
+Gemeindeadministrator das Recht ZMR-Gesamtabgleich durchführen erhalten haben. Analog zum ZMR-Abgleich kann ein 
+Gesamtabgleich nur dann erfolgreich durchgeführt werden, wenn ein Stammportal-Benutzer mit entsprechender Berechtigung hinterlegt ist.
+Es stehen unterschiedliche Abgleichsvarianten zur Verfügung. 
+(1) Abgleich aller natürlicher Personen mit dem ZMR
+
+61
+Wird (1) gewählt, kann entscheiden werden, ob alle natürlichen Personen, oder nur die gemeindefremden (also Personen, die keinen 
+Hauptwohnsitz in der Gemeinde haben) abgeglichen werden sollen (2).
+Zusätzlich können auch Unternehmen gegen das Unternehmensregister abgeglichen werden (3).
+Nach Fertigstellung des Abgleichs wird eine Benachrichtigung an den Benutzer gesendet – sowohl im Erfolgs- als auch im Fehlerfall.
+
+62
+k5|Next_Sync
+Der im Hintergrund ablaufende Synchronisationsdienst ist für den automatischen Datenaustausch zwischen k5|Next und den 
+angebundenen k5 Fachapplikationen und externen Anwendungen zuständig.
+ 
+
+63
+Release Notes
+Wir entwickeln unsere Software stetig weiter. In diesem Bereich finden Sie Informationen zu neuen Features der aktuellen und früheren 
+Programmversionen.
+Release Dezember 2024
+Release Oktober 2024
+Release September 2024
+Release August 2024
+Release Juli 2024
+Release April 2024
+Release März 2024
+Release Feb 2024
+Release Jan 2024
+Release Dez 2023
+Release Sep 2023
+Release Aug 2023
+
+64
+Release Dezember 2024
+Bankverbindung und Abbucher im Kontaktmangement 
+Postfachadresse als Zustelladresse
+Tab-Verhalten in der Detailsuche
+Ab sofort stehen die Bankverbindungen im Kontaktmanagement zur Verfügung. Hier können neue Bankverbindungen hinzugefügt, aber 
+auch entfernt werden. Diese werden ebenfalls in k5 Finanzmanagement synchronisiert. Bei der Neuanlage wird ein SEPA 
+Lastschriftmandat erstellt, welches heruntergeladen, unterschrieben und wieder hochgeladen werden kann.
+ Hinweis für Administratoren: In den Mandant-Einstellungen unter Kennzahlen muss die Creditor-ID eingetragen sein.
+Bei der manuellen Erfassung einer Zustelladresse kann nun eine Postfachadresse erfasst werden. Dafür muss das Häkchen für 
+“Postfachadresse” gesetzt werden. Diese Variante ist nur für österreichische Adressen verfügbar.
+ 
+Das Tab-Verhalten wurde dahingehend angepasst, sodass nun nach Eingabe eines Suchbegriffes und nach drücken der Tab-Taste, das 
+nächste Feld aktiv wird und nicht wie bis jetzt, das “x” für löschen markiert wird.
+ 
+
+65
+ 
+
+66
+Release Oktober 2024
+Erweiterung des Monitor-Widgets um den AGWR-Status
+Anpassung der Tage des ZMR-Widgets
+Der Status des AGWR-Importes wird nun auch im Monitor-Widget dargestellt. Mit Klick auf die Überschrift, erhält man die 
+Detailinformationen.
+ 
+Die Tage, die eine Statusänderung hervorgerufen haben, wurden angepasst. Nur wird bereits nach 4 Tagen (statt bisher 18) eine 
+Warnung erstellt und nach 10 Tagen (statt bisher 28) wird eine Fehler angezeigt.
+ 
+
+67
+Release September 2024
+Erweiterung des Monitor-Widgets
+Das Monitor im Bereich der Administration kann nun mehrfach hinzugefügt werden. Dabei können pro Widget unterschiedliche 
+Einstellungen vorgenommen werden, welche auch gespeichert werden. 
+ 
+
+68
+Release August 2024
+Erweiterung des ZMR - Gesamtabgleichs
+Widget für Home Dashboard und Wahl Dashboard
+Der ZMR-Gesamtabgleich wurde erweitert. Man kann nun beim Start des Abgleiches auswählen, ob man Natürliche Personen oder 
+Unternehmen  abgleichen möchte. Beim Abgleich natürlicher Personen steht zusätzlich nun ein Feld für die Begründung des ZMR-
+Zugriffs zur Verfügung. Des Weiteren kann gewählt werden, dass nur gemeindefremde Personen abgeglichen werden. Bei Anhaken 
+von “Unternehmen” werden die Unternehmen gegen das Unternehmensregister abgeglichen.
+ 
+Am Home Dashboard ist nun ein neues Widget für den ZMR-Abgleich vorhanden. Dies zeigt den aktuellen Status der ZMR-Daten. Mit 
+einem Klick auf das Widget öffnet das ZMR-Abgleichs Menü. Wenn das Datum maximal 17 Tage älter als das Tagesdatum ist, wird ein 
+grünes OK Symbol angezeigt.
+Wenn das Datum zwischen 18 und 27 Tage älter als das Tagesdatum ist, wird ein gelbes Warndreieck angezeigt und wenn das Datum 
+28 Tage älter als das Tagesdatum ist, wird ein rotes Fehlersymbol angezeigt.
+ 
+
+69
+Release Juli 2024
+Detailsuche: Weitere Suchkriterien 
+k5|Next Hilfe: Gezielte Navigation auf Hilfeinhalte 
+Bei den weiteren Suchkriterien in der Detailsuche werden nun ausgewählte Kriterien sofort übernommen und für zukünftige Suchen 
+gespeichert.
+ 
+In den Tooltipps sind nun direkte Links auf die entsprechenden Hilfepunkten in der k5|Next Hilfe vorhanden. Mit Klick auf “Weitere Infos” 
+wird kontextabhängig die Hilfe aufgerufen.
+
+70
+E-Mail Benachrichtigung bei User-Sperre
+Datums- und Zeiteingabe
+Aktuell sind folgende kontextabhängige Aufrufe möglich: Kontakte suchen, Person anlegen, Gesamtabgleich, Suchergebnis teilen, 
+Label - "Zustimmung für:"  - diese Funktion wird nun laufend erweitert
+Beispiel “Weitere Infos” im Kontakte suchen 
+Tooltipp
+Wenn man das Passwort 5 mal falsch eingibt, wird der User gesperrt. Ab sofort wird nun auch eine E-Mail Benachrichtigung an die 
+hinterlegte E-Mail-Adresse gesendet
+In den Datums- und Zeiteingabefeldern werden nun unterschiedliche Schreibweisen akzeptiert. So wird z.B. aus 10-01-24 der 
+10.1.2024
+
+71
+2FA - ID Austria
+Monitoring Dashboard - Neue Infomeldungen
+Eine vollständige Liste der möglichen Eingaben ist hier zu finden. 
+Die 2FA Methode “ID Austria” ist nun im Menüpunkt “Zwei-Faktor-Authentifizierung” zu finden.
+  
+Im Monitoring werden nun weitere Meldungen angezeigt. So wird unter anderem dargestellt, wenn ein ZMR-Abgleich nie erfolgreich 
+durchgeführt wurde. Wenn ein Abgleich >18 Tage und <28 Tage nicht durchgeführt wurde, erscheint eine Warnung, ist der Abgleich >= 
+28 Tage nicht durchgeführt worden, erscheint eine Fehlermeldung.
+
+72
+Ungültige Staatenbezeichnungen für Zustelladressen
+   
+Die Staaten Ungeklärt (XXZ), Unbekannt (XXX) und Staatenlos (XXA) stehen nicht mehr zur Auswahl unter Zustelladresse zur 
+Verfügung.
+   
+
+73
+Release April 2024
+Detailsuche: Vorhandene Tags
+Neues Monitoring Widget für den Administrationsbereich
+Bei der Detailsuche werden nun vorhandene Tags vorgeschlagen. Bereits ausgewählte Tags werden als  Chip dargestellt. Eine 
+Mehrauswahl der Tags löst eine “oder” Suche aus.
+ 
+Im k5|Next Administrationsbereich ist nun ein Monitoring Widget für den ZMR-Abgleich verfügbar. Hier werden alle Stati der ZMR-
+Abgleiche der zugewiesenen Mandanten angezeigt. Um dieses Widget hinzufügen, muss (1) auf das Plus-Symbol am Home-
+Dashboard, (2) das Widget auswählen und (3) auf hinzufügen geklickt werden
+
+74
+Registerverbindung herstellen/aktualisieren
+Mit einem Klick auf den Eintrag, öffnet sich die Detailansicht zu dem jeweiligen Eintrag.
+ 
+Es ist nun möglich, eine Registerverbindung für natürliche, als auch juristische Personen nachträglich herzustellen oder zu 
+aktualisieren. Die Herstellung bzw. die Aktualisierung erfolgt über das “3-Punkte” Menü rechts oben in der Kontaktdetailansicht und 
+dann unter “Registerverknüfpung herstellen”.
+Wichtig: Der User benötigt das Recht "Person bearbeiten" bzw. "Kontakt bearbeiten"
+
+75
+Darstellung von Adressendetails
+ 
+In der Kontaktdetailansicht können nun mit dem “i” Symbol Detailinformationen zur Adresse aufgerufen werden.
+ 
+
+76
+Release März 2024
+Wappen/Logo für zentralen Druck Vorschau
+Löschen von Tags
+Ab sofort kann in der Administration unter “Kontakt” “Kontaktdaten” mittels Klick auf “Vorschau für den zentralen Druck” das für den 
+zentralen Druck aufbereitete Logo angesehen werden. Das Logo wird in JPG Format aufbereitet. Wichtig: Überprüfen Sie das Bild vor 
+allem dann, wenn eine SVG Datei hochgeladen wurde.
+ 
+Es besteht nun die Möglichkeit, angelegte Tags einzusehen und diese auch zu löschen. Die Tag-Übersicht ist unter “Konfiguration” 
+möglich. Sollte dies nicht ersichtlich sein, muss ein Administrator das Recht freischalten.
+In der Spalte “zugeordnet” ist ersichtlich, ob der Tag einem Kontakt zugeordnet ist.
+Administratoren können das Recht in der Administration mittels “Tags verwalten” freischalten.
+ 
+
+77
+Sichtbarkeit von Passwörtern
+Sprengelverwaltung - Zuordnung nach Gebäude
+Ab sofort wird die “Passwort sichtbar” in jedem Browser und in jedem Passwortfeld einheitlich dargestellt.
+ 
+Es ist nun möglich, für Gebäudeadressen ohne Zuordnung eine manuelle Zuordnung durchzuführen.
+Die manuelle Zuordnung kann mittels des Lupensymbols aufgerufen werden.
+ 
+
+78
+Release Feb 2024
+Upload für ZeWaT - Sprengel und Wahllokale
+Möglichkeit der "ist nicht" Suche
+Ab sofort steht im Wahlsprengel ein Export der Wahlsprengel mit Wahllokalen und Objektzuordnungen zur Verfügung. Daraus werden 
+CSV Dateien generiert, die dann im ZeWaT importiert werden können.
+ 
+In der Detailsuche im Kontaktmanagement ist bei den Feldern Name, Ort, PLZ, Straße eine Suche mit "nicht" möglich. Die “ist nicht” 
+Suche ist beim gewünschten Suchbegriff mit einem vorangestelltem “!”  durchzuführen.
+
+79
+Hier werden nun alle Kontakte, die nicht “Hard” als Ort haben, angezeigt. 
+ 
+Suchergebnis ohne “ist nicht” Suche
+Suchergebnis mit Suchbegriff “!Hard”
+
+80
+Release Jan 2024
+Neue Felder für das Wahllokal verfügbar
+Admin-Account abmelden, wenn an anderem Platz angemeldet wird
+Für die Bearbeitung des Wahllokals stehen nun zwei neue Felder zur Verfügung. Dabei handelt es sich um die Verbotszone rund um 
+das Wahllokal in Metern und die Beschreibung der Verbotszone.
+ 
+Meldet sich ein Benutzer mit administrativen Rechten, der schon an einem Arbeitsplatz in k5|Next Administration angemeldet ist, an 
+einem weiteren Arbeitsplatz an, wird er gefragt, ob er fortsetzen möchte. Setzt er fort, wird die schon vorher geöffnete k5|Next 
+Administration-Session geschlossen. Bricht er ab, wird keine neue Session geöffnet. Die vorherige bleibt jedoch offen.
+ 
+
+81
+Anzeige der Sprengelnummer bei Änderung der Adresszuordnung
+Ab sofort wird in der Adressenzuordnung bei "Zuordnung erstellen" und "Zuordnung bearbeiten" bei der Auswahl vor der 
+Sprengelbezeichnung auch die Sprengelnummer angezeigt.
+ 
+
+82
+Release Dez 2023
+k5|Next Hilfe per Zentralem Einstiegspunkt aufrufbar
+Spalte für Standard-Mailadresse und Standard-Telefonnummer
+Anzeige der Wahlart in der Sprengelgruppe
+ 
+Mittels Klicks auf “Hilfe” im Hauptmenü der Administrations- oder Fachumgebung in k5|Next kann die Hilfe aufgerufen werden. Dort 
+finden sich Erklärungen zu allen Programmfunktionen der Module k5|Next_Basis, k5|Next_Kontakt und k5|Next_Wahl.
+ 
+Ab sofort stehen die Standard-Mailadresse und Standard-Telefonnummer in der Spaltenauswahl des Kontaktmanagements zur 
+Verfügung. Die beiden Spalten werden auch im Falle eines Excel-Exports berücksichtigt.
+In der Sprengelgruppe werden jene Wahlarten aufgelistet, denen die Sprengelgruppe in den Wahleinstellungen zugeordnet ist. Der 
+User benötigt dazu mindestens lesende Rechte auf die Wahl.
+
+83
+Release Sep 2023
+Status ZMR-Abgleich
+Historische Adressen
+Ab sofort ist es möglich, den Status des ZMR-Abgleichs einzusehen. Angezeigt werden unter anderem der Zeitpunkt, an dem der 
+Abgleich gestartet bzw. abgeschlossen wurde, sowie die durchgeführten Abgleiche und detaillierte Informationen im Fehlerfall. 
+Außerdem ist ersichtlich, aus welcher k5 Fachapplikation der Abgleich durchgeführt wurde.
+Sie finden diese Informationen im Menü unter “Konfiguration - ZMR-Abgleich”.
+Um diesen Bereich aufrufen zu können benötigen Sie das Recht “Informationen von ZMR-Abgleich lesen”. Dieses Recht muss einer 
+Rolle hinzugefügt werden, welche von der Gemeindeadministration vergeben und an User vergeben werden kann.
+Ab sofort werden bei registergebundenen natürlichen Personen, die ins Ausland verzogen sind, die historischen Adressen dargestellt. 
+Ist dies die einzige Adresse, wird diese auch im Briefkopf verwendet.
+Wird zu dieser Person eine manuelle Zustelladresse erfasst, so wird diese im Briefkopf verwendet.
+
+84
+ 
+
+85
+Release Aug 2023
+Widget "Gespeichert Gruppen"
+Wohnsitze im ZMR-Suchergebnis
+ 
+Das Widget "Gespeichert Gruppen" ist nun am Dashboard verfügbar. In diesem neuen Widget werden die gespeicherten und geteilten 
+Gruppen in einer Liste dargestellt. Die neueste Gruppe steht immer ganz oben. Mit einem Klick auf die Gruppe wird die Detailsuche im 
+Kontaktmanagement geöffnet.
+Ab sofort werden bei natürlichen Personen alle Wohnsitze inklusive der Wohnsitzqualität im ZMR-Suchergebnis angezeigt.

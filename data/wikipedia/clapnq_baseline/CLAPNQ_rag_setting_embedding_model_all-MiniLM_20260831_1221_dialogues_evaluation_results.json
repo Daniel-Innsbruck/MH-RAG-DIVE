@@ -1,0 +1,2123 @@
+{
+    "file_path": "/home/daniel/mh_rag_dive_evaluierungspipeline/experiments/experiments_wikipedia/clapnq_baseline/CLAPNQ_rag_setting_embedding_model_all-MiniLM_20260831_1221_dialogues.jsonl",
+    "evaluation_config": {
+        "llm_as_a_judge": "gpt-5-nano",
+        "embedding_model": "text-embedding-3-small"
+    },
+    "overall_evaluation": {
+        "average_scores": {
+            "correctness_aspect_critic": 0.73,
+            "faithfulness_aspect_critic": 0.9050191016127549,
+            "context_precision_critic": 0.7569722221923886,
+            "context_recall_critic": 0.6759537499537499
+        },
+        "token_usage": {
+            "total_tokens": 7038167,
+            "prompt_tokens": 2923069,
+            "completion_tokens": 4115098,
+            "total_cost_usd": 0.0
+        },
+        "detailed_results": [
+            {
+                "content": "who sings the song story of an artist",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does rammer jammer yellow hammer come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who does the voice of plankton from spongebob",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does the term making out come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where is the world's largest man made lake",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who won the battle of the bull run",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "the most common form of user interface used on pc's today is called a",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did the idea of walmart come from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where do the ashes come from that they use on ash wednesday",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "price of ps3 when it first came out",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "subsistence type of farming is practised in the following area",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what are the three components of the fire triangle",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where do you get an at hop card",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "what does it mean when someone says the elephant in the room",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what does the democratic republic of congo flag represent",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "song it's now or never by elvis presley",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "which method of forecasting uses averages to predict future weather",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "difference between russian blue and british blue cat",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.25
+            },
+            {
+                "content": "who trained the continental army at valley forge",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.32499999998375,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the primary function of the outer ear",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.125
+            },
+            {
+                "content": "when was the first vaccine for diphtheria invented",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the role of the prime minister in canada",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.7142857142857143
+            },
+            {
+                "content": "the latin phrase parens patriae was used to refer to",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who were the dadaists and what did they do",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what are the sirens in o brother where art thou",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where are negative numbers used in real life",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "who has played chad dimera on days of our lives",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "one of the causes of the german hyperinflationary period that occurred after world war i was",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the highest mountain peak in hawaii",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.5714285714285714
+            },
+            {
+                "content": "what is aws and what services are provided",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "where is mount logan located on a map",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "who sang the song the reverend mr black",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the function of insulin and where is it produced",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what was the movie fried green tomatoes about",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is meant by sanctification in the bible",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does the royal family of england get their income",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "show me on a map where ecuador is",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "where are nimbus clouds found in the sky",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "jay z magna carta holy grail album sales",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the process of somatic cell nuclear transfer",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "why is interphase not truly a period of rest",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "why did the united states begin opening prisons",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where is yemen located in the middle east",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "give three reasons why the fynbos biome is so important to south africa and the world",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "indian tribes that walked the trail of tears",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what episode of family guy does meg get pregnant",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "what was the purpose for building the monuments in the horyu ji area",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the tax rate for lottery winnings in california",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what does a high coefficient of thermal expansion mean",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 0.2
+            },
+            {
+                "content": "what is the atomic mass and atomic number",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when do dawson and joey's first kiss",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "what is the average income in the u.s",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "what episode did jimmy get shot in degrassi",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.18181818181818182
+            },
+            {
+                "content": "why does context influence the way we understand text",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what determines the distancea beam bridge can span",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "how did the venus flytrap get its name",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "where is cancer constellation located in the sky",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "where did australian troops go and fight after gallipoli",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "who is the author of the analects of confucius",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does doctor strange get his powers from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.4444444444444444
+            },
+            {
+                "content": "where would a commercial quantity of cobalt-60 be produced",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where do guinea pigs sleep in the wild",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "where does the phrase getting cold feet come from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4166666666458333,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "what does the prime minister of france do",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "which industry provides the largest employment in india",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "how many views does blood sweat and tears have",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "why did carter boycott the 1980 olympics in moscow",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where is wernickes area located in the brain",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "where does it snow the most in north carolina",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.5888888888692593,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "highly suspect hello my name is human meaning",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the difference between states and phases of matter",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where did the celts come from before ireland",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did the expression getting cold feet come from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4166666666458333,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "who played rosario on will & grace and is she still alive",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "night vision devices use which type of waves",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.32499999998375,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "what is in his eyes from jekyll and hyde about",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who won the civil war the south or the north",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.36666666664833336,
+                "context_recall_critic": 0.42857142857142855
+            },
+            {
+                "content": "who sings the theme song from happy days",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where did the name sweet frog come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the great wall of china built out of",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.16666666666666666
+            },
+            {
+                "content": "what happened to backlot tour at hollywood studios",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "where is french polynesia on the world map",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "how to cure breast wound due to breastfeeding",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where do the humphreys live in gossip girl",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "who wrote be careful with me cardi b",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what is the difference between dpt and tdpt",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "what happens to eric northman in true blood",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where is the tv show the ozarks filmed",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the meaning of grenade by bruno mars",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5888888888692593,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "who wrote capitalism and underdevelopment in latin america",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "when were books of the new testament written",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "who sings the song fooled around and fell in love",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "where do the clicks in south african languages come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "when was the trade embargo placed on cuba",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "how many jurors must agree in order to reach a verdict in a criminal case",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5888888888692593,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "how did the horse latitudes get their name",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what part of london is the o2 arena in",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "how does myelin sheath help the nervous system",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "which sport awards the oldest trophy in international sports",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "describe the impact the minnie ball had on the battlefield during the civil war",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when did we start putting shoes on horses",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "where is the show last tango in halifax filmed",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where was the video for life in a northern town filmed",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when did the us place an embargo on cuba",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where is the original london bridge now located",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does the term cherry picker come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who owns the rights to popeye the sailor",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the real name of jethalal in taarak mehta ka ooltah chashmah",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the function of the endoplasmic reticulm",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.8888888888888888
+            },
+            {
+                "content": "what was agenda 21 of earth summit of rio de janeiro",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when do the ducks march at the peabody",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who takes photos of planes in the air",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "who bought the old london bridge and where is it now",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what was the role of drama in ancient greece",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "in order to better control the conquistadors in the new world the spanish created",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.14285714285714285
+            },
+            {
+                "content": "who was the song cinnamon girl written about",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what is the function of the sensory system in the nervous system",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did the movie safe haven take place",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.2
+            },
+            {
+                "content": "when was the first known case of the bubonic plague",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where does manners maketh the man come from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "where are the four chambers of the heart located",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what's the purpose of the english bill of rights",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "who failed the boards in grey's anatomy",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when does quinn get out of the wheelchair",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did the shape of numbers come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what was the damage of the haiti earthquake",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9411764705882353,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when did the first chucky movie come out",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "how many ots are there in the nfl",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6153846153846154
+            },
+            {
+                "content": "when do you need to blind bake pastry",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what is the accounting rate of return on the​ investment",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does the bronx get its name from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 0.25
+            },
+            {
+                "content": "what are four functions of the cell or plasma membrane",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "who are the interns in grey's anatomy season 9",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "meaning of the breaking of the glass at a jewish wedding",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who plays thorn on the bold and the beautiful",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where is look what you made me do on the charts",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who was the man in you're so vain",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "which reagent is used to detect the presence of reducing sugar",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "how was the first king of england decided",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who sang joshua fought the battle of jericho",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "when did the wall in berlin come down",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "is the last game of thrones book written",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what kanye west song starts with a piano",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who came up with the concept of time",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "present position of cotton textile industry in india",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.5555555555555556
+            },
+            {
+                "content": "what does the toyota tundra 1794 edition mean",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the meaning of rihanna's song diamonds",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.5714285714285714
+            },
+            {
+                "content": "who wrote the book mark in the bible",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "how are the waters of hydration eliminated from a hydrated compound",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "what is the meaning of the word macedonia",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who is rosaline and how is she related to the capulets",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.375
+            },
+            {
+                "content": "who talks for simba in the lion king",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what were the original casinos in las vegas",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "where is river narmada located in india map",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what is the purpose of court of appeals",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when is dragon ball super coming out in english",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where does the penobscot river start and end",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "who is the longest running character on general hospital",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what was the motive of british government for the partition of bengal",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "where does sadness come from in the brain",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "were shakespeare's plays popular when he was alive",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "system of a down meaning of chop suey",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what kind of rock is in joshua tree",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "who founded the grange what was its original purpose",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.42857142857142855
+            },
+            {
+                "content": "band that got in trouble for lip syncing",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what is the common name for salicylic acid",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "where does water go after it enters a storm drain",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "how do they determine home court advantage in the nba finals",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is accord and satisfaction in contractual terms",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9333333333333333,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.4444444444444444
+            },
+            {
+                "content": "where do you expect to find a composite cone volcano",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.32499999998375,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "what caused the dodo bird to become extinct",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what is the point in no mans sky",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "where is bone marrow found what does it do for the body",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "when does the secretary of state became president",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what happens in the pacific ocean during a la nina event",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "when was season one of stranger things filmed",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "where is the north pole located on a map",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where was snow white and the huntsmen filmed",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.14285714285714285
+            },
+            {
+                "content": "where do sperm gain the ability to​ swim",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what makes the different shapes of the moon",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.7777777777777778
+            },
+            {
+                "content": "what role does the veil of ignorance play in rawl's theory",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the meaning of rolls royce logo",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what is the status of the 416 fire in colorado",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "who owns the federal reserve bank of america",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.4444444444444444
+            },
+            {
+                "content": "who wrote cant get you out of my head",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "where did the pilgrims come from and how did they arrive in plymouth",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what is the difference between proto-oncogenes and oncogenes",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.7272727272727273
+            },
+            {
+                "content": "where are tanks most widely used in india why",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who is awarded the honour of victoria cross",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where do they shoot guy's grocery games",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "why is the forbidden city in china called the forbidden city",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.16666666666666666
+            },
+            {
+                "content": "is call of duty and black ops the same thing",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "which pigment determines the colour of human hair",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "what was the british economic policy of mercantilism",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4777777777618519,
+                "context_recall_critic": 0.375
+            },
+            {
+                "content": "who played greg's mom in diary of a wimpy kid",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.375
+            },
+            {
+                "content": "what is the defense of marriage act 1996",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the difference between monte carlo and monaco",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who was jim thorpe and what did he do",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "who was the doctor that led the research on cte and was criticized by the nfl",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what kind of car is the mach 5",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "what does the solicitor general of texas do",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the story behind the song snuff",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where do turkeys go after being pardoned by the president",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "describe the components of current in npn transistor",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what does the bible say about a dog returning to its vomit",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when was the first virus found in both plants and animals",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.7272727272727273
+            },
+            {
+                "content": "what impact did the geography of new england have on the farming communities",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "how old is the wife of president of france",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what does it mean to stress a syllable",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "what do the colours on the olympic rings represent",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the best height for a soccer player",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "how did the house of saud come to power",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.16666666666666666
+            },
+            {
+                "content": "what is the difference between senate and house of rep",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "who was glumdalclitch how did she help gulliver",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the song 3 little birds about",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who became defense against the dark arts teacher",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "which stage of the cell cycle is variable",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when do they throw fish at pike place market",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the full meaning of hb pencil",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what kind of fish can you catch in the long island sound",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "which direction do the easter island heads face",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what is the historical significance of the townshend act",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where is the world's fresh water stored",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "where does the last name segovia come from",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "how is a session key exchanged between a client and server in most secure web transactions",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what species of fish are in lake michigan",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what does the general governor of canada do",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "when does the next episode of code black come on",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "give the importance of alkaloids in pharmacy and medicine",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.9473684210526315,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what tractor was produce in charles city iowa",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who is given credit for inventing the printing press",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who has priority at a 4 way stop",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who pays taxes a short introduction to tax incidence",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what is a sapper in the canadian army",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "where did the chinese fire drill come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "who does santana end up with in glee",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.14285714285714285
+            },
+            {
+                "content": "how did jessica jones get her powers in the show",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.6363636363636364
+            },
+            {
+                "content": "tom petty don't come around here no more meaning",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "where did the word tar heel come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "2 facts about the great wall of china",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "why did the us send aid to greece and turkey in 1947",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "percentage of organised and unorganised sector in india",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when was the berlin wall built and why",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "when was star spangled banner put to music",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "who discovered the titanic wreck site and when",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "why was the eastern roman empire called the byzantine empire",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who is on keeping up with the kardashians",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when does a new school year start in america",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what was the purpose of the molasses act",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who are the three judges on american idol 2018",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "who did the english take new york from what was it called before the english named it new york",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "the function of the semicircular canals​ is",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.23076923076923078
+            },
+            {
+                "content": "why did jamie kill her mom in halloween 4",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "why were the statues of easter island built",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "identify four problem affecting the mining industry in nigeria",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what was the purpose of the reichstag fire",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.7142857142857143
+            },
+            {
+                "content": "what is wonder woman's sword and shield made of",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the difference between a word and a morpheme",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "has the university of kentucky ever won a national championship in football",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.8571428571428571
+            },
+            {
+                "content": "what is the meaning of eid in arabic",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "who is quality of human being is necessary to lead a happy life",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "what was the role of the elizabethan privy council",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did many of the names for the constellations come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who are the sirens in brother where art thou",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "what does undrafted free agent mean in nfl",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where does the cedar river begin and end",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "what happens to toby at the end of the office",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "how much were the actors in friends paid",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.2857142857142857
+            },
+            {
+                "content": "where did they film game of thrones season 2",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.4499999999775,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "when did the emperor lose power in japan",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what happens to hale in sons of anarchy",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.7
+            },
+            {
+                "content": "is eugene from walking dead really a scientist",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what is the exchange particle for strong nuclear force",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "where is the dead sea located in the world",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 0.7142857142857143
+            },
+            {
+                "content": "where did harvey originate and when did it become an official hurricane",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what is the youngest age you can marry in the usa",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what's the difference between russia and siberia",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "why did the us demand trade with japan",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.4
+            },
+            {
+                "content": "why might it be difficult for medical professionals to diagnose a specific illness",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "where did the term out of left field come from",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "where can i find dragon ball super english dubbed",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what are the three stages of cell division",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.45454545454545453
+            },
+            {
+                "content": "who came up with the social exchange theory",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "where is malaysia located on a world map",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "who was supposed to be in blazing saddles",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "how does the mls all star game work",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "is wellington in the north or south island",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "what are the two main forms of general-purpose local government in the united states",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "how do you become the governor general of canada",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "what did the committee of public safety do during the french revolution",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "where does the delaware river start and end",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "where are wild horses found in the us",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.3333333333333333
+            },
+            {
+                "content": "why there are just 28 days in february",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.32499999998375,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "when does izzie get cancer in grey's anatomy",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4777777777618519,
+                "context_recall_critic": 0.9
+            },
+            {
+                "content": "where is the sun located during the winter solstice",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.5888888888692593,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "what is the meaning of ayes and noes",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "summary of you laughed and laughed and laughed by gabriel okara",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "who sings at the beginning of nice for what",
+                "correctness_aspect_critic": 0.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "where are the falls in marble falls texas",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "what were harry patch lasting views on war",
+                "correctness_aspect_critic": 1.0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.0
+            }
+        ]
+    }
+}

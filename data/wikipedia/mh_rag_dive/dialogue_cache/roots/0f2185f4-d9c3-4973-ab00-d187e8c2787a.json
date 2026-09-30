@@ -1,0 +1,37 @@
+{
+  "root_id": "0f2185f4-d9c3-4973-ab00-d187e8c2787a",
+  "chunk_a": {
+    "id": "809280094#chunk_22",
+    "text_snippet": "Title: Malaysia\nSection(s): Sports\n\nthumb|left|100px|Logo of the XVI Commonwealth Games held in Kuala Lumpur in 1998\nthumb|right|alt=A woman and a man in black outfits with red belts practising the martial art of Silat Melayu|Traditional sports such as the martial art style Silat Melayu persist alongside modern sports.\nPopular sports in Malaysia include association football, badminton, field hockey, bowls, tennis, squash, martial arts, horse riding, sailing, and skate boarding. Football is the most popular sport in Malaysia and the country is currently studying the possibility of bidding as a joint host for 2034 FIFA World Cup. Badminton matches attract thousands of spectators, and since 1948 Malaysia has been one of four countries to hold the Thomas Cup, the world team championship trophy of men's badminton. The Malaysian Lawn Bowls Federation was registered in 1997. Squash was brought to the country by members of the British army, with the first competition being held in 1939. The Squash Racquets Association Of Malaysia was created on 25 June 1972. Malaysia has proposed a Southeast Asian football league. The men's national field hockey team ranked 13th in the world as of December 2015. The 3rd Hockey World Cup was hosted at Merdeka Stadium in Kuala Lumpur, as well as the 10th cup. The country also has its own Formula One track–the Sepang International Circuit. It runs for , and held its first Grand Prix in 1999. Traditional sports include Silat Melayu, the most common style of martial arts practised by ethnic Malays in Malaysia, Brunei, and Singapore.\n\nThe Federation of Malaya Olympic Council was formed in 1953, and received recognition by the IOC in 1954. It first participated in the 1956 Melbourne Olympic Games. The council was renamed the Olympic Council of Malaysia in 1964, and has participated in all but one Olympic games since its inception. The largest number of athletes ever sent to the Olympics was 57 to the 1972 Munich Olympic Games. Malaysian athletes have won a total of six Olympic medals, five in Badminton, one in Platform diving. The country has competed at the Commonwealth Games since 1950 as Malaya, and 1966 as Malaysia, and the games were hosted in Kuala Lumpur in 1998. The most common martial arts are Silat Melayu and kickboxing or tomoi.",
+    "article_id": "809280094",
+    "article_title": "Malaysia",
+    "chunk_index": 22,
+    "total_chunks": 23
+  },
+  "chunk_b": {
+    "id": "854045019#chunk_27",
+    "text_snippet": "Title: Ecuador\nSection(s): Literature\n\nArt\nThe best known art styles from Ecuador belonged to the Escuela Quiteña (Quito School), which developed from the 16th to 18th centuries, examples of which are on display in various old churches in Quito. Ecuadorian painters include Eduardo Kingman, Oswaldo Guayasamín, and Camilo Egas from the Indiginist Movement; Manuel Rendon, Jaime Zapata, Enrique Tábara, Aníbal Villacís, Theo Constanté, Luis Molinari, Araceli Gilbert, Judith Gutierrez, Felix Arauz, and Estuardo Maldonado from the Informalist Movement; Teddy Cobeña from expressionism and figurative style and Luis Burgos Flor with his abstract, futuristic style. The Amerindian people of Tigua, Ecuador, are also world-renowned for their traditional paintings.\n\nSports\n\nthumb|left|upright=0.9|Jefferson Pérez, Olympic gold medalist\nthumb|Estadio Monumental Isidro Romero Carbo of Guayaquil.\nThe most popular sport in Ecuador, as in most South American countries, is football. Its best known professional teams include Liga De Quito from Quito; Emelec from Guayaquil;  Deportivo Quito, and El Nacional from Quito; Olmedo from Riobamba; and Deportivo Cuenca from Cuenca. Currently the most successful football team in Ecuador is LDU Quito, and it is the only Ecuadorian team that has won the Copa Libertadores, the Copa Sudamericana, and the Recopa Sudamericana; they were also runners-up in the 2008 FIFA Club World Cup. The matches of the Ecuadorian national team are the most-watched sporting events in the country. Ecuador has qualified for the final rounds of the 2002, the 2006, & the 2014 FIFA World Cups. The 2002 FIFA World Cup qualifying campaign was considered a huge success for the country and its inhabitants. The unusually high elevation of the home stadium in Quito often affects the performance of visiting teams. Ecuador finished in 2nd place in the CONMEBOL qualifiers behind Argentina and above the team that would become World Champions, Brazil. In the 2006 FIFA World Cup, Ecuador finished ahead of Poland and Costa Rica finishing second behind Germany in Group A in the 2006 World Cup. They were defeated by England in the second round.\n\nEcuador has won only two medals in the Olympic Games, both gained by 20-km (12 mi) racewalker Jefferson Pérez, who took gold in the 1996 games and silver 12 years later. Pérez also set a world best in the 2003 World Championships of 1:17:21 for the 20-km (12 mi) distance.\n\nHealth\n\nthumb|IESS Hospital in Latacunga\nThe current structure of the Ecuadorian public health care system dates back to 1967. The Ministry of the Public Health (Ministerio de Salud Pública del Ecuador) is the responsible entity of the regulation and creation of the public health policies and health care plans. The Minister of Public Health is appointed directly by the President of the Republic. The current minister, or Ecuadorian general surgeon, is Margarita Guevara.\n\nThe philosophy of the Ministry of Public Health is the social support and service to the most vulnerable population, and its main plan of action lies around communitarian health and preventive medicine.",
+    "article_id": "854045019",
+    "article_title": "Ecuador",
+    "chunk_index": 27,
+    "total_chunks": 33
+  },
+  "t_bridge": [
+    "Olympic performance of national teams",
+    "Popularity of football as a national sport"
+  ],
+  "initial_question": {
+    "rag_input": "How many more Olympic medals has Malaysia won compared to Ecuador?",
+    "question": "How many more Olympic medals has Malaysia won compared to Ecuador?",
+    "answer": "Malaysia has won 4 more Olympic medals than Ecuador. Malaysian athletes have won a total of six Olympic medals, whereas Ecuador has won only two.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Olympic performance of national teams"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

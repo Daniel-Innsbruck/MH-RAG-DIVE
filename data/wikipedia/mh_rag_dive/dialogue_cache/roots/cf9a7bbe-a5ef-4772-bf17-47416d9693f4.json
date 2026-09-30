@@ -1,0 +1,38 @@
+{
+  "root_id": "cf9a7bbe-a5ef-4772-bf17-47416d9693f4",
+  "chunk_a": {
+    "id": "843639541#chunk_16",
+    "text_snippet": "Title: Stranger Things\nSection(s): Release, Home media, Audience viewership, Critical response, Season 1\n\nThe first season consisted of eight one-hour-long episodes which were released worldwide on Netflix on July 15, 2016, in Ultra HD 4K. The second season, consisting of nine episodes, was released on October 27, 2017 in HDR. A teaser for the second season, which also announced the release date, aired during Super Bowl LI. The third season will once again consist of eight episodes. It is not expected to be released until late 2018 or early 2019.\n\nThe first season of Stranger Things was released on a Blu-ray/DVD combo pack exclusively to Target retailers on October 17, 2017, which includes a vintage VHS-inspired packaging.\n\nAs Netflix does not reveal subscriber viewership numbers for any of their original series, Symphony Technology Group compiled data for the season based on people using software on their phones that measures television viewing by detecting a program's sound. According to Symphony, within the first 35 days of release, Stranger Things averaged ratings around 14.07 million adults between the ages 18–49 in the United States. This made it the third most-watched season of Netflix original content in the U.S. at the time behind the first season of Fuller House and fourth season of Orange Is the New Black. In a September 2016 analysis, Netflix found that Stranger Things \"hooked\" viewers by the second episode of the first season, indicating that the second episode was \"the first installment that led at least 70 percent of viewers who watched that episode to complete the entire first season of a show.\"\n\nIn August 2017, the marketing analytics firm Jumpshot determined the season was the seventh-most viewed Netflix season in the first 30 days after it premiered, garnering slightly more than 20% of the viewers that the second season of Daredevil received, which was the most viewed season according to Jumpshot. Jumpshot, which \"analyzes click-stream data from an online panel of more than 100 million consumers\", looked at the viewing behavior and activity of the company's U.S. members, factoring in the relative number of U.S. Netflix viewers who watched at least one episode of the season.\n\nSeason Critical response Rotten Tomatoes Metacritic 1 94% (72 reviews) 76 (34 reviews) 2 94% (123 reviews) 78 (33 reviews)\n\nReview aggregator Rotten Tomatoes gave the first season an approval rating of 94% based on 72 reviews, and a weighted average rating of 7.96/10. The site's critical consensus states, \"Exciting, heartbreaking, and sometimes scary, Stranger Things acts as an addictive homage to Spielberg films and vintage 1980s television.\" Review aggregator Metacritic gave the first season a normalized score of 76 out of 100 based on 34 critics, indicating \"generally favorable reviews\".",
+    "article_id": "843639541",
+    "article_title": "Stranger Things",
+    "chunk_index": 16,
+    "total_chunks": 26
+  },
+  "chunk_b": {
+    "id": "866418206#chunk_19",
+    "text_snippet": "Title: Friends\nSection(s): Premise\n\nIn India, the show is broadcast by Comedy Central at various times. It is the most-watched English language show in the country.\n\nIn the Philippines, the show was originally aired on ABC-5 from 1996 to 2005 and ETC from 2005 to 2014.\n\nIn Greece, the show was broadcast on Star Channel. In Cyprus, Friends aired on CyBC 2 while reruns air on TVOne.\n\nIn Albania, the show was originally broadcast by Top Channel. Reruns were broadcast by A1 Report.\n\nHome media\nStreaming\nIn October 2014, Warner Bros. chairman and chief executive officer, Kevin Tsujihara, announced that the company had licensed the North American streaming rights of all ten seasons of Friends to Netflix, in a deal said to be worth around $500,000 an episode, or about $120 million in total. The show became available on Netflix from January 1, 2015. The Netflix airings are in the versions as aired on NBC rather than the longer international versions, as discussed below.\n\n Blu-ray and DVD \nAll ten seasons have been released on DVD individually and as a box set. Each Region 1 season release contains special features and are presented in their aforementioned original international broadcast versions, although Region 2 releases are as originally aired domestically. For the first season, each episode is updated with color correction and sound enhancement. A wide range of Friends merchandise has been produced by various companies. In September 1995, WEA Records released the first album of music from Friends, the Friends Original TV Soundtrack, containing music featured in previous and future episodes. The soundtrack debuted on the Billboard 200 at number 46, and sold 500,000 copies in November 1995. In 1999, a second soundtrack album entitled Friends Again was released. Other merchandise includes a Friends version of the DVD game \"Scene It?\", and a quiz video game for PlayStation 2 and PC entitled Friends: The One with All the Trivia. On September 28, 2009, a box set was released in the UK celebrating the series's 15th anniversary. The box set contained extended episodes, an episode guide, and original special features.\n\nWarner Home Video released a complete series collection on Blu-ray on November 13, 2012. The collection does not feature the extra deleted scenes and jokes that were included on prior DVD releases, and are therefore presented in their NBC broadcast versions.\n\n DVD name Eps DVD release dates Blu-ray release dates Region 1 Region 2 Region 4 Region A Region B UK Region B Australia The Complete First Season 24 April 30, 2002 May 29, 2000 October 4, 2006 April 30, 2013 The Complete Second Season 24 September 3, 2002 May 29, 2000 October 4, 2006 April 30, 2013 The Complete Third Season 25 April 1, 2003 May 29, 2000 October 4, 2006 The Complete Fourth Season 24 July 15, 2003 May 29, 2000 October 4, 2006 The Complete Fifth Season 24 November 4, 2003 May 29, 2000 October 4, 2006 The Complete Sixth Season 25 January 27, 2004 July 17, 2000 October 4, 2006 The Complete Seventh Season 24 April 6, 2004 October 25, 2004 October 4, 2006 The Complete Eighth Season 24 November 9, 2004 October 25, 2004 October 4, 2006 The Complete Ninth Season 24 March 8, 2005 October 25, 2004 October 4, 2006 The Complete Tenth Season 18 November 15, 2005 October 25, 2004 October 4, 2006 The Complete Series 236 November 15, 2005November 14, 2006April 16, 2013 October 2, 2006November 12, 2007September 28, 2009 November 13, 2012 November 12, 2012 November 21, 2012August 21, 2013",
+    "article_id": "866418206",
+    "article_title": "Friends",
+    "chunk_index": 19,
+    "total_chunks": 21
+  },
+  "t_bridge": [
+    "Netflix",
+    "Home media releases",
+    "Streaming rights"
+  ],
+  "initial_question": {
+    "rag_input": "Between the complete series collection of Friends and the Target-exclusive release of Stranger Things, which Blu-ray came out first?",
+    "question": "Between the complete series collection of Friends and the Target-exclusive release of Stranger Things, which Blu-ray came out first?",
+    "answer": "The complete series collection of Friends came out on Blu-ray first, releasing on November 13, 2012. The Target-exclusive Blu-ray for the first season of Stranger Things was released later, on October 17, 2017.",
+    "type": "Initial",
+    "logic_type": "temporal",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Home media releases"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

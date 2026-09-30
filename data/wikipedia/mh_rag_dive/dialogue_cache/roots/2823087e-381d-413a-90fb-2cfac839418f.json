@@ -1,0 +1,38 @@
+{
+  "root_id": "2823087e-381d-413a-90fb-2cfac839418f",
+  "chunk_a": {
+    "id": "866120929#chunk_1",
+    "text_snippet": "Title: Child's Play (franchise)\nSection(s): Films, ''Child’s Play'' (1988), ''Child’s Play 2'' (1990), ''Child’s Play 3'' (1991)\n\nthumb|right|220px|Chucky: Complete 7-Movie Collection Blu-ray set\n\nChild’s Play is the first and only in the series to be distributed by Metro-Goldwyn-Mayer/United Artists (until Seed of Chucky which is distributed by Rogue) before the franchise was  sold by Universal Pictures. The film is directed by Tom Holland, written by Holland, John Lafia, and Don Mancini, and starring Catherine Hicks, Chris Sarandon, Alex Vincent, and Brad Dourif. The film was released on November 9, 1988. In the film, a serial killer and voodoo practitioner named Charles Lee \"Chucky\" Ray is mortally wounded and transfers his soul via a voodoo ritual into a child-sized \"Good Guy\" doll. The doll is found by a homeless peddler and sold to Karen Barclay, who gives it to her son Andy as a birthday gift. As time goes on Chucky has to get his soul out of the doll before it turns human and the transfer becomes permanent, and thus has to possess the first person he told his secret to - Andy. Desperate to leave his doll body, Chucky terrorizes the Barclays in order to restore his soul.\n\nChild’s Play 2 is the second film in the series and the first film distributed by Universal Pictures. The film directed by John Lafia, written by Mancini, Vincent and Dourif reprise their roles as Andy Barclay and the voice of Chucky. The film was released on November 9, 1990. The movie takes place two years after the events of the first film. While Andy is living in foster care, the doll's manufacturer has taken a positive corporate stance and remade it to prove there is nothing wrong with the Good Guy brand. After a freak electrical malfunction brings Chucky back to life in a new Good Guy doll, he continues to follow Andy in order to transfer his soul from his doll body before it will once again becomes his permanent form.\n\nChild's Play 3, also known as Child’s Play 3: Look Who’s Stalking!, is third film in the series, and last film to be titled as Child's Play, before title change as Chucky. The film directed by Jack Bender, written by Mancini, and had Dourif reprise once again his role as Chucky, Alex Vincent replaced as Andy Barclay by Justin Whalin as an older version of Andy and a supporting cast of Perrey Reeves and Jeremy Sylvers. The film was released on August 20, 1991. Set eight years after the events of the second film, the Good Guy factory has re-opened after the negative publicity, and as Chucky's remains are removed, some blood from his destroyed human-doll body drips into a vat of melted plastic used to re-mould the Good Guy line. Chucky returns in a new body, going on a hunt for the now 16-year-old Andy Barclay, who has left to attend a military academy after the results of the first two films. While attempting to reach Andy, Chucky finds a new boy, Ronald Tyler, who he shares his \"secret\" with. With a new \"Good Guy\" doll body brings the possibility of possessing a new human body, Chucky attempts to restore his soul to human form through Tyler as Andy attempts to stop the killer Good Guy doll once and for all.",
+    "article_id": "866120929",
+    "article_title": "Child's Play (franchise)",
+    "chunk_index": 1,
+    "total_chunks": 11
+  },
+  "chunk_b": {
+    "id": "804476497#chunk_0",
+    "text_snippet": "Title: Jamie Lloyd (Halloween)\nSection(s): Introduction, ''Halloween 4: The Return of Michael Myers''\n\nJamie Lloyd is a fictional character in the Halloween franchise and the main protagonist of Halloween 4 and 5 and also appears  in a less prominent role in Halloween: The Curse of Michael Myers. The character was created Alan B. McElroy and portrayed by actress Danielle Harris in the fourth and fifth movies, while J.C. Brandy portrays her in the sixth.\n\nThe character was created after Jamie Lee Curtis was unable to return as Laurie Strode for the fourth film due to working on another film project. She instead asked that the writers include her character's death from an automobile accident in the plot. The fourth film introduced Laurie's daughter, Jamie Lloyd. As the daughter of Laurie, she is also the niece of infamous serial killer Michael Myers and his first victim, Judith Myers.\n\nJamie suffers from nightmares about her feared uncle, Michael Myers (George P. Wilbur). She is also tormented by schoolmates because she is related to Haddonfield's notorious \"boogeyman\". On October 30, 1988, Michael is being transferred out of Ridgemont Federal Sanitarium back to Smith's Grove. While in the transfer ambulance, he recovers from his ten-year coma upon learning the existence of his niece. Accordingly, he kills the two medical attendants and the two drivers. While making his way back to his hometown, he also kills a mechanic and a waitress. In Haddonfield, while on the trail for Jamie, Michael kills the Carruthers' Golden Retriever Sundae, a worker at the power plant which causes a blackout of the entire town, the entire police force, the deputy, the police chief's daughter Kelly, Rachel's boyfriend Brady, and 4 men from a vigilante mob.\n\nEscaping from town, Jamie cowers in a pick-up truck as Rachel hits Michael head on, throwing him off the road and knocking him out. Despite Rachel's orders, Jamie goes over to him and holds his hand. The police tell Jamie to drop to the ground and shoot Michael many times, causing him to fall into an abandoned mine shaft, which then collapses on top of him. Later, back in her foster home, Jamie is possessed by Michael's spirit and stabs her foster mother, though not fatally. When screams are heard from upstairs, Dr. Loomis walks over to the staircase seeing Jamie poised at the top holding a pair of bloody scissors. Sheriff Ben Meeker (Beau Starr) restrains Loomis from shooting her. Jamie is now apparently consumed by Michael's rage.",
+    "article_id": "804476497",
+    "article_title": "Jamie Lloyd (Halloween)",
+    "chunk_index": 0,
+    "total_chunks": 3
+  },
+  "t_bridge": [
+    "1988 horror film protagonists",
+    "Slasher franchise child characters",
+    "Possession tropes in 1980s horror"
+  ],
+  "initial_question": {
+    "rag_input": "Between Andy Barclay and Jamie Lloyd, who is successfully possessed by a killer's spirit in 1988?",
+    "question": "Between Andy Barclay and Jamie Lloyd, who is successfully possessed by a killer's spirit in 1988?",
+    "answer": "Jamie Lloyd is successfully possessed by a killer's spirit in 1988, as she is consumed by the spirit of her serial killer uncle, Michael Myers, and stabs her foster mother. In contrast, Andy Barclay is only targeted for possession by the serial killer Charles Lee Ray (Chucky), but successfully avoids it, forcing the killer to continue pursuing him in later years.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Possession tropes in 1980s horror"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

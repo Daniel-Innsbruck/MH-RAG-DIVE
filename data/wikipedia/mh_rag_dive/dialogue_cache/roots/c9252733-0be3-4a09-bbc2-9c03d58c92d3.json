@@ -1,0 +1,39 @@
+{
+  "root_id": "c9252733-0be3-4a09-bbc2-9c03d58c92d3",
+  "chunk_a": {
+    "id": "855533381#chunk_10",
+    "text_snippet": "Title: Virus\nSection(s): Replication cycle\n\nViral populations do not grow through cell division, because they are acellular. Instead, they use the machinery and metabolism of a host cell to produce multiple copies of themselves, and they assemble in the cell.\n\nThe life cycle of viruses differs greatly between species but there are six basic stages in the life cycle of viruses:\n\nAttachment is a specific binding between viral capsid proteins and specific receptors on the host cellular surface. This specificity determines the host range of a virus. For example, HIV infects a limited range of human leucocytes. This is because its surface protein, gp120, specifically interacts with the CD4 molecule – a chemokine receptor – which is most commonly found on the surface of CD4+ T-Cells. This mechanism has evolved to favour those viruses that infect only cells in which they are capable of replication. Attachment to the receptor can induce the viral envelope protein to undergo changes that results in the fusion of viral and cellular membranes, or changes of non-enveloped virus surface proteins that allow the virus to enter.\n\nPenetration follows attachment: Virions enter the host cell through receptor-mediated endocytosis or membrane fusion. This is often called viral entry. The infection of plant and fungal cells is different from that of animal cells. Plants have a rigid cell wall made of cellulose, and fungi one of chitin, so most viruses can get inside these cells only after trauma to the cell wall. Nearly all plant viruses (such as tobacco mosaic virus) can also move directly from cell to cell, in the form of single-stranded nucleoprotein complexes, through pores called plasmodesmata. Bacteria, like plants, have strong cell walls that a virus must breach to infect the cell. Given that bacterial cell walls are much thinner than plant cell walls due to their much smaller size, some viruses have evolved mechanisms that inject their genome into the bacterial cell across the cell wall, while the viral capsid remains outside.\n\nUncoating is a process in which the viral capsid is removed: This may be by degradation by viral enzymes or host enzymes or by simple dissociation; the end-result is the releasing of the viral genomic nucleic acid.\n\nReplication of viruses involves primarily multiplication of the genome. Replication involves synthesis of viral messenger RNA (mRNA) from \"early\" genes (with exceptions for positive sense RNA viruses), viral protein synthesis, possible assembly of viral proteins, then viral genome replication mediated by early or regulatory protein expression. This may be followed, for complex viruses with larger genomes, by one or more further rounds of mRNA synthesis: \"late\" gene expression is, in general, of structural or virion proteins.\n\nAssembly – Following the structure-mediated self-assembly of the virus particles, some modification of the proteins often occurs. In viruses such as HIV, this modification (sometimes called maturation) occurs after the virus has been released from the host cell.",
+    "article_id": "855533381",
+    "article_title": "Virus",
+    "chunk_index": 10,
+    "total_chunks": 24
+  },
+  "chunk_b": {
+    "id": "846190841#chunk_0",
+    "text_snippet": "Title: Cell cycle\nSection(s): Introduction, Phases\n\nthumb|200px|Life Cycle of the cell\nthumb|200px|Onion (Allium) cells in different phases of the cell cycle. Growth in an 'organism' is carefully controlled by regulating the cell cycle.\nThe cell cycle or cell-division cycle is  the series of events that take place in a cell leading to its division and duplication of its DNA (DNA replication) to produce two daughter cells. In bacteria, which lack a cell nucleus, the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication.  DNA replication occurs during the C period.  The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells.  In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. During interphase, the cell grows, accumulating nutrients needed for mitosis, preparing it for cell division and duplicating its DNA. During the mitotic phase, the chromosomes separate. During the final stage, cytokinesis, the chromosomes and cytoplasm separate into two new daughter cells. To ensure the proper division of the cell, there are control mechanisms known as cell cycle checkpoints.\n\nThe cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell divisions.\n\nThe cell cycle consists of four distinct phases: G1 phase, S phase (synthesis), G2 phase (collectively known as interphase) and M phase (mitosis). M phase is itself composed of two tightly coupled processes: karyokinesis, in which the cell's chromosomes are divided, and cytokinesis, in which the cell's cytoplasm divides forming two daughter cells. Activation of each phase is dependent on the proper progression and completion of the previous one. Cells that have temporarily or reversibly stopped dividing are said to have entered a state of quiescence called G0 phase.\nthumb|300px|Schematic of the cell cycle. outer ring: I = Interphase, M = Mitosis; inner ring: M = Mitosis, G1 = Gap 1, G2 = Gap 2, S = Synthesis; not in ring: G0 = Gap 0/Resting.\n State Phase Abbreviation Description  Resting Gap 0 G0 A phase where the cell has left the cycle and has stopped dividing. Interphase Gap 1 G1 Cells increase in size in Gap 1. The G1 checkpoint control mechanism ensures that everything is ready for DNA synthesis. Synthesis S DNA replication occurs during this phase. Gap 2 G2 During the gap between DNA synthesis and mitosis, the cell will continue to grow. The G2 checkpoint control mechanism ensures that everything is ready to enter the M (mitosis) phase and divide. Cell division Mitosis M Cell growth stops at this stage and cellular energy is focused on the orderly division into two daughter cells. A checkpoint in the middle of mitosis (Metaphase Checkpoint) ensures that the cell is ready to complete cell division.",
+    "article_id": "846190841",
+    "article_title": "Cell cycle",
+    "chunk_index": 0,
+    "total_chunks": 9
+  },
+  "t_bridge": [
+    "Host cell dependency",
+    "DNA replication",
+    "Mechanisms of cellular exploitation",
+    "Viral interaction with host division cycles"
+  ],
+  "initial_question": {
+    "rag_input": "How does viral genome multiplication differ from how bacteria and eukaryotes duplicate their DNA?",
+    "question": "How does viral genome multiplication differ from how bacteria and eukaryotes duplicate their DNA?",
+    "answer": "Viruses are acellular and do not grow through cell division; instead, they multiply their genomes by exploiting the machinery and metabolism of a host cell. In contrast, bacteria and eukaryotes duplicate their DNA as part of the cell-division cycle, specifically during the C period for bacteria and the S phase for eukaryotes.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "DNA replication"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

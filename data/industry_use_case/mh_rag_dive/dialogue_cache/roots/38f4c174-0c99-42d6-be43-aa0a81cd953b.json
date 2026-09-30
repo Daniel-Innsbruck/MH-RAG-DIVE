@@ -1,0 +1,38 @@
+{
+  "root_id": "38f4c174-0c99-42d6-be43-aa0a81cd953b",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_2",
+    "text_snippet": "Kapitelüberschrift: Sie haben Fragen?\nInhalt: 6\nProgrammfunktionen\nIn diesem Bereich finden Sie eine umfangreiche Dokumentation zu der Anwendung k5|Next_Wahl.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 2,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_0",
+    "text_snippet": "Kapitelüberschrift: k5|Next Wahltag Home\nInhalt: 3\nProgrammfunktionen\nIn diesem Bereich finden Sie eine umfangreiche Dokumentation zu der Anwendung k5|Next_Wahltag.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 0,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Dokumentation",
+    "k5|Next Produktfamilie",
+    "Programmfunktionen"
+  ],
+  "initial_question": {
+    "rag_input": "Welche Anwendungen werden im Bereich Programmfunktionen dokumentiert?",
+    "question": "Welche Anwendungen werden im Bereich Programmfunktionen dokumentiert?",
+    "answer": "Im Bereich Programmfunktionen finden Sie eine umfangreiche Dokumentation zu den beiden Anwendungen k5|Next_Wahl und k5|Next_Wahltag.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Programmfunktionen"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

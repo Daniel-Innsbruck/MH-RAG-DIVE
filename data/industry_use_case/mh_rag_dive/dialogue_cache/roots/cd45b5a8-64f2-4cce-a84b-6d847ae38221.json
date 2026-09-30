@@ -1,0 +1,38 @@
+{
+  "root_id": "cd45b5a8-64f2-4cce-a84b-6d847ae38221",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_52",
+    "text_snippet": "Kapitelüberschrift: Release Sep 2023\nInhalt: 84\n \n\n85\nRelease Aug 2023\nWidget \"Gespeichert Gruppen\"\nWohnsitze im ZMR-Suchergebnis\n \nDas Widget \"Gespeichert Gruppen\" ist nun am Dashboard verfügbar. In diesem neuen Widget werden die gespeicherten und geteilten \nGruppen in einer Liste dargestellt. Die neueste Gruppe steht immer ganz oben. Mit einem Klick auf die Gruppe wird die Detailsuche im \nKontaktmanagement geöffnet.\nAb sofort werden bei natürlichen Personen alle Wohnsitze inklusive der Wohnsitzqualität im ZMR-Suchergebnis angezeigt.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 52,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_49",
+    "text_snippet": "Kapitelüberschrift: ZMR-Abgleich\nInhalt: 99\nRelease Notes\nWir entwickeln unsere Software stetig weiter. In diesem Bereich finden Sie Informationen zu neuen Features\nRelease September 2024",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 49,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "ZMR-Suche",
+    "Software-Release-Historie",
+    "Feature-Updates"
+  ],
+  "initial_question": {
+    "rag_input": "Wie viele Monate liegen zwischen dem Release mit den Wohnsitzen im ZMR-Suchergebnis und dem Release-Datum im Kapitel 'ZMR-Abgleich'?",
+    "question": "Wie viele Monate liegen zwischen dem Release mit den Wohnsitzen im ZMR-Suchergebnis und dem Release-Datum im Kapitel 'ZMR-Abgleich'?",
+    "answer": "Es liegen 13 Monate dazwischen. Die Anzeige der Wohnsitze im ZMR-Suchergebnis wurde im Release vom August 2023 eingeführt, während das im Kapitel 'ZMR-Abgleich' genannte Release-Datum der September 2024 ist.",
+    "type": "Initial",
+    "logic_type": "temporal",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Software-Release-Historie"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

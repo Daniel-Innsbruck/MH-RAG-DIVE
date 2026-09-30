@@ -1,0 +1,38 @@
+{
+  "root_id": "d9b51973-fafa-47a9-84fb-cde7224ac3ba",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_20",
+    "text_snippet": "Kapitelüberschrift: Kunden-Rollen\nInhalt: 35\nWie werden Kunden-Rollen erstellt?\nSystem-Rollen oder Dienstleister-Rollen stehen bereits von Beginn an zur Verfügung und können den Usern in Ihrer Organisation \nzugeordnet werden. Sollen User in Ihrer Organisation zusätzlich mit individuellen Rollen ausgestattet werden, müssen diese zuvor vom \nKunden-Administrator erstellt werden. Dies wird im Menü Rollen der Administrationsumgebung durch Klick auf Plus (Rolle hinzufügen) \nangestoßen:\nWenn Sie mit Rollenvorlagen arbeiten, können Sie eine Vorlage wählen (optional).\nDa Rollen immer auf den Mandant bezogen angelegt werden, muss dieser bei der Erstellung per Pflichtfeld ausgewählt werden (1).\nAußerdem muss für die Rolle ein Name angegeben werden (2). Optional können Sie eine Rollenbeschreibung erfassen.\nWeisen Sie die Rechte durch Setzen der Checkboxes zu (3).\nMit Speichern schließen Sie die Rollenerstellung ab (4).",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 20,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_36",
+    "text_snippet": "Kapitelüberschrift: Gruppe\nInhalt: 44\nGruppen verwalten\nUm Ihre Gruppe zu verwalten navigieren Sie im Menü auf “Kontakte - Gruppen”. Sie finden hier eine Auflistung aller Gruppen, die Sie \nentweder selbst erstellt haben oder die mit Ihnen geteilt wurden. Wurde für die Gruppe ein Bild hochgeladen, wird dieses vor dem \nGruppenamen angezeigt (1). Wollen Sie die Gruppe bearbeiten (Änderung des Namens, Gruppe sperren, Gruppenbild wählen) klicken Sie \nauf \n (2). Sie sehen die Gruppengröße als Anzahl der Kontakte (3) und die Anzahl der Benutzer, welche die Gruppe einsehen können (2). \nBei Mouseover über die Zeile einer Gruppe erscheinen im darüber hinaus drei Buttons zur Gruppenverwaltung:\nMit \n können Sie die Gruppe mit Usern Ihrer Organisation teilen\nMit \n können Sie die Kontakte in der Gruppe anzeigen\nMit \n können Sie die Gruppe löschen\n \n\n45\nRelease Notes\nDie Release Notes finden Sie im Bereich k5|Next_Basis.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 36,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Benutzer- und Zugriffsverwaltung in der Organisationsstruktur",
+    "Zuordnung von Berechtigungen auf Mandanten- oder Gruppenebene",
+    "Rollenbasierte Zugriffskontrolle (RBAC) im Kontext der Benutzerorganisation"
+  ],
+  "initial_question": {
+    "rag_input": "Wer muss individuelle Rollen für jene Personen anlegen, mit denen ich meine Gruppen teilen kann?",
+    "question": "Wer muss individuelle Rollen für jene Personen anlegen, mit denen ich meine Gruppen teilen kann?",
+    "answer": "Gruppen können laut der Gruppenverwaltung ausschließlich mit den \"Usern Ihrer Organisation\" geteilt werden. Sollen genau diese User mit neuen individuellen Rollen ausgestattet werden, müssen die Rollen zwingend vom Kunden-Administrator im Menü der Administrationsumgebung erstellt und dabei einem Mandanten zugeordnet werden.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "User in der Organisation als gemeinsames Ziel für Gruppenfreigaben und Rollenzuweisungen"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

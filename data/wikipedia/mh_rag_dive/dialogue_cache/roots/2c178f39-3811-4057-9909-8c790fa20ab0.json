@@ -1,0 +1,38 @@
+{
+  "root_id": "2c178f39-3811-4057-9909-8c790fa20ab0",
+  "chunk_a": {
+    "id": "797649934#chunk_0",
+    "text_snippet": "Title: Social exchange theory\nSection(s): Introduction, History\n\nSocial exchange theory is a social psychological and sociological perspective that explains social change and stability as a process of negotiated exchanges between parties. Social exchange theory posits that human relationships are formed by the use of a subjective cost-benefit analysis and the comparison of alternatives.  The theory has roots in economics, psychology and sociology. Social exchange theory features many of the main assumptions found in rational choice theory and structuralism.\nIt is also used quite frequently in the business world to imply a two-sided, mutually contingent and rewarding process involving transactions or simply exchange.\n\nSocial exchange theory goes back to Thibaut and Kelley (1959), Kelley and Thibaut (1978), Homans (1961) and Rusbult (1983). Sociologist George Homans published a work \"Social Behavior as Exchange\". He defined social exchange as the exchange of activity, tangible or intangible, and more or less rewarding or costly, between at least two persons. After Homans founded the theory, other theorists continued to write about it, particularly Peter M. Blau and Richard M. Emerson, who in addition to Homans are generally thought of as the major developers of the exchange perspective within sociology. Homans' work emphasized the individual behavior of actors in interaction with one another. Although there are various modes of exchange, Homans centered his studies on dyadic exchange. John Thibaut and Harold Kelley are recognized for focusing their studies within the theory on the psychological concepts, the dyad and small group. Lévi-Strauss is recognized for contributing to the emergence of this theoretical perspective from his work on anthropology focused on systems of generalized exchange, such as kinship systems and gift exchange.\n\nHomans summarizes the system in three propositions: success, stimulus, and deprivation–satiation proposition.\nSuccess proposition: When one finds they are rewarded for their actions, they tend to repeat the action.\nStimulus proposition: The more often a particular stimulus has resulted in a reward in the past, the more likely it is that a person will respond to it.\nDeprivation–satiation proposition: The more often in the recent past a person has received a particular reward, the less valuable any further unit of that reward becomes.\n\nPeter Blau focused his early writings on social exchange theory more towards the economic and utilitarian perspective, whereas Homans focused on reinforcement principles which presuppose individuals base their next social move on past experiences. Blau's utilitarian focus encouraged the theorist to look forward, as in what they anticipated the reward would be in regards to their next social interaction. Blau felt that if individuals focused too much on the psychological concepts within the theory, they would refrain from learning the developing aspects of social exchange. Blau emphasized technical economic analysis whereas Homans concentrated more on the psychology of instrumental behavior.",
+    "article_id": "797649934",
+    "article_title": "Social exchange theory",
+    "chunk_index": 0,
+    "total_chunks": 13
+  },
+  "chunk_b": {
+    "id": "825339826#chunk_1",
+    "text_snippet": "Title: Veil of ignorance\nSection(s): The concept, History\n\nIt has been argued that such a concept can have grand effects if it were to be practiced both in the present and in the past. Referring again to the example of slavery, if the slave-owners were forced through the veil of ignorance to imagine that they themselves may be slaves, then suddenly slavery may no longer seem justifiable. Perhaps the entire practice would have been abolished without the need for a war to settle things. A grander example would be if each individual in society were to base their practices off the fact that they could be the least advantaged member of society. In this scenario, freedom and equality could possibly coexist in a way that has been the ideal of many philosophers. For example, in the imaginary society, one might or might not be intelligent, rich, or born into a preferred class. Since one may occupy any position in the society once the veil is lifted, the device forces the parties to consider society from the perspective of all members, including the worst-off and best-off members.\n\nThe concept of the veil of ignorance has been in use by other names for centuries by philosophers such as John Stuart Mill and Immanuel Kant whose work discussed the concept of the social contract. John Harsanyi helped to formalize the concept in economics, and argued that it provides an argument in favor of utilitarianism rather than an argument for a social contract. The modern usage was developed by John Rawls in his 1971 book A Theory of Justice.",
+    "article_id": "825339826",
+    "article_title": "Veil of ignorance",
+    "chunk_index": 1,
+    "total_chunks": 2
+  },
+  "t_bridge": [
+    "Utilitarianism",
+    "Rational choice theory",
+    "Social contract theory"
+  ],
+  "initial_question": {
+    "rag_input": "Who argued that the veil of ignorance favors the same perspective Peter Blau focused his early writings on?",
+    "question": "Who argued that the veil of ignorance favors the same perspective Peter Blau focused his early writings on?",
+    "answer": "John Harsanyi. He argued that the veil of ignorance provides an argument in favor of utilitarianism, which is the perspective Peter Blau focused on in his early writings regarding social exchange theory.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Utilitarianism"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

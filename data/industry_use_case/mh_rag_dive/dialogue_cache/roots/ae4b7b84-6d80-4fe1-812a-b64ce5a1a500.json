@@ -1,0 +1,37 @@
+{
+  "root_id": "ae4b7b84-6d80-4fe1-812a-b64ce5a1a500",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_0",
+    "text_snippet": "Kapitelüberschrift: k5|Next Kontakt\nInhalt: 3\nJetzt starten\nBei k5|Next handelt es sich um die logische Weiterentwicklung der k5 Lösungen. Den Mitarbeitern einer Gemeinde stehen damit eine Reihe \nvon Applikationen zu Verfügung, mit deren Hilfe die täglichen Verwaltungsaufgaben abgewickelt werden können. Eines dieser neuen \nModule ist k5|Next_Kontakt (Kontaktmanagement).\nZiel ist es, den k5 Fachanwendungen qualitativ hochwertige Daten für die weitere Verarbeitung (Duale Zustellung, Vorschreibung, \nVerfahrensabwicklung) zur Verfügung zu stellen.\nZielgruppe für das Kontaktmanagement ist das Bürgerservice, aber auch alle Anwendergruppen, die in ihren primären Anwendungen keine \nMöglichkeit zur Pflege von zentralen Personendaten haben (z.B. k5 DMS / Easy Documents).\nEs bildet auch die Grundlage für die künftige Einbindung von Bürgern in die k5|Next Welt.\nDas Kontaktmanagement erhebt nicht den Anspruch, ein Adressbuch im Sinne von Outlook zu sein.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 0,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_0",
+    "text_snippet": "Kapitelüberschrift: k5|next Wahl\nInhalt: 4\nJetzt starten\nBei k5|Next handelt es sich um die logische Weiterentwicklung der k5 Lösungen. Den Mitarbeitern einer Gemeinde stehen damit eine Reihe \nvon Applikationen zu Verfügung, mit deren Hilfe die täglichen Verwaltungsaufgaben abgewickelt werden können. Eines dieser neuen \nModule ist k5|Next_Wahl (Wahlmanagement).\nDas Wahlmanagement wird im Wesentlichen für die Vorbereitung einer Wahl verwendet und beinhaltet \nWahlbestand/ Wählerverzeichnis erstellen und verwalten und freigeben\nWahlkartenmanagement\nSprengelverwaltung\nMeine Wahlkarte und Meine Wahlinfo als optionaler Service",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 0,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "k5|Next Produktfamilie",
+    "Modulare Erweiterung von Verwaltungsanwendungen"
+  ],
+  "initial_question": {
+    "rag_input": "Welche neuen k5|Next Module decken die Wahlvorbereitung und die Pflege zentraler Personendaten ab?",
+    "question": "Welche neuen k5|Next Module decken die Wahlvorbereitung und die Pflege zentraler Personendaten ab?",
+    "answer": "Für diese Verwaltungsaufgaben bietet die k5|Next Produktfamilie zwei spezifische Applikationen: 'k5|Next Wahl' (Wahlmanagement) für die Vorbereitung einer Wahl und 'k5|Next Kontakt' (Kontaktmanagement) für die Pflege und Bereitstellung zentraler Personendaten.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "k5|Next Produktfamilie"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

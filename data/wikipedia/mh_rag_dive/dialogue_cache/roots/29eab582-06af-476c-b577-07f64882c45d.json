@@ -1,0 +1,37 @@
+{
+  "root_id": "29eab582-06af-476c-b577-07f64882c45d",
+  "chunk_a": {
+    "id": "831159900#chunk_9",
+    "text_snippet": "Title: Gospel of Mark\nSection(s): Mark and the New Testament\n\nMark's despairing death of Jesus was changed to a more victorious one in subsequent gospels. Mark's Christ dies with the cry, \"My God, my God, why have you forsaken me?\"; Matthew, the next gospel to be written, repeats this word for word but manages to make clear that Jesus's death is the beginning of the resurrection of Israel; Luke has a still more positive picture, replacing Mark's (and Matthew's) cry of despair with one of submission to God's will (\"Father, into your hands I commend my spirit\"); while John, the last gospel, has Jesus dying without apparent suffering in fulfillment of the divine plan.",
+    "article_id": "831159900",
+    "article_title": "Gospel of Mark",
+    "chunk_index": 9,
+    "total_chunks": 11
+  },
+  "chunk_b": {
+    "id": "857029248#chunk_3",
+    "text_snippet": "Title: New Testament\nSection(s): Books, The Gospels\n\nIn general, among Christian denominations the New Testament canon came to be agreed-upon as a list of 27 books, although the order of the books can vary from one version of the printed scriptures to the next. The book order is the same in the Greek Orthodox, Roman Catholic, and Protestant traditions. The Slavonic, Armenian and Ethiopian traditions have different New Testament book orders.\n\nEach of the four gospels in the New Testament narrates the life, death, and resurrection of Jesus of Nazareth. The word \"gospel\" derives from the Old English gōd-spell (rarely godspel), meaning \"good news\" or \"glad tidings\". The gospel was considered the \"good news\" of the coming Kingdom of Messiah, and the redemption through the life and death of Jesus, the central Christian message. Gospel is a calque (word-for-word translation) of the Greek word , euangelion (eu- \"good\", -angelion \"message\").\n\nSince the 2nd century, the four narrative accounts of the life and work of Jesus Christ have been referred to as \"The Gospel of ...\" or \"The Gospel according to ...\" followed by the name of the supposed author. Whatever these admittedly early ascriptions may imply about the sources behind or the perception of these gospels, they are anonymous compositions.\n The Gospel of Matthew, ascribed to the Apostle Matthew. This gospel begins with a genealogy of Jesus and a story of his birth that includes a visit from magi and a flight into Egypt, and it ends with the commissioning of the disciples by the resurrected Jesus.\n The Gospel of Mark, ascribed to Mark the Evangelist. This gospel begins with the preaching of John the Baptist and the baptism of Jesus. Two different secondary endings were affixed to this gospel in the 2nd century.\n The Gospel of Luke, ascribed to Luke the Evangelist, who was not one of the Twelve Apostles, but was mentioned as a companion of the Apostle Paul and as a physician. This gospel begins with parallel stories of the birth and childhood of John the Baptist and Jesus and ends with appearances of the resurrected Jesus and his ascension into heaven.\n The Gospel of John, ascribed to John the Apostle. This gospel begins with a philosophical prologue and ends with appearances of the resurrected Jesus. It is about Jesus's miracles.\n\nThe first three gospels listed above are classified as the Synoptic Gospels. They contain similar accounts of the events in Jesus' life and his teaching, due to their literary interdependence. The Gospel of John is structured differently and includes stories of several miracles of Jesus and sayings not found in the other three.\n\nThese four gospels that were eventually included in the New Testament were only a few among many other early Christian gospels. The existence of such texts is even mentioned at the beginning of the Gospel of Luke. Other early Christian gospels such as the so-called \"Jewish-Christian Gospels\" or the Gospel of Thomas, also offer both a window into the context of early Christianity and may provide some assistance in the reconstruction of the historical Jesus.",
+    "article_id": "857029248",
+    "article_title": "New Testament",
+    "chunk_index": 3,
+    "total_chunks": 29
+  },
+  "t_bridge": [
+    "Theological interpretation of Jesus' death",
+    "Comparative analysis of the four canonical gospels"
+  ],
+  "initial_question": {
+    "rag_input": "How does Jesus' death in the Synoptic Gospels compare to the Gospel with a philosophical prologue?",
+    "question": "How does Jesus' death in the Synoptic Gospels compare to the Gospel with a philosophical prologue?",
+    "answer": "The Synoptic Gospels (Matthew, Mark, and Luke) portray Jesus dying with either a cry of despair (\"My God, my God, why have you forsaken me?\") or a cry of submission to God's will. In contrast, the Gospel with a philosophical prologue (John) depicts Jesus dying without apparent suffering in fulfillment of a divine plan.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Comparative analysis of the four canonical gospels"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

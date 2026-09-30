@@ -1,0 +1,38 @@
+{
+  "root_id": "b0b4dbb3-2576-4a58-b3c4-2721e4f53b60",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_37",
+    "text_snippet": "Kapitelüberschrift: Release Notes\nInhalt: 45\nRelease Notes\nDie Release Notes finden Sie im Bereich k5|Next_Basis.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 37,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_40",
+    "text_snippet": "Kapitelüberschrift: k5|Next Sync\nInhalt: 63\nRelease Notes\nWir entwickeln unsere Software stetig weiter. In diesem Bereich finden Sie Informationen zu neuen Features der aktuellen und früheren \nProgrammversionen.\nRelease Dezember 2024\nRelease Oktober 2024\nRelease September 2024\nRelease August 2024\nRelease Juli 2024\nRelease April 2024\nRelease März 2024\nRelease Feb 2024\nRelease Jan 2024\nRelease Dez 2023\nRelease Sep 2023\nRelease Aug 2023",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 40,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "k5|Next Release Notes",
+    "Software update documentation",
+    "Accessing release information"
+  ],
+  "initial_question": {
+    "rag_input": "In welchem Bereich finde ich die Infos zu den neuen Features von Dezember 2024?",
+    "question": "In welchem Bereich finde ich die Infos zu den neuen Features von Dezember 2024?",
+    "answer": "Die Informationen zu den neuen Features für den Dezember 2024 sind Teil der Release Notes (zu finden unter dem Kapitel k5|Next Sync). Diese Release Notes befinden sich generell im Bereich k5|Next_Basis.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Accessing software update documentation for a specific release date"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

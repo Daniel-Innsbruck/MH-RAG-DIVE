@@ -1,0 +1,38 @@
+{
+  "root_id": "0d92f01f-7ea6-44f7-b5f4-2a9f199fde03",
+  "chunk_a": {
+    "id": "843537822#chunk_11",
+    "text_snippet": "Title: Berlin Wall\nSection(s): Crossing\n\nEast Berliners and East Germans could not, at first, travel to West Berlin or West Germany at all. This regulation remained in force essentially until the fall of the Wall, but over the years several exceptions to these rules were introduced, the most significant being:\n Elderly pensioners could travel to the West starting in 1965\n Visits of relatives for important family matters\n People who had to travel to the West for professional reasons (for example, artists, truck drivers, musicians, writers, etc.)\n\nFor each of these exceptions, GDR citizens had to apply for individual approval, which was never guaranteed. In addition, even if travel was approved, GDR travellers could exchange only a very small amount of East German Marks into Deutsche Marks (DM), thus limiting the financial resources available for them to travel to the West. This led to the West German practice of granting a small amount of DM annually (Begrüßungsgeld, or welcome money) to GDR citizens visiting West Germany and West Berlin to help alleviate this situation.\n\nCitizens of other East European countries were in general subject to the same prohibition of visiting Western countries as East Germans, though the applicable exception (if any) varied from country to country.\n\nAllied military personnel and civilian officials of the Allied forces could enter and exit East Berlin without submitting to East German passport controls, purchasing a visa or being required to exchange money. Likewise, Soviet military patrols could enter and exit West Berlin. This was a requirement of the post-war Four Powers Agreements. A particular area of concern for the Western Allies involved official dealings with East German authorities when crossing the border, since Allied policy did not recognize the authority of the GDR to regulate Allied military traffic to and from West Berlin, as well as the Allied presence within Greater Berlin, including entry into, exit from, and presence within East Berlin.\n\nThe Allies held that only the Soviet Union, and not the GDR, had authority to regulate Allied personnel in such cases. For this reason, elaborate procedures were established to prevent inadvertent recognition of East German authority when engaged in travel through the GDR and when in East Berlin. Special rules applied to travel by Western Allied military personnel assigned to the Military Liaison Missions accredited to the commander of Soviet forces in East Germany, located in Potsdam.\n\nAllied personnel were restricted by policy when travelling by land to the following routes:",
+    "article_id": "843537822",
+    "article_title": "Berlin Wall",
+    "chunk_index": 11,
+    "total_chunks": 25
+  },
+  "chunk_b": {
+    "id": "864211685#chunk_10",
+    "text_snippet": "Title: Berlin Wall\nSection(s): Official crossings and usage, Crossing\n\nFour autobahns connected West Berlin to West Germany, the most famous being the Berlin-Helmstedt autobahn, which entered East German territory between the towns of Helmstedt and Marienborn (Checkpoint Alpha), and which entered West Berlin at Dreilinden (Checkpoint Bravo for the Allied forces) in southwestern Berlin. Access to West Berlin was also possible by railway (four routes) and by boat for commercial shipping via canals and rivers.\n\nNon-German Westerners could cross the border at Friedrichstraße station in East Berlin and at Checkpoint Charlie. When the Wall was erected, Berlin's complex public transit networks, the S-Bahn and U-Bahn, were divided with it. Some lines were cut in half; many stations were shut down. Three western lines traveled through brief sections of East Berlin territory, passing through eastern stations (called , or ghost stations) without stopping. Both the eastern and western networks converged at , which became a major crossing point for those (mostly Westerners) with permission to cross.\n\nthumb|Travel orders to go to Berlin as used by U.S. forces in the 1980s.\nWest Germans and citizens of other Western countries could generally visit East Germany, often after applying for a visa at an East German embassy several weeks in advance. Visas for day trips restricted to East Berlin were issued without previous application in a simplified procedure at the border crossing. However, East German authorities could refuse entry permits without stating a reason. In the 1980s, visitors from the western part of the city who wanted to visit the eastern part had to exchange at least DM 25 into East German currency at the poor exchange rate of 1:1. It was forbidden to export East German currency from the East, but money not spent could be left at the border for possible future visits. Tourists crossing from the west had to also pay for a visa, which cost DM 5; West Berliners did not have to pay this.\n\nWest Berliners initially could not visit East Berlin or East Germany at all – all crossing points were closed to them between 26 August 1961 and 17 December 1963. In 1963, negotiations between East and West resulted in a limited possibility for visits during the Christmas season that year (). Similar, very limited arrangements were made in 1964, 1965 and 1966.\n\nIn 1971, with the Four Power Agreement on Berlin, agreements were reached that allowed West Berliners to apply for visas to enter East Berlin and East Germany regularly, comparable to the regulations already in force for West Germans. However, East German authorities could still refuse entry permits.\n\nEast Berliners and East Germans could not, at first, travel to West Berlin or West Germany at all. This regulation remained in force essentially until the fall of the Wall, but over the years several exceptions to these rules were introduced, the most significant being:\n Elderly pensioners could travel to the West starting in 1965\n Visits of relatives for important family matters\n People who had to travel to the West for professional reasons (for example, artists, truck drivers, musicians, writers, etc.)",
+    "article_id": "864211685",
+    "article_title": "Berlin Wall",
+    "chunk_index": 10,
+    "total_chunks": 25
+  },
+  "t_bridge": [
+    "Berlin Wall border crossing regulations",
+    "Travel restrictions for East vs. West citizens",
+    "Allied vs. civilian movement policies"
+  ],
+  "initial_question": {
+    "rag_input": "In the 1980s, how did financial entry requirements for East Berlin differ between Allied military personnel and Western visitors?",
+    "question": "In the 1980s, how did financial entry requirements for East Berlin differ between Allied military personnel and Western visitors?",
+    "answer": "Allied military personnel could enter East Berlin without being required to purchase a visa or exchange money. In contrast, Western visitors in the 1980s had to pay a DM 5 visa fee (unless they were West Berliners) and were forced to exchange at least DM 25 into East German currency at a 1:1 rate.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Allied vs. civilian movement policies"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "ad1e11f0-aa4b-4f0c-bb4a-643b3eb27b68",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_34",
+    "text_snippet": "Kapitelüberschrift: Notizen\nInhalt: 42\nTags\nIn k5|Next_Kontakt gibt es die Möglichkeit, Kontaktpersonen zu Taggen. Ein Tag kann man sich dabei ähnlich einem Etikett bzw. einem \nSchlagwort vorstellen. Damit lassen sich Inhalte, im konkreten Fall Personendaten, über die vorhandenen und definierten Variablen hinaus, \nkategorisieren.\nUm einen Kontakt zu taggen suchen Sie die gewünschte Person über die Schnellsuche oder Detailsuche und vergeben als Tag einen \nbeliebigen Begriff. Bereits vorhandene Tags werden vorgeschlagen, Sie können aber auch beliebige neue Tags vergeben. Tags können \njederzeit von jedem berechtigten User in Ihrer Organisation per Freitext auf einen bestehenden Kontakt gesetzt oder entfernt werden.\nÜber die Detailsuche lassen sich Tags als weiteres Suchkriterium aktivieren. Damit erhalten Sie ein zusätzliches, sehr dynamisches und \nindividuelles Feature für die Organisation Ihrer Kontaktdaten.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 34,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_41",
+    "text_snippet": "Kapitelüberschrift: Release Notes\nInhalt: 64\nRelease Dezember 2024\nBankverbindung und Abbucher im Kontaktmangement \nPostfachadresse als Zustelladresse\nTab-Verhalten in der Detailsuche\nAb sofort stehen die Bankverbindungen im Kontaktmanagement zur Verfügung. Hier können neue Bankverbindungen hinzugefügt, aber \nauch entfernt werden. Diese werden ebenfalls in k5 Finanzmanagement synchronisiert. Bei der Neuanlage wird ein SEPA \nLastschriftmandat erstellt, welches heruntergeladen, unterschrieben und wieder hochgeladen werden kann.\n Hinweis für Administratoren: In den Mandant-Einstellungen unter Kennzahlen muss die Creditor-ID eingetragen sein.\nBei der manuellen Erfassung einer Zustelladresse kann nun eine Postfachadresse erfasst werden. Dafür muss das Häkchen für \n“Postfachadresse” gesetzt werden. Diese Variante ist nur für österreichische Adressen verfügbar.\n \nDas Tab-Verhalten wurde dahingehend angepasst, sodass nun nach Eingabe eines Suchbegriffes und nach drücken der Tab-Taste, das \nnächste Feld aktiv wird und nicht wie bis jetzt, das “x” für löschen markiert wird.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 41,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "k5|Next_Kontakt",
+    "Kontaktmanagement",
+    "Detailsuche"
+  ],
+  "initial_question": {
+    "rag_input": "Was bewirkt die Tab-Taste seit Dezember 2024 bei der Eingabe von Tags als Suchkriterium in der Detailsuche?",
+    "question": "Was bewirkt die Tab-Taste seit Dezember 2024 bei der Eingabe von Tags als Suchkriterium in der Detailsuche?",
+    "answer": "Seit dem Release im Dezember 2024 wird nach der Eingabe eines Suchbegriffs (wie etwa einem Tag in der Detailsuche) und dem Drücken der Tab-Taste direkt das nächste Feld aktiv. Zuvor wurde stattdessen das 'x' zum Löschen markiert.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Detailsuche"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

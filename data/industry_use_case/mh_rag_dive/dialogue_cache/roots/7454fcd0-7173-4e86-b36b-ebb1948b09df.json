@@ -1,0 +1,38 @@
+{
+  "root_id": "7454fcd0-7173-4e86-b36b-ebb1948b09df",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_34",
+    "text_snippet": "Kapitelüberschrift: Hauskundmachung\nInhalt: 71\nGesetzliche Bestimmungen\n§ 14 EuWO\n§ 26 NRWO\n\n72\nMeine Wahlinfo\nMeine Wahlinfo als PDF drucken\nMeine Wahlinfo als Excel exportieren\nNormalerweise werden die amtlichen Wahlinformationen zentral gedruckt und versendet.\nEs gibt jedoch Ausnahmen:\nEine einzelne Wahlinformationen soll nachgedruckt werden, weil der Bürger das Original verloren oder nicht erhalten hat.\nTeilweise können z. B. für den zweiten Wahlgang bei Gemeindewahlen (Stichwahl des Bürgermeisters) die Wahlinformationen von \nden Gemeinden auf Wunsch selbst erstellt und versendet werden.\nDazu können entweder vordefinierte Wahlinformationen als PDF erstellt werden oder es kann ein Excel heruntergeladen werden, aus dem \ndann ein Serienbrief erstellt wird.\nMeine Wahlinfo als PDF drucken\nWie gewohnt können Sie entweder alle Wahlinformationen erstellen (wenn Sie nichts auswählen), oder nur die gewünschten Datensätze \nauswählen.\n \n Bei dieser Variante werden verstorbene oder gestrichene Personen automatisch ausgefiltert. Für diese Personen werden keine \nWahlinformationen erstellt.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 34,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_22",
+    "text_snippet": "Kapitelüberschrift: Kundmachung\nInhalt: 32\nDruck/Reports\nDie Berichte/Reports und Excel-Exporte werden immer über den Teilen-Button \n  aufgerufen.\nPDF-Dateien öffnet direkt im Programm, die Excel-Datei finden Sie im Downloadbereich.\nBei den PDF-Berichten können Sie die Datei downloaden oder über das Drucksymbol drucken.\nErgebnis nach Wahlsprengel in PDF und Excel\nUnter Stimmenerfassung zu erstellen:\n \nGemeindewahlergebnis\nUnter Stimmenerfassung zu erstellen",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 22,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Erstellung von Wahldokumenten",
+    "Verwendung von PDF- und Excel-Exportfunktionen in der Wahlsoftware",
+    "Prozess der Berichterstellung und Wahlinformation"
+  ],
+  "initial_question": {
+    "rag_input": "Wo genau öffnet sich die Datei, wenn ich vordefinierte Wahlinformationen für eine Stichwahl als PDF erstelle?",
+    "question": "Wo genau öffnet sich die Datei, wenn ich vordefinierte Wahlinformationen für eine Stichwahl als PDF erstelle?",
+    "answer": "Wenn Sie vordefinierte Wahlinformationen für eine Stichwahl als PDF erstellen, öffnet sich die erstellte PDF-Datei direkt im Programm. Dort können Sie die Datei dann bei Bedarf downloaden oder über das Drucksymbol ausdrucken.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Verhalten der PDF-Exportfunktion bei der Erstellung spezieller Wahldokumente"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

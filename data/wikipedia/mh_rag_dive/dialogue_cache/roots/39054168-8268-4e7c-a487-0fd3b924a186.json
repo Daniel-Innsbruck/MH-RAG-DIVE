@@ -1,0 +1,38 @@
+{
+  "root_id": "39054168-8268-4e7c-a487-0fd3b924a186",
+  "chunk_a": {
+    "id": "807418182#chunk_4",
+    "text_snippet": "Title: Las Vegas Strip\nSection(s): Pedestrian traffic, Golf, Amusement parks and rides, Shopping, Entertainment\n\nAccording to the Las Vegas Convention and Visitors Authority's annual Las Vegas Visitor Profile Study, only 36% of people said they walked around the Strip, a figure that is a drop from 2013 (52%).\n\nthumb|Wynn Golf and Country Club\nIn 2000, Bali Hai Golf Club opened just south of Mandalay Bay and the Strip.\n\nIn recent years, all golf courses on the Strip but the Desert Inn Golf Course have been removed to make way for building projects. Even though many golf courses along the Strip were being torn down, such as the Tropicana Country Club and the Dunes golf course, developer Steve Wynn, founder of previously owned Mirage Resorts, purchased the Desert Inn and golf course for his new company Wynn Resorts. The Wynn Golf Club is \"...the only golf course attached to a resort on the Las Vegas Strip...\". In 2005, he opened Wynn Las Vegas, complete with remodeled golf course providing tee times to hotel guests only.\n\nIn 2016, a TopGolf opened near the Strip.\n\nThe strip is home to many amusement parks and rides. These include:\nBig Shot\nX-Scream\nSkyJump Las Vegas\nAdventuredome\nThe Roller Coaster\nHigh Roller\n\nthumb|right|The Forum Shops at Caesar's Palace\n Bonanza Gift Shop is billed as the \"World's Largest Gift Shop\", with over  of shopping space.\n The Shoppes at The Palazzo feature luxury stores including the only Barneys New York department store in Las Vegas.\n Fashion Show Mall is adjacent to Treasure Island and opposite Wynn Las Vegas.\n Grand Canal Shoppes is a luxury mall connected to The Venetian with canals, gondolas and singing gondoliers.\n The LINQ Promenade is an open-air retail, dining, and entertainment district located between The Linq and Flamingo resorts that began a soft open in January 2014. It leads from a Strip-side entrance to the High Roller.\n Miracle Mile Shops is part of the Planet Hollywood hotel.\n The Forum Shops at Caesars is a luxury mall connected to Caesars Palace, with more than 160 shops and 11 restaurants.\n Crystals at CityCenter is a luxury high-fashion mall at CityCenter.\n Harmon Corner is a three story retail center located next to Planet Hollywood with shops and restaurants.\n Showcase Mall is next to MGM Grand, and displays a 100-foot Coca-Cola bottle.\n The Park, a short east-west street between the Monte Carlo and New York-New York resorts is a park-like boulevard lined with retail shops and restaurants, leading to T-Mobile Arena.\n\nthumb|right|Nevada National Guard assist with New Year's Eve security\nThe Las Vegas Strip is well known for its lounges, showrooms, theaters and nightclubs; most of the attractions and shows on the Strip are located on the hotel casino properties. Some of the more popular free attractions visible from the Strip include the water fountains at  Bellagio, the volcano at The Mirage, and the Fall of Atlantis and Festival Fountain at Caesars Palace. There are several Cirque du Soleil shows, such as Kà at the MGM Grand, O at Bellagio, Mystère at Treasure Island, Zumanity (for ages 18 and older) at New York-New York, Criss Angel Mindfreak at the Luxor, and Michael Jackson: One at Mandalay Bay.",
+    "article_id": "807418182",
+    "article_title": "Las Vegas Strip",
+    "chunk_index": 4,
+    "total_chunks": 7
+  },
+  "chunk_b": {
+    "id": "848924226#chunk_21",
+    "text_snippet": "Title: Wreck of the Titanic\nSection(s): Exhibitions of ''Titanic'' artifacts\n\nRMS Titanic Inc. organizes large-scale exhibitions around the world of artifacts retrieved from the wreck site. After minor exhibitions were held in Paris and Scandinavia, the first major exhibition of recovered artifacts was held at the National Maritime Museum in 1994–95. It was hugely popular, drawing an average of 21,000 visitors a week during the year-long exhibition. Since then, RMS Titanic Inc. has established a large-scale permanent exhibition of Titanic artifacts at the Luxor hotel and casino in Las Vegas, Nevada. The  exhibit is the home of the \"Big Piece\" of the hull retrieved in 1998 and features conserved items including luggage, Titanics whistles, floor tiles and an unopened bottle of champagne. The exhibit includes a full-scale replica of the ship's Grand Staircase and part of the Promenade Deck, and even a mock-up of the iceberg. It also runs a traveling exhibition called Titanic: The Artifact Exhibition which has opened in various cities around the world and has been seen by over 20 million people. The exhibition typically runs for six to nine months featuring a combination of artifacts, reconstructions and displays of the ship, her passengers and crew and the disaster itself. In a similar fashion to the United States Holocaust Memorial Museum in Washington, D.C., visitors are given a \"boarding pass\" in the name of an individual passenger at the start of the exhibition. They do not discover the fate of their assigned passenger until the end.",
+    "article_id": "848924226",
+    "article_title": "Wreck of the Titanic",
+    "chunk_index": 21,
+    "total_chunks": 22
+  },
+  "t_bridge": [
+    "Luxor Hotel and Casino",
+    "Las Vegas Strip attractions",
+    "Titanic: The Artifact Exhibition"
+  ],
+  "initial_question": {
+    "rag_input": "Which Cirque du Soleil show is located at the hotel hosting the permanent Titanic artifacts exhibition?",
+    "question": "Which Cirque du Soleil show is located at the hotel hosting the permanent Titanic artifacts exhibition?",
+    "answer": "The Cirque du Soleil show is 'Criss Angel Mindfreak'. The permanent Titanic artifacts exhibition is hosted at the Luxor hotel and casino, which is also the location of the 'Criss Angel Mindfreak' show.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Luxor Hotel and Casino"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

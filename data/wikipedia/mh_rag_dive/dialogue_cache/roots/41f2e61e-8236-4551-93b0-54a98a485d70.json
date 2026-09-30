@@ -1,0 +1,38 @@
+{
+  "root_id": "41f2e61e-8236-4551-93b0-54a98a485d70",
+  "chunk_a": {
+    "id": "834509188#chunk_11",
+    "text_snippet": "Title: Dodo\nSection(s): Reproduction and development\n\nAs it was flightless and terrestrial and there were no mammalian predators or other kinds of natural enemy on Mauritius, the dodo probably nested on the ground. The account by François Cauche from 1651 is the only description of the egg and the call:\n\nthumb|alt=Replica dodo egg and nest|left|Replica of an alleged dodo egg in a reconstructed nest, East London Museum\nCauche's account is problematic, since it also mentions that the bird he was describing had three toes and no tongue, unlike dodos. This led some to believe that Cauche was describing a new species of dodo (\"Didus nazarenus\"). The description was most probably mingled with that of a cassowary, and Cauche's writings have other inconsistencies. A mention of a \"young ostrich\" taken on board a ship in 1617 is the only other reference to a possible juvenile dodo. An egg claimed to be that of a dodo is stored in the museum of East London, South Africa. It was donated by Marjorie Courtenay-Latimer, whose great aunt had received it from a captain who claimed to have found it in a swamp on Mauritius. In 2010, the curator of the museum proposed using genetic studies to determine its authenticity. It may instead be an aberrant ostrich egg.\nthumb|Diagram showing life history events of a dodo; blue is Austral summer\nBecause of the possible single-egg clutch and the bird's large size, it has been proposed that the dodo was K-selected, meaning that it produced a low number of altricial offspring, which required parental care until they matured. Some evidence, including the large size and the fact that tropical and frugivorous birds have slower growth rates, indicates that the bird may have had a protracted development period. The fact that no juvenile dodos have been found in the Mare aux Songes swamp may indicate that they produced little offspring, that they matured rapidly, that the breeding grounds were far away from the swamp, or that the risk of miring was seasonal.\n\nA 2017 study examined the histology of thin-sectioned dodo bones, modern Mauritian birds, local ecology, and contemporary accounts, to recover information about the life history of the dodo. The study suggested that dodos bred around August, after having potentially fattened themselves, corresponding with the fat and thin cycles of many vertebrates of Mauritius. The chicks grew rapidly, reaching robust, almost adult, sizes, and sexual maturity before Austral summer or the cyclone season. Adult dodos which had just bred moulted after Austral summer, around March. The feathers of the wings and tail were replaced first, and the moulting would have completed at the end of July, in time for the next breeding season. Different stages of moulting may also account for inconsistencies in contemporary descriptions of dodo plumage.",
+    "article_id": "834509188",
+    "article_title": "Dodo",
+    "chunk_index": 11,
+    "total_chunks": 23
+  },
+  "chunk_b": {
+    "id": "837446917#chunk_6",
+    "text_snippet": "Title: Guinea pig\nSection(s): Reproduction\n\nthumb|right|Pregnant sow one week before delivering three pups\n\nMales reach sexual maturity in 3–5 weeks, while females can be fertile as early as 4 weeks old, and can carry litters before they are adults. The female guinea pig is able to breed year-round, with spring being the peak. A sow can have as many as five litters in a year, but six is theoretically possible. Unlike the offspring of most rodents, which are altricial at birth, newborn cavy pups are well-developed with hair, teeth, claws, and partial eyesight. The pups are immediately mobile and begin eating solid food immediately, though they continue to suckle.  Females can once again become pregnant 6–48 hours after giving birth, but it is not healthy for a female to be constantly pregnant.\n\nThe gestation period lasts from  to , with an average of 63–68 days. Because of the long gestation period and the large size of the pups, pregnant females may become large and eggplant-shaped, although the change in size and shape varies depending upon the size of the litter. Litter size ranges from one to six, with three being the average; the largest recorded litter size is 17. The guinea pig mother only has two nipples, but she can readily raise the more average-sized litters of 2 to 4 pups. In smaller litters, difficulties may occur during labour due to oversized pups. Large litters result in higher incidences of stillbirth, but because the pups are delivered at an advanced stage of development, lack of access to the mother's milk has little effect on the mortality rate of newborns.\n\nCohabitating females assist in mothering duties if lactating; guinea pigs practice alloparental care, in which a female may adopt the pup(s) of another. This might take place if the original parents die or are for some reason separated from them. This behavior is common and is seen in many other animal species such as the elephant.\n\nToxemia of pregnancy (hypertension) is a common problem and kills many pregnant females. Signs of toxemia include: anorexia, lack of energy, excessive salivation, a sweet or fruity breath odor due to ketones, and seizures in advanced cases. Pregnancy toxemia appears to be most common in hot climates. Other serious complications during pregnancy can include a prolapsed uterus, hypocalcaemia, and mastitis.\n\nthumb|Guinea pig pup at eight hours oldFemales that do not give birth may develop an irreversible fusing of the pubic symphysis, a joint in the pelvis, due to calcification which may occur between 6 and 10 months of age. If they become pregnant after this has happened, the birth canal will probably not widen sufficiently and this may lead to dystocia and death as they attempt to give birth. Calcification of the female's pubic symphysis if not bred is greatly overstated. The reason for potential calcification is a metabolic disease, like ochronosis. A healthy, normal female guinea pig's pubic symphysis does not calcify.\n\nMale and female guinea pigs do not differ in appearance apart from general size, with the male being about 30% larger. The position of the anus is very close to the genitals in both sexes. Female genitals are distinguished by a Y-shaped configuration formed from a vulvar flap. While male genitals may look similar, with the penis and anus forming a similar shape, the penis will protrude if pressure is applied to the surrounding hair. The male's testes may also be visible externally from scrotal swelling.",
+    "article_id": "837446917",
+    "article_title": "Guinea pig",
+    "chunk_index": 6,
+    "total_chunks": 15
+  },
+  "t_bridge": [
+    "Reproduction strategy",
+    "Altricial vs. precocial development",
+    "Offspring parental care"
+  ],
+  "initial_question": {
+    "rag_input": "How does development at birth differ between dodos and guinea pigs?",
+    "question": "How does development at birth differ between dodos and guinea pigs?",
+    "answer": "Dodos produced altricial offspring that required parental care until they matured, whereas guinea pigs are born well-developed with hair, teeth, claws, partial eyesight, and are immediately mobile.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Altricial vs. precocial development"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

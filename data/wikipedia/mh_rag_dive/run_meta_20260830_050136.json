@@ -1,0 +1,44 @@
+{
+  "run_id": "20260830_050136",
+  "timestamp": "2026-08-30T05:01:36.040478",
+  "pipeline_config": {
+    "rag_base_url": "http://localhost:8000",
+    "discoverer_model": "gemini-3.1-flash-lite",
+    "generator_model_turn_0": "gemini-3.1-pro-preview",
+    "generator_model_followup": "gemini-3.1-flash-lite",
+    "validator_model": "gpt-5.6-luna",
+    "evaluator_model": "gpt-5-nano",
+    "chroma_db_path": "/app/chroma_db_wiki",
+    "chroma_collection_name": "wikipedia_eval_chunks",
+    "turns_per_conversation": 5,
+    "max_conversations": 100,
+    "alpha": 2,
+    "beta": 3,
+    "expansion_dir": "below",
+    "generator_role": "Your questions are very short and precise",
+    "validator_max_retries": 5,
+    "build_cache": true,
+    "use_cache": true,
+    "cache_mode": "all",
+    "cache_tau": 0.1,
+    "cache_safeguard": true,
+    "output_dir": "data",
+    "output_file_name": "generated_dialogues.jsonl"
+  },
+  "rag_container_config": {
+    "rag_settings": {
+      "k_chunks": 5,
+      "chroma_collection_name": "target_base_chunks_gemini",
+      "chroma_directory": "/app/data/chroma_db",
+      "llm_model": "gemma-4-31b-it",
+      "embedding_model": "models/gemini-embedding-001",
+      "system_prompt": "You are a helpful assistant. Answer the question based solely on the provided context and the previous chat history. If the context does not contain the answer, state that you cannot find the answer. Never answer questions with your internal knowledge.",
+      "history_mode": "all",
+      "history_n": 3,
+      "strategy": "baseline",
+      "max_hops": 5,
+      "agentic_system_prompt": "You are a retrieval-based research assistant with access to a document retrieval tool.\nYour task is to answer the user's question based EXCLUSIVELY on the retrieved documents and the provided chat history.\n\nYou MUST respond in valid JSON format with this exact structure:\n{\n    \"thought\": \"Your reasoning about coreference resolution, whether retrieval is needed, or if context is missing\",\n    \"action\": \"ANSWER\" or \"SEARCH\",\n    \"search_query\": \"The standalone search query with resolved references (only if action is SEARCH)\",\n    \"final_answer\": \"Your complete answer (only if action is ANSWER)\"\n}\n\nSTRICT RULES:\n1. COREFERENCE RESOLUTION & QUERY REFORMULATION:\n   - If the question contains pronouns or implicit references (e.g., \"Who was he?\", \"Where is it located?\"\"):\n     * Resolve references using the \"Chat History\" to identify the subject.\n     * In \"search_query\", ALWAYS write a fully self-contained query with the explicit entity name (e.g., transform \"Who was he?\" -> \"Biography Albert Einstein\").\n     * If the reference CANNOT be resolved (e.g., because Chat History is empty or pruned), do not guess; choose action \"ANSWER\" and ask/state that the referent is unclear.\n\n2. META-CONVERSATION QUESTIONS:\n   - If the question specifically asks about the conversation itself (e.g., \"Worüber haben wir gesprochen?\", \"Wiederhole deine Antwort\"):\n     * If \"Chat History\" is empty, choose action \"ANSWER\" and state that no prior conversation exists.\n     * If \"Chat History\" contains the past turns, choose action \"ANSWER\" directly without searching.\n\n3. FACTUAL / DOMAIN QUESTIONS:\n   - You MUST NOT use internal pre-trained knowledge.\n   - If the required facts are not in the \"Retrieved Context\", choose action \"SEARCH\".\n   - Only choose action \"ANSWER\" once the retrieved documents factually support the answer.\n\n4. NEGATIVE CONSTRAINT:\n   - If the information cannot be found in the documents after searching, set action to \"ANSWER\" and state that the documents do not contain the answer.\n\n5. OUTPUT FORMAT:\n   - ONLY output valid JSON. Do not use markdown code blocks (no ```json).\n",
+      "agentic_user_prompt": "Chat History:\n{history_text}\n\nRetrieved Context:\n{context_str}\n\nCurrent Question: {question}\n\nInstructions:\n1. Check if the question refers to past turns (pronouns like \"he/she/it\", \"this\", etc.):\n   - Use \"Chat History\" to resolve what or who is meant.\n   - If unresolvable due to missing history, choose action \"ANSWER\" and state that the reference is missing.\n2. Check if the question is purely about the chat transcript itself:\n   - If so, choose action \"ANSWER\" using only the \"Chat History\" (no search).\n3. For all other factual questions:\n   - If \"Retrieved Context\" is insufficient, choose action \"SEARCH\" with a fully resolved, standalone \"search_query\".\n   - If \"Retrieved Context\" contains the answer, choose action \"ANSWER\" grounded strictly in the context.\n\nRespond strictly in JSON format.\n"
+    }
+  }
+}

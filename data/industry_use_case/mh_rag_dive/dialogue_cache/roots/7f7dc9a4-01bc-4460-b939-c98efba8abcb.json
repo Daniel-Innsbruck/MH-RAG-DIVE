@@ -1,0 +1,37 @@
+{
+  "root_id": "7f7dc9a4-01bc-4460-b939-c98efba8abcb",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_6",
+    "text_snippet": "Kapitelüberschrift: Dashboard\nInhalt: 12\nDie Bereiche können Sie nach der Einspielung selbst anordnen, indem Sie mit der linken Maustaste auf die „Widget-Überschrift“ klicken und \nverschieben. Gelöscht werden kann das einzelne Widget über das x-Symbol.\n \nWird eine Wahl gelöscht, so werden die im Dashboard angezeigten Grafiken mit einem k5|Next Logo ersetzt. Klicken Sie auf das X-Symbol \num das Widget zu schließen. \n \nWahlberechtigte aktuell\nGrafische Auswertung inkl. Legende der wahlberechtigten \nPersonen inkl. Aufteilung nach Österreicher mit \nHauptwohnsitz, EU-Bürger und Auslandsösterreicher und \ndavon in Haft oder Obdachlos.\nMeine Wahlkarte – Wahlkartenanträge\nAuflistung der Wahlkarten, die über „www.meinewahlkarte.at“ \neingelangt sind. Zusätzlich wird noch aufgelistet, wie viele \ndavon genehmigt, offen, abgelehnt bzw. zurückgezogen sind. \nGrafische Aufbereitung ist in der Fußzeile des Widgets.\nWahlkartenanträge nach \nIdentitätsnachweis\nGrafische Auswertung inkl. Legende wie die Wahlkarten \nbeantragt wurden auf „www.meinewahlkarte.at“ (Antragscode, \nReisepassnummer, gescannter Lichtbildausweis oder \nHandysignatur).\nWahlkartenanträge nach Antragsart\nGrafische Auswertung inkl. Legende nach welcher Antragsart \ndie Wahlkarten beantragt wurden\n(elektronisch, persönlich, schriftlich oder Wahlkartenabo). \nWahlkalender\nÜbersichtliche Darstellung des Wahlkalenders mit den \nwichtigsten Punkten, die im Programm durchgeführt werden \nmüssen.\nnicht gedruckt wurden und wie viele Personen mit \neingeschriebener Sendung noch nicht auf der Aufgabeliste \nPost gedruckt wurden. Grafische Aufbereitung ist in der \nFußzeile des Widgets.\nDie Anzahl unter “Wahlkarte beantragt” entspricht der Summe \nder unten aufgeführten Daten.\n\n13\nEinstellungen\nMandantenspezifische Einstellungen\nEinstellungen je Wahltyp\nEinspruchstelle\n \nUnter Wahl-Einstellungen werden die Stammdaten zu den einzelnen Wahlen angelegt. \n \nMandantenspezifische Einstellungen\nBitte die Daten entsprechend den einzelnen Feldern befüllen. Verkürzter Einsichtszeitraum ist nur bei Gemeinden zu aktivieren, die eine \nHauskundmachung verwenden.\nDie Amtssignatur wird vom Gemeinde-Administrator eingerichtet. Wurde eine Amtssignatur in den Mandantenstammdaten hinterlegt, kann \ndiese für den Wahlkartendruck verwendet werden. Wird im Feld “Amtssignatur Hinweistext” ein Text eingegeben, wird dieser Text statt \ndem Standardtext bei der Mandanteneinstellung auf die Wahlkarte aufgedruckt. Bleibt das Feld leer, wird der Standardtext der \nMandanteneinstellung verwendet.\n \nEinstellungen je Wahltyp\nWählen Sie die Wahlsprengelgruppe aus und treffen die Auswahl für die Sortierung des Wählerverzeichnisses des Wahltyps. Bei Bundes- \nund EU-Wahlen  richtet sich die Sortierung nach der Anzahl der Sprengel. Bei mehreren Sprengeln erfolgt die Sortierung nach",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 6,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_9",
+    "text_snippet": "Kapitelüberschrift: Benutzeroberfläche\nInhalt: 12\nDashboard & Widgets\nDas Dashboard ist der zentrale Einstiegspunkt in k5|Next und ermöglicht die Anzeige von Widgets (Kacheln). Neben Neuigkeiten und \nInformationen zu Ihrem Dienstleister können Sie hier auch direkt Funktionen aufrufen. Aktuell stehen im Kontaktmanagement nachfolgende \nWidgets zur Verfügung.\nMeine gespeicherten Suchen\nWenn Sie eine Suche öfters anwenden wollen und zu diesem Zweck speichern, können Sie diese hier aufrufen und gelangen direkt zum \ngewünschten Suchergebnis.\nMeine gespeicherten Gruppen\nAusgewählte Personen können zu einer zuvor erstellten Gruppe hinzugefügt werden und über dieses Widget direkt aufgerufen werden.\nZMR-Abgleich\nHier sehen Sie, wann der letzte ZMR-Abgleich erfolgreich durchgeführt wurde. Je nachdem wie aktuell die Daten sind, wird hier entweder \nein grünes Hakerl (Alles OK), eine gelbe Warnung oder ein rotes X angezeigt. In diesen Fällen sollten Sie unbedingt nachforschen, woran \nes liegt, dass die ZMR-Daten nicht aktuell sind (siehe FAQ Warum sind meine ZMR Daten nicht aktuell?)",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 9,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "k5|Next Software Dashboard",
+    "Funktionsweise und Konfiguration von Widgets"
+  ],
+  "initial_question": {
+    "rag_input": "Mit welchem Symbol schließe ich das Widget 'ZMR-Abgleich' auf dem k5|Next Dashboard?",
+    "question": "Mit welchem Symbol schließe ich das Widget 'ZMR-Abgleich' auf dem k5|Next Dashboard?",
+    "answer": "Sie können das Widget 'ZMR-Abgleich' schließen oder löschen, indem Sie auf das x-Symbol klicken. Der 'ZMR-Abgleich' ist eines der verfügbaren Widgets (Kacheln) auf dem zentralen Dashboard, und einzelne Widgets lassen sich generell über das x-Symbol entfernen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "k5|Next Software Dashboard und Widget-Konfiguration"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

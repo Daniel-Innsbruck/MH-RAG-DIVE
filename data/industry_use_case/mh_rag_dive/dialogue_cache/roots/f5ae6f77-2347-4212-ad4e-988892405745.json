@@ -1,0 +1,38 @@
+{
+  "root_id": "f5ae6f77-2347-4212-ad4e-988892405745",
+  "chunk_a": {
+    "id": "k5_Next_Verfahren Home#chunk_47",
+    "text_snippet": "Kapitelüberschrift: Release Notes (work)\nInhalt: 70\nRelease Notes (work)\nAllgemein\nBundesland Spezifika\nPunkt\nPunkt\nPunkt",
+    "article_id": "k5_Next_Verfahren Home",
+    "article_title": "k5_Next_Verfahren Home",
+    "chunk_index": 47,
+    "total_chunks": 48
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_40",
+    "text_snippet": "Kapitelüberschrift: k5|Next Sync\nInhalt: 63\nRelease Notes\nWir entwickeln unsere Software stetig weiter. In diesem Bereich finden Sie Informationen zu neuen Features der aktuellen und früheren \nProgrammversionen.\nRelease Dezember 2024\nRelease Oktober 2024\nRelease September 2024\nRelease August 2024\nRelease Juli 2024\nRelease April 2024\nRelease März 2024\nRelease Feb 2024\nRelease Jan 2024\nRelease Dez 2023\nRelease Sep 2023\nRelease Aug 2023",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 40,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Software-Dokumentation",
+    "Release-Management-Struktur",
+    "Inhaltsverzeichnis-Logik"
+  ],
+  "initial_question": {
+    "rag_input": "Welche Unterpunkte haben die 'Release Notes (work)' jener Software, die im Dezember 2024 ein Release hatte?",
+    "question": "Welche Unterpunkte haben die 'Release Notes (work)' jener Software, die im Dezember 2024 ein Release hatte?",
+    "answer": "Die Arbeitsversion der Release Notes (für die Software 'k5|Next Sync') umfasst die spezifischen Unterpunkte 'Allgemein' und 'Bundesland Spezifika' sowie drei weitere, unbenannte Punkte.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Software-Dokumentation"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

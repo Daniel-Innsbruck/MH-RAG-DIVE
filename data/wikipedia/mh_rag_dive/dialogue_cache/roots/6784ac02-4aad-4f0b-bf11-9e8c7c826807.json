@@ -1,0 +1,38 @@
+{
+  "root_id": "6784ac02-4aad-4f0b-bf11-9e8c7c826807",
+  "chunk_a": {
+    "id": "827393090#chunk_2",
+    "text_snippet": "Title: Myelin\nSection(s): Demyelination, Symptoms, Myelin repair, Dysmyelination, Invertebrate myelin\n\nThe immune system may play a role in demyelination associated with such diseases, including inflammation causing demyelination by overproduction of cytokines via upregulation of tumor necrosis factor or interferon.\n\nDemyelination results in diverse symptoms determined by the functions of the affected neurons. It disrupts signals between the brain and other parts of the body; symptoms differ from patient to patient, and have different presentations upon clinical observation and in laboratory studies.\n\nTypical symptoms include:\nblurriness in the central visual field that affects only one eye, may be accompanied by pain upon eye movement\ndouble vision\nloss of vision/hearing\nodd sensation in legs, arms, chest, or face, such as tingling or numbness (neuropathy)\nweakness of arms or legs\ncognitive disruption, including speech impairment and memory loss\nheat sensitivity (symptoms worsen or reappear upon exposure to heat, such as a hot shower)\nloss of dexterity\ndifficulty coordinating movement or balance disorder\ndifficulty controlling bowel movements or urination\nfatigue\ntinnitus\n\nResearch to repair damaged myelin sheaths is ongoing. Techniques include surgically implanting oligodendrocyte precursor cells in the central nervous system and inducing myelin repair with certain antibodies. While results in mice have been encouraging (via stem cell transplantation), whether this technique can be effective in replacing myelin loss in humans is still unknown. Cholinergic treatments, such as acetylcholinesterase inhibitors (AChEIs), may have beneficial effects on myelination, myelin repair, and myelin integrity. Increasing cholinergic stimulation also may act through subtle trophic effects on brain developmental processes and particularly on oligodendrocytes and the lifelong myelination process they support. By increasing oligodendrocyte cholinergic stimulation, AChEIs, and other cholinergic treatments, such as nicotine, possibly could promote myelination during development and myelin repair in older age.\nGlycogen synthase kinase 3β inhibitors such as lithium chloride have been found to promote myelination in mice with damaged facial nerves. Cholesterol is a necessary nutrient for the myelin sheath.\n\nDysmyelination is characterized by a defective structure and function of myelin sheaths; unlike demyelination, it does not produce lesions. Such defective sheaths often arise from genetic mutations affecting the biosynthesis and formation of myelin. The shiverer mouse represents one animal model of dysmyelination.  Human diseases where dysmyelination has been implicated include leukodystrophies (Pelizaeus–Merzbacher disease, Canavan disease, phenylketonuria) and schizophrenia.\n\nFunctionally equivalent myelin-like sheaths are found in several invertebrate taxa including Oligochaete, Penaeid, Palaemonid, and Calanoids. These myelin-like sheaths share several structural features with the sheaths found in vertebrates including multiplicity of membranes, condensation of membrane, and nodes. However, the nodes in vertebrates are annular; i.e. they encircle the axon. In contrast, nodes found in the sheaths of invertebrates are either annular or fenestrated; i.e. they are restricted to \"spots.\" It is notable that the fastest recorded conduction speed (across both vertebrates and invertebrates) is found in the ensheathed axons of the Kuruma shrimp, an invertebrate, ranging between 90 and 200 m/s (cf 100-120 m/s for the fastest myelinated vertebrate axon.)",
+    "article_id": "827393090",
+    "article_title": "Myelin",
+    "chunk_index": 2,
+    "total_chunks": 3
+  },
+  "chunk_b": {
+    "id": "839520579#chunk_4",
+    "text_snippet": "Title: Sensory nervous system\nSection(s): Gustatory cortex, Human sensory system, Diseases\n\nThe neural processing of taste is affected at nearly every stage of processing by concurrent somatosensory information from the tongue, that is, mouthfeel. Scent, in contrast, is not combined with taste to create flavor until higher cortical processing regions, such as the insula and orbitofrontal cortex.\n\nThe human sensory system consists of the following subsystems:\nVisual system consists of the photoreceptor cells, optic nerve, and V1\nAuditory system\nSomatosensory system consists of the receptors, transmitters (pathways) leading to S1, and S1 that experiences the sensations labelled as touch or pressure, temperature (warm or cold), pain (including itch and tickle), and the sensations of muscle movement and joint position including posture, movement, and facial expression (collectively also called proprioception)\nGustatory system\nOlfactory system\nVestibular system\n\nthumb|upright=1.2|Disability-adjusted life year for sense organ diseases per 100,000 inhabitants in 2002.\n Amblyopia\n Anacusis\n Color blindness\n Deafness",
+    "article_id": "839520579",
+    "article_title": "Sensory nervous system",
+    "chunk_index": 4,
+    "total_chunks": 5
+  },
+  "t_bridge": [
+    "Sensory system disruption",
+    "Neurological symptoms of demyelination",
+    "Visual and auditory system impairment"
+  ],
+  "initial_question": {
+    "rag_input": "Which human sensory subsystems does demyelination disrupt?",
+    "question": "Which human sensory subsystems does demyelination disrupt?",
+    "answer": "Demyelination disrupts several human sensory subsystems, specifically the visual system (causing blurriness, double vision, and vision loss), the auditory system (causing hearing loss and tinnitus), and the somatosensory system (causing tingling, numbness, and heat sensitivity).",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Sensory system disruption"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "3082ec43-1c04-47da-b6f1-e27fb0efb1fd",
+  "chunk_a": {
+    "id": "834202572#chunk_5",
+    "text_snippet": "Title: Federal Reserve\nSection(s): Structure, Board of Governors, List of members of the Board of Governors, Nominations, confirmations and resignations\n\nDistrict #  Letter  Federal Reserve Bank  Branches  Website  President 1  A  Boston   http://www.bos.frb.org  Eric S. Rosengren 2  B  New York City  Buffalo, New York (closed as of October 31, 2008)  http://www.newyorkfed.org  William C. Dudley 3  C  Philadelphia   http://www.philadelphiafed.org  Patrick T. Harker 4  D  Cleveland  Cincinnati, OhioPittsburgh, Pennsylvania  http://www.clevelandfed.org  Loretta J. Mester 5  E  Richmond  Baltimore, MarylandCharlotte, North Carolina  http://www.richmondfed.org Thomas Barkin 6  F  Atlanta  Birmingham, AlabamaJacksonville, FloridaMiami, FloridaNashville, TennesseeNew Orleans, Louisiana  http://www.frbatlanta.org  Raphael Bostic 7  G  Chicago  Detroit, MichiganDes Moines, Iowa  http://www.chicagofed.org  Charles L. Evans 8  H  St Louis  Little Rock, ArkansasLouisville, KentuckyMemphis, Tennessee  http://www.stlouisfed.org  James B. Bullard 9  I  Minneapolis  Helena, Montana  https://www.minneapolisfed.org  Neel Kashkari 10  J  Kansas City  Denver, ColoradoOklahoma City, OklahomaOmaha, Nebraska  http://www.kansascityfed.org  Esther George 11  K  Dallas  El Paso, TexasHouston, TexasSan Antonio, Texas  http://www.dallasfed.org  Robert Steven Kaplan 12  L  San Francisco  Los Angeles, CaliforniaPortland, OregonSalt Lake City, UtahSeattle, Washington  http://www.frbsf.org  John C. Williams\n\nThe seven-member Board of Governors is a federal agency. It is charged with the overseeing of the 12 District Reserve Banks and setting national monetary policy. It also supervises and regulates the U.S. banking system in general.\nGovernors are appointed by the President of the United States and confirmed by the Senate for staggered 14-year terms. One term begins every two years, on February 1 of even-numbered years, and members serving a full term cannot be renominated for a second term. \"[U]pon the expiration of their terms of office, members of the Board shall continue to serve until their successors are appointed and have qualified.\" The law provides for the removal of a member of the board by the President \"for cause\". The board is required to make an annual report of operations to the Speaker of the U.S. House of Representatives.\n\nThe Chair and Vice Chair of the Board of Governors are appointed by the President from among the sitting Governors. They both serve a four-year term and they can be renominated as many times as the President chooses, until their terms on the Board of Governors expire.\n\nThe current members of the Board of Governors are as follows:\n\nIn late December 2011, President Barack Obama nominated Jeremy C. Stein, a Harvard University finance professor and a Democrat, and Jerome Powell, formerly of Dillon Read, Bankers Trust and The Carlyle Group and a Republican. Both candidates also have Treasury Department experience in the Obama and George H. W. Bush administrations respectively.",
+    "article_id": "834202572",
+    "article_title": "Federal Reserve",
+    "chunk_index": 5,
+    "total_chunks": 22
+  },
+  "chunk_b": {
+    "id": "865179918#chunk_1",
+    "text_snippet": "Title: United States Congress\nSection(s): Overview\n\nThe term Congress can also refer to a particular meeting of the legislature. A Congress covers two years; the current one, the 115th Congress, began on January 3, 2017, and will end on January 3, 2019. The Congress starts and ends on the third day of January of every odd-numbered year. Members of the Senate are referred to as senators; members of the House of Representatives are referred to as representatives, congresswomen, or congressmen.\n\nScholar and representative Lee H. Hamilton asserted that the \"historic mission of Congress has been to maintain freedom\" and insisted it was a \"driving force in American government\" and a \"remarkably resilient institution\". Congress is the \"heart and soul of our democracy\", according to this view, even though legislators rarely achieve the prestige or name recognition of presidents or Supreme Court justices; one wrote that \"legislators remain ghosts in America's historical imagination\". One analyst argues that it is not a solely reactive institution but has played an active role in shaping government policy and is extraordinarily sensitive to public pressure. Several academics described Congress:\n\nCongress reflects us in all our strengths and all our weaknesses. It reflects our regional idiosyncrasies, our ethnic, religious, and racial diversity, our multitude of professions, and our shadings of opinion on everything from the value of war to the war over values. Congress is the government's most representative body ... Congress is essentially charged with reconciling our many points of view on the great public policy issues of the day.\n—Smith, Roberts, and Wielen\n\nCongress is constantly changing and is constantly in flux. In recent times, the American south and west have gained House seats according to demographic changes recorded by the census and includes more minorities and women although both groups are still underrepresented, according to one view. While power balances among the different parts of government continue to change, the internal structure of Congress is important to understand along with its interactions with so-called intermediary institutions such as political parties, civic associations, interest groups, and the mass media.\n\nThe Congress of the United States serves two distinct purposes that overlap: local representation to the federal government of a congressional district by representatives and a state's at-large representation to the federal government by senators.\n\nMost incumbents seek re-election, and their historical likelihood of winning subsequent elections exceeds 90 percent.\n\nThe historical records of the House of Representatives and the Senate are maintained by the Center for Legislative Archives, which is a part of the National Archives and Records Administration.\n\nCongress is directly responsible for the governing of the District of Columbia, the current seat of the federal government.",
+    "article_id": "865179918",
+    "article_title": "United States Congress",
+    "chunk_index": 1,
+    "total_chunks": 22
+  },
+  "t_bridge": [
+    "Federal Reserve Board of Governors",
+    "Senate confirmation process",
+    "Checks and balances"
+  ],
+  "initial_question": {
+    "rag_input": "Who maintains the historical records of the body that confirms Federal Reserve Governors?",
+    "question": "Who maintains the historical records of the body that confirms Federal Reserve Governors?",
+    "answer": "The Senate is the body responsible for confirming Federal Reserve Governors. The historical records of the Senate are maintained by the Center for Legislative Archives, which is a part of the National Archives and Records Administration.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Senate confirmation process and records"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

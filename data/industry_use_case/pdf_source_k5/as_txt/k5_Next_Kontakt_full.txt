@@ -1,0 +1,684 @@
+k5|Next_Kontakt
+2
+ 
+     Jetzt starten
+3
+ 
+     Sie haben Fragen? (FAQ)
+4
+ 
+          Suchen und Suchergebnis
+5
+ 
+          Personen und Kontaktdaten
+6
+ 
+     Programmfunktionen
+7
+ 
+          Konzept & Idee
+8
+ 
+               Beispiel 1: Es ändert sich die Wohnadresse
+9
+ 
+               Beispiel 2: Es ändert sich die E-Mail-Adresse
+10
+ 
+          Benutzeroberfläche
+11
+ 
+               Dashboard & Widgets
+12
+ 
+               Menü
+13
+ 
+                    Module
+14
+ 
+                    Systembenachrichtigungen
+15
+ 
+                    Benutzerprofil
+16
+ 
+          Suchen, Finden, Teilen
+17
+ 
+               Schnellsuche
+18
+ 
+               Detailsuche
+19
+ 
+               Suchfelder & Suchmöglichkeiten
+21
+ 
+                    UND- / ODER-Suche
+22
+ 
+                    Numerische Suche / Datumssuche
+23
+ 
+                    Relative Suchparameter
+24
+ 
+               Suchergebnis teilen
+25
+ 
+               Suche speichern und teilen
+26
+ 
+               Spaltenauswahl
+28
+ 
+          Kontakte verwalten
+29
+ 
+               Eine natürliche Person aus dem ZMR anlegen
+30
+ 
+               Eine natürliche Person manuell (ohne ZMR) anlegen
+32
+ 
+               Ein Unternehmen aus dem URV anlegen
+33
+ 
+               Ein Unternehmen manuell (ohne URV) anlegen
+35
+ 
+               Adressen hinzufügen und bevorzugen
+36
+ 
+               Kontaktdaten hinzufügen und ändern
+37
+ 
+               Standardkontakte
+39
+ 
+               Zustimmungsbereiche & Zustimmungserklärung
+40
+ 
+               Notizen
+41
+ 
+               Tags
+42
+ 
+               Gruppe
+43
+ 
+          Release Notes
+45
+ 
+
+2
+k5|Next_Kontakt
+Mit diesem Modul erfassen und verwalten Sie Gemeindekontakte - intelligent und übersichtlich.
+
+3
+Jetzt starten
+Bei k5|Next handelt es sich um die logische Weiterentwicklung der k5 Lösungen. Den Mitarbeitern einer Gemeinde stehen damit eine Reihe 
+von Applikationen zu Verfügung, mit deren Hilfe die täglichen Verwaltungsaufgaben abgewickelt werden können. Eines dieser neuen 
+Module ist k5|Next_Kontakt (Kontaktmanagement).
+Ziel ist es, den k5 Fachanwendungen qualitativ hochwertige Daten für die weitere Verarbeitung (Duale Zustellung, Vorschreibung, 
+Verfahrensabwicklung) zur Verfügung zu stellen.
+Zielgruppe für das Kontaktmanagement ist das Bürgerservice, aber auch alle Anwendergruppen, die in ihren primären Anwendungen keine 
+Möglichkeit zur Pflege von zentralen Personendaten haben (z.B. k5 DMS / Easy Documents).
+Es bildet auch die Grundlage für die künftige Einbindung von Bürgern in die k5|Next Welt.
+Das Kontaktmanagement erhebt nicht den Anspruch, ein Adressbuch im Sinne von Outlook zu sein.
+
+4
+Sie haben Fragen? (FAQ)
+Wir haben die Antworten - meistens.
+Für die häufigsten Fragen zu k5|Next_Kontakt finden Sie hier Antworten und für weitere Infos die Verweise auf die entsprechenden Kapitel 
+in unserer Hilfe. Sollte darüber hinaus Erklärungsbedarf bestehen, sind wir gerne jederzeit über unsere Hotline für Sie erreichbar.
+FAQs zu:
+Suchen und Suchergebnis
+Personen und Kontaktdaten
+k5|Next_Basis
+ 
+
+5
+Suchen und Suchergebnis
+Wie kann ich in k5Next_Kontakt gezielt nach bestimmten Informationen suchen?
+Kann ich wählen, welche Spalten im Suchergebnis dargestellt werden?
+Kann ich ein Suchergebnis mit Kollegen teilen oder exportieren?
+Zur FAQ Übersicht
+ 
+Sie haben zwei Möglichkeiten:
+Schnellsuche - um flexibel nach beliebigen Informationen zu suchen, indem Sie relevante Begriffe eingeben
+Detailsuche - Suche mit spezifischen Variablen, die über die Schnellsuche hinausgehen
+Ja. Die Spalten sind beliebig wählbar. Detail dazu finden Sie hier.
+Ja. Damit können Sie ihr Suchergebnis für Kollegen zur Verfügung stellen. Details dazu finden Sie hier.
+
+6
+Personen und Kontaktdaten
+Wie kann ich in k5|Next neue Personen oder Unternehmen anlegen?
+Wie bearbeite ich Kontakte in k5Next_Kontakt?
+Was sind Standard-Kontakte und wofür werden sie benötigt?
+Was bedeutet es, wenn ich eine Adresse "bevorzuge"?
+Was ist eine manuelle Zustelladresse und wofür wir sie benötigt?
+Wie organisiere und gruppiere ich Kontakte in k5Next_Kontakt?
+Warum sind meine ZMR-Daten nicht aktuell (rotes X, gelbes Dreieck)?
+Zur FAQ Übersicht
+Die Anlage neuer Personen und Kontakte wird hier beschrieben.
+Um einen Kontakt zu bearbeiten, bewegen Sie einfach die Maus über den gewünschten Datensatz und rufen damit die 
+Bearbeitungsfunktion auf.
+Standardkontakte sind jene Kontakte, die als Kerndaten in der Zentralen Person für angebundene k5 Fachapplikationen zur Verfügung 
+stehen. Details dazu finden Sie hier.
+Die Bevorzugung bewirkt, dass diese Adresse:
+als Zustelladresse in k5 Verfahren verwendet wird
+als Rechnungsadresse in k5 Finanzmanagement verwendet wird
+als Verknüpfungsadresse in k5 DMS hervorgehoben wird
+Besteht die Notwendigkeit, eine von HWS und NWS unterschiedliche (nicht dem ZMR entstammende) Adresse als Zustelladresse zu 
+verwenden, kann diese in k5|Next_Kontakt manuell angelegt werden. Diese Adresse steht dann auch den angebundenen k5 
+Fachanwendungen zur Verfügung.
+Sie können Kontakte entweder durch Tags oder Gruppen organisieren:
+Tags - helfen dabei, bestimmte Informationen oder Kategorien an Kontakte anzuhängen, um sie später leichter zu finden. Tags sind 
+öffentlich und von jedem User einsehbar.
+Gruppen - dienen dazu, Kontakte zu organisieren und gesammelt darzustellen. Gruppen können gesperrt oder mit anderen Usern 
+geteilt werden, sind aber grundsätzlich nicht jedem User zugänglich.
+Wenn Ihre ZMR-Daten nicht auf dem aktuellsten Stand sind, kann das folgende Gründe haben:
+Sie haben keine Zugangsdaten zu Ihrem Stammportal hinterlegt (Wie mache ich das?)
+Die hinterlegten Zugangsdaten zu Ihrem Stammportal sind falsch (z.B. Passwort wurde geändert)
+Die Rechte in Ihrem Stammportal reichen nicht aus (Ihr Administrator kann dies prüfen)
+
+7
+Programmfunktionen
+k5|Next_Kontakt dient als zentrale Oberfläche zur Anlage und Pflege aller Personen und deren Kontaktdaten (Adressen, E-Mail-Adressen, 
+Telefon) aus der k5|Next_Person (Zentrale Person), die in den Fachanwendungen der Gemeinde in Verwendung sind. Zusätzlich bietet das 
+Kontaktmanagement unter anderem die Möglichkeit, diese Personen in Gruppen zusammenzufassen, mit Tags zu kennzeichnen, Listen zu 
+speichern und zu teilen, die Verwaltung von Zustimmungserklärungen und wird laufend um neue Features ergänzt.
+ 
+
+8
+Konzept & Idee
+Mit dem Ziel, die Datenqualität und Konsistenz zu verbessern, wurde mit k5|Next und der k5|Next_Person eine gemeinsame Drehscheibe 
+für Basisdaten geschaffen. Die k5 Fachapplikationen sind an diese „Zentralen Personendaten“ angebunden und damit bezüglich der 
+Datenqualität auf dem aktuellen Stand. Und das unabhängig davon, in welcher Fachapplikation die Daten geändert werden.
+k5|Next_Kontakt macht diese Daten nicht nur einsehbar, sondern bietet dem Anwender die Möglichkeit, alle gemeinderelevanten 
+Kontaktdaten (natürliche Personen und Unternehmen) aus allen angebunden Fachapplikationen an zentraler Stelle zu verwalten.
+Zwei Beispiele verdeutlichen die Funktionsweise der Zentralen Person: Änderung der Wohnadresse, Änderung der E-Mail-Adresse.
+ 
+
+9
+Beispiel 1: Es ändert sich die Wohnadresse
+Es ändert sich die Meldeadresse einer Person aus der eigenen Stadt-, Markt- Gemeinde im ZMR (Zentralen Melderegister) (1). Diese 
+Änderung wird vom BMI in Form eines täglichen Abgleichfiles zur Verfügung gestellt (2). In einer der Fachapplikationen (k5 
+Finanzmanagement, k5 Verfahren oder k5|Next_Kontakt) wird der tägliche Abgleich durchgeführt (3). Das hat zur Folge, dass auch die 
+zentralen Personendaten der betroffenen Personen aktualisiert werden (4). Alle weiteren angebundenen Fachapplikationen (auch k5 DMS) 
+können die aktuellen Daten nutzen (5).
+ 
+
+10
+Beispiel 2: Es ändert sich die E-Mail-Adresse
+Es ändert sich die Standard E-Mail-Adresse einer Person in einer Fachapplikation und wird dort korrigiert (1). Folglich wird diese E-Mail-
+Adresse auch in der zentralen Person angepasst (2). Alle weiteren angebundenen Fachapplikationen können die aktuelle E-Mail-Adresse 
+nutzen (3).
+ 
+
+11
+Benutzeroberfläche
+k5|Next folgt den Designvorgaben von „Material Design“ und hat den Anspruch, möglichst intuitiv aufgebaut zu sein. Die Benutzeroberfläche 
+findet sich in allen k5|Next Applikationen bzw. Modulen gleichermaßen wieder.
+Im Zentrum steht der Arbeitsbereich, darauf liegt der Fokus der Arbeit. Per Tastenkombination Strg + 
+ bzw. Strg + 
+  (oder Strg + 
+Rollen des Mausrads) kann der Zoom-Faktor verändert werden und die Darstellung den persönlichen Vorstellungen angepasst werden. 
+Am linken Rand des Bildschirms befindet sich das Menü. Im oberen Bereich wird der Mandant angezeigt, mit dem Sie momentan 
+angemeldet sind. Darunter stehen Ihnen alle Module zur Verfügung, wofür Sie von Seiten des Dienstleisters und Gemeinde-Administrators 
+berechtigt wurden. Im unteren Bereich finden Sie Systembenachrichtigungen und Ihren aktuellen User. Per Klick darauf navigieren Sie zu 
+Ihrem Benutzerprofil.
+Am rechten Rand des Bildschirms befindet sich der Bereich mit Zusatzfunktionen. Je nach Modul, mit dem Sie arbeiten, stehen hier 
+unterschiedliche Funktionen zur Verfügung.
+Am oberen Rand liegt die Schnellsuche. Diese intuitive Suche ist eines der Kern-Features von k5|Next und steht in allen k5|Next Modulen 
+zur Verfügung.
+
+12
+Dashboard & Widgets
+Das Dashboard ist der zentrale Einstiegspunkt in k5|Next und ermöglicht die Anzeige von Widgets (Kacheln). Neben Neuigkeiten und 
+Informationen zu Ihrem Dienstleister können Sie hier auch direkt Funktionen aufrufen. Aktuell stehen im Kontaktmanagement nachfolgende 
+Widgets zur Verfügung.
+Meine gespeicherten Suchen
+Wenn Sie eine Suche öfters anwenden wollen und zu diesem Zweck speichern, können Sie diese hier aufrufen und gelangen direkt zum 
+gewünschten Suchergebnis.
+Meine gespeicherten Gruppen
+Ausgewählte Personen können zu einer zuvor erstellten Gruppe hinzugefügt werden und über dieses Widget direkt aufgerufen werden.
+ZMR-Abgleich
+Hier sehen Sie, wann der letzte ZMR-Abgleich erfolgreich durchgeführt wurde. Je nachdem wie aktuell die Daten sind, wird hier entweder 
+ein grünes Hakerl (Alles OK), eine gelbe Warnung oder ein rotes X angezeigt. In diesen Fällen sollten Sie unbedingt nachforschen, woran 
+es liegt, dass die ZMR-Daten nicht aktuell sind (siehe FAQ Warum sind meine ZMR Daten nicht aktuell?)
+ 
+
+13
+Menü
+ 
+
+14
+Module
+Im Menü werden alle Module angezeigt, für die Sie von Seiten des Dienstleisters und Ihres Gemeine-Administrators freigeschaltet und 
+berechtigt wurden. Per Standard immer angezeigt werden Home und Konfiguration. Die Anzeige aller weiteren Module wird entsprechend 
+Ihren vorhandenen Rechten gesteuert.
+Damit Sie ein Modul verwenden können, muss
+Ihre Gemeinde das Modul in Form eines aktiven Wartungsvertrags bestellt haben
+Ihr Gemeinde-Administrator für Sie die dafür erforderliche Rolle (diese muss die notwendigen Rechte einschließen) vergeben haben
+
+15
+Systembenachrichtigungen
+Unter Benachrichtigungen erhalten Sie aktuell Systembenachrichtigungen. Die Anzahl der noch nicht gelesenen Nachrichten wird hier direkt 
+angezeigt. Mit Klick auf Benachrichtigungen werden die Nachrichten geöffnet.
+Wird eine Nachricht als gelesen markiert, scheint diese nicht mehr direkt auf. Alternativ können alle Nachrichten als gelesen markiert 
+werden und bereits gelesene Nachrichten in der Historie angezeigt werden.
+Sie erhalten momentan folgende Benachrichtigungen:
+Infomeldungen
+Suche wurde mit Ihnen geteilt
+In k5|Next_Kontakt können spezielle Suchmuster gespeichert und geteilt werden, um sie damit wiederholt anwendbar und für mehrere User 
+in Ihrer Organisation verfügbar zu machen. Wurde eine Suche mit Ihnen geteilt, werden Sie per Benachrichtigung darüber verständigt und 
+können per Klick auf die Meldung die Suche direkt ausführen.
+Gruppe wurde mit Ihnen geteilt
+In k5|Next_Kontakt können Gruppen angelegt und geteilt werden, um sie damit mehreren User in Ihrer Organisation verfügbar zu machen. 
+Wurde eine Gruppe mit Ihnen geteilt, werden Sie per Benachrichtigung darüber verständigt und können per Klick auf die Meldung die 
+Gruppe direkt aufrufen.
+Fehler beim ZMR-Abgleich
+Beim Einstieg in k5|Next wird, sofern man als User die Stammportalzugänge (Kommunalnet / PortalTirol) eingetragen hat, automatisch der 
+täglicher ZMR-Abgleich durchgeführt. Ist dieser fehlerhaft, kann das mehrere Ursachen haben. Die entsprechende Fehlermeldung gibt 
+Aufschluss über den Lösungsansatz, in den meisten Fällen liegt es an einem veralteten Passwort.
+Fehler beim Adressen-Abgleich
+Beim Einstieg in k5|Next wird, sofern man als User die Stammportalzugänge (Kommunalnet / PortalTirol) eingetragen hat, automatisch der 
+Adressen-Abgleich für gemeindeeigene Adressen durchgeführt. Ist dieser fehlerhaft, kann das mehrere Ursachen haben. Die 
+entsprechende Fehlermeldung gibt Aufschluss über den Lösungsansatz, in den meisten Fällen liegt es an einem veralteten Passwort.
+ 
+
+16
+Benutzerprofil
+Mit Klick auf Ihren Benutzernamen navigieren Sie direkt zu Ihrem Benutzereinstellungen.
+Von dort kommen Sie mit Klick auf „Benutzerprofil bearbeiten“ (1) in Ihr k5|Next_Identity, wo Ihre spezifischen Benutzereinstellungen 
+abgelegt sind und eingerichtet bzw. geändert werden können. Die Links „Passwort ändern“ und „2FA verwalten“ können auch direkt geklickt 
+werden (1), Sie gelangen aber auch über Ihr Benutzerprofil zu diesen Einstellungen. Weiters können Sie ein Profilbild hochladen (2).
+Mit Klick auf das Bleistift-Symbol unter „Persönliche Einstellungen“ (3) können Sie für Ihre k5|Next Umgebung eines der vorhanden 
+Farbschemas wählen (Petrol, Orange, Cyan, Green) (4). Sind Sie für mehr als einen Mandanten berechtigt (das ist im Zuge von 
+Verwaltungsgemeinschaften möglich), können Sie Ihren Start-Mandanten wählen (5). Sie sind dann nach Anmeldung in k5|Next für diesen 
+Mandanten aktiv. Voraussetzung dafür, für eine weitere Gemeinde berechtigt zu werden, ist, dass Sie den Parameter „für Administrierende 
+sichtbar“ auf „ja“ gesetzt haben (6). (Das ist optional und per Standard auf „nein“, da in der Regel nicht notwendig.) Ein Feature für die 
+optische Darstellung ist der Darkmode, der nach eigenen Belieben gesetzt werden kann (7).
+ 
+
+17
+Suchen, Finden, Teilen
+Hier find Sie die vorhandenen Möglichkeiten, Personen und Unternehmen im Kontaktmanagement zu suchen und Suchergebnisse 
+weiterzuverarbeiten.
+
+18
+Schnellsuche
+Die Schnellsuche ermöglicht, dass Sie innerhalb der Kontakte, die Sie in Ihren k5 Fachapplikationen nutzen, sehr einfach Suchergebnisse 
+erhalten, ohne im Vorfeld strikte Suchkriterien wählen zu müssen.
+Unabhängig von den Suchkriterien tippen Sie die Suchbegriffe einfach nacheinander in das Eingabefeld. Die Schnellsuche ist „intelligent“. 
+Sie erkennt, um welche Suchkriterien es sich handelt und liefert Ihnen im Ergebnis eine Liste an Treffern, auf welche alle Kriterien zutreffen.
+Folgende Kriterien werden in der Schnellsuche berücksichtigt:
+VOR- UND FAMILIENNAME  FIRMENNAME   ANSPRECHPERSON   STRASSE & HAUSNUMMER   GEMEINDE   PLZ   E-MAIL-ADRESSE   TELEFONNUMMER   
+MOBILNUMMER   
+Wenn Sie die gesuchte Person oder Firma in der komprimierten Trefferliste bereits finden, können Sie diese direkt anwählen und 
+weiterverarbeiten. Die Trefferliste beinhaltet maximal 10 Einträge und zielt vor allem darauf ab, ein schnelles Ergebnis zu liefern und damit 
+ein intuitives Arbeiten zu ermöglichen. Mittels Klicks auf die gesuchte Person navigieren Sie direkt in die Personendetails.
+Finden Sie die gesuchte Person nicht in der Trefferliste, können Sie die Eingabe mit „Enter“ bestätigen und zum gesamten Suchergebnis 
+wechseln.
+Sie können das Suchergebnis direkt weiterverarbeiten, nutzen Sie dafür die Teilen Funktion. Wollen Sie gezielter suchen, können Sie die 
+Detailsuche verwenden.
+Person in der Trefferliste vorhanden
+Person nicht in der Trefferliste vorhanden
+
+19
+Detailsuche
+Für eine gezielte Suche nach Personen oder Unternehmen wird die Detailsuche verwendet. Mit Klick auf das Menü „Kontakte“ navigieren 
+Sie direkt zur Suche, gleichzeitig öffnet sich am rechten Bildrand der Bereich mit den Suchkriterien. Sie können aus einer Vielzahl an 
+Suchkriterien wählen.
+Standard-Kriterien stehen immer zur Verfügung, weitere Suchkriterien können bei Bedarf aktiviert werden (1). Nach Auswahl der 
+entsprechenden Kriterien (2) werden diese zusätzlich eingeblendet.
+Standard Suchkriterien:
+ART   NAME   GEBURTSDATUM   ERREICHBARKEIT    STRASSE  
+HAUSNUMMER  ORT  
+Weitere Suchkriterien:
+REGISTERGEPRÜFT  NOTIZ  FIRMENBUCHNUMMER  UID-NUMMER  
+ANSPRECHPARTNER FUNKTION  POSTLEITZAHL  GEMEINDEKENNZIFFER  
+STAAT  TAG  GRUPPE   
+
+20
+Wenn Sie Ihre Suche öfters anwenden wollen, können Sie die Speichern Funktion verwenden.
+
+21
+Suchfelder & Suchmöglichkeiten
+In der Schnellsuche oder Detailsuche haben Sie je nach Suchfeld verschiedene Möglichkeiten, Ihre Suchparameter zu gestalten:
+UND- / ODER-Suche
+Numerische Suche / Datumssuche
+Relative Suchparameter
+ 
+
+22
+UND- / ODER-Suche
+Die UND- / ODER-Suche kann sowohl auf die Schnellsuche, als auch Detailsuche angewendet werden. Mit dem Unterschied, dass in der 
+Schnellsuche feldübergreifend gesucht wird und in der Detailsuche auf das entsprechende Suchfeld angewendet wird
+" " – Leerzeichen bedeutet UND-Suche, d.h. beide Suchkriterien müssen erfüllt sein.
+"," – Beistrich bedeutet ODER-Suche, d.h. eines der Suchkriterien muss erfüllt sein.
+UND- / ODER-Suche in der Schnellsuche
+UND- / ODER-Suche in der Detailsuche
+ 
+Die UND- / ODER-Suchen lassen sich in einem Suchfeld kombinieren.
+Huber Stadtwerke
+Huber und Stadtwerke
+Jeder Treffer muss beide Suchvariablen enthalten (z.B. ein Treffer: Huber im Namen, 
+Stadtwerke in der E-Mail-Adresse)
+Müller, Stadtwerke
+Müller oder Stadtwerke
+Jeder Treffer muss eine der Suchvariablen enthalten (z.B. zwei Treffer: die natürliche Person 
+mit Nachname Müller, das Unternehmen Stadtwerke)
+Huber Stadtwerke, Müller Tourismus
+(Huber und Stadtwerke) oder (Müller und Tourismus)
+Eine Kombination beider Fälle (z.B. zwei Treffer: die natürliche Person mit Huber im Namen 
+und Stadtwerke in der E-Mail-Adresse, das Unternehmen mit Tourismus im Namen und Müller 
+in der Straße)
+Suchvariablen 
+Suchergebnis
+Im Feld Name: Huber Se
+Huber und Se
+Jeder Treffer muss beide Suchvariablen enthalten (z.B. die natürliche Person Huber Sebastian 
+oder das Unternehmen Seehotel Huber)
+Im Feld Geburtsdatum: 01.01.1990, 
+01.01.2000
+01.01.1990 oder 01.01.2000
+Jeder Treffer muss eine der Suchvariablen enthalten (z.B. zwei Treffer: je eine Person mit dem 
+entsprechenden Geburtsdatum)
+Suchvariablen
+Suchergebnis
+
+23
+Numerische Suche / Datumssuche
+Die Detailsuche bietet bei der numerischen Suche / Datumssuche eine Vielzahl an Möglichkeiten. Beispiele dazu entnehmen Sie der 
+nachfolgenden Tabelle:
+Darüber hinaus kann auch mit relativen Suchparametern gearbeitet werden.
+01.01.1990
+Bei jedem Treffer ist das Geburtsdatum der 01.01.1990
+01.01.1990, 01.02.1990
+Bei jedem Treffer ist das Geburtsdatum entweder der 01.01.1990 
+oder der 01.02.1990
+01.01.1990 – 01.02.1990
+Bei jedem Treffer liegt das Geburtsdatum zwischen dem 
+01.01.1990 und dem 01.02.1990 (einschließlich)
+01.01.1990 –
+Bei jedem Treffer liegt das Geburtsdatum zwischen dem 
+01.01.1990 und heute
+– 01.01.1990
+Bei jedem Treffer liegt das Geburtsdatum vor dem 01.01.1990 
+(einschließlich)
+Suchvariable im Feld Geburtsdatum
+Suchergebnis
+
+24
+Relative Suchparameter
+In der Detailsuche kann mit relativen Suchparametern gearbeitet werden. Das ermöglicht, Suchparameter in Relation zu heute bzw. dem 
+heutigen Tag / Monat / Jahr anzugeben.
+Die nachfolgenden Beispiele setzen voraus, dass heute der 04.07.2023 ist.
+jahr = aktuelles Jahr = 2023
+monat = aktueller Monat = 07
+tag = aktueller Tag = 04
+heute = aktuelles Datum = tag.monat.jahr = 04.07.2023
+heute + 10 = heute in 10 Tagen = 14.07.2023
+heute - 15 = heute vor 15 Tagen = 19.06.2023
+tag+10.monat.jahr = aktueller Tag + 10.aktuellerMonat.aktuellesJahr = 14.07.2023
+Monat - 1 = letzter Monat = 06
+heute-30 - heute = von vor 30 Tagen bis heute = 04.06.2023 – 04.07.2023
+heute – tag.monat.jahr+1 = 04.07.2023 – 04.07.2024
+ 
+ 
+Tag.monat.jahr-20
+Treffer mit Geburtsdatum am 04.07.2003
+Tag-3.monat-2.jahr-20
+Treffer mit Geburtsdatum am 01.05.2003
+Tag.monat.jahr-20 - heute
+Treffer mit Geburtsdatum zwischen 04.07.2003 und heute
+Heute - 30
+Treffer mit Geburtsdatum am 04.06.2023
+Suchvariable im Feld Geburtsdatum
+Suchergebnis
+
+25
+Suchergebnis teilen
+Sie haben die Möglichkeit:
+Die Kontakte in Ihrem Suchergebnis direkt per E-Mail anzuschreiben (3)
+Einen Excel-Export zu erstellen (z.B. um die Kontakte per Serienbrief anzuschreiben) (4)
+Ihr Suchergebnis mit Usern in Ihrer Organisation zu teilen (5)
+Markieren Sie dazu die gewünschten Kontakte per Checkbox (1) und klicken Sie auf 
+ (2).
+ 
+
+26
+Suche speichern und teilen
+Wenn Sie eine Suche öfters verwenden wollen, können Sie diese speichern. Klicken Sie dazu auf das „Speichern“-Symbol (1) und 
+vergeben Sie einen Namen (2) und (optional) eine Beschreibung (3).
+Unter „meine Suchen“ wird die Suche ab sofort angezeigt und kann verwendet werden. Wird die gespeicherte Suche aufgerufen (1), wird 
+diese sofort ausgelöst und das Suchergebnis ausgegeben.
+Über den Teilen-Button (1) stellen Sie die gespeicherte Suche für weitere Personen (2) in Ihrer Organisation zur Verfügung (3). 
+Selbstverständlich kann eine Suche, die obsolet geworden ist, auch wieder gelöscht werden (4).
+ 
+
+27
+
+28
+Spaltenauswahl
+Sie können die Auswahl der Spalten im Suchergebnis beliebig wählen (es muss mindestens eine Spalte ausgewählt werden). Klicken Sie 
+auf “Spalten ändern” (1) und “Spalten auswählen” (2).
+Sie landen im Auswahlmodus, dort können Sie aus einer Vielzahl an Spalten wählen. Fügen Sie Spalten hinzu (1) oder entfernen Sie 
+vorhandene Spalten (2) aus Ihrer Ansicht. Mit “Spalten speichern“ (3) schließen Sie die Auswahl ab. Alternativ kann die Spaltenansicht auf 
+den Urzustand zurückgesetzt werden (4).
+ 
+
+29
+Kontakte verwalten
+Sie haben im Kontaktmanagement die Möglichkeit, Ihre vorhandenen Kontakte (Natürliche Personen und Unternehmen) zu verwalten und 
+zusätzlich zu Ihren bereits vorhandenen Daten neue Kontakte anzulegen. Dies können Sie, sofern möglich, registerverknüpft (ZMR, URV) 
+oder manuell durchführen.
+Zu Ihren vorhandenen Kontakten können Kontaktdaten wie z.B. Telefonnummer oder E-Mail-Adresse erfasst werden und zum Zwecke der 
+elektronischen Zustellung die dafür notwendigen Zustimmungsbereiche definiert und gesetzt werden. 
+Notizen ermöglichen es, Ihren Kontakten gemeinderelevante Informationen anzuhängen.
+Verwendungsbereiche machen nachvollziehbar, welche Fachapplikationen auf Ihre Kontakte zugreifen.
+Mit der Änderungshistorie behalten Sie den Überblick über k5 fachapplikationsübergreifenden Änderungen an Ihren Kontakten. 
+ 
+
+30
+Eine natürliche Person aus dem ZMR anlegen
+Um eine Person in k5|Next_Kontakt anzulegen, klicken Sie im Modul Kontakte auf 
+ und weiter auf „Natürliche Person anlegen“.
+Bevor Sie eine natürliche Person anlegen können, verlangt k5|Next im ersten Schritt eine Suche in Ihren vorhandenen Kontaktdaten (1). Damit wird vermieden, dass 
+Personen mehrfach angelegt werden. Wird die Person nicht gefunden, können Sie zur ZMR-Suche übergehen (2).
+Familienname (1) und Vorname (2) sind Pflichtfelder. Wenn es sich um eine Person handelt, die im Zentralen Melderegister erfasst ist, wird diese im Suchergebnis angeführt 
+(3) und kann als Kontakt angelegt werden (4). Kann die Person nicht gefunden werden, sind entweder die Suchkriterien falsch befüllt oder es handelt sich um eine Person 
+ohne Wohnsitz in Österreich, welche manuell angelegt werden muss.
+Nach erfolgter Anlage werden Sie direkt zu den Personendaten der angelegten Person weitergeleitet. Die Person ist mit dem ZMR (Zentralen Melderegister) verknüpft (1) 
+und wird über den täglichen ZMR-Abgleich aktuell gehalten.
+
+31
+ 
+
+32
+Eine natürliche Person manuell (ohne ZMR) anlegen
+Kann die Person nicht im ZMR gefunden werden, da sie keinen Wohnsitz in Österreich hat, wird sie manuell angelegt (3).
+Folgende Felder sind Pflichtfelder:
+Personendaten (1): Geschlecht, Familien- und Vorname
+Adressdaten (2): Adressart, Staat (Österreich kann hier NICHT ausgewählt werden, da es sich sonst um eine Person aus dem ZMR 
+handeln müsste), Straße, Hausnummer, Postleitzahl, Ort (bzw. Zustellort, dieser dient der postalischen Zustellung und kann vom 
+Gemeindenamen abweichen)
+Mittels Klicks auf „Anlegen“ (3) wird die Person angelegt und steht in k5|Next_Kontakt ab sofort zur weiteren Verarbeitung zur Verfügung.
+ 
+
+33
+Ein Unternehmen aus dem URV anlegen
+Um ein Unternehmen  anzulegen, klicken Sie im Modul Kontakte auf 
+ und weiter auf „Unternehmen anlegen“.
+Bevor Sie ein Unternehmen anlegen können, verlangt k5|Next im ersten Schritt eine Suche in Ihren vorhandenen Kontaktdaten (1). Damit 
+wird vermieden, dass Unternehmen mehrfach angelegt werden. Wird das Unternehmen nicht gefunden, können Sie zur Suche im 
+Unternehmensregister (UR) übergehen (2).
+Der Name (1) ist ein Pflichtfeld. Handelt es sich um ein Unternehmen, das im UR erfasst ist, wird dieses im Ergebnis angeführt (2) und kann 
+als Kontakt angelegt werden (3).
+
+34
+Nach erfolgter Anlage werden Sie direkt zu den Daten des angelegten Unternehmens weitergeleitet. Das Unternehmen ist mit dem UR 
+verknüpft (1).
+ 
+Im Gegensatz zu ZMR-verknüpften Personen, welche beim täglichen Abgleich aktualisiert werden, handelt es sich hier um eine 
+einmalige Verknüpfung. Unternehmen werden beim täglichen Abgleich NICHT aktualisiert.
+
+35
+Ein Unternehmen manuell (ohne URV) anlegen
+Kann das Unternehmen im URV nicht gefunden werden, sind entweder die Suchkriterien falsch befüllt oder es handelt sich um ein 
+Unternehmen, das im URV nicht geführt wird. Um es anzulegen klicken Sie auf „Unternehmen manuell anlegen“.
+Folgende Felder sind Pflichtfelder:
+Unternehmen (1): Name
+Adressdaten (2): Adressart, Staat (auch Österreich möglich), Straße, Hausnummer, Postleitzahl, Ort (bzw. Zustellort, dieser dient der 
+postalischen Zustellung und kann vom Gemeindenamen abweichen)
+Mittels Klicks auf „Anlegen“ (3) wird das Unternehmen angelegt und steht in k5|Next_Kontakt ab sofort zur weiteren Verarbeitung zur 
+Verfügung.
+ 
+
+36
+Adressen hinzufügen und bevorzugen
+Im Kontaktmanagement hat man die Möglichkeit, zusätzlich zu bestehenden registerverknüpften Adressen (z.B. Haupt- oder 
+Nebenwohnsitze) EINE manuelle Zustelladresse zu erfassen. Dies kann grundsätzlich jede beliebige inländische oder ausländische 
+Adresse sein.
+Handelt es sich um eine österreichische Adresse, so muss im Feld “Straßenname” eine gültige Straße aus dem österreichischen 
+Straßenverzeichnis ausgewählt werden. Die Felder “Postleitzahl”, “Ort” und “Gemeinde” werden dann je nach gewählter Straße automatisch 
+befüllt. Handelt es sich um eine ausländische Adresse, so können die entsprechenden Felder per Freitext befüllt werden.
+Eine Manuelle Zustelladresse kann jederzeit bevorzugt (1), Details begutachtet (2), bearbeitet (3) oder gelöscht (4) werden.
+Die bloße Anlage einer manuellen Zustelladresse hat folgende Auswirkungen:
+k5 Finanzmanagement: Die Änderung wird im Abgleichprotokoll angezeigt, die Adresse wird als k5|Next-Adresse zusätzlich gespeichert 
+und kann durch manuelles Eingreifen als Rechnungsadresse gesetzt werden
+k5 Verfahren: keine Auswirkung
+k5 DMS: Die Adresse wird als Verknüpfungsadresse angeboten, jedoch nicht hervorgehoben
+Wird eine manuelle Zustelladresse zusätzlich bevorzugt, hat das folgende Auswirkungen:
+k5 Finanzmanagement: Die Änderung wird im Abgleichprotokoll angezeigt, die Adresse wird als k5|Next-Adresse zusätzlich gespeichert 
+und automatisch als Rechnungsadresse gesetzt
+k5 Verfahren: Die Änderung wird im Abgleichprotokoll angezeigt und die Adresse als Zustelladresse gesetzt
+k5 DMS: Die Adresse wird als Verknüpfungsadresse angeboten und durch ein ausgefülltes Icon hervorgehoben
+Manuelle Zustelladresse
+
+37
+Kontaktdaten hinzufügen und ändern
+Um Ihren Kontakten Kontaktdaten hinzuzufügen, gehen Sie wie folgt vor:
+Suchen Sie die entsprechende Kontaktperson über die Schnellsuche oder Detailsuche und öffnen Sie den Detailbereich mittels Klicks 
+auf 
+ (bearbeiten)
+Im Detailbereich des Kontaktes finden Sie mehrere Registerkarten mit diversen Informationen über den ausgewählten Kontakt vor. In der 
+Registerkarte „Kontakt“ (1) finden Sie den Bereich „Kontaktdaten“ in welchem Sie mittels Klicks auf 
+ (2) eine Kontaktart hinzufügen 
+können.
+Sie können aus folgenden Kontaktkategorien wählen: Telefon, Mobil, Fax, E-Mail oder Website
+Nach Eingabe der Pflichtfelder (1) und optionalen Angaben (2) bestätigen Sie die Anlage mit “Speichern”. Als Änderungsgrund wird 
+bereits ein Vorschlag angeboten, den Sie übernehmen können.
+Es können weitere Kontakte der selben Kategorie erfasst werden. Diese stehen dann im Kontaktmanagement zur Verfügung, werden aber 
+nicht an die angebundenen k5 Fachapplikationen weitergeleitet.
+Die Kontaktdaten werden ab sofort im Detailbereich des Kontakts angezeigt.
+Der erste Eintrag einer der Kontaktarten Telefon, Mobil, Fax oder E-Mail wird als Standardkontakt gesetzt. Standardkontakte werden 
+über die Zentrale Person an die Fachapplikationen verteilt und abgeglichen.
+Um eine Standard E-Mail-Adresse zu erfassen, muss mindestens ein Zustimmungsbereich gesetzt werden.
+
+38
+Um bestehende Kontaktdaten zu ändern, navigieren Sie mit dem Mauszeiger auf die entsprechende Kontaktart und klicken auf 
+ 
+(bearbeiten).
+Führen Sie Ihre Änderung durch und bestätigen Sie mit Speichern.
+Handelt es sich bei der geänderten Kontaktart um einen Standardkontakt, so wird die Änderung über die Zentrale Person mit den 
+angebundenen k5 Fachapplikationen abgeglichen.
+
+39
+Standardkontakte
+Standardkontakte sind jene Kontakte, die als Kerndaten in der Zentralen Person für angebundene k5 Fachapplikationen zur Verfügung 
+stehen. Für jede Kontaktart der Kategorie Telefon, Mobil, Fax und E-Mail kann genau ein Standardkontakt vorliegen bzw. erfasst werden. 
+Das bietet in der k5- und k5|Next-Welt den entscheidenden Vorteil, dass alle k5- und k5|Next-Applikationen die aktuellsten Kontaktdaten 
+nutzen und damit die höchstmögliche Datenqualität erreicht wird.
+Der erste Kontakt einer Kategorie wird automatisch zum Standardkontakt. Es können weitere Kontakte der selben Kategorie in 
+k5|Next_Kontakt erfasst werden, diese werden jedoch nicht mit den angebundenen k5 Fachapplikationen abgeglichen.
+Standardkontakte können daran erkannt werden:
+Das Symbol der Kategorie ist farblich dargestellt (handelt es sich um keinen Standartkontakt ist die Farbgebung grau)
+In der Bearbeitungsmaske des entsprechenden Kontaktes wird ein Hinweistext angezeigt, dass es sich um einen Standardkontakt 
+handelt, welcher mit den angebundenen Fachapplikationen abgeglichen wird.
+Um eine Standard E-Mail-Adresse erfassen zu können, muss mindestens ein Zustimmungsbereich gesetzt werden.
+
+40
+Zustimmungsbereiche & Zustimmungserklärung
+Damit für eine Kontaktperson eine Standard E-Mail-Adresse gespeichert werden darf, muss mindestens ein Zustimmungsbereich gesetzt 
+werden. Damit wird sichergestellt, dass im Zuge der Dualen Zustellung nur jene Personen elektronische Sendungen erhalten, die das auch 
+ausdrücklich wünschen und per Zustimmungserklärung bestätigt haben.
+In der Bearbeitungsmaske für die Standard E-Mail-Adresse kann eine neue Zustimmungserklärung direkt erstellt und ausgedruckt werden 
+(1). Die unterfertigte Erklärung kann anschließend hochgeladen werden, das funktioniert entweder mittels “Datei auswählen” (2) oder per 
+Drag & Drop (dazu wird die Datei in das strichlierte Feld gezogen).
+Die drei vorhandenen Zustimmungsbereiche werden standardmäßig angeboten, deren Bezeichnung kann sich jedoch je nach Bundesland 
+unterschiedlich darstellen.
+Zustimmungsbereiche können spezifisch angepasst werden, d.h. die vorhandenen umbenannt oder bei Bedarf zusätzliche Bereiche 
+angelegt werden. Das kann von Ihrem Gemeindeadministrator in der k5|Next Administrationsumgebung durchgeführt werden.
+Die Möglichkeit, Zustimmungserklärungen in k5|Next zu erstellen und hochzuladen, ist als Option zu sehen und nicht verpflichtend. 
+Wenn Sie sich diesbezüglich z.B. bereits mit Easy Documents / k5 DMS und Online-Formularen organisieren, ist das gleichwertig 
+und ausreichend.
+
+41
+Notizen
+Um Ihren Kontakten zusätzliche Informationen anzuhängen, können Sie Notizen erstellen. Suchen Sie den gewünschten Kontakt über die 
+Schnellsuche und navigieren Sie auf den Reiter „Notizen“. Klick auf 
+ (Notizen hinzufügen) öffnet die Eingabemaske.
+Per Freitexteingabe können dem Kontakt nun beliebige Informationen angehängt werden.
+ 
+Alle hier gespeicherten Einträge werden chronologisch nach dem Zeitpunkt ihrer Erstellung untereinander angezeigt, die aktuellste Notiz 
+findet sich ganz oben.
+Nach Notizen kann auch gesucht werden, dafür wird die Detailsuche  verwendet.
+
+42
+Tags
+In k5|Next_Kontakt gibt es die Möglichkeit, Kontaktpersonen zu Taggen. Ein Tag kann man sich dabei ähnlich einem Etikett bzw. einem 
+Schlagwort vorstellen. Damit lassen sich Inhalte, im konkreten Fall Personendaten, über die vorhandenen und definierten Variablen hinaus, 
+kategorisieren.
+Um einen Kontakt zu taggen suchen Sie die gewünschte Person über die Schnellsuche oder Detailsuche und vergeben als Tag einen 
+beliebigen Begriff. Bereits vorhandene Tags werden vorgeschlagen, Sie können aber auch beliebige neue Tags vergeben. Tags können 
+jederzeit von jedem berechtigten User in Ihrer Organisation per Freitext auf einen bestehenden Kontakt gesetzt oder entfernt werden.
+Über die Detailsuche lassen sich Tags als weiteres Suchkriterium aktivieren. Damit erhalten Sie ein zusätzliches, sehr dynamisches und 
+individuelles Feature für die Organisation Ihrer Kontaktdaten.
+
+43
+Gruppe
+Die Funktionsweise einer Gruppe unterscheidet sich signifikant von jener für Tags. Eine Gruppe wird im Vorfeld erstellt, und erst im 
+Nachhinein werden Kontakte zu einer bestehenden Gruppe hinzugefügt. Sollen nur Sie die Mitglieder einer Gruppe verwalten können, so 
+haben Sie zusätzlich die Möglichkeit, eine Gruppe zu sperren. Das macht Gruppen zu sehr stabilen und kontrollierbaren Strukturen, im 
+Gegensatz zu den sehr dynamischen Tags.
+Gruppe anlegen und Kontakte hinzufügen
+Im ersten Schritt muss eine Gruppe angelegt werden. Die Gruppenverwaltung finden Sie im Menü unter “Kontakte - Gruppen”. Dort finden 
+Sie die Auflistung aller Ihrer vorhandenen Gruppen, darunter auch jene, die mit Ihnen geteilt wurden. Mittels Klicks auf 
+ (Neue Gruppe) 
+kann eine neue Gruppe erstellt werden.
+Vergeben Sie einen Namen (1). Grundsätzlich sind Gruppen nicht gesperrt. Das bedeutet, alle User in Ihrer Organisation, mit denen Sie 
+Ihre Gruppe geteilt haben, können Gruppenmitglieder hinzufügen und entfernen. Sollen nur Sie allein berechtigt sein, die Gruppenmitglieder 
+zu verwalten, können Sie die Gruppe durch setzen der Checkbox sperren (2). Um die Gruppe optisch zu individualisieren, können Sie 
+außerdem ein Bild hochladen (3). 
+Im zweiten Schritt können Sie Ihrer Gruppe Kontakte hinzufügen. Nachdem Sie die gewünschten Kontakte per Schnellsuche oder 
+Detailsuche gefunden haben, klicken Sie im Suchergebnis nach Mouseover auf 
+ (zu Gruppe hinzufügen).
+Durch setzten der Checkboxes können Sie Ihre Gruppe mit Usern aus Ihrer Organisation, die die erforderlichen Rechte im 
+Kontaktmanagement besitzen, teilen.
+
+44
+Gruppen verwalten
+Um Ihre Gruppe zu verwalten navigieren Sie im Menü auf “Kontakte - Gruppen”. Sie finden hier eine Auflistung aller Gruppen, die Sie 
+entweder selbst erstellt haben oder die mit Ihnen geteilt wurden. Wurde für die Gruppe ein Bild hochgeladen, wird dieses vor dem 
+Gruppenamen angezeigt (1). Wollen Sie die Gruppe bearbeiten (Änderung des Namens, Gruppe sperren, Gruppenbild wählen) klicken Sie 
+auf 
+ (2). Sie sehen die Gruppengröße als Anzahl der Kontakte (3) und die Anzahl der Benutzer, welche die Gruppe einsehen können (2). 
+Bei Mouseover über die Zeile einer Gruppe erscheinen im darüber hinaus drei Buttons zur Gruppenverwaltung:
+Mit 
+ können Sie die Gruppe mit Usern Ihrer Organisation teilen
+Mit 
+ können Sie die Kontakte in der Gruppe anzeigen
+Mit 
+ können Sie die Gruppe löschen
+ 
+
+45
+Release Notes
+Die Release Notes finden Sie im Bereich k5|Next_Basis.
+ 

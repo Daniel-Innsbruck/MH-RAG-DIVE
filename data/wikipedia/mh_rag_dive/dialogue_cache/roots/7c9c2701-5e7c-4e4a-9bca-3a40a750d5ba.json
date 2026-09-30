@@ -1,0 +1,39 @@
+{
+  "root_id": "7c9c2701-5e7c-4e4a-9bca-3a40a750d5ba",
+  "chunk_a": {
+    "id": "799544102#chunk_1",
+    "text_snippet": "Title: Cinnamon Girl\nSection(s): Lyrics, Cover versions\n\nIn an interview with Q magazine, singer Beck named the \"Cinnamon Girl\" riff as his all-time favourite, equal with Black Sabbath's \"Supernaut\".\n\n\"Cinnamon Girl\" has been covered by many artists:\n The Gentrys recorded a version for a 1970 single release on Sun Records.\nHole recorded an instrumental cover of the song on their 1991 album Pretty on the Inside.\n Type O Negative on their 1996 album October Rust.\n Replicants on their 1995 self-titled album.\n John Entwistle of The Who recorded a version of the song as an outtake for his 1971 solo album Smash Your Head Against the Wall.\n The Smashing Pumpkins released a version on the 2012 reissue of Pisces Iscariot.\n Wilco and members of My Morning Jacket have performed the song at various stops on the 2013 Americanarama Music Festival tour.\n Matthew Sweet and Susanna Hoffs on their album, Under the Covers, Vol. 1 (2006).\n Danish band Kashmir performed a cover version on their live CD/DVD The Aftermath.\n Phish has covered the song a total of four times, once at Gallagher's in Vermont on 3/1/1989, twice during their 1997 tours, and once at Madison Square Garden on 07/29/2017. \nThe Dream Syndicate included a version on their 1986 album Out of the Grey.\nRadiohead is known to have played the song live on several occasions and bootlegs are common on YouTube.\nJEFF The Brotherhood plays a heavy version of the song live.\nFoo Fighters covered this song live at their first of two Toronto, Ontario, Canada shows on July 8, 2015\n The Madison, Wisconsin-based noise rock band Killdozer (band) covered this song for their 1985 album Snake Boy.\n The 8th track on Boyd Tinsley's solo album True Reflections.\n Mudhoney incorporated the outro of \"Cinnamon Girl\" into the song \"Broken Hands\" on their 1991 album Every Good Boy Deserves Fudge.",
+    "article_id": "799544102",
+    "article_title": "Cinnamon Girl",
+    "chunk_index": 1,
+    "total_chunks": 2
+  },
+  "chunk_b": {
+    "id": "803762618#chunk_2",
+    "text_snippet": "Title: You're So Vain\nSection(s): Subject of the song, References in the song, Later versions and adaptations\n\nAfter her live performance of the song with Simon in July 2013, Taylor Swift stated that Simon had revealed the identity of the song's subject to her in confidence.\n\nIn November 2015, Simon, promoting her about-to-be-published memoir, said, \"I have confirmed that the second verse is Warren (Beatty)\" and added that while \"Warren thinks the whole thing is about him,\" he is the subject of that verse only, with the remainder of the song referring to two other, still unnamed men.\n\nThe line \"I hear you went up to Saratoga and your horse naturally won\" refers to the Saratoga Race Course horse-racing season held in late July, August, and early September in Saratoga Springs, New York. The season is frequented by the rich and famous of New York and other East Coast cities.\n Two solar eclipses (\"Then you flew your Learjet up to Nova Scotia to see the total eclipse of the sun\") were visible from Nova Scotia in the early 1970s, on March 7, 1970, and July 10, 1972. Simon said she wrote the song in 1971, but the 1972 eclipse (which could only be seen in Nova Scotia as opposed to the 1970 eclipse which traversed the entire East Coast, and also happened during the Saratoga racing season) better fits the narrative.\nSimon said the line \"clouds in my coffee\" came \"from an airplane flight that I took with Billy Mernit, who was my friend and piano player at the time. As I got my coffee, there were clouds outside the window of the airplane and you could see the reflection in the cup of coffee. Billy said to me, 'Look at the clouds in your coffee'.\"\n\nThe song has been recorded by Chocolate Starfish, The Mountain Goats, David Axelrod, John Barrowman, Liza Minnelli, Jack Klugman and Tony Randall (as \"The Odd Couple\"), Chimira, Venice, The Feeling, Jann Arden, Janet Jackson (who sampled the song in \"Son of a Gun (I Betcha Think This Song Is About You)\", with Simon providing featured vocals), Trey Songz (who sampled from Janet Jackson in his single \"About You),\" Anna Waronker, Faster Pussycat, Dres, Daryll-Ann, Smokie, Queens of the Stone Age, Sally Seltmann, Asaro and Wolcott, Matthew Sweet and Susanna Hoffs, Marilyn Manson (featuring Johnny Depp), and Italian pop star Mina in her 1985 album Finalmente ho conosciuto il conte Dracula....\nFoo Fighters performed the song live at the 50th Annual Grammy Awards in 2008.\nOn July 27, 2013, Simon performed \"You're So Vain\" with Taylor Swift on her Red Tour.\n The song \"Starfuckers, Inc.\" by Nine Inch Nails, released in 2000, references \"You're So Vain\", by quoting the chorus.\n Supporters of English football team Everton F.C. sang the song to player Leighton Baines at the 2009 football matches.\n On their 2009 album Felony, New York City metalcore band Emmure had a song titled \"R2Deepthroat\" where vocalist Frankie says \"You're so vain, I bet you think this song is about you, don't you?\"\nIn the lead-up to the 2016 US presidential election, Simon authorized the use of the song in an ad against Donald Trump.\nIn a piece posted by BBC News on May 5, 2017, Simon sings a previously unreleased fourth verse to the song, which she states had been written on a pad some time ago but never made it into the song. It references a man, married multiple times, who \"called her once to ask her things she couldn't quite divine\".",
+    "article_id": "803762618",
+    "article_title": "You're So Vain",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  "t_bridge": [
+    "Matthew Sweet",
+    "Susanna Hoffs",
+    "Cover versions",
+    "Foo Fighters"
+  ],
+  "initial_question": {
+    "rag_input": "Which acts covered both 'Cinnamon Girl' and 'You're So Vain'?",
+    "question": "Which acts covered both 'Cinnamon Girl' and 'You're So Vain'?",
+    "answer": "The Foo Fighters and the duo Matthew Sweet and Susanna Hoffs covered both songs.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Artists who covered both songs (Matthew Sweet, Susanna Hoffs, and Foo Fighters)"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

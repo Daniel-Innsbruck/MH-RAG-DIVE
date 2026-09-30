@@ -1,0 +1,38 @@
+{
+  "root_id": "199cd1d0-a892-43e9-a2dd-686c07fd1d94",
+  "chunk_a": {
+    "id": "799093575#chunk_8",
+    "text_snippet": "Title: Movable type\nSection(s): Typesetting, Metal type combined with other methods\n\nTraditionally, the capital letters were stored in a separate drawer or case that was located above the case that held the other letters; this is why capital letters are called \"upper case\" characters while the non-capitals are \"lower case\".\n\nCompartments also held spacers, which are blocks of blank type used to separate words and fill out a line of type, such as em and en quads (quadrats, or spaces. A quadrat is a block of type whose face is lower than the printing letters so that it does not itself print.). An em space was the width of a capital letter \"M\" – as wide as it was high – while an en space referred to a space half the width of its height (usually the dimensions for a capital \"N\").\n\nIndividual letters are assembled into words and lines of text with the aid of a composing stick, and the whole assembly is tightly bound together to make up a page image called a forme, where all letter faces are exactly the same height to form a flat surface of type. The forme is mounted on a printing press, a thin coating of viscous ink is applied and impressions made on paper under great pressure in the press. \"Sorts\" is the term given to special characters not freely available in the typical type case, such as the \"@\" mark.\n\nthumb|Ceramic type from the collections of University of Reading.\n\nSometimes it is erroneously stated that printing with metal type replaced the earlier methods. In the industrial era printing methods would be chosen to suit the purpose. For example, when printing large scale letters in posters etc. the metal type would have proved too heavy and economically unviable. Thus, large scale type was made as carved wood blocks as well as ceramics plates. Also in many cases where large scale text was required, it was simpler to hand the job to a sign painter than a printer.\nImages could be printed together with movable type if they were made as woodcuts or wood engravings as long as the blocks were made to the same type height. If intaglio methods, such as copper plates, were used for the images, then images and the text would have required separate print runs on different machines.",
+    "article_id": "799093575",
+    "article_title": "Movable type",
+    "chunk_index": 8,
+    "total_chunks": 9
+  },
+  "chunk_b": {
+    "id": "810606599#chunk_0",
+    "text_snippet": "Title: Pencil\nSection(s): Introduction, History, Camel's hair pencil, Discovery of graphite deposit\n\nthumb|HB graphite pencils\nthumb|Coloured pencils (Caran d'Ache)\n\nA pencil is a writing implement or art medium constructed of a narrow, solid pigment core inside a protective casing which prevents the core from being broken and/or from  leaving marks on the user’s hand during use.\n\nPencils create marks by physical abrasion, leaving behind a trail of solid core material that adheres to a sheet of paper or other surface. They are distinct from pens, which instead disperse a trail of liquid or gel ink that stains the light colour of the paper by absorption.\n\nMost pencil cores are made of graphite mixed with a clay binder which leaves grey or black marks that can be easily erased. Graphite pencils are used for both writing and drawing and result in durable markings: though writing is easily removable with an eraser, it is otherwise resistant to moisture, most chemicals, ultraviolet radiation, and natural aging. Other types of pencil core are less widely used, such as charcoal pencils, which are mainly used by artists for drawing and sketching. Coloured pencils are sometimes used by teachers or editors to correct submitted texts, but are typically regarded as art supplies, especially those with waxy core binders that tend to smear on paper instead of erasing. Grease pencils have a softer, crayon-like waxy core that can leave marks on smooth surfaces such as glass or porcelain.\n\nThe most common type of pencil casing is of thin wood, usually hexagonal in section but sometimes cylindrical, permanently bonded to the core. Similar permanent casings may be constructed of other materials such as plastic or paper. To use the pencil, the casing must be carved or peeled off to expose the working end of the core as a sharp point. Mechanical pencils have more elaborate casings which are not permanently bonded to the core. Instead, the casing supports a separate, mobile piece of pigment core that can be extended or retracted through the casing tip as needed; these pencil casings can be re-loaded with a new core (usually graphite) when necessary.\n\nthumb|Old Soviet colored pencils with box (circa 1959)\n\nPencil, from Old French pincel, from  Latin   a \"little tail\" (see penis; pincellus is Latin from the post-classical period) originally referred to an artist's fine brush of camel hair, also used for writing before modern lead or chalk pencils.\n\nThough the archetypal pencil was an artist's brush, the stylus, a thin metal stick used for scratching in papyrus or wax tablets, was used extensively by the Romans and for palm-leaf manuscripts.\n\nPrior to 1565 (some sources say as early as 1500), a large deposit of graphite was discovered on the approach to Grey Knotts from the hamlet of Seathwaite in Borrowdale parish, Cumbria, England. This particular deposit of graphite was extremely pure and solid, and it could easily be sawn into sticks. It remains the only large-scale deposit of graphite ever found in this solid form. Chemistry was in its infancy and the substance was thought to be a form of lead. Consequently, it was called plumbago (Latin for \"lead ore\"). Because the pencil core is still referred to as \"lead\", or a \"lead\", many people have the misconception that the graphite in the pencil is lead, and the black core of pencils is still referred to as lead, even though it never contained the element lead. The words for pencil in German (bleistift), Irish (peann luaidhe), Arabic (قلم رصاص qalam raṣāṣ), and some other languages literally mean lead pen.",
+    "article_id": "810606599",
+    "article_title": "Pencil",
+    "chunk_index": 0,
+    "total_chunks": 9
+  },
+  "t_bridge": [
+    "Methods of creating marks on paper",
+    "Historical evolution of writing and printing implements",
+    "Material components of traditional writing/printing technologies"
+  ],
+  "initial_question": {
+    "rag_input": "How do pencils and movable type differ in how they leave marks on paper?",
+    "question": "How do pencils and movable type differ in how they leave marks on paper?",
+    "answer": "Pencils create marks through physical abrasion by leaving behind a trail of solid core material, such as graphite and clay, that adheres to the paper. In contrast, movable type creates impressions by applying a thin coating of viscous ink onto the type surface and pressing it onto the paper under great pressure.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Methods of creating marks on paper"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

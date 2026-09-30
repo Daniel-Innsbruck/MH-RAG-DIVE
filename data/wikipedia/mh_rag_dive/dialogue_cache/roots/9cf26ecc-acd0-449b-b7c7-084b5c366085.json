@@ -1,0 +1,38 @@
+{
+  "root_id": "9cf26ecc-acd0-449b-b7c7-084b5c366085",
+  "chunk_a": {
+    "id": "846590504#chunk_13",
+    "text_snippet": "Title: Insulin\nSection(s): Medical uses, Discovery\n\nSeveral analogs of human insulin are available. These insulin analogs are closely related to the human insulin structure, and were developed for specific aspects of glycemic control in terms of fast action (prandial insulins) and long action (basal insulins). The first biosynthetic insulin analog was developed for clinical use at mealtime (prandial insulin), Humalog (insulin lispro), it is more rapidly absorbed after subcutaneous injection than regular insulin, with an effect 15 minutes after injection. Other rapid-acting analogues are NovoRapid and Apidra, with similar profiles. All are rapidly absorbed due to amino acid sequences that will reduce formation of dimers and hexamers (monomeric insulins are more rapidly absorbed). Fast acting insulins do not require the injection-to-meal interval previously recommended for human insulin and animal insulins. The other type is long acting insulin; the first of these was Lantus (insulin glargine). These have a steady effect for an extended period from 18 to 24 hours. Likewise, another protracted insulin analogue (Levemir) is based on a fatty acid acylation approach. A myristic acid molecule is attached to this analogue, which associates the insulin molecule to the abundant serum albumin, which in turn extends the effect and reduces the risk of hypoglycemia. Both protracted analogues need to be taken only once daily, and are used for type 1 diabetics as the basal insulin. A combination of a rapid acting and a protracted insulin is also available, making it more likely for patients to achieve an insulin profile that mimics that of the body´s own insulin release.\n\nInsulin is usually taken as subcutaneous injections by single-use syringes with needles, via an insulin pump, or by repeated-use insulin pens with disposable needles. Inhaled insulin is also available in the U.S. market now.\n\nSynthetic insulin can trigger adverse effects, so some people with diabetes rely on animal-source insulin.\n\nUnlike many medicines, insulin currently cannot be taken orally because, like nearly all other proteins introduced into the gastrointestinal tract, it is reduced to fragments, whereupon all activity is lost. There has been some research into ways to protect insulin from the digestive tract, so that it can be administered orally or sublingually.\n\nIn 1869, while studying the structure of the pancreas under a microscope, Paul Langerhans, a medical student in Berlin, identified some previously unnoticed tissue clumps scattered throughout the bulk of the pancreas. The function of the \"little heaps of cells\", later known as the islets of Langerhans, initially remained unknown, but Edouard Laguesse later suggested they might produce secretions that play a regulatory role in digestion. Paul Langerhans' son, Archibald, also helped to understand this regulatory role. The term \"insulin\" originates from insula, the Latin word for islet/island.",
+    "article_id": "846590504",
+    "article_title": "Insulin",
+    "chunk_index": 13,
+    "total_chunks": 18
+  },
+  "chunk_b": {
+    "id": "837446917#chunk_12",
+    "text_snippet": "Title: Guinea pig\nSection(s): In scientific research, As food\n\nThe guinea pig was most extensively implemented in research and diagnosis of infectious diseases. Common uses included identification of brucellosis, Chagas disease, cholera, diphtheria, foot-and-mouth disease, glanders, Q fever, Rocky Mountain spotted fever, and various strains of typhus. They are still frequently used to diagnose tuberculosis, since they are easily infected by human tuberculosis bacteria. Because guinea pigs are one of the few animals which, like humans and other primates, cannot synthesize vitamin C, but must obtain it from their diet, they are ideal for researching scurvy. From the accidental discovery in 1907 that scurvy could be induced in guinea pigs, to their use to prove the chemical structure of the \"ascorbutic factor\" in 1932, the guinea pig model proved a crucial part of vitamin C research.\n\nComplement, an important component for serology, was first isolated from the blood of the guinea pig. Guinea pigs have an unusual insulin mutation, and are a suitable species for the generation of anti-insulin antibodies. Present at a level 10 times that found in other mammals, the insulin in guinea pigs may be important in growth regulation, a role usually played by growth hormone. Additionally, guinea pigs have been identified as model organisms for the study of juvenile diabetes and, because of the frequency of pregnancy toxemia, of pre-eclampsia in human females. Their placental structure is similar to that of humans, and their gestation period can be divided into trimesters that resemble the stages of fetal development in humans.\n\nGuinea pig strains used in scientific research are primarily outbred strains. Aside from the common American or English stock, the two main outbred strains in laboratory use are the Hartley and Dunkin-Hartley; these English strains are albino, although pigmented strains are also available. Inbred strains are less common and are usually used for very specific research, such as immune system molecular biology. Of the inbred strains that have been created, the two still used with any frequency are, following Sewall Wright's designations, \"Strain 2\" and \"Strain 13\".\n\nHairless breeds of guinea pigs have been used in scientific research since the 1980s, particularly for dermatological studies. A hairless and immunodeficient breed was the result of a spontaneous genetic mutation in inbred laboratory strains from the Hartley stock at the Eastman Kodak Company in 1979. An immunocompetent hairless breed was also identified by the Institute Armand Frappier in 1978, and Charles River Laboratories has reproduced this breed for research since 1982. Cavy fanciers then began acquiring hairless breeds, and the pet hairless varieties are referred to as \"skinny pigs\".\n\nthumb|Traditional preparation of a grilled cuy in Quito, Ecuador.\nthumb|Dish from Ecuador called cuy\nthumb|upright|Cuy being raised at home in the traditional Andean fashion",
+    "article_id": "837446917",
+    "article_title": "Guinea pig",
+    "chunk_index": 12,
+    "total_chunks": 15
+  },
+  "t_bridge": [
+    "Insulin physiology",
+    "Diabetes research models",
+    "Species-specific insulin mutations"
+  ],
+  "initial_question": {
+    "rag_input": "Which juvenile diabetes animal model has a mutation in the hormone named from the Latin word for island?",
+    "question": "Which juvenile diabetes animal model has a mutation in the hormone named from the Latin word for island?",
+    "answer": "The guinea pig. It is a model organism for studying juvenile diabetes and possesses an unusual mutation in insulin, a hormone whose name derives from 'insula', the Latin word for island/islet.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Diabetes research models"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

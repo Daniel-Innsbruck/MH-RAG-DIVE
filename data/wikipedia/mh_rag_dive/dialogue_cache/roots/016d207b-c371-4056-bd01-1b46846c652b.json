@@ -1,0 +1,38 @@
+{
+  "root_id": "016d207b-c371-4056-bd01-1b46846c652b",
+  "chunk_a": {
+    "id": "798869266#chunk_1",
+    "text_snippet": "Title: Magna Carta Holy Grail\nSection(s): Background, Recording and production\n\nLeading up to the album's announcement, Jay-Z served as an executive producer for both the film The Great Gatsby and its soundtrack, The Great Gatsby: Music from Baz Luhrmann's Film, which he and film director Baz Luhrmann worked together for two years . The opening song, \"100$ Bill\" by Jay-Z contains a chopped and screwed beat, electro-rap elements and is written in the perspective of a modern-day Gatsby, it was both co-written and produced by E*vax one half of electronic rock duo Ratatat.\n\nthumb|left|180px|Timbaland provided the bulk of the production on the album.\nIn late 2011, it was confirmed three songs had been recorded and one of which featured Frank Ocean which would end up being \"Oceans\", the oldest song that appeared on the album. The recording for \"Oceans\" and production for \"Holy Grail\" were completed in 2011, during the recording sessions for Jay's collaborative album with Kanye West, Watch the Throne. West wanted the two songs to appear on Watch the Throne, however Jay-Z chose to keep them for Magna Carta Holy Grail. After Watch the Throne was released, Jay-Z chose to go on a worldwide concert tour instead of devoting more time for the album. Following the end of the tour, the main bulk of recording sessions for Magna Carta Holy Grail took place at Alicia Keys and Swizz Beatz' Jungle City Studios in New York, where Justin Timberlake and Beyoncé Knowles were also working on their albums at the time. Jay-Z described the recording process as having a \"minimalist approach\" to give Magna Carta Holy Grail a \"1990s feel\".\n\nWhile working on Beyoncé's fifth studio album, frequent collaborator Timbaland played Jay-Z the instrumental for what would become \"Picasso Baby\". According to Jay-Z, that song built the sound of the album. Jay-Z and Timbaland had grown apart after they worked on The Blueprint 3, but reunited for this album. Timbaland ended up handling the majority of the production on Magna Carta Holy Grail. In an interview with BBC Radio 1, Jay-Z stated that while the two have recorded many songs in the past, it was not until Magna Carta Holy Grail that they got the chemistry to collaborate for a whole project. Producer J-Roc described \"Picasso Baby\" as \"just New York\". He told XXL that him and Timbaland \"were really just feeling the city, the energy that it gives out\" and were inspired by the \"numerous different cultures and different dialects or sounds.\"\n\nthumb|right|160px|Justin Timberlake makes three appearances on the album.\nThe instrumental for \"FuckWithMeYouKnowIGotIt\" was started by producer Vinylz, who was inspired by a Pimp C speech he found on YouTube. He sampled Pimp C's voice for the intro and then created the instrumental in a short amount of time. After fellow producer Boi-1da added to the production, the song was sent to Rick Ross who intended to use it for his upcoming album. Jay-Z was meant to add a guest verse to it, but when he heard the instrumental, he wanted the track for his album. Timbaland added additional changes to it before they mastered the final version.",
+    "article_id": "798869266",
+    "article_title": "Magna Carta Holy Grail",
+    "chunk_index": 1,
+    "total_chunks": 8
+  },
+  "chunk_b": {
+    "id": "845699215#chunk_2",
+    "text_snippet": "Title: Runaway (Kanye West song)\nSection(s): Recording, Composition\n\nWhile some of the inspiration of the song was drawn from the incident with Swift, it was noted that the song was not an apology. On his Twitter account, West commented that he had written a \"beautiful\" song for her, noting \"if she won't take it then I'll perform it for her.\" Lawrence Dong was another artist who West had called down to Hawaii.  Some of the drumming pattern featured on the song were sampled from \"Expo 83\" performed by the Backyard Heavies and written by John Roger Branch; the same drums used on \"The Basement\" from Pete Rock's album Mecca and the Soul Brother.\n\nThe song takes influences from the hip hop genre and contains a large array of musical instruments. The song begins with a sparse, isolated sounding piano melody that drones on during the start of the song. After about a minute and a half, West provides his first verse. West sings \"you’ve been putting up with my shit just way too long,\" before launching into the ironic chorus of \"let's have a toast for the douchebags\". A vocal sample of \"Look at you! Look at you!\" is also heard throughout the song at seemingly random points, excerpted from Rick James' 1981 live performance in Long Beach, California. West begs his girlfriend to \"run away\" from his destructive behavior, warning her of further behavior, while also dwelling on his own intimacy issues. The piano chord that introduces the song continues on, but the production then introduces a forceful cello and a light string section.  The second verse is delivered by Pusha T who is used as a juxtaposition against West; where West is heartfelt and sincere towards his girlfriend the song, Pusha T is rude towards his and also glorifies cocaine dealing.\n\nAfter the composition continues, West ends the song with a three-minute unintelligible outro containing a distorted West utilizing a vocoder. It begins with West mumbling something that sounds like \"I'ma be honest..\" before the vocal effects drowns out what is audible in his words, to the point where what he is saying is impossible to understand. Allmusic editor Andy Kellman commented that \"when West blows into a device and comes out sounding something like a muffled, bristly version of Robert Fripp's guitar.\" Slant Magazine's Matthew Cole interpreted the purpose of the outro as a \"fantasy of escape through pure catharsis, with the vocoder literalizing Kanye's ability to transform his personal shortcomings into art.\" Chicago Tribune writer Greg Kot described the production of the song in detail, writing:\n\n\"Ostensibly sung by a groom to his new bride at a wedding, the song plays as an apology, a warning and a defiant manifesto. The music mirrors that complexity. A midtempo funky-drummer beat glides underneath the melancholy, reverberating piano notes, while a deep, mushrooming bass tone threatens to swallow everything. Brusque cello strokes contrast with elegiac violins, while a dirty guitar wends through the string section like a drunk, knocking over music stands and splattering mud on the white-tablecloth beauty. It’s a turbulent combination of sounds: brooding and chastened in the verses, oddly triumphant and darkly humorous during the choruses.\"",
+    "article_id": "845699215",
+    "article_title": "Runaway (Kanye West song)",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Kanye West",
+    "Music production techniques",
+    "Collaborative relationships in hip hop"
+  ],
+  "initial_question": {
+    "rag_input": "Who delivers the verse juxtaposing the artist who wanted 'Oceans' on Watch the Throne?",
+    "question": "Who delivers the verse juxtaposing the artist who wanted 'Oceans' on Watch the Throne?",
+    "answer": "Pusha T. He delivers the second verse on 'Runaway' as a juxtaposition against Kanye West, who originally wanted 'Oceans' to appear on the collaborative album Watch the Throne.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Kanye West"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "3b3c8cd4-da76-44d1-8a37-66797c34dcb0",
+  "chunk_a": {
+    "id": "833160392#chunk_18",
+    "text_snippet": "Title: Conquistador\nSection(s): Iberian Union period (1580–1640), After Iberian Union\n\nFrom 1580 to 1670 mostly, the Bandeirantes in Brazil focused on slave hunting, then from 1670 to 1750 they focused on mineral wealth. Through these expeditions and the Dutch–Portuguese War, Colonial Brazil expanded from the small limits of the Tordesilhas Line to roughly the same borders as current Brazil.\n\nthumb|250px|The combined Spanish and Portuguese empires during the Iberian Union (1580–1640)\nIn the 17th century, taking advantage of this period of Portuguese weakness, the Dutch occupied many Portuguese territories in Brazil. John Maurice, Prince of Nassau-Siegen was appointed as the governor of the Dutch possessions in Brazil in 1637 by the Dutch West India Company. He landed at Recife, the port of Pernambuco, in January 1637. In a series of expeditions, he gradually expanded from Sergipe on the south to São Luís de Maranhão in the north. He likewise conquered the Portuguese possessions of Elmina Castle, Saint Thomas, and Luanda and Angola. The Dutch intrusion into Brazil was long lasting and troublesome to Portugal. The Seventeen Provinces captured a large portion of the Brazilian coast including the provinces of Bahia, Pernambuco, Paraíba, Rio Grande do Norte, Ceará, and Sergipe, while Dutch privateers sacked Portuguese ships in both the Atlantic and Indian Oceans. The large area of Bahia and its city, the strategically important Salvador, was recovered quickly by an Iberian military expedition in 1625.\n\nAfter the dissolution of the Iberian Union in 1640, Portugal re-established authority over its lost territories including remaining Dutch controlled areas. The other smaller, less developed areas were recovered in stages and relieved of Dutch piracy in the next two decades by local resistance and Portuguese expeditions.\n\nSpanish Formosa was established in Taiwan, first by Portugal from 1544 and later renamed and repositioned by Spain in Keelung. It became a natural defence site for the Iberian Union. The colony was designed to protect Spanish and Portuguese trade from interference by the Dutch base in the south of Taiwan. The Spanish colony was short-lived due to the unwillingness of Spanish colonial authorities in Manila to defend it.\n\n270px|thumb|Alexander von Humboldt's American expedition at service of Spain's King\nChina gained control of Taiwan in 1683, but the Portuguese and Spanish maintained a hold on trade with Chinese cities; the Portuguese operated from Macau and other cities, the Spanish controlled Manila. Arabs from the Middle East and Muslims from India were actively trading in the port by the 1690s. Dutch, French, and English later frequented the port through the Canton System.",
+    "article_id": "833160392",
+    "article_title": "Conquistador",
+    "chunk_index": 18,
+    "total_chunks": 32
+  },
+  "chunk_b": {
+    "id": "864864565#chunk_0",
+    "text_snippet": "Title: New Amsterdam\nSection(s): Introduction, Early settlement (1609–1625)\n\nthumb|upright=1.2|The original city map of New Amsterdam, called the Castello Plan, from 1660 (the bottom left corner is approximately south, while the top right corner is approximately north)\n\nNew Amsterdam (,  or ) was a 17th-century Dutch settlement established at the southern tip of Manhattan Island that served as the seat of the colonial government in New Netherland. The factorij became a settlement outside Fort Amsterdam. The fort was situated on the strategic southern tip of the island of Manhattan and was meant to defend the fur trade operations of the Dutch West India Company in the North River (Hudson River). In 1624, it became a provincial extension of the Dutch Republic and was designated as the capital of the province in 1625.\n\nBy 1655, the population of New Netherland had grown to 2,000 people, with 1,500 living in New Amsterdam. Prior to 1664, the population had exploded in nine years to almost 9,000 people in New Netherland, 2,500 of whom lived in New Amsterdam, 1,000 lived near Fort Orange, and the remainder in other towns and villages.\n\nNew Amsterdam was renamed New York on September 8, 1664, in honor of the Duke of York (later James II of England), in whose name the English had captured it. After the Second Anglo-Dutch War of 1665–1667, England and the United Provinces of the Netherlands agreed to the status quo in the Treaty of Breda. The English kept the island of Manhattan, the Dutch giving up their claim to the town and the rest of the colony, while the English formally abandoned Surinam in South America, and the island of Run in the East Indies to the Dutch, confirming their control of the valuable Spice Islands. Today much of what was once New Amsterdam is New York City.\n\nthumb|The Rigging House at 120 William Street, the last remaining Dutch building of New Amsterdam. Built in the 17th century, it became a Methodist church in the 1760s and became a secular building again before its destruction in the mid-19th century.\n\nIn 1524, nearly a century before the arrival of the Dutch, the site that later became New Amsterdam was named New Angoulême by the Italian explorer Giovanni da Verrazzano, to commemorate his patron King Francis I of France, former Count of Angoulême. The first recorded exploration by the Dutch of the area around what is now called New York Bay was in 1609 with the voyage of the ship Halve Maen (English: \"Half Moon\"), captained by Henry Hudson in the service of the Dutch Republic, as the emissary of Maurice of Nassau, Prince of Orange, Holland's stadholder. Hudson named the river the Mauritius River. He was covertly attempting to find the Northwest Passage for the Dutch East India Company. Instead, he brought back news about the possibility of exploitation of beaver by the Dutch who sent commercial, private missions to the area the following years.",
+    "article_id": "864864565",
+    "article_title": "New Amsterdam",
+    "chunk_index": 0,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Dutch West India Company",
+    "17th-century Dutch colonial expansion",
+    "Dutch colonial competition with other European powers"
+  ],
+  "initial_question": {
+    "rag_input": "Where did the company with fur trade operations in the North River appoint a governor in 1637?",
+    "question": "Where did the company with fur trade operations in the North River appoint a governor in 1637?",
+    "answer": "The Dutch West India Company, which conducted fur trade operations in the North River, appointed John Maurice as the governor of its Dutch possessions in Brazil in 1637.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Dutch West India Company"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

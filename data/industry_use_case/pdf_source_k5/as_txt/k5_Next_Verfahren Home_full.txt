@@ -1,0 +1,742 @@
+k5|Next_Verfahren Home
+3
+ 
+     Programmfunktionen
+4
+ 
+          Benutzeroberfläche
+5
+ 
+               Suchen, Finden, Teilen
+6
+ 
+                    Schnellsuche
+7
+ 
+                    Detailsuche
+8
+ 
+                    Teilen
+13
+ 
+                    Datenpool
+16
+ 
+               Menü
+17
+ 
+                    Home/Dashboard
+18
+ 
+                    Verfahren
+19
+ 
+                         Verfahren - Suche
+20
+ 
+                         Verfahren - Detail
+21
+ 
+                    Grundstück
+22
+ 
+                         Grundstücke
+23
+ 
+                         Einlagezahlen
+24
+ 
+                         Eigentümer
+25
+ 
+                         Adressen
+26
+ 
+                    Person
+27
+ 
+                         Personen
+28
+ 
+                    Weitere Apps
+29
+ 
+                         Notizen
+30
+ 
+                    Grundbuch
+31
+ 
+                         Stapelverwaltung
+32
+ 
+                         Warenkorb
+34
+ 
+                    Design
+35
+ 
+                    Administration
+36
+ 
+                         Verfahrensarten
+37
+ 
+                         Verfahrenswerte
+38
+ 
+                         Verfahrenskosten
+39
+ 
+                         Abgaben
+40
+ 
+          Jagdpachtverwaltung
+41
+ 
+               Anlage einer neuen Jagdpachtberechnung
+42
+ 
+               Revierdefinition
+44
+ 
+               Teilflächenzuordnung
+46
+ 
+               Detailansicht
+49
+ 
+               Auszahlungsliste
+51
+ 
+          Administration - k5|Next_Verfahren
+52
+ 
+               BEV - Import
+53
+ 
+               Einstellungen
+58
+ 
+                    Beteiligtenarten
+59
+ 
+               BEV Daten löschen
+60
+ 
+               GIS-Schnittstelle
+62
+ 
+     Sie haben Fragen?
+65
+ 
+     Jetzt starten
+66
+ 
+
+     FAQ (work)
+67
+ 
+          Adressdarstellung bei Grundstückssuche
+68
+ 
+     Release Notes (work)
+70
+ 
+
+3
+k5|Next_Verfahren Home
+ 
+Stammdatenverwaltung mit Unterstützung durch moderne Integration. Automationsunterstützte Verfahrensabwicklung mit 
+Dokumenterstellungen
+
+4
+Programmfunktionen
+Hier befindet sich eine Übersicht aller Programmfunktionen. 
+Der Aufruf der weiteren Komponenten ist im linken Menü möglich.
+Benutzeroberfläche
+Suchen, Finden, Teilen
+Menü
+Jagdpachtverwaltung
+Anlage einer neuen Jagdpachtberechnung
+Revierdefinition
+Teilflächenzuordnung
+Detailansicht
+Auszahlungsliste
+Administration - k5|Next_Verfahren
+BEV - Import
+Einstellungen
+BEV Daten löschen
+GIS-Schnittstelle
+
+5
+Benutzeroberfläche
+In diesem Bereich befindet sich die umfangreiche Dokumentation zu der Anwendung k5|Next_Verfahren.
+
+6
+Suchen, Finden, Teilen
+Hier sind die vorhandenen Möglichkeiten beschrieben, um Daten zu suchen und Suchergebnisse weiterzuverarbeiten.
+
+7
+Schnellsuche
+Die Schnellsuche ermöglicht es, unabhängig vom gerade geöffneten Formular Daten zu suchen.
+ 
+Es werden folgende Bereiche durchsucht:
+ 
+Grundstücke
+Einlagezahlen
+Eigentümer
+Personen
+Verfahren
+Die Trefferliste beinhaltet maximal 5 Einträge und zielt vor allem darauf ab, ein schnelles Ergebnis zu liefern und damit ein intuitives Arbeiten 
+zu ermöglichen. Werden mehr als 5 Treffer gefunden, wird die Anzahl der Treffer dargestellt. Mit einem Klick auf “X Einträge gefunden, 
+anzeigen” wird die Detailsuche des Bereichs geöffnet und die gefundenen Treffer werden dargestellt.
+ 
+ 
+Mittels Klicks auf einen einzelnen Treffer wird das Detailformular geöffnet.
+
+8
+Detailsuche
+Für eine gezielte Suche nach Detaildatensätzen kann die Detailsuche verwendet werden. Steht diese zur Verfügung, werden die Suchfelder 
+im rechten Bereich des Fensters dargestellt.
+ 
+Standardsuchkriterien
+Pro Bereich stehen Standardsuchkriterien zur Verfügung. Am Beispiel Detailsuche Grundstücke:
+Grundstücksnummer - Katastralgemeine - Status - Grenzkataster
+ 
+
+9
+Weitere Suchkriterien
+Weitere Suchkriterien können mit einem Klick auf 
+hinzugefügt werden.
+ 
+
+10
+ 
+Wird das Häkchen bei einem weiteren Suchkriterium gesetzt, erscheint es oben bei den Suchkriterien.
+ 
+Suchfelder
+Textfelder
+Ist ein Suchfeld als “Text” definiert, kann die Suche nach ganzen Wörtern oder Teilen durchgeführt werden.
+ 
+ Beispiel: Eine Suche nach “Hub” im Feld Familienname/Firmenname liefert auch Ergebnisse, die nicht mit “Hub” beginnen, sondern 
+auch Ergebnisse, wo “hub” vorkommt.
+
+11
+ 
+Auswahlfelder
+Stehen in einem Suchfeld nur bestimmte Werte zur Verfügung, können diese in einem Auswahlfeld gewählt werden.
+ 
+ 
+Bei bestimmten Suchfeldern ist auch eine Kombinationssuche möglich:
+ 
+
+12
+ 
+
+13
+Teilen
+Die markierten Treffer im Suchergebnis können mit der “Teilen” Funktion weiterverarbeitet werden. 
+ 
+Apps
+ 
+ 
+Wird eines dieser Symbole ausgewählt, werden die markierten Detaildatensätze ins jeweilige Programmmodul weitergegeben. Je nach 
+Ursprung der Detaildatensätze werden andere Filterungen angewendet.
+Beispiel: Es werden 3 Grundstücke markiert. Das Teilen Menü wird aufgerufen. 
+ Die Option “Grundstücke” ist in diesem Beispiel inaktiv, aus diesem Bereich wurde das Teilen Menü geöffnet
+Wird die Option “Einlagezahlen” gewählt, öffnet sich die Einlagezahlensuche und alle Einlagezahlen der markierten Grundstücke werden 
+angezeigt.
+Wird die Option “Eigentümer” gewählt, öffnet sich die Eigentümersuche und es werden alle Eigentümer der gewählten Grundstücke 
+dargestellt.
+Wird die Option “Stapelverwaltung” gewählt, werden die markierten Datensätze in einen “Stapel” gelegt -  zur späteren Abfrage im 
+Grundbuch.
+Wird die Option “GIS” gewählt, werden die markierten Datensätze im verwendeten GIS System dargestellt.
+
+14
+ 
+Excel
+Es wird eine Excel Liste erstellt, die die markierten Datensätze beinhaltet.  Je nach Bereich, in dem die “Teilen” Funktion aufgerufen wurde, 
+erscheinen unterschiedliche Excel Exportdateien.
+ 
+Sonderfall: in der Grundstückssuche steht eine spezielle Excel Liste zur Verfügung. 
+ 
+Wird diese Option gewählt, werden pro Grundstück die Eigentümer ebenfalls angeführt.
+Berichte
+Es wird ein druckfähiger Bericht in A4 generiert.  Dieser Bericht kann als PDF Datei gespeichert werden, oder direkt gedruckt werden. Je 
+nach Bereich, in dem die “Teilen” Funktion aufgerufen wurde, erscheinen unterschiedliche Berichte.
+Die Berichte werden unterteilt in zwei Arten von Berichten:
+Listenberichte
+Stammblätter
+ 
+Beispiel: Liste der Grundstückseigentümer
+ 
+Beispiel: Stammblatt Grundstücke
+Alle markierten Datensätze werden in Listenform dargestellt. Es werden immer weitere benötigte Daten dargestellt. Hier angezeigt: 
+Anrainerverzeichnis oder “Liste der Grundstückseigentümer”
+
+15
+ 
+Pro markiertem Datensatz (hier Grundstück) wird eine neue Seite im Bericht generiert.
+
+16
+Datenpool
+ 
+
+17
+Menü
+ 
+
+18
+Home/Dashboard
+ 
+
+19
+Verfahren
+ 
+
+20
+Verfahren - Suche
+ 
+
+21
+Verfahren - Detail
+ 
+
+22
+Grundstück
+ 
+
+23
+Grundstücke
+ 
+
+24
+Einlagezahlen
+ 
+
+25
+Eigentümer
+ 
+
+26
+Adressen
+ 
+
+27
+Person
+ 
+
+28
+Personen
+ 
+
+29
+Weitere Apps
+ 
+
+30
+Notizen
+ 
+
+31
+Grundbuch
+ 
+
+32
+Stapelverwaltung
+In der Stapelverwaltung werden alle Grundstücke und Einlagezahlen zur Abfrage im Grundbuch gesammelt. Die Einträge können aus 
+einzelnen Menüpunkten in die Stapelverwaltung hinzugefügt werden. Alternativ können neue Grundstücke oder Einlagezahlen zur 
+Neuanlage manuell angelegt werden.
+ 
+Hinzufügen über Teilen
+Selektierte Grundstücke oder Einlagezahlen können über das Teilen Menü zur Stapelverwaltung hinzugefügt werden.
+Manuelle Anlage
+Im unteren Bereich kann ein neuer Stapeleintrag mit einem Klick auf 
+angelegt werden. 
+ 
+Die Felder müssen der Reihe nach befüllt werden. Zuerst kann entschieden werden, ob ein Grundstück oder eine Einlagezahl abgefragt 
+werden soll.
+
+33
+Im zweiten Feld kann die Grundstücksnummer oder die Einlagezahl eingegeben werden. Wird das Feld nicht befüllt, erscheint eine 
+Hinweismeldung.
+ 
+ 
+Im dritten Feld kann die Katastralgemeindenummer oder Grundbuchsnummer ausgewählt werden. Wird das Feld nicht befüllt erscheint eine 
+Hinweismeldung.
+ 
+Im vierten Feld kann die Bezeichnung der Abfrage eingegeben werden. Wird das Feld nicht befüllt, erscheint eine Hinweismeldung. 
+ 
+ 
+  
+
+34
+Warenkorb
+ 
+
+35
+Design
+ 
+
+36
+Administration
+ 
+
+37
+Verfahrensarten
+ 
+
+38
+Verfahrenswerte
+ 
+
+39
+Verfahrenskosten
+ 
+
+40
+Abgaben
+ 
+
+41
+Jagdpachtverwaltung
+Im Programmbereich Jagdpachtverwaltung kann die Berechnung der Jagdpacht durchgeführt werden. 
+ 
+Der Ablauf der Jagdpachtberechnung sowie die Höhen der ha-Sätze und Bagatellgrenzen sind pro Bundesland unterschiedlich. 
+Eine Zusammenfassung der Berechnung steht für jedes Bundesland extra zur Verfügung.
+
+42
+Anlage einer neuen Jagdpachtberechnung
+Um die Berechnung durchführen zu können, müssen die betroffenen Grundstücke zu Revieren zugeordnet werden, sowie das jagdbar 
+Kennzeichen gesetzt werden.
+Die Neuanlage kann mit einem Klick auf 
+gestartet werden.
+ 
+Stammdaten der Jagdpachtberechnung
+ 
+Bezeichnung
+Im Feld Bezeichnung kann eine Bezeichnung der Berechnung angeben werden. Wird keine Bezeichnung angegeben, wird eine 
+Hinweismeldung angezeigt.
+ 
+Datum
+Im Feld Datum wird das Erstellungsdatum (Aktuelles Tagesdatum) eingetragen
+ 
+vorhandene Berechnungen
+Sind bereits Berechnungen vorhanden, können die Revierdefinitionen und Revierzuordnungen übernommen werden.
+
+43
+ 
+Sachbearbeiter
+Im Feld Sachbearbeiter wird der aktuelle Sachbearbeiter eintragen. Sollte ein anderer Bearbeiter eingetragen werden, kann dieser aus der 
+Liste ausgewählt werden.
+ 
+ 
+Grundstücksdaten
+Beim Speichern der Neuanlage werden alle Grundstücke, Eigentümer und Eigentumsverhältnisse kopiert, dieser Jagd zugeordnet und 
+eingefroren. Damit kann sichergestellt werden, dass die Daten zu einem bestimmten Stichtag zur Berechnung herangezogen werden.
+Abrechnungsvarianten
+Wurde die Jagd angelegt, erscheint ein weiters Feld. Dort kann die Gruppierung bei der Erstellung der Auszahlungsliste eingestellt werden:
+Bei der Berechnung “Gesamtsumme pro Person” werden die Beträge pro Person summiert.
+Bei der Berechnung “Gesamtsumme pro Person pro Revier” werden die Beträge pro Person und Revier summiert.
+
+44
+Revierdefinition
+Wurden die Stammdaten der Jagdpachtberechnung gespeichert, wird der Bereich der Revierdefinition aktiv.
+Es muss mindestens 1 Revier vorhanden sein, damit die Zuordnung bei den Teilflächen durchgeführt werden kann.
+Ein neues Revier wird mit einem Klick auf 
+angelegt werden.
+Es wird ein Detailfenster eingeblendet, in dem die Daten des Reviers eingegeben werden können.
+ 
+ 
+Reviername
+In diesem Feld kann die Revierbezeichnung eingetragen werden.
+Jagdgenossenschaft
+In diesem Feld kann optional eine Jagdgenossenschaft eingegeben werden. 
+Diese Jagdgenossenschaft kann später zur Gruppierung der Berechnung verwendet werden.
+
+45
+Einheitssatz
+In diesem Feld kann der Einheitssatz pro Hektar eingetragen werden. 
+Bagatellgrenze
+In diesem Feld kann der Minimalauszahlungsbetrag eingetragen werden. Liegt die errechnete Summe des Eigentümers unter diesem 
+Betrag, wird dieser Detailsatz nicht für die Auszahlungsliste, bzw. den Datenträger verwendet.
+ 
+Der Einheitssatz pro Hektar wird entweder vom Jagdausschuss festgelegt, oder aus der Gesamtfläche des Jagdgebiets und des 
+Gesamtauszahlungsbetrages errechnet.
+Dieser Bagatellbetrag kann an einen Flächenwert gebunden sein, z.B. 1ha x 2,25 €, oder kann einem Betrag entsprechen, z.B. 15 
+€.
+
+46
+Teilflächenzuordnung
+Nach der Anlage der Jagdpacht können die Teilflächen bearbeitet werden. Je nach Art der Berechnung werden die Daten über bestimmte 
+Kennzeichen gefiltert und die Kennzeichen gesetzt. Da diese Vorgehensweisen je nach Bundesland abweichen können, werden hier nur die 
+Schaltflächen und Funktionen besprochen. Eine Ablaufbeschreibung pro Bundesland wird in einem eigenen Menüpunkt abgehandelt.
+Filtermöglichkeiten
+Die Suchleiste auf der rechten Seite kann zur Filterung nach diversen Kriterien genutzt werden.
+In den Auswahllisten ist eine Mehrfachauswahl möglich. 
+Beispiel: Filter nach “landwirtschaftlich genutzte Grundflächen” und “Wald”
+ 
+Selektion
+Es können einzelne Datensätze markiert werden, mit einem Klick in das oberste Kästchen neben “GST-Nr” können alle angezeigten 
+Datensätze sofort markiert werden.
+Alle selektieren:
+ 
+
+47
+ 
+Änderungsfunktionen
+Wird der Punkt “Änderungsfunktionen” aufgerufen, öffnet sich ein Modalfenster, in dem die “Jagdbar”-Information und die Revierzuordnung 
+für alle vorher markierten Datensätze vorgenommen werden kann.
+ 
+ 
+Jagdbar
+Wird die Option “Jagdbar” gesetzt und die Schaltfläche 
+  geklickt, werden alle vorher markierten Datensätze mit dem 
+“Jagdbar” Kennzeichen versehen. Ist die Checkbox Jagdbar nicht gesetzt und die Schaltfläche aktualisieren wird betätigt, wird das Merkmal 
+”Jagdbar” bei allen SELEKTIERTEN Teilflächen entfernt.
+Jagdrevier
+In der Auswahlliste stehen alle definierten Reviere zur Verfügung. Wird ein Revier ausgewählt und die Schaltfläche 
+  geklickt, 
+werden alle vorher markierten Datensätze zu diesem Revier zugeordnet. Ist der Eintrag “Zuordnung entfernen” ausgewählt und die 
+Schaltfläche aktualisieren wird betätigt, wird das Merkmal “Jagdrevier” bei allen SELEKTIERTEN Teilflächen geleert.
+ 
+Manuelles Zuordnen
+Jede Teilfläche kann einzeln als “Jagdbar” markiert werden, sowie zu einem Revier zugeordnet werden. Die Zuordnung kann dort auch 
+wieder entfernt werden.
+ 
+
+48
+ 
+Weitere Funktionen
+Im  -Menü stehen weitere Funktionen zur Verfügung.
+Grundstücke aus Datenpool holen
+Sind Grundstücke im GIS oder in der Grundstückssuche markiert und in den Datenpool gelegt worden, können diese mit Auswahl dieser 
+Funktion in das Formular Teilflächen geholt werden. Es werden danach nur noch die Grundstücke und Teilflächen dargestellt, die im 
+Datenpool waren.
+Grundstücke an Datenpool senden
+Markierte Grundstücke werden in den Datenpool gelegt.
+Berechnung starten
+Sind alle Zuordnungen durchgeführt worden, kann die Berechnung der Detaildaten gestartet werden. sobald diese Berechnung gestartet 
+wurde, ist keine Aktualisierung über die Änderungsfunktionen mehr möglich. Korrekturen können noch durchgeführt werden, wirken sich 
+aber nicht mehr auf die Detaildatenauflistung aus.
+ 
+
+49
+Detailansicht
+In der Detailansicht werden alle Detaildaten der Grundstücke und Eigentümerdaten dargestellt. Pro Eigentümer und pro Teilfläche wird eine 
+Zeile angezeigt. Dadurch ist der Grunddatenstamm zur Gruppierung nach Personen und nach Revier geschaffen. Weitere Analysen und 
+Auswertungen können über den Excel Export mit der Teilen Funktion durchgeführt werden.
+ 
+Sortierung
+Die Daten können mit einem Klick auf die Spaltenbezeichnungen auf bzw. absteigend sortiert werden:
+ 
+Excel Export
+Es wird eine Excel Liste erstellt mit den markierten Datensätzen.
+ 
+ 
+Auszahlungsliste erstellen
+Wurden die Detaildaten geprüft, kann die Auszahlungsliste erstellt werden
+
+50
+ 
+
+51
+Auszahlungsliste
+Je nach eingestellter Abrechnungsvariante wird nun das Ergebnis der Jagdpachtberechnung dargestellt.
+ 
+Bei der Berechnung “Gesamtsumme pro Person” werden die Beträge pro Person summiert.
+Bei der Berechnung “Gesamtsumme pro Person pro Revier” werden die Beträge pro Person und Revier summiert.
+ 
+ 
+Datenträger erstellen
+Ein Datenträger wird erzeugt der im k5 Finanzmanagement importiert werden kann.
+ 
+Excel Export
+Es wird eine Excel Liste mit den markierten Datensätzen erstellt.
+ 
+ 
+
+52
+Administration - k5|Next_Verfahren
+Menüpunkt Administration.
+Systemweit greifende Einstellungen für k5|Next_Verfahren können hier verwaltet werden.
+
+53
+BEV - Import
+Um die vom BEV (Bundesamt für Eich und Vermessungswesen) zur Verfügung gestellten Eigentümerdaten zum importieren, steht der 
+Menüpunkt BEV-Import im Menü “Administration” zur Verfügung.
+Die zur Verfügung gestellten Dateien werden geprüft, hochgeladen und können nach dieser Prüfung vom Benutzer importiert werden.
+ 
+Auswahl der Importdateien
+Die Importdateien können auf zwei unterschiedliche Arten ausgewählt werden. 
+“Drag & Drop”
+Die Dateien können mittels “Drag & Drop” vom Windows-Explorer auf die dargestellte Fläche gezogen werden. Diese Dateien werden 
+automatisch hochgeladen.
+Datei hochladen
+Mit einem Klick auf die Schaltfläche 
+  oder 
+
+54
+  wird ein Dateiauswahlfenster geöffnet, in dem die zu importierenden Dateien ausgewählt werden können.
+Pro Katastralgemeinde wird eine Eigentümer- und eine Grundstücksdatei zur Verfügung gestellt. In diesem Dateiauswahlfenster können alle 
+Dateien markiert und hochgeladen werden: 
+Nach erfolgreicher Prüfung der Dateien nach Inhalt und Benennung der Dateien werden diese unter dem Bereich aufgelistet. 
+Diese Darstellung ermöglicht die Prüfung auf fehlende Dateien. Es muss für einen erfolgreichen Import pro Katastralgemeinde jeweils eine 
+Eigentümerdatei und eine entsprechende Grundstücksdatei aufgelistet sein.
+ 
+
+55
+Hochladen und Prüfen
+Das Hochladen der Datei kann im nächsten Bereich gestartet werden. Der Bereich wird mit einem Mausklick aktiviert und geöffnet.
+ 
+Nach einem Klick auf 
+  erfolgt das Hochladen, Prüfen und Bereitstellen der Importdateien.
+Der Vorgang wird mit einem “Spinner” visuell dargestellt.
+Die erfolgreiche Überprüfung wird durch einen Kommentar dargestellt.
+ 
+ 
+Import starten
+ 
+ 
+Der Import und die Übernahme der Grundstücks und Eigentümerdaten erfolgt mit einem Klick auf die Schaltfläche 
+ 
+Der Vorgang wird mit einem “Spinner” visuell dargestellt.
+
+56
+ 
+Import Abbrechen
+ 
+Bis zum Betätigen der Schaltfläche 
+kann der Import noch zurückgesetzt und neu begonnen werden. 
+Mit einem Klick auf die Schaltfläche 
+werden die Importdateien entfernt und jeglicher Status zurückgesetzt.
+ 
+Mögliche Fehlermeldungen
+Beispiel: Eine Grundstücksdatei für eine Katastralgemeinde fehlt:
+ 
+Wird versucht die Dateien hochzuladen, wird im nächsten Schritt auf die fehlenden EZ-Informationen bzw. die fehlenden Grundstücksdaten 
+hingewiesen.
+ 
+
+57
+ 
+
+58
+Einstellungen
+ 
+
+59
+Beteiligtenarten
+In diesem Bereich können die Beteiligtenarten aktiv geschalten werden. Weiters kann die Reihenfolge der Darstellung im Verfahren 
+angepasst werden.
+ 
+Aktiv Inaktiv schalten
+Sollte eine Beteiligtenart nicht benötigt werden, kann das Häkchen in der Spalte Anzeigen entfernt werden. Das Häkchen kann mit einem 
+Klick entfernt bzw. hinzugefügt werden.
+Beispiel: Beteiligtenart “Behörden” wird nicht benötigt
+Reihenfolge ändern
+Die Reihenfolge der Darstellung der Beteiligtenarten kann per Drag & Drop umgereiht werden. 
+ 
+
+60
+BEV Daten löschen
+Sollte aus bestimmten Gründen eine komplette Katastralgemeinde entfernt werden müssen, kann dies unter dem Menüpunkt “BEV Daten 
+löschen“ im Bereich “Administration” durchgeführt werden.
+Bei diesem Löschvorgang werden alle Grundstücksdaten, Einlagezahlen und Eigentümerdaten der ausgewählten KG gelöscht.
+Alle vorhandenen Katastralgemeinden werden in der Auswahlliste links dargestellt.
+Aus Sicherheitsgründen muss die zu löschende Katastralgemeinde links ausgewählt werden und im rechten Feld die genaue Bezeichnung 
+manuell nochmals eingegeben werden. Erst wenn dies durchgeführt wurde, wird die Schaltfläche
+aktiv.
+Wird die Schaltfläche geklickt, erscheint eine nochmalige Hinweismeldung:
+Mit einem Klick auf 
+wird der Löschvorgang gestartet.
+Der Vorgang wird mit einem “Spinner” visuell dargestellt.
+ 
+ 
+
+61
+Der Erfolgreiche Löschvorgang wird mit einer “Snackbar”-Meldung dargestellt.
+ 
+
+62
+GIS-Schnittstelle
+In diesem Menüpunkt können die notwendigen Einstellungen für die GIS Integration eingetragen werden.
+Die allgemeinen Einstellungen werden vom Softwarebetreuer vorgenommen. 
+ 
+ 
+ 
+Benutzerdaten
+Hier werden die Benutzerdaten für das WebOffice Projekt zur Nutzung des MapWidgets eingetragen.
+
+63
+MapWidget
+baseURL
+In diesem Feld wird die URL zum WebOffice Projekt eingetragen.
+Project
+In diesem Feld wird der Name des WebOffice Projekts eingetragen.
+Mapview
+In diesem Feld wird eine Ansicht eingetragen, sollte diese von der Standardansicht des WebOffice Projekts abweichen.
+Parameter
+Benötigte Parameter zur Anpassung der Ansichten und Funktionen des MapWidgets:
+WebOffice
+Project
+In diesem Feld wird der Name des WebOffice Projekts eingetragen.
+Parameter
+Benötigte Parameter zur Nutzung des WebOffice Aufrufes:
+GIS Integrator 2021
+ApplicationID
+Technischer Name der Lokalen Anwendung
+
+64
+Project
+Name der lokalen Projektdatei
+Verfahrenzielfeld
+Technischer Name des Verbindungsfeldes
+ 
+
+65
+Sie haben Fragen?
+Wir haben die Antworten - meistens.
+Für die häufigsten Fragen (FAQ) zu k5|Next_Verfahren finden Sie hier Antworten und für weitere Infos die Verweise auf die entsprechenden 
+Kapitel in unserer Hilfe. Sollte darüber hinaus Erklärungsbedarf bestehen, sind wir gerne jederzeit über unsere Hotline für Sie erreichbar. 
+ 
+
+66
+Jetzt starten
+ 
+
+67
+FAQ (work)
+Hier entsteht die Sammlung der FAQ´s (Frequently asked Questions)
+ 
+Adressdarstellung bei Grundstückssuche
+ 
+ 
+
+68
+Adressdarstellung bei Grundstückssuche
+Frage: Bei der Grundstückssuche wird mir bei der Adresssuche eine andere Straße angezeigt.
+ 
+Antwort: Der Suchtreffer der Adresse hat im AGWRII eine Hauptadresse und eine Identadresse. 
+ 
+ZB. Ein Gebäude an einer Kreuzung mit 2 Straßen hat auf jedem der Straßenseiten einen Hauseingang.
+Beispiel Gemeindeamt Eckartsau.
+ 
+Detailansicht Grundstück
+ 
+Grafische Darstellung des Kreuzungsbereichs
+ 
+ 
+ 
+
+69
+ 
+
+70
+Release Notes (work)
+Allgemein
+Bundesland Spezifika
+Punkt
+Punkt
+Punkt

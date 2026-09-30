@@ -1,0 +1,38 @@
+{
+  "root_id": "e553f8e5-4902-4885-a917-abfc9b34fb1d",
+  "chunk_a": {
+    "id": "827733959#chunk_1",
+    "text_snippet": "Title: Bipolar junction transistor\nSection(s): Function, Voltage, current, and charge control\n\nIn typical operation, the base–emitter junction is forward-biased, which means that the p-doped side of the junction is at a more positive potential than the n-doped side, and the base–collector junction is reverse-biased. In an NPN transistor, when positive bias is applied to the base–emitter junction, the equilibrium is disturbed between the thermally generated carriers and the repelling electric field of the n-doped emitter depletion region. This allows thermally excited electrons to inject from the emitter into the base region. These electrons diffuse through the base from the region of high concentration near the emitter towards the region of low concentration near the collector. The electrons in the base are called minority carriers because the base is doped p-type, which makes holes the majority carrier in the base.\n\nTo minimize the fraction of carriers that recombine before reaching the collector–base junction, the transistor's base region must be thin enough that carriers can diffuse across it in much less time than the semiconductor's minority-carrier lifetime. In particular, the thickness of the base must be much less than the diffusion length of the electrons. The collector–base junction is reverse-biased, and so little electron injection occurs from the collector to the base, but electrons that diffuse through the base towards the collector are swept into the collector by the electric field in the depletion region of the collector–base junction. The thin shared base and asymmetric collector–emitter doping are what differentiates a bipolar transistor from two separate and oppositely biased diodes connected in series.\n\nThe collector–emitter current can be viewed as being controlled by the base–emitter current (current control), or by the base–emitter voltage (voltage control). These views are related by the current–voltage relation of the base–emitter junction, which is the usual exponential current–voltage curve of a p–n junction (diode).\n\nThe physical explanation for collector current is the concentration of minority carriers in the base region. Due to low-level injection (in which there are much fewer excess carriers than normal majority carriers) the ambipolar transport rates (in which the excess majority and minority carriers flow at the same rate) is in effect determined by the excess minority carriers.\n\nDetailed transistor models of transistor action, such as the Gummel–Poon model, account for the distribution of this charge explicitly to explain transistor behaviour more exactly. The charge-control view easily handles phototransistors, where minority carriers in the base region are created by the absorption of photons, and handles the dynamics of turn-off, or recovery time, which depends on charge in the base region recombining. However, because base charge is not a signal that is visible at the terminals, the current- and voltage-control views are generally used in circuit design and analysis.",
+    "article_id": "827733959",
+    "article_title": "Bipolar junction transistor",
+    "chunk_index": 1,
+    "total_chunks": 13
+  },
+  "chunk_b": {
+    "id": "814137459#chunk_2",
+    "text_snippet": "Title: Night vision\nSection(s): Image intensification, Active illumination, Thermal vision\n\nThe image is said to become \"intensified\" because the output visible light is brighter than the incoming light, and this effect directly relates to the difference in passive and active night vision goggles. Currently, the most popular image intensifier is the drop-in ANVIS module, though many other models and sizes are available at the market. Recently, the US Navy announced intentions to procure a dual-color variant of the ANVIS for use in the cockpit of airborne platforms.\n\nthumb|The German 1945 pattern active infrared Zielgerät ZG 1229 Vampir displayed by a British soldier\n\nActive illumination couples imaging intensification technology with an active source of illumination in the near infrared (NIR) or shortwave infrared (SWIR) band. Examples of such technologies include low light cameras.\n\nActive infrared night-vision  combines infrared illumination of spectral range 700–1,000 nm (just below the visible spectrum of the human eye) with CCD cameras sensitive to this light. The resulting scene, which is apparently dark to a human observer, appears as a monochrome image on a normal display device. Because active infrared night-vision  systems can incorporate illuminators that produce high levels of infrared light, the resulting images are typically higher resolution than other night-vision  technologies.  Active infrared night vision is now commonly found in commercial, residential and government security applications, where it enables effective night time imaging under low-light conditions. However, since active infrared light can be detected by night-vision goggles, there can be a risk of giving away position in tactical military operations.\n\nLaser range gated imaging is another form of active night vision which utilizes a high powered pulsed light source for illumination and imaging. Range gating is a technique which controls the laser pulses in conjunction with the shutter speed of the camera's detectors. Gated imaging technology can be divided into single shot, where the detector captures the image from a single light pulse, and multi-shot, where the detector integrates the light pulses from multiple shots to form an image. One of the key advantages of this technique is the ability to perform target recognition rather than mere detection, as is the case with thermal imaging.\n\nThermal imaging detects the temperature difference between the background and the foreground objects. Some organisms are able to sense a crude thermal image by means of special organs that function as bolometers. This allows thermal infrared sensing in snakes, which functions by detection of thermal radiation.",
+    "article_id": "814137459",
+    "article_title": "Night vision",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  "t_bridge": [
+    "Phototransistors",
+    "Charge-control model of transistors",
+    "Detection of light for imaging"
+  ],
+  "initial_question": {
+    "rag_input": "What specific devices detect light in the charge-control model versus active infrared night-vision?",
+    "question": "What specific devices detect light in the charge-control model versus active infrared night-vision?",
+    "answer": "In the charge-control model, light is detected by phototransistors, which absorb photons to create minority carriers in the base region. In contrast, active infrared night-vision utilizes CCD cameras that are sensitive to infrared illumination in the 700–1,000 nm spectral range.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Detection of light for imaging"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

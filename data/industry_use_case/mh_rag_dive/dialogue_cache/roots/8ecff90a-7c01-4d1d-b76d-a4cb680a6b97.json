@@ -1,0 +1,38 @@
+{
+  "root_id": "8ecff90a-7c01-4d1d-b76d-a4cb680a6b97",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_13",
+    "text_snippet": "Kapitelüberschrift: Systembenachrichtigungen\nInhalt: 16\nBenutzerprofil\nMit Klick auf Ihren Benutzernamen navigieren Sie direkt zu Ihrem Benutzereinstellungen.\nVon dort kommen Sie mit Klick auf „Benutzerprofil bearbeiten“ (1) in Ihr k5|Next_Identity, wo Ihre spezifischen Benutzereinstellungen \nabgelegt sind und eingerichtet bzw. geändert werden können. Die Links „Passwort ändern“ und „2FA verwalten“ können auch direkt geklickt \nwerden (1), Sie gelangen aber auch über Ihr Benutzerprofil zu diesen Einstellungen. Weiters können Sie ein Profilbild hochladen (2).\nMit Klick auf das Bleistift-Symbol unter „Persönliche Einstellungen“ (3) können Sie für Ihre k5|Next Umgebung eines der vorhanden \nFarbschemas wählen (Petrol, Orange, Cyan, Green) (4). Sind Sie für mehr als einen Mandanten berechtigt (das ist im Zuge von \nVerwaltungsgemeinschaften möglich), können Sie Ihren Start-Mandanten wählen (5). Sie sind dann nach Anmeldung in k5|Next für diesen \nMandanten aktiv. Voraussetzung dafür, für eine weitere Gemeinde berechtigt zu werden, ist, dass Sie den Parameter „für Administrierende \nsichtbar“ auf „ja“ gesetzt haben (6). (Das ist optional und per Standard auf „nein“, da in der Regel nicht notwendig.) Ein Feature für die \noptische Darstellung ist der Darkmode, der nach eigenen Belieben gesetzt werden kann (7).",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 13,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_26",
+    "text_snippet": "Kapitelüberschrift: Benutzeraktivierung\nInhalt: 45\n \n\n46\nBenutzerprofil\nBenutzerkonto: hier können Name und Titel der Person geändert werden. Weiters kann ein Profilbild erfasst und eine Mobilfunknummer \neingetragen werden. Die E-Mail-Adresse kann hier nicht geändert werden, da diese Adresse gleichzeitig die eindeutige Identifikation des \nBenutzers ist. Sollte es dennoch notwendig sein, die E-Mail-Adresse zu ändern (da sie sich geändert hat), hat der Kunden-Administrator in \nder Administrationsumgebung die Möglichkeit, das zu tun.\nPasswort: hier kann ein neues Passwort vergeben werden.\nZwei-Faktor-Authentifizierung: hier stehen unterschiedliche Authentifizierungsmethoden zur Verfügung, weitere Informationen dazu finden \nSie hier.\nMeine Anmeldungen: hier finden Sie eine Übersicht Ihrer aktuellen k5|Next Sitzungen und können diese an dieser Stelle auch beenden.\nZugangsdaten für andere Anwendungen: hier wird die Benutzerkennung Ihres Portals eingetragen, damit Rechte für z.B. Registerzugriffe \nin k5|Next abgefragt werden können. Weitere Informationen dazu finden Sie hier.\nID Austria: Verfügen Sie über eine ID-Austria, könne sie diese hier einrichten. Dies gilt als eigene 2FA Variante, kann aber auch zusätzlich \nzu einer bestehenden 2FA Variante registriert werden. Informationen dazu finden Sie hier.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 26,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Benutzerprofil",
+    "Zwei-Faktor-Authentifizierung (2FA)",
+    "k5|Next Identitätseinstellungen"
+  ],
+  "initial_question": {
+    "rag_input": "Wie navigiere ich zu den Settings für meine ID Austria?",
+    "question": "Wie navigiere ich zu den Settings für meine ID Austria?",
+    "answer": "Da die ID Austria als eigene Variante der Zwei-Faktor-Authentifizierung (2FA) gilt, navigieren Sie zur Einrichtung, indem Sie auf Ihren Benutzernamen klicken und „Benutzerprofil bearbeiten“ wählen, um in Ihr k5|Next_Identity zu gelangen. Alternativ können Sie direkt den Link „2FA verwalten“ anklicken.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Zwei-Faktor-Authentifizierung (2FA) Navigation im Benutzerprofil"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

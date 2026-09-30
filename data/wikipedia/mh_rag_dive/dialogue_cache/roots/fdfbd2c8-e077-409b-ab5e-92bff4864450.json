@@ -1,0 +1,38 @@
+{
+  "root_id": "fdfbd2c8-e077-409b-ab5e-92bff4864450",
+  "chunk_a": {
+    "id": "799093575#chunk_6",
+    "text_snippet": "Title: Movable type\nSection(s): Metal movable type in Europe, Type-founding\n\nBefore Gutenberg, books were copied out by hand on scrolls and paper, or printed from hand-carved wooden blocks. It was extremely time-consuming; even a small book could take months to complete, and because the carved letters or blocks were flimsy and the wood susceptible to ink the blocks had a limited lifespan.\n\nGutenberg and his associates developed oil-based inks ideally suited to printing with a press on paper, and the first Latin typefaces. His method of casting type may have been different from the hand mould used in subsequent decades. Detailed analysis of the type used in his 42-line Bible has revealed irregularities in some of the characters that cannot be attributed to ink spread or type wear under the pressure of the press. Scholars conjecture that the type pieces may have been cast from a series of matrices made with a series of individual stroke punches, producing many different versions of the same glyph.thumb|Editing with movable metal – cca. 1920\n It has also been suggested that the method used by Gutenberg involved using a single punch to make a mould, but the mould was such that the process of taking the type out disturbed the casting, creating variants and anomalies, and that the punch-matrix system came into use possibly around the 1470s.\nThis raises the possibility that the development of movable type in the West may have been progressive rather than a single innovation.\n\nGutenberg's movable-type printing system spread rapidly across Europe, from the single Mainz printing press in 1457 to 110 presses by 1480, of which 50 were in Italy. Venice quickly became the center of typographic and printing activity. Significant were the contributions of Nicolas Jenson, Francesco Griffo, Aldus Manutius, and other printers of late 15th-century Europe.\n\nthumb|upright|A piece of cast metal type, Garamond style long s i ligature. See also: Sort.\n\nType-founding as practiced in Europe and the west consists of three stages.",
+    "article_id": "799093575",
+    "article_title": "Movable type",
+    "chunk_index": 6,
+    "total_chunks": 9
+  },
+  "chunk_b": {
+    "id": "827099630#chunk_2",
+    "text_snippet": "Title: Arabic numerals\nSection(s): Adoption in Europe\n\nFrom the 980s, Gerbert of Aurillac (later, Pope Sylvester II) used his position to spread knowledge of the numerals in Europe. Gerbert studied in Barcelona in his youth. He was known to have requested mathematical treatises concerning the astrolabe from Lupitus of Barcelona after he had returned to France.\n\nLeonardo Fibonacci (Leonardo of Pisa), a mathematician born in the Republic of Pisa who had studied in Béjaïa (Bougie), Algeria, promoted the Indian numeral system in Europe with his 1202 book Liber Abaci:\n\nWhen my father, who had been appointed by his country as public notary in the customs at Bugia acting for the Pisan merchants going there, was in charge, he summoned me to him while I was still a child, and having an eye to usefulness and future convenience, desired me to stay there and receive instruction in the school of accounting. There, when I had been introduced to the art of the Indians' nine symbols through remarkable teaching, knowledge of the art very soon pleased me above all else and I came to understand it.\n\nThe numerals are arranged with their lowest value digit to the right, with higher value positions added to the left. This arrangement was adopted identically into the numerals as used in Europe. Languages written in the Latin alphabet run from left-to-right, unlike languages written in the Arabic alphabet. Hence, from the point of view of the reader, numerals in Western texts are written with the highest power of the base first whereas numerals in Arabic texts are written with the lowest power of the base first.\n\nThe reason the digits are more commonly known as \"Arabic numerals\" in Europe and the Americas is that they were introduced to Europe in the 10th century by Arabic-speakers of North Africa, who were then using the digits from Libya to Morocco. Arabs, on the other hand, call the system \"Hindu numerals\", referring to their origin in India. This is not to be confused with what the Arabs call the \"Hindi numerals\", namely the Eastern Arabic numerals ( -  -  -  - -  -  -  -  - ) used in the Middle East, or any of the numerals currently used in Indian languages (e.g. Devanagari: ).\n\nThe European acceptance of the numerals was accelerated by the invention of the printing press, and they became widely known during the 15th century. Early evidence of their use in Britain includes: an equal hour horary quadrant from 1396, in England, a 1445 inscription on the tower of Heathfield Church, Sussex; a 1448 inscription on a wooden lych-gate of Bray Church, Berkshire; and a 1487 inscription on the belfry door at Piddletrenthide church, Dorset; and in Scotland a 1470 inscription on the tomb of the first Earl of Huntly in Elgin Cathedral. (See G.F. Hill, The Development of Arabic Numerals in Europe for more examples.) In central Europe, the King of Hungary Ladislaus the Posthumous, started the use of Arabic numerals, which appear for the first time in a royal document of 1456. By the mid-16th century, they were in common use in most of Europe.  Roman numerals remained in use mostly for the notation of Anno Domini years, and for numbers on clockfaces.\n\nToday, Roman numerals are still used for enumeration of lists (as an alternative to alphabetical enumeration), for sequential volumes, to differentiate monarchs or family members with the same first names, and (in lower case) to number pages in prefatory material in books.",
+    "article_id": "827099630",
+    "article_title": "Arabic numerals",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  "t_bridge": [
+    "Printing press",
+    "15th-century Europe",
+    "Diffusion of information technology"
+  ],
+  "initial_question": {
+    "rag_input": "By 1480, how widespread was the invention that accelerated the European acceptance of Arabic numerals?",
+    "question": "By 1480, how widespread was the invention that accelerated the European acceptance of Arabic numerals?",
+    "answer": "The invention that accelerated the acceptance of Arabic numerals in Europe was the printing press. By 1480, Gutenberg's movable-type printing system had spread rapidly, totaling 110 presses across Europe (with 50 of those located in Italy).",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "The printing press and its proliferation in 15th-century Europe"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

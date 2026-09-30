@@ -1,0 +1,40 @@
+{
+  "root_id": "59e03276-c652-4137-859b-7e96432069ce",
+  "chunk_a": {
+    "id": "832887034#chunk_1",
+    "text_snippet": "Title: O Brother, Where Art Thou?\nSection(s): Plot\n\nNear a river, the group hears singing. They see three women washing clothes and singing. The women drug them with corn whiskey and they lose consciousness. Upon waking, Delmar finds Pete's clothes lying next to him, empty except for a toad. Delmar is convinced the women were Sirens and transformed Pete into the toad. Later, one-eyed Bible salesman Big Dan Teague invites them for a picnic lunch, then mugs them and kills the toad.\n\nEverett and Delmar arrive in Everett's home town. Everett confronts his wife Penny, who changed her last name and told his daughters he was dead. He gets into a fight with Vernon T. Waldrip, her new \"suitor.\" They later see Pete working on a chain gang. Later that night, they sneak into Pete's holding cell and free him. As it turns out, the women had dragged Pete away and turned him in to the authorities. Under torture, Pete gave away the treasure's location to the police. Everett then confesses that there is no treasure. He made it up to convince the guys he was chained with to escape with him in order to stop his wife from getting married. Pete is enraged at Everett, because he had two weeks left on his original sentence, and must serve fifty more years for the escape.\n\nThe trio stumble upon a rally of the  Ku Klux Klan, who are planning to hang Tommy. The trio disguise themselves as Klansmen and attempt to rescue Tommy. However, Big Dan, a Klan member, reveals their identities. Chaos ensues, and the Grand Wizard reveals himself as Homer Stokes, a candidate in the upcoming gubernatorial election. The trio rush Tommy away and cut the supports of a large burning cross, leaving it to fall on Big Dan.\n\nEverett convinces Pete, Delmar and Tommy to help him win his wife back. They sneak into a Stokes campaign gala dinner she is attending, disguised as musicians. The group begins a performance of their radio hit. The crowd recognizes the song and goes wild. Homer recognizes them as the group who humiliated his mob. When he demands the group be arrested and reveals his white supremacist views, the crowd runs him out of town on a rail. Pappy O'Daniel, the incumbent candidate, seizes the opportunity, endorses the Soggy Bottom Boys and grants them full pardons. Penny agrees to marry Everett with the condition that he find her original ring.\n\nThe next morning, the group sets out to retrieve the ring, which is at a cabin in the valley which Everett had earlier claimed was the location of his treasure. The police, having learned of the place from Pete, arrest the group. Dismissing their claims of having received pardons, Sheriff Cooley orders them hanged. Just as Everett prays to God, the valley is flooded and they are saved. Tommy finds the ring in a desk that floats by, and they return to town. However, when Everett presents the ring to Penny, it turns out it was not her ring, she doesn't want that one, and she can't remember where she put the real ring.",
+    "article_id": "832887034",
+    "article_title": "O Brother, Where Art Thou?",
+    "chunk_index": 1,
+    "total_chunks": 8
+  },
+  "chunk_b": {
+    "id": "812132823#chunk_2",
+    "text_snippet": "Title: O Brother, Where Art Thou?\nSection(s): Cast\n\nGeorge Clooney as Ulysses Everett McGill, a man who is imprisoned for practicing law without a license. He claims to have escaped from prison so he can find a stash of money he had hidden, though in reality it is so he can get back to his family before his wife remarries. He corresponds to Odysseus (Ulysses) in the Odyssey.\n John Turturro, as Pete Hogwallop, a fellow criminal who reveals little about his past. He believes in being true to one's kin, even when his cousin Washington B. Hogwallop betrays him. He dreams of moving out west and opening a fine restaurant, where he will be the maître d'. He agreed to go along with the breakout, though he only had two weeks left on his sentence.\n Tim Blake Nelson as Delmar O'Donnell, a small-time crook imprisoned for robbing a Piggly Wiggly in Yazoo City; he initially claims innocence but later admits he is guilty. Delmar says he will spend his share of Everett's nonexistent money buying back his family farm, believing, \"You ain't no kind of man if you ain't got land.\"\n Chris Thomas King as Tommy Johnson, a skilled blues musician. He is the accompanying guitarist in the Soggy Bottom Boys. He claims he sold his soul to the devil in exchange for his skill on the guitar. He shares his name and story with Tommy Johnson, a blues musician with a mysterious past, who is said to have sold his soul to the devil at the Crossroads (a story more often attributed to Robert Johnson). \n Frank Collison as Washington B. \"Wash\" Hogwallop, Pete's paternal cousin. He removes the escapees' chains but later betrays the men to the police.\n John Goodman as Daniel \"Big Dan\" Teague, a one-eyed man who masquerades as a Bible salesman and mugs Everett and Delmar. He later reveals the identity of the trio when they are disguised at a Ku Klux Klan rally, but they kill him by cutting loose a burning cross, which falls on him and the Klansmen. He corresponds to the cyclops Polyphemus in the Odyssey.\n Holly Hunter as Penny, Everett's ex-wife, who is fed up with Everett's wheeling and dealing. She divorces him while he is in prison, telling their children he was hit by a Louisville & Nashville train. She is engaged to Vernon T. Waldrip until Everett wins her back. She corresponds to Penelope in the Odyssey. (Penelope is an icon of the faithful wife, as she rejected her many suitors, stalling for time while awaiting Odysseus' return.)\n Charles Durning as Menelaus \"Pappy\" O'Daniel, the incumbent Governor of Mississippi. He is frequently seen berating his son and his campaign managers, who are depicted as simpletons. The character is based on Texas governor W. Lee \"Pappy\" O'Daniel. (Flensted-Jensen elaborates on the connection between the fictional and the real Pappy O'Daniel.) He corresponds to Menelaus in the Odyssey.\n Daniel von Bargen as Sheriff Cooley, a ruthless rural sheriff who, with his bloodhound, pursues the trio for the duration of the film. It is implied several times that he is the devil incarnate, and Cooley fits Tommy Johnson's description of Satan: Cooley's sunglasses evoke Satan's \"big empty eyes.\" He eventually ambushes the escapees after they have been pardoned by the governor. He intends to hang them nonetheless, but when the valley is flooded, he, his men, and his dog all drown. He corresponds to Poseidon in the Odyssey. He has been compared to Boss Godfrey in Cool Hand Luke.",
+    "article_id": "812132823",
+    "article_title": "O Brother, Where Art Thou?",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Big Dan Teague",
+    "Sheriff Cooley",
+    "Pete Hogwallop",
+    "Tommy Johnson",
+    "Plot-Cast character interactions"
+  ],
+  "initial_question": {
+    "rag_input": "Which actor plays the man who kills Delmar's toad?",
+    "question": "Which actor plays the man who kills Delmar's toad?",
+    "answer": "John Goodman plays Daniel 'Big Dan' Teague, which is the character who mugs the group and kills Delmar's toad.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Big Dan Teague"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

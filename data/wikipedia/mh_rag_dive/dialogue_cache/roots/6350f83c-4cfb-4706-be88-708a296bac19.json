@@ -1,0 +1,39 @@
+{
+  "root_id": "6350f83c-4cfb-4706-be88-708a296bac19",
+  "chunk_a": {
+    "id": "827099630#chunk_2",
+    "text_snippet": "Title: Arabic numerals\nSection(s): Adoption in Europe\n\nFrom the 980s, Gerbert of Aurillac (later, Pope Sylvester II) used his position to spread knowledge of the numerals in Europe. Gerbert studied in Barcelona in his youth. He was known to have requested mathematical treatises concerning the astrolabe from Lupitus of Barcelona after he had returned to France.\n\nLeonardo Fibonacci (Leonardo of Pisa), a mathematician born in the Republic of Pisa who had studied in Béjaïa (Bougie), Algeria, promoted the Indian numeral system in Europe with his 1202 book Liber Abaci:\n\nWhen my father, who had been appointed by his country as public notary in the customs at Bugia acting for the Pisan merchants going there, was in charge, he summoned me to him while I was still a child, and having an eye to usefulness and future convenience, desired me to stay there and receive instruction in the school of accounting. There, when I had been introduced to the art of the Indians' nine symbols through remarkable teaching, knowledge of the art very soon pleased me above all else and I came to understand it.\n\nThe numerals are arranged with their lowest value digit to the right, with higher value positions added to the left. This arrangement was adopted identically into the numerals as used in Europe. Languages written in the Latin alphabet run from left-to-right, unlike languages written in the Arabic alphabet. Hence, from the point of view of the reader, numerals in Western texts are written with the highest power of the base first whereas numerals in Arabic texts are written with the lowest power of the base first.\n\nThe reason the digits are more commonly known as \"Arabic numerals\" in Europe and the Americas is that they were introduced to Europe in the 10th century by Arabic-speakers of North Africa, who were then using the digits from Libya to Morocco. Arabs, on the other hand, call the system \"Hindu numerals\", referring to their origin in India. This is not to be confused with what the Arabs call the \"Hindi numerals\", namely the Eastern Arabic numerals ( -  -  -  - -  -  -  -  - ) used in the Middle East, or any of the numerals currently used in Indian languages (e.g. Devanagari: ).\n\nThe European acceptance of the numerals was accelerated by the invention of the printing press, and they became widely known during the 15th century. Early evidence of their use in Britain includes: an equal hour horary quadrant from 1396, in England, a 1445 inscription on the tower of Heathfield Church, Sussex; a 1448 inscription on a wooden lych-gate of Bray Church, Berkshire; and a 1487 inscription on the belfry door at Piddletrenthide church, Dorset; and in Scotland a 1470 inscription on the tomb of the first Earl of Huntly in Elgin Cathedral. (See G.F. Hill, The Development of Arabic Numerals in Europe for more examples.) In central Europe, the King of Hungary Ladislaus the Posthumous, started the use of Arabic numerals, which appear for the first time in a royal document of 1456. By the mid-16th century, they were in common use in most of Europe.  Roman numerals remained in use mostly for the notation of Anno Domini years, and for numbers on clockfaces.\n\nToday, Roman numerals are still used for enumeration of lists (as an alternative to alphabetical enumeration), for sequential volumes, to differentiate monarchs or family members with the same first names, and (in lower case) to number pages in prefatory material in books.",
+    "article_id": "827099630",
+    "article_title": "Arabic numerals",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  "chunk_b": {
+    "id": "842297443#chunk_6",
+    "text_snippet": "Title: Negative number\nSection(s): History\n\nBy the 12th century, al-Karaji's successors were to state the general rules of signs and use them to solve polynomial divisions. As al-Samaw'al writes:\nthe product of a negative number — al-nāqiṣ — by a positive number — al-zāʾid — is negative, and by a negative number is positive. If we subtract a negative number from a higher negative number, the remainder is their negative difference. The difference remains positive if we subtract a negative number from a lower negative number. If we subtract a negative number from a positive number, the remainder is their positive sum. If we subtract a positive number from an empty power (martaba khāliyya), the remainder is the same negative, and if we subtract a negative number from an empty power, the remainder is the same positive number.\n\nIn the 12th century in India, Bhāskara II gave negative roots for quadratic equations but rejected them because they were inappropriate in the context of the problem. He stated that a negative value is \"in this case not to be taken, for it is inadequate; people do not approve of negative roots.\"\n\nEuropean mathematicians, for the most part, resisted the concept of negative numbers until the 17th century, although Fibonacci allowed negative solutions in financial problems where they could be interpreted as debits (chapter 13 of Liber Abaci, AD 1202) and later as losses (in Flos).\n\nIn the 15th century, Nicolas Chuquet, a Frenchman, used negative numbers as exponents but referred to them as “absurd numbers.” In his 1544 Arithmetica Integra Michael Stifel also dealt with negative numbers, also calling them numeri absurdi.\n\nIn 1545, Gerolamo Cardano, in his Ars Magna, provided the first satisfactory treatment of negative numbers in Europe. He did not allow negative numbers in his consideration of cubic equations, so he had to treat, for example, x3 + ax = b separately from x3 = ax + b (with a,b > 0 in both cases). In all, Cardano was driven to the study of thirteen different types of cubic equations, each expressed purely in terms of positive numbers.\n\nIn A.D. 1759, Francis Maseres, an English mathematician, wrote that negative numbers \"darken the very whole doctrines of the equations and make dark of the things which are in their nature excessively obvious and simple\". He came to the conclusion that negative numbers were nonsensical.\n\nIn the 18th century it was common practice to ignore any negative results derived from equations, on the assumption that they were meaningless.\n\nGottfried Wilhelm Leibniz was the first mathematician to systematically employ negative numbers as part of a coherent mathematical system, the infinitesimal calculus. Calculus made negative numbers necessary and their dismissal as \"absurd numbers\" quickly faded.",
+    "article_id": "842297443",
+    "article_title": "Negative number",
+    "chunk_index": 6,
+    "total_chunks": 7
+  },
+  "t_bridge": [
+    "Leonardo Fibonacci",
+    "Liber Abaci",
+    "European mathematics in the 12th-13th centuries",
+    "Transmission of mathematical concepts from the Arab world to Europe"
+  ],
+  "initial_question": {
+    "rag_input": "Which numeral system was promoted in Europe by the mathematician who interpreted negative financial solutions as losses?",
+    "question": "Which numeral system was promoted in Europe by the mathematician who interpreted negative financial solutions as losses?",
+    "answer": "The Indian numeral system. Context B identifies the mathematician who interpreted negative financial solutions as losses as Fibonacci. Context A states that Leonardo Fibonacci promoted the Indian numeral system in Europe.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Leonardo Fibonacci"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

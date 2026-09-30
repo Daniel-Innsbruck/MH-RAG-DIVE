@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data and large files
+data/
+human_evaluation/
+logs/
+*.jsonl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Other projects
+rag_to_be_tested/

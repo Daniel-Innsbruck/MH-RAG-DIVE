@@ -1,0 +1,38 @@
+{
+  "root_id": "fdbf007c-897c-4879-85f1-7ed5721575ac",
+  "chunk_a": {
+    "id": "824602256#chunk_5",
+    "text_snippet": "Title: Theatre of ancient Greece\nSection(s): Other costume details\n\nthumb|Comedy and tragedy masks\n\nThe actors in these plays that had tragic roles wore boots called cothurni that elevated them above the other actors. The actors with comedic roles only wore a thin soled shoe called a sock. For this reason, dramatic art is sometimes alluded to as \"Sock and Buskin.\"\n\nMelpomene is the muse of tragedy and is often depicted holding the tragic mask and wearing cothurni. Thalia is the muse of comedy and is similarly associated with the mask of comedy and the comedic \"socks\".\n\nMale actors playing female roles would wear a wooden structure on their chests (posterneda) to imitate the look of breasts and another structure on their stomachs (progastreda) to make them appear softer and more lady like. They would also wear white body stockings under their costumes to make their skin appear fairer.\n\nMost costuming detail comes from pottery paintings from that time as costumes and masks were fabricated out of disposable material, so there are little to no remains of any costume from that time. The biggest source of information is the Pronomos Vase where actors are painted at a show's after party. \n\nCostuming would give off a sense of character, as in gender, age, social status, and class. For example, characters of higher class would be dressed in nicer clothing, although everyone was dressed fairly nicely. Contrary to popular belief, they did not dress in only rags and sandals, as they wanted to impress. Some examples of Greek theatre costuming include long robes called the chiton that reached the floor for actors playing gods, heroes, and old men. Actors playing Goddesses and women characters that held a lot of power wore purples and golds. Actors playing Queens and Princesses wore long cloaks that dragged on the ground and were decorated with gold stars and other jewels, and warriors were dressed in a variety of armor and wore helmets adorned with plumes. Costumes were supposed to be colourful and obvious to be easily seen by every seat in the audience.",
+    "article_id": "824602256",
+    "article_title": "Theatre of ancient Greece",
+    "chunk_index": 5,
+    "total_chunks": 6
+  },
+  "chunk_b": {
+    "id": "866449443#chunk_11",
+    "text_snippet": "Title: Wonder Woman\nSection(s): Personal armor\n\nWonder Woman's outfit has varied over time, although almost all of her outfit incarnations have retained some form of breastplate, tiara, bracelets, and her signature five-pointed star symbols. When Wonder Woman was first introduced, she wore a heavily patriotic skirt and red top which incorporated an American eagle and elements of the United States flag, reflecting the comic's origins during World War II. Later artists introduced what would become Wonder Woman's classic ensemble, adding an armored plate to her top whose design recalls a letter W and revealing blue short shorts, whose precise length varied from artist to artist. Other artists have experimented with different looks for Wonder Woman over the years, including an all-white mod jumpsuit, a biker outfit, a variation of her mainstream depiction featuring leather pants and a jacket, and a number of armoured battlesuits. Contemporary artists have attempted to emphasise Wonder Woman's traditional outfit as a red armored top with a blue gladiator skirt.\n\nGolden Age\nWonder Woman's outfit design was originally rooted in American symbolism and iconography, which included her signature star symbols, a golden eagle on her chest, crimson red bustier, white belt, and a dark blue star spangled skirt/culotte.\n\nShe also had a pair of red glowing magnetic earrings which allowed her to receive messages from Queen Desira of the planet Venus.\n\nPre-Crisis\nAt the time of her debut, Wonder Woman sported a red top with a golden eagle emblem, a white belt, blue star-spangled culottes, and red and golden go-go boots. She originally wore a skirt; however according to Elizabeth Martson, \"It was too hard to draw and would have been over her head most of the time.\" This outfit was entirely based on the American flag, because Wonder Woman was purely an American icon as she debuted during World War II. Later in 1942, Wonder Woman's outfit received a slight changethe culottes were converted entirely into skin-tight shorts and she wore sandals. While earlier most of her back was exposed, during the imposition of the Comics Code Authority in the mid-1950s, Wonder Woman's outfit was rectified to make her back substantially covered, in order to comply with the Authority's rule of minimum exposure. During Mike Sekowsky's run in the late 1960s, Diana surrendered her powers and started using her own skill to fight crime. She wore a series of jumpsuits as her attire, most popular of these was a white one.\n\nAfter Sekowsky's run ended in the early 1970s, Diana's roots were reverted to her old mythological ones and she wore a more modernized version of her original outfit, a predecessor to her \"bathing suit\" outfit. Later, in 1976, her glowing white belt was turned into a yellow one. For Series 3, artist Terry Dodson redrew her outfit as a strapless swimsuit.\n\nPost-Crisis\nAfter Crisis on Infinite Earths, George Pérez rebooted the character in 1987. She wore an outfit similar to her 1970s one, but now with a larger glowing golden belt. This outfit continued until William Messner-Loebs' run, which had Diana pass on the role of Wonder Woman to Artemis. No longer Wonder Woman, Diana sported a new black biker-girl outfit designed by artist Mike Deodato Jr. After John Byrne took over writing and art duties, he redesigned the Wonder Woman outfit (Diana was reinstated as Wonder Woman at the end of Loebs' run) and joined the emblem and belt together.",
+    "article_id": "866449443",
+    "article_title": "Wonder Woman",
+    "chunk_index": 11,
+    "total_chunks": 28
+  },
+  "t_bridge": [
+    "Costume design in theatre versus comic books",
+    "Functional and symbolic use of armor and accessories in character portrayal",
+    "Historical evolution of performance apparel"
+  ],
+  "initial_question": {
+    "rag_input": "How does the chest apparel of Wonder Woman's classic ensemble differ from actors playing women in ancient Greece?",
+    "question": "How does the chest apparel of Wonder Woman's classic ensemble differ from actors playing women in ancient Greece?",
+    "answer": "Wonder Woman's classic ensemble features an armored plate on her top designed to recall the letter W, whereas male actors playing female roles in ancient Greek theatre wore wooden structures on their chests called \"posterneda\" to imitate the look of breasts.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Functional and symbolic use of armor and accessories in character portrayal"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

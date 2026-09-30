@@ -1,0 +1,38 @@
+{
+  "root_id": "e28adf61-61bc-4c4c-b973-fc07b765196f",
+  "chunk_a": {
+    "id": "k5_Next_Wahltag Home#chunk_12",
+    "text_snippet": "Kapitelüberschrift: Parteienzuordnung\nInhalt: 15\nKandidatenzuordnung\nKandidaten werden für Bundes- und Landeswahlen von uns zentral eingespielt.\nBei der Nationalratswahl gibt 3 Wahlkreise:\nBund = 0\nLand = 4 \nRegionalwahlkreis = 4A, 4B, … - je nach Viertel",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 12,
+    "total_chunks": 35
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_7",
+    "text_snippet": "Kapitelüberschrift: Einstellungen\nInhalt: 14\nOrtschaft/Adresse bis Tür/Name, während bei einem Sprengel die Sortierung nach Namen erfolgt.[1]\n \nEinspruchstelle\nDie Einspruchstelle ist zu befüllen, wenn eine Hauskundmachung notwendig ist (Gemeinden über 10.000 Einwohner).\n \n \n\n15\n[1] § 23 (4) NRWO und § 11 (4) EuWO\n\n16\neWählerverzeichnis übernehmen\nIm Bereich ZeWaeR wird bestimmt, ob der Wahlbestand vom Softwareanbieter oder von der Gemeinde eingespielt werden soll. \nWurde der zentrale Import bestimmt, so startet die Gemeinde beim Punkt Wahlbestand erstellen.\nSind keine Klärungsfälle oder fehlende Sprengelzuordnungen vorhanden, können Sie den Wahlbestand erstellen.\nWie Sie den Wahlbestand bearbeiten erfahren Sie hier.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 7,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "Datenimport für Wahlprozesse",
+    "Wählerverzeichnis-Verwaltung",
+    "Technische Konfiguration von Wahlvorgängen"
+  ],
+  "initial_question": {
+    "rag_input": "Welche zwei Arten von Daten können zentral eingespielt werden?",
+    "question": "Welche zwei Arten von Daten können zentral eingespielt werden?",
+    "answer": "Es können erstens die Kandidaten für Bundes- und Landeswahlen zentral eingespielt werden, und zweitens der Wahlbestand (eWählerverzeichnis), sofern im Bereich ZeWaeR der zentrale Import durch den Softwareanbieter bestimmt wurde.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Datenimport für Wahlprozesse"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

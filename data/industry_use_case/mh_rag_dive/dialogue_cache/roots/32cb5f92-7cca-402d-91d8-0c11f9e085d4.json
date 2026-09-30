@@ -1,0 +1,37 @@
+{
+  "root_id": "32cb5f92-7cca-402d-91d8-0c11f9e085d4",
+  "chunk_a": {
+    "id": "k5_Next_Wahltag Home#chunk_4",
+    "text_snippet": "Kapitelüberschrift: Wahl\nInhalt: 7\nMonitoring\nIm Reiter „Monitoring“ sehen Sie, wie viele Wahlberechtigte im Wahlbestand vorhanden sind bzw. wie viele Wahlkarten bereits ausgestellt \nwurden. \nWeiters werden die Stimmen pro Parteien und die Vorzugsstimmen weitergeleitet. Es besteht die Möglichkeit das Wahlergebnis an Ihre \nGem2Go-Homepage zu senden. \nMit „Anzahl übermitteln“ spielen Sie folgende Daten ans Land OÖ, wobei hier die Reihenfolge eingehalten werden muss.\n \nDie Übermittlungen sind nur 1 x innerhalb von 20 Sekunden erlaubt!\nErhalten Sie diese Information, warten Sie bitte 20 Sekunden vor einer weiteren Übermittlung.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 4,
+    "total_chunks": 35
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_3",
+    "text_snippet": "Kapitelüberschrift: Programmfunktionen\nInhalt: 7\nWahl\nKlickt man direkt auf den Menüeintrag “Wahl” so erscheint das konfigurierte Dashboard und darunter die aktiven Wahlen. Klickt man auf \neine aktive Wahl, so erscheinen die Karteireiter\nJe nach Wahl können einzelne Karteireiter sichtbar oder ausgeblendet sein.\n \nWahldetail\nDie Bezeichnung der Wahl sowie der Typ werden vom Provider angelegt. Der Bereich “Zentrale Services” wird ebenfalls vom Provider \neingetragen und sind für die Gemeinde nur einsehbar. Der Bereich “Wählerverzeichnis” muss für die Wahl befüllt werden.\nWurden bereits im Bereich “Einstellungen” Einträge durchgeführt, so werden diese unter “Wählerverzeichnis” übernommen und können für \ndie Wahl angepasst werden. \nWahlvorbereitung\nIn diesem Register wird ein Workflow schrittweise durchlaufen. Schritte mit einem grünen Häkchen sind bereits abgeschlossen. Ein rotes \nKreuz bedeutet, dass weitere Arbeitsschritte erforderlich sind. Ein Pfeil nach rechts zeigt den nächsten Schritt an. \nFolgende Schritte gibt es:\neWählerverzeichnis übernehmen\nWahlbestand erstellen\nWahlbestand freigeben\nKontakt- und Wahllokaldetails kontrollieren\nFreigabe für den zentralen Druck für Meine Wahlinfo\nSortierung WVZ:\nEs gilt die eingestellte Sortierung des Wählerverzeichnisses für diese \nWahl.\nVerkürzte Auflagefrist:\nFür Gemeinden die eine Hauskundmachung drucken müssen gilt die \nverkürzte Auflagefrist.\nEinschreibnummer:\nFür eingeschriebene Briefsendungen gibt es Einschreibnummern. Diese \nwerden auf das Etikett und die Postaufgabenliste gedruckt. Die Nummern \nerhalten Sie zugesandt. Geben Sie bitte die erste und letzte Nummern \nIhrer Rollen, in das dafür vorgesehene Feld ein. \nSollten Sie weitere Rollen benötigen, melden Sie sich bitte unter Angabe \nder genauen Lieferadresse und der Anzahl der Rollen (je 100 Stück pro \nRolle) bei pstm.support@post.at.\nWahlkarten Unterschrift:\nDieser Wert gilt als Vorschlag für den Druck einer Wahlkarte.\nAmtssignatur verwenden:\nDieses Feld ist nur sichtbar, wenn unter Mandant eine Amtssignatur \nhinterlegt wurde. Die Amtssignatur wird bei gesetzter Checkbox auf die \nWahlkarte gedruckt.\nSprengelgruppe:\nEs gilt die Einteilung der Sprengel laut ausgewählter Sprengelgruppe für \ndiese Wahl.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 3,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "Wahlprozess",
+    "Wahlvorbereitung und Ergebnisübermittlung"
+  ],
+  "initial_question": {
+    "rag_input": "In welchem Reiter sehe ich die Anzahl der Personen für den Bestand, der im Workflow direkt nach der Übernahme des eWählerverzeichnisses erstellt wird?",
+    "question": "In welchem Reiter sehe ich die Anzahl der Personen für den Bestand, der im Workflow direkt nach der Übernahme des eWählerverzeichnisses erstellt wird?",
+    "answer": "Nach der Übernahme des eWählerverzeichnisses wird im Workflow der 'Wahlbestand' erstellt. Die Anzahl der darin enthaltenen Wahlberechtigten können Sie im Reiter 'Monitoring' einsehen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Verknüpfung der Workflow-Schritte aus der Wahlvorbereitung mit der Anzeige der Bestandsdaten im Monitoring-Dashboard."
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

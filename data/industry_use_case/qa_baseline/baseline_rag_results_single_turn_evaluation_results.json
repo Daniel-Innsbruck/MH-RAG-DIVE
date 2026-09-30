@@ -1,0 +1,366 @@
+{
+    "file_path": "/home/qe/git_projects/mh_rag_dive_evaluierungspipeline/industry_use_case/qa_baseline/baseline_rag_results.jsonl",
+    "evaluation_config": {
+        "llm_as_a_judge": "gpt-5-nano",
+        "embedding_model": "text-embedding-3-small"
+    },
+    "overall_evaluation": {
+        "average_scores": {
+            "correctness_aspect_critic": 0.8775510204081632,
+            "faithfulness_aspect_critic": 0.7107525653583024,
+            "context_precision_critic": 0.9469671201515601,
+            "context_recall_critic": 0.729497260109505
+        },
+        "token_usage": {
+            "total_tokens": 1737761,
+            "prompt_tokens": 714128,
+            "completion_tokens": 1023633,
+            "total_cost_usd": 0.0
+        },
+        "detailed_results": [
+            {
+                "content": "PIN in 2FA-App hinzufügen\nHallo, wo genau finde ich in k5|Next Identity den Button „Biometrisches Merkmal / PIN hinzufügen“? Bin gerade unsicher im Ablauf. Danke & LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "Vorläufiges Wahlergebnis – Korrektur nach Übermittlung\nNach vollständiger Stimmenerfassung und erfolgter Freigabe bereits vorläufiges Wahlergebnis gesendet. Müssen bei nachträglicher Korrektur der Stimmen zwingend alle betroffenen Sprengel-Freigaben aufgehoben und neu gesetzt werden, oder reicht Änderung im Einzelfall? Gibt es Protokoll, das alle Re-Übermittlungen inkl. Benutzer dokumentiert? Schnittstelle: Stimmenerfassung/Übermittlung.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Sprengel-Codes Matching & Sprengelgruppen-Zuweisung\\ Problem bei Übernahme Sprengeldaten ins ZeWaT: Welche Schritte stellen sicher, dass Sprengel-Codes aus k5|Next_Wahl mit denen im ZeWaT 100% übereinstimmen? Wo prüfe oder konfiguriere ich vor Export/Download die Zuweisung der Sprengelgruppen zu konkreten Wahlarten im System?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Nachträglicher Meldeadress-Abgleich – Zustelladress-Logik\nBei nicht täglichem ZMR-Abgleich wurden mehrere Meldeadressänderungen seit Stichtag erst jetzt gemeldet. Bei (erst jetzt gestarteter) Aktivierung der Checkbox 'Meldeadresse', wird dann jeweils die letzte Wohnsitz-Adresse zur Zustelladresse gesetzt, sofern noch keine vorhanden? Besteht Risiko, dass frühere Umzüge oder bereits eingetragene Zustelladressen überschrieben werden? Bitte um Ablauf-Logik für Nachzüglerfälle.",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.631578947368421,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.2
+            },
+            {
+                "content": "Kontakt bearbeiten\nHallo, wie bearbeite ich in k5|Next einen bestehenden Kontakt? Einen Bearbeiten-Button sehe ich nicht direkt. LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Eingabefeld für Etikettenvorlauf finden\nHallo, wo genau finde ich das Eingabefeld, um den Etikettenvorlauf beim Etikettendruck einzutragen? Ich sehe nicht, wo ich die Zahl eingeben und auf „Aktualisieren“ klicken kann. Vielen Dank!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 0.7
+            },
+            {
+                "content": "Unternehmen manuell anlegen – Button finden\nHallo, könnten Sie mir bitte sagen, wo genau ich in K5 den Button „Unternehmen manuell anlegen“ finde? Ich sehe nur die URV-Suche. Vielen Dank für eine kurze Anleitung.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8125,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "Adressierung nach Postleitzahl einstellen\nHallo, wo genau kann ich in K5 einstellen, wie unsere Adresse nach der Postleitzahl dargestellt wird? Ich finde den Button für die verschiedenen Möglichkeiten (Gemeindename, Ortsname, etc.) leider nicht. Danke!",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.8461538461538461
+            },
+            {
+                "content": "Manuelle Adresszuordnung nicht gefunden\nHallo, wo finde ich in K5 genau die Funktion für die 'manuelle Zuordnung' von Gebäudeadressen ohne Sprengel? Sehe oben zwar den Hinweis auf fehlende Zuordnungen, aber finde den Button für die Bearbeitung nicht. Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.76,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.9230769230769231
+            },
+            {
+                "content": "Gemeindewahlergebnis als PDF oder Excel erstellen\nHallo, könnten Sie mir bitte sagen, wo genau ich das Gemeindewahlergebnis als PDF oder Excel exportieren kann? Finde nur den Bereich Stimmenerfassung, aber nicht den entsprechenden Button oder Menüeintrag für den Report. Vielen Dank!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8666666666666667,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8888888888888888
+            },
+            {
+                "content": "Kontakt- und Wahllokaldetails bearbeiten\nHallo, wo genau finde ich denn im Workflow den Link, um die Kontakt- und Wahllokaldetails zu kontrollieren und ggf. zu bearbeiten? Bin mir unsicher, an welcher Stelle ich klicken muss. Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7333333333333333,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.7777777777777778
+            },
+            {
+                "content": "Ergebnislisten nach Wahlsprengel exportieren\nHallo, wie genau erstelle und exportiere ich das Gemeindewahlergebnis nach Sprengel als PDF und Excel? Finde die Option nicht direkt. LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6470588235294118,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8181818181818182
+            },
+            {
+                "content": "Natürliche Person anlegen – Wo genau finde ich das?\nHallo, ich möchte im Modul Kontakte eine Person aus dem ZMR anlegen. Könnten Sie mir bitte sagen, wo ich den Button 'Natürliche Person anlegen' finde und worauf ich beim Anlegen achten muss? Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8125,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wahlzeugen und Hilfspersonal eintragen\nHallo, müssen Wahlzeugen, Hilfspersonal und Vertrauenspersonen einzeln pro Person und Funktion angelegt werden oder kann man die auf einmal zuweisen? Kurze Info bitte. LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4444444444444444,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.7777777777777778
+            },
+            {
+                "content": "Alias-Adressen bei neuer Useranlage\nHallo, kann ich für einen User mehrere Alias-E-Mail-Adressen anlegen, wenn alle aufs gleiche Postfach laufen? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8666666666666667,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Import Sprengel – Voraussetzung\nHallo, ab wann genau ist der Import von Sprengeln in K5 gesperrt? Reicht es wenn schon ein Eintrag der gleichen Sprengelart da ist? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "Windows Hello PIN auf neuem Gerät\\ Frage zur MFA: Nutzer möchte Windows Hello (PIN) nach Gerätewechsel neu hinterlegen. Ist laut Anleitung erneute Registrierung in 'Zwei-Faktor-Authentifizierung' notwendig, da Bindung gerätespezifisch? Zusätzliche Voraussetzung außer Aktivierung der Funktion auf neuem PC?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.9230769230769231
+            },
+            {
+                "content": "Doppelteintragung Wähler – Nummernvergabe nach Hinausreklamation\nFrage zur Ablauflogik: Person versehentlich bei zwei Gemeinden im selben Wahlsprengel aufgenommen, dann bei einer hinausreklamiert. Wird die ursprünglich zugewiesene laufende Nummer automatisch nachbesetzt oder bleibt an dieser Position eine Lücke mit Anmerkung „Person gestrichen“? Erneute Sortierung des Wahlbestands vor Freigabe erforderlich?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.7692307692307693
+            },
+            {
+                "content": "Grüne Niederschrift – Verfügbarkeit bei nur einem Sprengel\nSystem: Grüne Niederschrift erscheint laut Anleitung erst nach Sprengelauswahl. Bei nur einem Sprengel: Muss zwingend die Gemeindewahlbehörde gewählt werden, oder wird der Sprengel automatisch zugeordnet? Gibt es Unterschiede beim Druckverhalten/größere Unterschiede gegenüber Mehr-Sprengel-Verband?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5833333333333334,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "Manuelle Person ohne ZMR anlegen\nHallo, wie lege ich eine natürliche Person manuell an, wenn sie keinen Wohnsitz in Österreich hat? Und gibt es bei der Staatstyp-Auswahl etwas Besonderes zu beachten? Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "Voraussetzungen für Sprengelgruppe anlegen\nHallo, muss ich eine Sprengelgruppe unbedingt vor jedem neuen Sprengel anlegen, oder gibt’s eine Ausnahme? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Seitenumbruch-Option für Wählerverzeichnis\nHallo, wo genau finde ich beim Drucken des Wählerverzeichnisses die Checkbox für 'Seitenumbruch'? Ich bin mir nicht sicher, ob ich sie richtig aktiviere. Danke für eine kurze Info!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "ZMR-Abgleich Monitoring Widget hinzufügen\nHallo, könnten Sie mir bitte sagen, wo ich im Administrationsbereich genau das Plus-Symbol finde, um das ZMR-Abgleich Monitoring Widget hinzuzufügen? Sehe das Symbol auf meinem Dashboard gerade nicht. Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.5454545454545454
+            },
+            {
+                "content": "Ansprechperson und Wahllokal-Schließung eintragen\nHallo, unter welchem Menüpunkt oder Button kann ich am Wahltag genau die Ansprechperson inkl. Telefonnummer und Zeitpunkt der Schließung des letzten Wahllokals erfassen? Vielen Dank!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Zugang aktivieren in k5|Next\nHallo, könnten Sie mir bitte sagen, wie und wo ich meinen eigenen Zugang zu k5|Next aktivieren kann? Ich finde dazu keinen Button oder Einstellung. Vielen Dank!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.7272727272727273
+            },
+            {
+                "content": "Freigabe zentraler Druck nicht möglich\nHallo, hab in der K5-Wahlvorbereitung bei ‚Freigabe für zentralen Druck‘ ein rotes Kreuz, komme nicht weiter. Wie gehe ich vor? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6875,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.9230769230769231
+            },
+            {
+                "content": "Nummerierung & Anmerkung nach Streichung\\ Nach Streichung einer Person mittels 3-Punkte-Button bleibt die laufende Nummer samt Anmerkung ('Person gestrichen') im Wahlbestand erhalten. Was passiert mit der Nummer und Anmerkung, falls vor der Freigabe nochmals neu sortiert/der Wahlbestand neu erstellt wird? Wird die Reihenfolge und Anmerkung automatisch angepasst oder bleibt der Eintrag fix erhalten?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Wohnadresse einer Person zentral ändern\nHallo, können Sie mir bitte sagen, wo ich im System die Wohnadresse einer Person zentral ändern kann? Ich finde nicht, wo diese allgemeine Änderung für alle Module greift. Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.7142857142857143
+            },
+            {
+                "content": "Beteiligtenarten, KG löschen – Aktivierung\nHallo, ab wann kann ich beim BEV Daten löschen die Schaltfläche wirklich nutzen? Muss ich immer die KG-Bezeichnung manuell eingeben? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.875
+            },
+            {
+                "content": "Excel Export der Auszahlungsliste\\ Hallo, wo genau finde ich in der Auszahlungsliste die Funktion, um eine Excel-Liste der markierten Datensätze zu erstellen? Sehe auf den ersten Blick keinen entsprechenden Button. Danke!",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Voraussetzungen für IDR-Prüfung bei Wahlkartenanträgen\nHallo, was genau brauche ich, damit ich in K5 die Reisepassnummern bei 'Meine Wahlkarte' gegen das IDR prüfen kann? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.55,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.16666666666666666
+            },
+            {
+                "content": "Abgleich-Logik mehrerer Kontakte einer Kategorie\nK5|Next_Kontakt: Wie wird beim Hinzufügen mehrerer E-Mail-Adressen sichergestellt, dass nur der Standardkontakt mit allen angebundenen k5 Fachapplikationen abgeglichen wird? Kann der Status von Standard zu nicht-Standard manuell geändert werden oder erfolgt dies ausschließlich über die Reihenfolge/Eingabe? Bitte um Klarstellung der Schnittstellen und Kennzeichnung.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9375,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Übermittlung Wahldaten Monitoring\nHallo, wo sehe ich im Monitoring genau, ob ich alle Angaben zur richtigen Reihenfolge ans Land OÖ übermittelt habe? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8666666666666667,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8666666666666667
+            },
+            {
+                "content": "Beteiligtenarten deaktivieren oder Reihenfolge ändern\nHallo, wo genau kann ich in K5 Beteiligtenarten deaktivieren oder die Reihenfolge anpassen? Finde den Bereich und die Buttons dazu in den Einstellungen leider nicht. Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.6
+            },
+            {
+                "content": "Monitoring-Widget mehrfach nutzen\nHallo, wie lege ich mehrere Monitoring-Widgets mit verschiedenen Einstellungen ins K5-Dashboard? Finde dazu nichts. LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "Sprengelzuordnung Workflow bei Wahlbestand erstellen\nBeim Erstellen des Wahlbestands werden Adressen mit fehlender Sprengelzuordnung angezeigt. Ist vor dem Prüfen/Erstellen des Wahlbestands zwingend die manuelle Zuordnung jeder Adresse im Reiter „Fehlende Sprengelzuordnung“ erforderlich, oder reicht die Kontrolle auf Sprengelebenen? Ablauf und Voraussetzung für Verschwinden des Reiters bitte klarstellen.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.8333333333333334
+            },
+            {
+                "content": "Jagdpacht – Einfrierzeitpunkt Grundstücksdaten\nBei Neuanlage Jagdpachtberechnung: Werden beim Einfrieren Grundstücksdaten ausschließlich zum Erstellungszeitpunkt übernommen, oder gibt es nachträglich eine Möglichkeit zur Aktualisierung für bestehende Berechnung? Ist spätere Änderung von Eigentumsverhältnissen in K5 dann für diese Berechnung ausgeschlossen? Bitte um kurze Bestätigung der Logik.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Person als verstorben markieren - Wo finde ich die Funktion?\nHallo, könnten Sie mir bitte sagen, wo genau ich die Option 'Person korrigieren' finde, um eine Person als verstorben zu markieren? Muss ich dafür immer den 3-Punkte-Button benutzen? Danke für eine kurze Anleitung.",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.8
+            },
+            {
+                "content": "Mehrfache Personen-Korrektur in Behördenanlage\nBei mehrmaliger Korrektur (Bleistift > 3-Punkte-Button) einer Person im Parteien-Bereich während der Behördenbildung: Werden dabei jeweils erneut die aktuellen ZMR-Daten eingespielt/überschrieben? Gibt es dabei Besonderheiten hinsichtlich bereits migrierter oder manuell angepasster Einträge? Bitte um kurze Ablauf-Logik.",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Personensuche Funktion zuweisen\nHallo, reicht bei der Suche nach Personen in K5 für Funktionen wirklich nur Vor-/Nachname mit zwei Buchstaben, auch wenn der Name Umlaute oder Sonderzeichen hat? LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 0.8888888888888888
+            },
+            {
+                "content": "Person ohne ZMR manuell anlegen\nHallo, ich finde die Option nicht, um eine natürliche Person manuell anzulegen, wenn sie nicht im ZMR aufscheint. Wo genau finde ich den 'Anlegen'-Button, und gibt es etwas Spezielles bei den Pflichtfeldern oder der Staatsauswahl zu beachten? Danke!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7368421052631579,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.25
+            },
+            {
+                "content": "Person als verstorben markieren\nHallo, wie genau kann ich in K5 eine Person als verstorben markieren? Wo finde ich die entsprechende Option – ist das direkt über den 3-Punkte-Button bei der Person? Danke!",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wahlbestand-Sortierung nach Freigabe\nNach Klick auf 'Wahlbestand freigeben' ist laut Workflow keine erneute Sortierung des Wahlbestands mehr möglich. Gibt es eine technische Möglichkeit, die Freigabe rückgängig zu machen, um nachträglich 'Wahlbestand erneut erstellen' auszuführen, oder ist der Status final bis zum Abschluss des Wahlvorgangs? Schnittstellen oder Berechtigung für Rücknahme vorsehen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4444444444444444,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Vertrauensperson anlegen – Anleitung\nHallo, wie lege ich in K5 eine Vertrauensperson für die Wahl an? Ich bin mir unsicher, welchen Reiter und welche Schritte genau ich anklicken muss. Danke im Voraus!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7333333333333333,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.7777777777777778
+            },
+            {
+                "content": "Spalten in individueller Liste ergänzen\nHallo, wie füge ich in K5 vor dem Teilen noch zusätzliche Spalten ins Suchergebnis ein? Finde nur den Such- und Teilen-Button. LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Rollenanpassung nach Rechte-Änderung in Vorlage\nNach Anpassung einzelner Rechte in einer Rollenvorlage: Werden bestehende Kunden-Rollen für betroffene Mandanten automatisch aktualisiert oder besteht zwingend manueller Anpassungsbedarf durch Kunden-Admin? Gilt dies auch, wenn Rolle ursprünglich exakt nach Vorlage angelegt wurde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "baseURL für MapWidget eintragen\nHallo, ich finde das Feld nicht, wo ich die baseURL für das MapWidget eintragen soll. Können Sie mir bitte sagen, an welcher Stelle ich das genau mache? Danke und LG",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.625
+            },
+            {
+                "content": "Funktion besetzen – Wo finde ich das Plussymbol?\nHallo, ich bin neu im System. Wo genau finde ich bei der Zuweisung der Funktionen das erwähnte Plussymbol, um eine Person auszuwählen? Vielen Dank!",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "ZMR-Widget: Schwellenwert-Berechnung Statussymbole\nBitte um kurze Bestätigung der Logik: Wird das Statussymbol (grün/gelb/rot) am ZMR-Widget exakt am Tag 18 (gelb) bzw. Tag 28 (rot) umgeschaltet? Basisdatum immer letzter Abgleich im Widget?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.7777777777777778
+            }
+        ]
+    }
+}

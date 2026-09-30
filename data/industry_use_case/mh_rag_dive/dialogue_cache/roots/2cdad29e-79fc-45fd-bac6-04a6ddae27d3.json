@@ -1,0 +1,38 @@
+{
+  "root_id": "2cdad29e-79fc-45fd-bac6-04a6ddae27d3",
+  "chunk_a": {
+    "id": "k5_Next_Verfahren Home#chunk_24",
+    "text_snippet": "Kapitelüberschrift: Warenkorb\nInhalt: 35\nDesign",
+    "article_id": "k5_Next_Verfahren Home",
+    "article_title": "k5_Next_Verfahren Home",
+    "chunk_index": 24,
+    "total_chunks": 48
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_12",
+    "text_snippet": "Kapitelüberschrift: Wahlbestand bearbeiten\nInhalt: 24\nSpalten/Ansicht\nSpalten sortieren\nSpalten verschieben\nWeitere Spalten hinzufügen/entfernen\nSpalten sortieren\nAls Standard wird nach „SprNr/lfdNr“ aufsteigend sortiert. Die einzelnen Spalten können mit Klick auf die Überschrift auf- bzw. \nabsteigend sortiert werden. Aufgrund des Pfeilsymbols sehen Sie, nach welcher Spalte aktuell sortiert ist. Mit dem Mouse-Over-Effekt \nerscheint das Pfeilsymbol bei den anderen Spalten ebenso. Es kann immer nur nach einer Spalte sortiert werden.\n \nSpalten verschieben\nMittels Drag and Drop können Sie die Spaltenüberschrift an einen anderen Platz verschieben und dadurch die Reihung der Spalten \nändern, wenn gewünscht.\nNach dem Wechsel sehen Sie die Spaltenansicht so:\n \nWeitere Spalten hinzufügen/entfernen\nMit Hilfe des Einstellungsbuttons rechts bei den Spalten können Sie noch weitere Spalten auswählen und anzeigen lassen.\nSie erhalten eine Ansicht aller möglichen Spalten, die Sie nach Wunsch auswählen bzw. auch löschen können.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 12,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "Anpassung der Benutzeroberfläche",
+    "Tabellenkonfiguration im System",
+    "Personalisierung von Listenansichten"
+  ],
+  "initial_question": {
+    "rag_input": "Welcher Bereich hat die höhere Inhaltsnummer: das Design im Warenkorb oder die Spaltenansicht im Wahlbestand?",
+    "question": "Welcher Bereich hat die höhere Inhaltsnummer: das Design im Warenkorb oder die Spaltenansicht im Wahlbestand?",
+    "answer": "Das Design im Warenkorb hat mit der Nummer 35 die höhere Inhaltsnummer im Vergleich zur Spaltenansicht im Wahlbestand, welche die Nummer 24 hat.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Anpassung der Benutzeroberfläche"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

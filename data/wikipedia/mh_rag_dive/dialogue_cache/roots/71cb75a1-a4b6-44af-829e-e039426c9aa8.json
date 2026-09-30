@@ -1,0 +1,38 @@
+{
+  "root_id": "71cb75a1-a4b6-44af-829e-e039426c9aa8",
+  "chunk_a": {
+    "id": "827099630#chunk_0",
+    "text_snippet": "Title: Arabic numerals\nSection(s): Introduction, Origins\n\nthumb|300px|Arabic numerals sans-serif\n\nArabic numerals, also called Hindu–Arabic numerals, are the ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, based on the Hindu–Arabic numeral system, the most common system for the symbolic representation of numbers in the world today. In this numeral system, a sequence of digits such as \"975\" is read as a single number, using the position of the digit in the sequence to interpret its value. They are descended from the Hindu-Arabic numeral system developed by ancient Indian mathematicians around 500 CE.\n\nThe system was adopted by Arabic mathematicians in Baghdad and passed on to the Arabs farther west. There is some evidence to suggest that the numerals in their current form developed from Arabic letters in the Maghreb, the western region of the Arab world. The current form of the numerals developed in North Africa, distinct in form from the Indian and Eastern Arabic numerals. It was in the North African city of Bejaia that the Italian scholar Fibonacci first encountered the numerals; his work was crucial in making them known throughout Europe. The use of Arabic numerals spread around the world through European trade, books and colonialism.\n\nThe term Arabic numerals is ambiguous. It most commonly refers to the numerals widely used in Europe and the Americas; to avoid confusion, Unicode calls these European digits. Arabic numerals is also the European name for the entire family of related numerals of Arabic and Indian numerals. It may also be intended to mean the numerals used by Arabs, in which case it generally refers to the Eastern Arabic numerals. It would be more appropriate to refer to the Arabic numeral system, where the value of a digit in a number depends on its position.\n\nAlthough the phrase \"Arabic numeral\" is frequently capitalized, it is sometimes written in lower case: for instance, in its entry in the Oxford English Dictionary, which helps to distinguish it from \"Arabic numerals\" as the East Arabic numerals specific to the Arabs.\n\nThe decimal Hindu–Arabic numeral system was developed in India by around AD 700. The development was gradual, spanning several centuries, but the decisive step was probably provided by Brahmagupta's formulation of zero as a number in AD 628. The system was revolutionary by including zero in positional notation, thereby limiting the number of individual digits to ten. It is considered an important milestone in the development of mathematics. One may distinguish between this positional system, which is identical throughout the family, and the precise glyphs used to write the numerals, which varied regionally.\n\nThe glyphs most commonly used in conjunction with the Latin script since early modern times are 0 1 2 3 4 5 6 7 8 9.\nThe first universally accepted inscription containing the use of the 0 glyph in India is first recorded in the 9th century, in an inscription at Gwalior in Central India dated to 870. Numerous Indian documents on copper plates exist, with the same symbol for zero in them, dated back as far as the 6th century AD, but their dates are uncertain. Inscriptions in Indonesia and Cambodia dating to AD 683 have also been found.",
+    "article_id": "827099630",
+    "article_title": "Arabic numerals",
+    "chunk_index": 0,
+    "total_chunks": 4
+  },
+  "chunk_b": {
+    "id": "842297443#chunk_6",
+    "text_snippet": "Title: Negative number\nSection(s): History\n\nBy the 12th century, al-Karaji's successors were to state the general rules of signs and use them to solve polynomial divisions. As al-Samaw'al writes:\nthe product of a negative number — al-nāqiṣ — by a positive number — al-zāʾid — is negative, and by a negative number is positive. If we subtract a negative number from a higher negative number, the remainder is their negative difference. The difference remains positive if we subtract a negative number from a lower negative number. If we subtract a negative number from a positive number, the remainder is their positive sum. If we subtract a positive number from an empty power (martaba khāliyya), the remainder is the same negative, and if we subtract a negative number from an empty power, the remainder is the same positive number.\n\nIn the 12th century in India, Bhāskara II gave negative roots for quadratic equations but rejected them because they were inappropriate in the context of the problem. He stated that a negative value is \"in this case not to be taken, for it is inadequate; people do not approve of negative roots.\"\n\nEuropean mathematicians, for the most part, resisted the concept of negative numbers until the 17th century, although Fibonacci allowed negative solutions in financial problems where they could be interpreted as debits (chapter 13 of Liber Abaci, AD 1202) and later as losses (in Flos).\n\nIn the 15th century, Nicolas Chuquet, a Frenchman, used negative numbers as exponents but referred to them as “absurd numbers.” In his 1544 Arithmetica Integra Michael Stifel also dealt with negative numbers, also calling them numeri absurdi.\n\nIn 1545, Gerolamo Cardano, in his Ars Magna, provided the first satisfactory treatment of negative numbers in Europe. He did not allow negative numbers in his consideration of cubic equations, so he had to treat, for example, x3 + ax = b separately from x3 = ax + b (with a,b > 0 in both cases). In all, Cardano was driven to the study of thirteen different types of cubic equations, each expressed purely in terms of positive numbers.\n\nIn A.D. 1759, Francis Maseres, an English mathematician, wrote that negative numbers \"darken the very whole doctrines of the equations and make dark of the things which are in their nature excessively obvious and simple\". He came to the conclusion that negative numbers were nonsensical.\n\nIn the 18th century it was common practice to ignore any negative results derived from equations, on the assumption that they were meaningless.\n\nGottfried Wilhelm Leibniz was the first mathematician to systematically employ negative numbers as part of a coherent mathematical system, the infinitesimal calculus. Calculus made negative numbers necessary and their dismissal as \"absurd numbers\" quickly faded.",
+    "article_id": "842297443",
+    "article_title": "Negative number",
+    "chunk_index": 6,
+    "total_chunks": 7
+  },
+  "t_bridge": [
+    "Fibonacci",
+    "History of mathematical concepts in Europe",
+    "Transmission of mathematical systems from East to West"
+  ],
+  "initial_question": {
+    "rag_input": "In what city did the scholar who allowed negative financial solutions in AD 1202 first encounter Arabic numerals?",
+    "question": "In what city did the scholar who allowed negative financial solutions in AD 1202 first encounter Arabic numerals?",
+    "answer": "The scholar who allowed negative solutions in financial problems in AD 1202 is Fibonacci. According to the texts, he first encountered Arabic numerals in the North African city of Bejaia.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Fibonacci"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

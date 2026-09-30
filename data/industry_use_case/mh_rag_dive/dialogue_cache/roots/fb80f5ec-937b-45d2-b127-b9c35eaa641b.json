@@ -1,0 +1,37 @@
+{
+  "root_id": "fb80f5ec-937b-45d2-b127-b9c35eaa641b",
+  "chunk_a": {
+    "id": "k5_Next_Verfahren Home#chunk_21",
+    "text_snippet": "Kapitelüberschrift: Notizen\nInhalt: 31\nGrundbuch",
+    "article_id": "k5_Next_Verfahren Home",
+    "article_title": "k5_Next_Verfahren Home",
+    "chunk_index": 21,
+    "total_chunks": 48
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_33",
+    "text_snippet": "Kapitelüberschrift: Zustimmungsbereiche & Zustimmungserklärung\nInhalt: 41\nNotizen\nUm Ihren Kontakten zusätzliche Informationen anzuhängen, können Sie Notizen erstellen. Suchen Sie den gewünschten Kontakt über die \nSchnellsuche und navigieren Sie auf den Reiter „Notizen“. Klick auf \n (Notizen hinzufügen) öffnet die Eingabemaske.\nPer Freitexteingabe können dem Kontakt nun beliebige Informationen angehängt werden.\n \nAlle hier gespeicherten Einträge werden chronologisch nach dem Zeitpunkt ihrer Erstellung untereinander angezeigt, die aktuellste Notiz \nfindet sich ganz oben.\nNach Notizen kann auch gesucht werden, dafür wird die Detailsuche  verwendet.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 33,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Notizen-Funktion",
+    "Dokumentationsstruktur"
+  ],
+  "initial_question": {
+    "rag_input": "Wie unterscheiden sich die Notizen in den Kapiteln 'Notizen' und 'Zustimmungsbereiche & Zustimmungserklärung'?",
+    "question": "Wie unterscheiden sich die Notizen in den Kapiteln 'Notizen' und 'Zustimmungsbereiche & Zustimmungserklärung'?",
+    "answer": "Im Kapitel 'Notizen' (Inhalt 31) bezieht sich der Begriff auf das Grundbuch. Im Kapitel 'Zustimmungsbereiche & Zustimmungserklärung' (Inhalt 41) beschreiben die Notizen hingegen eine Funktion, um Kontakten per Freitexteingabe zusätzliche Informationen anzuhängen, die chronologisch gespeichert und über die Detailsuche durchsucht werden können.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Vergleich der Notizen-Funktion anhand der Dokumentationsstruktur"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

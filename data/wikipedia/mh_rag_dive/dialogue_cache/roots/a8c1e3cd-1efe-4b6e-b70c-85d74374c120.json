@@ -1,0 +1,38 @@
+{
+  "root_id": "a8c1e3cd-1efe-4b6e-b70c-85d74374c120",
+  "chunk_a": {
+    "id": "807029274#chunk_2",
+    "text_snippet": "Title: Cell membrane\nSection(s): Carbohydrates, Proteins\n\nPlasma membranes also contain carbohydrates, predominantly glycoproteins, but with some glycolipids (cerebrosides and gangliosides). For the most part, no glycosylation occurs on membranes within the cell; rather generally glycosylation occurs on the extracellular surface of the plasma membrane. The glycocalyx is an important feature in all cells, especially epithelia with microvilli. Recent data suggest the glycocalyx participates in cell adhesion, lymphocyte homing, and many others. The penultimate sugar is galactose and the terminal sugar is sialic acid, as the sugar backbone is modified in the Golgi apparatus. Sialic acid carries a negative charge, providing an external barrier to charged particles.\n\nType  Description  Examples Integral proteinsor transmembrane proteins  Span the membrane and have a hydrophilic cytosolic domain, which interacts with internal molecules, a hydrophobic membrane-spanning domain that anchors it within the cell membrane, and a hydrophilic extracellular domain that interacts with external molecules. The hydrophobic domain consists of one, multiple, or a combination of α-helices and β sheet protein motifs.  Ion channels, proton pumps, G protein-coupled receptorLipid anchored proteins  Covalently bound to single or multiple lipid molecules; hydrophobically insert into the cell membrane and anchor the protein. The protein itself is not in contact with the membrane.  G proteinsPeripheral proteins  Attached to integral membrane proteins, or associated with peripheral regions of the lipid bilayer. These proteins tend to have only temporary interactions with biological membranes, and once reacted, the molecule dissociates to carry on its work in the cytoplasm.  Some enzymes, some hormones\n\nThe cell membrane has large content of proteins, typically around 50% of membrane volume These proteins are important for cell because they are responsible for various biological activities. Approximately a third of the genes in yeast code specifically for them, and this number is even higher in multicellular organisms.\n\nThe cell membrane, being exposed to the outside environment, is an important site of cell–cell communication. As such, a large variety of protein receptors and identification proteins, such as antigens, are present on the surface of the membrane. Functions of membrane proteins can also include cell–cell contact, surface recognition, cytoskeleton contact, signaling, enzymatic activity, or transporting substances across the membrane.\n\nMost membrane proteins must be inserted in some way into the membrane. For this to occur, an N-terminus \"signal sequence\" of amino acids directs proteins to the endoplasmic reticulum, which inserts the proteins into a lipid bilayer. Once inserted, the proteins are then transported to their final destination in vesicles, where the vesicle fuses with the target membrane.",
+    "article_id": "807029274",
+    "article_title": "Cell membrane",
+    "chunk_index": 2,
+    "total_chunks": 7
+  },
+  "chunk_b": {
+    "id": "835411809#chunk_2",
+    "text_snippet": "Title: Endoplasmic reticulum\nSection(s): Rough endoplasmic reticulum, Smooth endoplasmic reticulum, Sarcoplasmic reticulum\n\nThe rough endoplasmic reticulum is key in multiple functions:\nManufacture of lysosomal enzymes with a mannose-6-phosphate marker added in the cis-Golgi network.\nManufacture of secreted proteins, either secreted constitutively with no tag or secreted in a regulatory manner involving clathrin and paired basic amino acids in the signal peptide.\nIntegral membrane proteins that stay embedded in the membrane as vesicles exit and bind to new membranes. Rab proteins are key in targeting the membrane; SNAP and SNARE proteins are key in the fusion event.\nInitial glycosylation as assembly continues. This is N-linked (O-linking occurs in the Golgi).\nN-linked glycosylation: If the protein is properly folded, Oligosaccharyltransferase recognizes the AA sequence NXS or NXT (with the S/T residue phosphorylated) and adds a 14-sugar backbone (2-N-acetylglucosamine, 9-branching mannose, and 3-glucose at the end) to the side-chain nitrogen of Asn.\n\nthumb|left|250px|Electromicrograph showing smooth ER (arrow) in mouse tissue, at 110,510 x magnification.\n\nIn most cells the smooth endoplasmic reticulum (abbreviated SER) is scarce. Instead there are areas where the ER is partly smooth and partly rough, this area is called the transitional ER. The transitional ER gets its name because it contains ER exit sites. These are areas where the transport vesicles that contain lipids and proteins made in the ER, detach from the ER and start moving to the Golgi apparatus. Specialized cells can have a lot of smooth endoplasmic reticulum and in these cells the smooth ER has many functions. It synthesizes lipids, phospholipids, and steroids. Cells which secrete these products, such as those in the testes, ovaries, and sebaceous glands have an abundance of smooth endoplasmic reticulum. It also carries out the metabolism of carbohydrates, detoxification of natural metabolism products and of alcohol and drugs, attachment of receptors on cell membrane proteins, and steroid metabolism. In muscle cells, it regulates calcium ion concentration. Smooth endoplasmic reticulum is found in a variety of cell types (both animal and plant), and it serves different functions in each. The smooth endoplasmic reticulum also contains the enzyme glucose-6-phosphatase, which converts glucose-6-phosphate to glucose, a step in gluconeogenesis. It is connected to the nuclear envelope and  consists of tubules that are located near the cell periphery. These tubes sometimes branch forming a network that is reticular in appearance. In some cells, there are dilated areas like the sacs of rough endoplasmic reticulum. The network of smooth endoplasmic reticulum allows for an increased surface area to be devoted to the action or storage of key enzymes and the products of these enzymes.\n\nthumb|left|250px|Skeletal muscle fiber, with sarcoplasmic reticulum colored in blue.",
+    "article_id": "835411809",
+    "article_title": "Endoplasmic reticulum",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  "t_bridge": [
+    "Protein synthesis and insertion",
+    "Glycosylation pathways",
+    "Membrane protein trafficking"
+  ],
+  "initial_question": {
+    "rag_input": "What specific domain anchors the membrane proteins that stay embedded in vesicles exiting the rough endoplasmic reticulum?",
+    "question": "What specific domain anchors the membrane proteins that stay embedded in vesicles exiting the rough endoplasmic reticulum?",
+    "answer": "They are anchored by a hydrophobic membrane-spanning domain. Context B notes that the rough endoplasmic reticulum manufactures integral membrane proteins that stay embedded in exiting vesicles, and Context A explains that integral proteins are anchored by a hydrophobic membrane-spanning domain.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Membrane protein trafficking"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

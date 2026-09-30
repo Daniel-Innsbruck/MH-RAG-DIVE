@@ -1,0 +1,38 @@
+{
+  "root_id": "12d448fc-0e6b-4abd-b241-db403fef6bbc",
+  "chunk_a": {
+    "id": "k5_Next_Wahltag Home#chunk_8",
+    "text_snippet": "Kapitelüberschrift: Vorläufiges Wahlergebnis übermitteln\nInhalt: 11\nEndgültiges Wahlergebnis übermitteln\nDieser Punkt ist erst aktiv, wenn das “vorläufige Wahlergebnis” bereits übermittelt wurde und die Vorzugsstimmen pro Partei und pro \nSprengel und Wahlkreis eingetragen und die Freigabe durchgeführt wurden.\nKontrollieren Sie den Status der Sprengel nochmals in der Übersicht:\n \nMit Klick auf die Wahl können Sie im “Monitoring“ auf “Anzahl übermitteln“.\nDie Daten werden direkt übermittelt. Sie sehen, wer und wann die Daten übermittelt hat.\nEine erneute Übermittlung ist nur möglich, wenn die Vorzugsstimmen Freigabe aufgehoben und erneut gesetzt wird.\n \nDurch die Übermittlung wird der Link „Wahlergebnis veröffentlichen“ im letzten Schritt aktiv.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 8,
+    "total_chunks": 35
+  },
+  "chunk_b": {
+    "id": "k5_next_Wahl#chunk_37",
+    "text_snippet": "Kapitelüberschrift: Übermittlungen\nInhalt: 77\n \n\n78\nWahlbestand freigeben\nNach Auflage kann die Freigabe (vor Berichtigungen und Reklamation) durchgeführt werden. Falls es nötig sein sollte, kann der \nWahlbestand vorher durch “Wahlbestand erneut erstellen” neu sortiert werden. \nNach der Freigabe ist eine erneute Sortierung nicht mehr möglich!\nWechseln Sie zur Timeline der Wahlvorbereitung. Hier können Sie den Wahlbestand freigeben.\nNachdem Sie auf „Wahlbestand freigeben“ geklickt haben, öffnet ein Fenster, indem Sie folgendem Hinweis erhalten:\nDurch Klick auf „Freigeben“, geben Sie den Wahlbestand endgültig frei. Dies ist auch im Workflow ersichtlich.\nNach der Freigabe des Wahlbestands können Wahlkarten, Etiketten und die Postaufgabeliste gedruckt werden.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 37,
+    "total_chunks": 58
+  },
+  "t_bridge": [
+    "Workflow der Wahlverwaltung",
+    "Voraussetzungen für die Datenfreigabe",
+    "Systemabhängigkeiten bei Wahlprozessen"
+  ],
+  "initial_question": {
+    "rag_input": "Wie unterscheiden sich die Freigaben von Wahlbestand und Vorzugsstimmen bei nachträglichen Anpassungen?",
+    "question": "Wie unterscheiden sich die Freigaben von Wahlbestand und Vorzugsstimmen bei nachträglichen Anpassungen?",
+    "answer": "Nach der Freigabe des Wahlbestands ist eine erneute Sortierung im System endgültig ausgeschlossen. Bei den Vorzugsstimmen hingegen kann die Freigabe nachträglich aufgehoben und neu gesetzt werden, falls eine erneute Übermittlung von Daten erforderlich ist.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Systemabhängigkeiten bei Wahlprozessen"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

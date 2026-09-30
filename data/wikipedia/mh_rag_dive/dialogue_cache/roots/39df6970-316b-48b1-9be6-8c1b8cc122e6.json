@@ -1,0 +1,37 @@
+{
+  "root_id": "39df6970-316b-48b1-9be6-8c1b8cc122e6",
+  "chunk_a": {
+    "id": "826032032#chunk_2",
+    "text_snippet": "Title: United States presidential line of succession\nSection(s): Motivation for changes to the succession in 1945, Constitutional provisions, Acting President and President\n\nSome of Truman's critics said that his ordering of the Speaker before the President pro tempore was motivated by his dislike of the then-current holder of the latter rank, Senator Kenneth McKellar. Further motivation may have been provided by Truman's preference for House Speaker Sam Rayburn to be next in the line of succession, rather than Secretary of State Edward R. Stettinius, Jr.\n\nThe line of succession is mentioned in three places in the Constitution: \n\nArticle II, Section 1, Clause 6 makes the Vice President first in the line of succession and allows the Congress to provide by law for cases in which neither the President nor Vice President can serve. The current such law governing succession is the Presidential Succession Act of 1947 ().\nSection 3 of the 20th Amendment provides that if the President-elect dies before his term begins, the Vice President-elect becomes President on Inauguration Day and serves for the full term to which the President-elect was elected. The section also provides that if, on Inauguration Day, a president has not been chosen or the President-elect does not qualify for the presidency, the Vice President-elect acts as president until a president is chosen or the President-elect qualifies. Finally, Section 3 allows the Congress to provide by law for cases in which neither a President-elect nor a Vice President-elect is eligible or available to serve.\nThe 25th Amendment, ratified in 1967, clarified Article II, Section 1: that the Vice President is the direct successor of the President. He or she becomes President if the President dies, resigns or is removed from office. The amendment also provides for the situation where the President is temporarily disabled, such as if the President has a surgical procedure or becomes mentally unfit.The amendment also provides for Vice Presidential succession, by requiring Vice Presidential vacancies to be filled by the President and confirmed by both houses of the Congress. Previously, whenever a Vice President had succeeded to the Presidency or had otherwise left the office empty (through death, resignation, or removal from office), the Vice Presidency remained vacant until the next Presidential and Vice Presidential terms began.\n\nthumb|275px|New President Lyndon Johnson was sworn in aboard Air Force One, following the assassination of John F. Kennedy in 1963.\n\nArticle II, Section 1 of the United States Constitution provides that:\n\nIn case of the removal of the President from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice President ... until the disability be removed, or a President elected.\n\nThis originally left open the question whether \"the same\" refers to \"the said office\" or only \"the powers and duties of the said office.\" Some historians, including Edward Corwin and John D. Feerick, have argued that the framers' intention was that the Vice President would remain Vice President while executing the powers and duties of the Presidency; however, there is also much evidence to the contrary, the most compelling of which is Article I, section 3, of the Constitution itself, the relevant text of which reads:",
+    "article_id": "826032032",
+    "article_title": "United States presidential line of succession",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  "chunk_b": {
+    "id": "855883720#chunk_7",
+    "text_snippet": "Title: Division of the assembly\nSection(s): United States\n\n(The Vice President of the United States is constitutionally designated as the President of the United States Senate, and the President pro tempore of the United States Senate presides over its sessions or appoints another senator to do so when the Vice President does not preside. Ordinarily, neither the Vice President nor the president pro tempore preside, but instead the president pro tempore appoints a junior Senator of the majority party to preside).\n\nA recorded vote must take place upon the demand of one-fifth of members present under Article I, Section 5 of the United States Constitution: \"the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.\" In the Senate, a recorded vote is accomplished by the clerk's call of the roll. In the House, an electronic voting device is typically used to take recorded votes, although occasionally roll calls take place; the House is historically too large to conduct roll calls on a regular basis (435 members versus 100 in the Senate). When voting to override a Presidential veto, the yeas and nays are required under Article I, Section 7 of the Constitution.",
+    "article_id": "855883720",
+    "article_title": "Division of the assembly",
+    "chunk_index": 7,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Vice President of the United States",
+    "United States Constitution"
+  ],
+  "initial_question": {
+    "rag_input": "What Senate position is constitutionally given to the person first in the presidential line of succession?",
+    "question": "What Senate position is constitutionally given to the person first in the presidential line of succession?",
+    "answer": "Under the Constitution, the person first in the presidential line of succession is the Vice President, who is constitutionally designated as the President of the United States Senate.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Constitutional roles of the Vice President"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

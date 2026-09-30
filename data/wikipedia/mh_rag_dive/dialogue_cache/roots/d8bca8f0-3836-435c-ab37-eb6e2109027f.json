@@ -1,0 +1,38 @@
+{
+  "root_id": "d8bca8f0-3836-435c-ab37-eb6e2109027f",
+  "chunk_a": {
+    "id": "862159990#chunk_4",
+    "text_snippet": "Title: Long Island Sound\nSection(s): Upland vegetation, Fish\n\nIn areas next to the shoreline but hardly ever salty, the sound's environment can nevertheless be a crucial factor in the presence of certain species. Areas near the Connecticut shore are the northern limit for some species needing the warmer environment provided by proximity to the Sound (which has a longer growing season than inland Connecticut and winters that are less harsh). These include sweetgum (only found in Connecticut in the extreme southwestern area of the state), the American holly, post oak and persimmon, which only exist in Connecticut along the shore. For many species which grow typically in sandy soils, the Connecticut shore is the northern limit.\n\nMature upland vegetation along the Connecticut coast is mostly hardwood forest, with dominant tree species including oaks and hickories, especially white oak, black oak, pignut hickory and mockernut hickory. Other trees include sassafras, black gum, and black cherry. Mature trees tend to be sparse in coastal forests, likely because of their greater exposure to the wind. This results in more sunlight reaching the forest floor, encouraging a jungle-like tangle of vines and shrubs, including the vines catbriar, poison ivy, bramble and bittersweet, and the shrubs blueberry, huckleberry, viburnum and hazelnut.\n\nAlong with the moderate climate, rare coastline storms can have an important impact on observable vegetation patterns. The greatest storms to hit the Sound in the twentieth century were the 1938 hurricane, the 1955 hurricane, Hurricane Belle in 1976, Hurricane Gloria in 1985, and Hurricane Irene in 2011. After Hurricane Belle, leaves near the coast were badly salt-burned, then turned brown and shriveled. Many trees were downed by the storm, leaving openings in the forest cover, promoting the growth of vines and shrubs.\n\nThe Sound is inhabited by both marine fish and anadromous fish (oceanic or estuarine species that spawn in freshwater streams and rivers, see fish migration).\n\nThe most common marine fish in the Sound include porgy, butterfish, winter flounder, summer flounder, windowpane flounder, fourspot flounder, northern and striped sea robin, little skate, menhaden, Atlantic silversides, black seabass, blackfish (tautog), cunner, bluefish, and smooth dogfish. Frequently Atlantic bonito and false albacore, both members of the tuna family, enter the sound and can be caught by anglers from small boats and shore.  Many species have declined rapidly since 1975 due to over fishing.  Winter flounder may not be currently present except for rare, small local populations.  Tautog and summer flounder are also less numerous.  Anadromous fishes include striped bass, white perch, alewives, blueback herring, and American and hickory shad.  Although several shark species likely infrequently wander in and out of the Sound, e.g. blue shark, mako shark, hammerhead shark & thresher shark, there are only four species of sharks which are regularly found in the area.  These are the sand tiger shark, the sandbar shark, the spiny dogfish and the smooth dogfish.",
+    "article_id": "862159990",
+    "article_title": "Long Island Sound",
+    "chunk_index": 4,
+    "total_chunks": 12
+  },
+  "chunk_b": {
+    "id": "853892092#chunk_6",
+    "text_snippet": "Title: Lake Michigan\nSection(s): Hydrology, Drinking water, Fishing\n\nHistoric Low Water\nLake levels tend to be the lowest in winter. The normal low water mark is  below datum . In the winter of 1964, Lakes Michigan and Huron reached their lowest level at  below datum. As with the highwater records, monthly low water records were set each month from February 1964 through January 1965. During this twelve-month period water levels ranged from  to  below Chart Datum.\n\nIn January 2013, Lake Michigan's monthly mean water levels dipped to an all-time low of , reaching their lowest ebb since record keeping began in 1918. The lakes were  below their long-term average and had declined 17 inches since January 2012.  Keith Kompoltowicz, chief of watershed hydrology for the U.S. Army Corps of Engineers' district office in Detroit, explained that biggest factors leading to the lower water levels in 2013 were a combination of the \"lack of a large snowpack\" in the winter of 2011/2012 coupled with very hot and dry conditions in the summer of 2012.\n\nLake Michigan, like the other Great Lakes, supplies drinking water to millions of people in bordering areas. The lakes are collectively administered by the state and provincial governments adjacent to them pursuant to the Great Lakes Compact.\n\nEnvironmental problems can still plague the lake. Steel mills and refineries operate near the Indiana shoreline. The Chicago Tribune reported that BP is a major polluter, dumping thousands of pounds of raw sludge into the lake every day from its Whiting, Indiana, oil refinery. In March 2014 BP's Whiting refinery was responsible for spilling more than  of oil into the lake.\n\nLake Michigan is home to a wide variety of fish species and other organisms. It was originally home to lake whitefish, lake trout, yellow perch, panfish, largemouth bass, smallmouth bass and bowfin, as well as some species of catfish. As a result of improvements to the Welland Canal in 1919, an invasion of sea lampreys and overharvesting, there has been a decline in native lake trout populations, ultimately causing an increase in the population of another invasive species, the alewife. As a result, salmonids, including various strains of brown trout, steelhead (rainbow trout), coho and chinook salmon, were introduced as predators in order to decrease the alewife population. This program was so successful that the introduced population of trout and salmon exploded, resulting in the creation of a large sport fishery for these introduced species. Lake Michigan is now stocked annually with steelhead, brown trout, and coho and chinook salmon, which have also begun natural reproduction in some Lake Michigan tributaries. However, several introduced invasive species, such as lampreys, round goby, zebra mussels and quagga mussels, continue to cause major changes in water clarity and fertility, resulting in knock-on changes to Lake Michigan's ecosystem, threatening the vitality of native fish populations.",
+    "article_id": "853892092",
+    "article_title": "Lake Michigan",
+    "chunk_index": 6,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Fish species",
+    "Human impact on aquatic ecosystems",
+    "Invasive species vs. native species population management"
+  ],
+  "initial_question": {
+    "rag_input": "Which anadromous fish of Long Island Sound is considered an invasive species in Lake Michigan?",
+    "question": "Which anadromous fish of Long Island Sound is considered an invasive species in Lake Michigan?",
+    "answer": "The alewife. It is a native anadromous fish in the Long Island Sound, but in Lake Michigan, it is an invasive species whose population increased following the decline of native lake trout.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Invasive species vs. native species population management"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "root_id": "0d13ff1c-7f80-4d80-b20d-f271ce319e62",
+  "chunk_a": {
+    "id": "801822024#chunk_7",
+    "text_snippet": "Title: A Song of Ice and Fire\nSection(s): TV series and other writings, Genre\n\nRegarding A Song of Ice and Fire as his magnum opus, Martin is certain never to write anything on this scale again and would only return to this fictional universe in the context of stand-alone novels. He prefers to write stories about characters from other Ice and Fire periods of history such as his Tales of Dunk and Egg project, instead of continuing the series directly. A possible future side project is a prequel set during Aegon's conquest of Westeros. Martin said he would love to return to writing short stories, novellas, novelettes, and stand-alone novels from diverse genres such as science fiction, horror, fantasy, or even a murder mystery. However, he will see if his audience follows him after publishing his next project.\n\nGeorge R. R. Martin believes the most profound influences to be the ones experienced in childhood. Having read H. P. Lovecraft, Robert E. Howard, Robert A. Heinlein, Eric Frank Russell, Andre Norton, Isaac Asimov, Fritz Leiber, and Mervyn Peake in his youth, Martin never categorized these authors' literature into science fiction, fantasy, or horror and will write from any genre as a result. Martin classified A Song of Ice and Fire as \"epic fantasy\", and specifically named Tad Williams as very influential for the writing of the series. One of his favorite authors is Jack Vance, although Martin considered the series not particularly Vancean.\n\nThe medieval setting has been the traditional background for epic fantasy. However, where historical fiction leaves versed readers knowing the historical outcome, original characters may increase suspense and empathy for the readers. Yet Martin felt historical fiction, particularly when set during the Middle Ages, had an excitement, grittiness, and a realness to it that was absent in fantasy with a similar backdrop. Thus, he wanted to combine the realism of historical fiction with the magic appeal of the best fantasies, subduing magic in favor of battles and political intrigue. He also decided to avoid the conventional good versus evil setting typical for the genre, using the fight between Achilles and Hector in Homer's Iliad, where no one stands out as either a hero or a villain, as an example of what he wants to achieve with his books.\n\nMartin is widely credited with broadening the fantasy fiction genre for adult content, including incest, paedophilia, and adultery. For The Washington Post Writing for The Atlantic, Amber Taylor assessed the novels as hard fantasy with vulnerable characters to which readers become emotionally attached. CNN found in 2000 that Martin's mature descriptions were \"far more frank than those found in the works of other fantasy authors\", although Martin assessed the fantasy genre to have become rougher-edged a decade later and that some writers' work was going beyond the mature themes of his novels. Adam Roberts called Martin's series the most successful and popular example of the emerging subgenre of grimdark fantasy, influencing other writers associated with that style, such as Joe Abercrombie.",
+    "article_id": "801822024",
+    "article_title": "A Song of Ice and Fire",
+    "chunk_index": 7,
+    "total_chunks": 21
+  },
+  "chunk_b": {
+    "id": "798882302#chunk_0",
+    "text_snippet": "Title: Game of Thrones season 2\nSection(s): Introduction, Plot\n\nThe second season of the fantasy drama television series Game of Thrones premiered in the United States on HBO on April 1, 2012, and concluded on June 3, 2012. It was broadcast on Sunday at 9:00 pm in the United States, consisting of 10 episodes, each running approximately 50–60 minutes. The season mostly covers the events of A Clash of Kings, the second novel of the A Song of Ice and Fire series by George R. R. Martin, adapted for television by David Benioff and D. B. Weiss. HBO ordered the second season on April 19, 2011, which began filming in July 2011, primarily in Ireland, Northern Ireland, Croatia and Iceland. \n\nThe story takes place in a fictional world, primarily upon a continent called Westeros, with one storyline occurring on another continent to the east known as Essos. Like the novel, the season follows the dramatic death of Lord Eddard \"Ned\" Stark, with all of the Starks being separated across Westeros. Season two mainly centres around the war of the five kings, fought between the leaders of Westerosi factions who are either staking a claim on the Iron Throne, or seeking independence from it.\n\nGame of Thrones features a large ensemble cast, including Peter Dinklage, Lena Headey, Nikolaj Coster-Waldau, Michelle Fairley and Emilia Clarke. The season introduced a number of new cast members, including Stephen Dillane, Natalie Dormer, Carice van Houten and Liam Cunningham.\n\nCritics praised the show's production values and cast. Viewership rose compared to the previous season. The second season won six of the eleven Emmy Awards for which it was nominated, it received a nomination for Outstanding Supporting Actor in a Drama Series (Peter Dinklage) and Outstanding Drama Series. U.S. viewership rose by approximately 8% over the course of the season, from 3.9 million to 4.2 million by the season finale.\n\nThe Starks declare war on the Lannisters for the death of Ned and having won three victories, Robb Stark offers the Lannisters peace in exchange for the North's independence, sending Theon Greyjoy to gain Balon Greyjoy's support and Catelyn Stark to seek Renly Baratheon's. Cersei Lannister rejects Robb's terms. Meanwhile, Tyrion Lannister exiles Janos Slynt, head of the Gold Cloaks, to the Wall, promoting Bronn to commander of the watch.\n\nCatelyn arrives at King Renly's camp to negotiate an alliance, and Brienne of Tarth wins the right to join Renly's kings guard. Catelyn and Brienne witness Renly's murder at the hands of dark magic sent by the 'Red Lady' Melisandre, an emissary of Renly's brother and rival claimant to the Iron Throne Stannis Baratheon. Catelyn and Brienne flee Renly's camp and rejoin Robb's army as Renly's supporters switch their allegiance to Stannis. Meanwhile, Theon betrays the Starks by siding with his father and seizing Winterfell by force. Robb receives news of Theon's plans and sends men to retake Winterfell, while inside the city the Starks' allies form plans to sneak Bran and Rickon Stark out.\n\nRobb learns that his mother Catelyn has secretly freed Jaime Lannister, now escorted by Brienne of Tarth, in order to ransom her daughters Sansa and Arya; he also enters into a romantic relationship with Volantene healer Talisa Maegyr. Yara Greyjoy arrives at Winterfell to bring Theon back to the Iron Islands, after his botched attempt to recapture the Stark boys.",
+    "article_id": "798882302",
+    "article_title": "Game of Thrones season 2",
+    "chunk_index": 0,
+    "total_chunks": 12
+  },
+  "t_bridge": [
+    "A Song of Ice and Fire (book series)",
+    "George R. R. Martin",
+    "Adaptation process",
+    "A Clash of Kings"
+  ],
+  "initial_question": {
+    "rag_input": "What subgenre did Adam Roberts use to describe the book series adapted into the TV season that premiered on April 1, 2012?",
+    "question": "What subgenre did Adam Roberts use to describe the book series adapted into the TV season that premiered on April 1, 2012?",
+    "answer": "Adam Roberts described the 'A Song of Ice and Fire' book series—which was adapted into the second season of Game of Thrones that premiered on April 1, 2012—as 'grimdark fantasy'.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "A Song of Ice and Fire (book series)"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

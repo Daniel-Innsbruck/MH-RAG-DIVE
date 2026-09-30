@@ -1,0 +1,1433 @@
+{
+    "file_path": "/home/qe/git_projects/mh_rag_dive_evaluierungspipeline/industry_use_case/mh_rag_dive/dialogues_20260826_135501.jsonl",
+    "evaluation_config": {
+        "llm_as_a_judge": "gpt-5-nano",
+        "embedding_model": "text-embedding-3-small"
+    },
+    "token_usage_total_run": {
+        "total_tokens": 5542970,
+        "prompt_tokens": 2489632,
+        "completion_tokens": 3053338,
+        "total_cost_usd": 0.0
+    },
+    "multi_hop_evaluation": {
+        "average_scores": {
+            "correctness_aspect_critic": 0.65,
+            "faithfulness_aspect_critic": 0.6133442945942946,
+            "context_precision_critic": 0.6347916666384704,
+            "context_recall_critic": 0.6833333333333333
+        },
+        "detailed_results": [
+            {
+                "content": "Welcher E-Mail-Adresstyp wird für die Rolle bevorzugt, die neben dem Dienstleister die Modulberechtigungen vergibt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Stammportal-Voraussetzungen müssen erfüllt sein, um veraltete ZMR-Daten (rotes X) durch einen Gesamtabgleich zu aktualisieren?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welcher Bereich hat die höhere Inhaltsnummer: das Design im Warenkorb oder die Spaltenansicht im Wahlbestand?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie unterscheiden sich die Notizen in den Kapiteln 'Notizen' und 'Zustimmungsbereiche & Zustimmungserklärung'?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6153846153846154,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Unterpunkte haben die 'Release Notes (work)' jener Software, die im Dezember 2024 ein Release hatte?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie unterscheiden sich die Freigaben von Wahlbestand und Vorzugsstimmen bei nachträglichen Anpassungen?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Punkte muss ich prüfen, wenn in meinem Menü nur 'Home' und 'Konfiguration' sichtbar sind?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9090909090909091,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Über welche unterschiedlichen Buttons ruft man die Hauskundmachung und die Niederschriften auf?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie navigiere ich von meinem Benutzernamen bis zum QR-Code für die Authenticator App?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8181818181818182,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wer vergibt die Berechtigung für die Kontaktmanagement-Widgets auf dem Dashboard?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo in der Liste befindet sich die neueste Gruppe innerhalb des Widgets, über das man Gruppen mit ausgewählten Personen direkt aufruft?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "In welchem Bereich finde ich die Informationen zu neuen Features für das Release Dezember 2024?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wer muss individuelle Rollen für jene Personen anlegen, mit denen ich meine Gruppen teilen kann?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "In welchem Reiter sehe ich die Anzahl der Personen für den Bestand, der im Workflow direkt nach der Übernahme des eWählerverzeichnisses erstellt wird?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.3333333333,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Über welches Symbol schließe ich den Auswahlmodus der Spalten ab?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Anwendungen werden im Bereich Programmfunktionen dokumentiert?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Darf ein Benutzer, der Wahlkarten und Sprengel verwaltet, gleichzeitig administrative Aufgaben übernehmen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Wo sehe ich die Anzahl der bereits genehmigten Online-Wahlkartenanträge?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche neuen k5|Next Module decken die Wahlvorbereitung und die Pflege zentraler Personendaten ab?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wer triggert die tägliche Dateiabholung, durch die geänderte akademische Grade schlussendlich auf der Wählerinformation landen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ich meine E-Mail-Adresse ändern, nachdem ich unten links im Menü auf meinen User geklickt habe?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.75
+            },
+            {
+                "content": "Wie viele Monate liegen zwischen der Einführung der Wohnsitzqualität im ZMR-Suchergebnis und dem Release-Datum des ZMR-Abgleichs?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Über welche Schaltflächen starte ich den Einzeldruck einer Wahlkarte im Vergleich zur Erstellung einer Niederschrift?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Wie heißt die Checkbox, wenn die für den manuellen Wählerverzeichnis-Import zuständige Behörde auch Sprengel-Aufgaben übernimmt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.6666666666666666
+            },
+            {
+                "content": "Welches E-Mail-Format wird bei der Anlage des Users bevorzugt, dessen Profil ich unten links im Menü aufrufe?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7272727272727273,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie navigiere ich zu den Settings für meine ID Austria?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Rechte brauche ich zwingend, um im Kontaktmanagement Telefonnummern zu erfassen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie weise ich einem User eine fachliche Rolle für eine weitere Gemeinde zu?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9166666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "In welchem Bereich finde ich die Infos zu den neuen Features von Dezember 2024?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wo genau öffnet sich die Datei, wenn ich vordefinierte Wahlinformationen für eine Stichwahl als PDF erstelle?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.5333333333155555,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Für welche k5|Next-Anwendungen gibt es in den Kapiteln 'Programmfunktionen' und 'Sie haben Fragen?' umfangreiche Dokumentationen?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.35714285714285715,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Über welche unterschiedlichen Buttons rufe ich die Hauskundmachung und die Wahlniederschriften auf?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was bewirkt die Tab-Taste seit Dezember 2024 bei der Eingabe von Tags als Suchkriterium in der Detailsuche?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.25,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie viele Monate liegen zwischen dem Release mit den Wohnsitzen im ZMR-Suchergebnis und dem Release-Datum im Kapitel 'ZMR-Abgleich'?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Releases aus dem Jahr 2023 finde ich im Bereich k5|Next_Basis?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Mit welchem Symbol schließe ich das Widget 'ZMR-Abgleich' auf dem k5|Next Dashboard?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.36666666664833336,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welchen unterschiedlichen Zweck erfüllt eine E-Mail-Adresse bei der Benutzeranlage im Vergleich zu einem Standardkontakt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9230769230769231,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Systemfreigaben sind zwingend nötig, bevor Daten für den zentralen Druck und das finale Wahlergebnis übermittelt werden dürfen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche zwei Arten von Daten können zentral eingespielt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche unterschiedlichen Pflichtdaten werden für die manuelle Anlage eines Unternehmens im Vergleich zu einem neuen User in k5|Next verlangt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9047619047619048,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.5
+            }
+        ]
+    },
+    "single_hop_evaluation": {
+        "average_scores": {
+            "correctness_aspect_critic": 0.76875,
+            "faithfulness_aspect_critic": 0.6305023663288466,
+            "context_precision_critic": 0.7228906249660414,
+            "context_recall_critic": 0.725
+        },
+        "detailed_results": [
+            {
+                "content": "Wie kann ein Gemeinde-Administrator, der nur über ein einziges Postfach verfügt, die Vorgabe erfüllen, für den Administrator-Account eine personifizierte E-Mail-Adresse zu nutzen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8181818181818182,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Alternative bietet k5|Next neben der Konfiguration von E-Mail-Adressen für die Berechtigung von Benutzern für mehrere modulübergreifende Tätigkeiten im Rollen- & Rechtemanagement?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können die im Rollen- & Rechtemanagement erstellten Rollen, die laut der Dokumentation Benutzer für mehrere Tätigkeiten berechtigen, als Widget auf dem k5|Next-Dashboard aufgerufen werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Anhand welcher Farbsignale erkennt ein Benutzer direkt im ZMR-Abgleich-Widget auf dem Dashboard, ob die ZMR-Daten aktuell sind oder ob Handlungsbedarf besteht?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was muss in der k5|Next Anwendung getan werden, wenn der ZMR-Abgleich bereits seit mehr als 30 Tagen nicht mehr durchgeführt wurde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktion erfüllt die k5|Next_Person für die Fachanwendungen der Gemeinde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie sorgt der im Hintergrund ablaufende Synchronisationsdienst in k5|Next dafür, dass die Daten in den angebundenen Fachapplikationen aktuell bleiben?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es in k5|Next eine Möglichkeit, neben natürlichen Personen auch Daten von Unternehmen abzugleichen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Inhaltsnummer hat das Design im Warenkorb?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wenn die Inhaltsnummer für das Design im Warenkorb nicht bekannt ist, welche Inhaltsnummer hat dann das Design in der Administration?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wenn das Design in der Administration nicht gelistet ist, welche Inhaltsnummer wird dann für die Spaltenansicht verwendet?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Warum gibt das System für die Spaltenansicht den Code „12242520250304k5nextWahl“ an, obwohl für das Kapitel „Spalten/Ansicht“ die Inhaltsnummer 25 vorgesehen ist?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.45454545454545453,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Können die zur Freitexteingabe bei Kontakten genutzten Notizen auch im Grundbuch verwendet werden oder handelt es sich bei den im Grundbuch erwähnten Notizen um ein anderes System?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5833333333333334,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Schritte müssen beim manuellen Anlegen eines Stapeleintrags in der Stapelverwaltung des Grundbuchs beim Ausfüllen der Felder der Reihe nach befolgt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Unterscheiden sich die zur Kategorisierung von Personendaten in k5|Next_Kontakt genutzten Tags in ihrer Funktionsweise von den dort ebenfalls verfügbaren Freitext-Notizen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können die in k5|Next_Kontakt zur Kategorisierung verwendeten Tags in der Detailsuche als Kriterium zur Filterung von Kontakten aktiviert werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche konkreten Unterpunkte werden unter der Kapitelüberschrift 'Release Notes (work)' in der 'k5|Next_Basis'-Dokumentation aufgeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welches Kapitel steht in der Dokumentation unmittelbar vor dem Kapitel 'Release Notes (work)', welches auf Seite 70 zu finden ist?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche neuen Funktionen wurden im Release Dezember 2024 für den Bereich Bankverbindung in der Software eingeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Was wird in dem Textabschnitt über das Release Dezember 2024, welcher sich direkt über dem Hinweis zum Tab-Verhalten befindet, konkret über die Creditor-ID für Administratoren gesagt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Was schaltet den Link zur Veröffentlichung des Wahlergebnisses eigentlich frei?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5555555555555556,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es beim Senden des Wahlergebnisses an die Homepage eine zeitliche Einschränkung, die beachtet werden muss?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können nach der Freigabe des Wahlbestands noch Datenabgleiche für verstorbene Personen oder geänderte Meldeadressen durchgeführt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.16666666666666666,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was passiert im Wahlbestand, wenn bei einem Datenabgleich eine verstorbene Person identifiziert wird?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9166666666666666,
+                "context_precision_critic": 0.6791666666496875,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche zusätzlichen Voraussetzungen müssen neben der korrekten Rollenvergabe durch den Gemeinde-Administrator erfüllt sein, damit der Zugriff auf zentrale Register wie das ZMR, UR oder GWR funktioniert?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Formatierungen werden bei Datumseingaben in den für die Gemeindeverwaltung lizensierten Modulen berücksichtigt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Wo erfährt der Anwender in k5|Next, falls beim automatischen ZMR-Abgleich Fehler aufgetreten sind?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wo kann der Anwender in k5|Next bereits gelesene Systembenachrichtigungen einsehen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was muss bei der Konfiguration der Wahlbehörde zusätzlich zu den Einstellungen für die Hauskundmachung beachtet werden, damit die Wahlbehörde in der Niederschrift aufgeführt wird und die Parteistimmen nach ihrer Erfassung in der Datei erscheinen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7692307692307693,
+                "context_precision_critic": 0.5833333333041666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Werden bei der Erstellung der amtlichen Wahlinformationen für Bürger bei einem Nachdruck ebenso automatisierte Filterregeln angewendet, wie dies bei der Erstellung der Niederschriften bezüglich der Wahlbehörden-Anlage und Stimmeneintragung der Fall ist?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche Anforderungen an das Papierformat gibt es für den Druck derjenigen Niederschriften, die laut den bisherigen Erläuterungen manuell ergänzt werden müssen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten bietet die Stimmenerfassung für die grafische Aufbereitung der eingetragenen Wahlergebnisse und den Vergleich mit früheren Wahlen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann der Benutzer in den Benutzereinstellungen von k5|Next_Identity auch das Farbschema der Umgebung anpassen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es für die Zwei-Faktor-Authentifizierung auch eine Möglichkeit, statt der Authenticator-App einen physischen Sicherheitsschlüssel zu verwenden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es in dem zuvor besprochenen Bereich für Benutzereinstellungen die Möglichkeit, um im Kontaktmanagement nach Personen zu suchen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Können die Suchergebnisse im Kontaktmanagement von k5|Next weiterverarbeitet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Dürfen Kunden-Administratoren in k5|Next gleichzeitig fachliche Rollen in den Modulen besitzen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie ist der genaue Ablauf zum Anlegen eines neuen Users in k5|Next als Kunden-Administrator?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Widgets für das Kontaktmanagement stehen auf dem Dashboard in k5|Next zur Verfügung?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Was ist zu tun, wenn das Widget für den ZMR-Abgleich in k5|Next ein rotes X anzeigt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Detailsuche wird im Kontaktmanagement geöffnet, wenn man auf eine Gruppe im Widget, in dem gespeicherte und geteilte Gruppen in einer Liste dargestellt werden, klickt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche weiteren Neuerungen für natürliche Personen wurden zusätzlich zur Detailsuche im Kontaktmanagement im Release vom August 2023 eingeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Woran kann man im Dashboard erkennen, ob die ZMR-Daten aktuell sind?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was sollte laut dem System getan werden, wenn das ZMR-Abgleich-Widget eine gelbe Warnung oder ein rotes X anzeigt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.8055555555287036,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welches ist das historisch älteste Datum unter den in der Liste der Programmversionen für die Release Notes aufgeführten Releases?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Kann man im Bereich, in dem die Release Notes zu finden sind, auch Gruppen bearbeiten?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche neuen Funktionen stehen im Release vom Dezember 2024 für das Kontaktmanagement zur Verfügung?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Welche spezifischen Möglichkeiten und Voraussetzungen für die Erfassung von Bankverbindungen wurden mit dem Release vom Dezember 2024 eingeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Pflichtangaben müssen bei der Erstellung einer individuellen Kunden-Rolle im System hinterlegt werden, um den mandantenbezogenen Zugriff zu definieren?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8181818181818182,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktion ermöglicht es, bei der Erstellung einer individuellen Kunden-Rolle bereits vordefinierte Berechtigungen und Einstellungen zu übernehmen, um den Prozess zu beschleunigen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "In welchem Bereich des Systems sind die Release Notes zu finden, die über Neuerungen an Funktionen wie der Rollenerstellung informieren?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, im Menü 'Kontakte - Gruppen' die Anzahl der Benutzer zu sehen, die eine Gruppe einsehen können, ohne die Release Notes zu konsultieren?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es im Reiter 'Monitoring' des Programms eine Funktion, um die aktuellen Stimmzahlen an eine Homepage zu übermitteln?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es eine Ausnahme für die Nationalratswahl, damit die aktuellen Stimmzahlen beziehungsweise die Wahlergebnisse übermittelt werden können?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was muss der Status des Wählerverzeichnisses im Programm sein, damit ein Datenabgleich mit dem ZMR durchgeführt werden kann?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.42857142857142855,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo finde ich Informationen zur Bearbeitung von Adressen ohne Sprengelzuordnung, die das Erstellen des Wahlbestands verhindern?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktion ermöglicht es, die geänderten Spalteneinstellungen wieder auf den ursprünglichen Zustand zurückzusetzen?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7142857142857143,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie kann man im System die Spaltenansicht auf den ursprünglichen Zustand zurücksetzen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann man im Kontaktmanagement zusätzlich zur Spaltenverwaltung neue E-Mail-Adressen für Kontakte hinterlegen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Besteht im Kontaktmanagement die Möglichkeit, eine explizite Zustimmung für die elektronische Zustellung bei einem Kontakt zu hinterlegen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche inhaltlichen Unterschiede bestehen zwischen den Anwendungen k5|Next_Wahl und k5|Next_Wahltag hinsichtlich ihres Zwecks?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche konkreten Arbeitsschritte umfasst der Wahlvorbereitungs-Workflow in der Anwendung k5|Next_Wahl?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7727272727272727,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können in der Anwendung k5|Next_Wahltag, in der auch Wahlbehörden verwaltet werden, eigene Parteien angelegt und bearbeitet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Angaben sind beim Anlegen einer neuen Partei in der Anwendung k5|Next_Wahltag zwingend erforderlich?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie stellt die Kunden-Administration der Gemeinde sicher, dass die Rollenzuweisungen in k5|Next korrekt erfolgen, wenn sie für die Konfiguration der Rollen zuständig ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7894736842105263,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Können System-Rollen in k5|Next mit anderen Rollen kombiniert oder verschachtelt werden, um die Arbeit eines Kunden-Administrators zu erleichtern?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7333333333333333,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Unterstützungsmöglichkeiten stehen zur Verfügung, wenn bei der Rollenverwaltung für k5|Next_Wahl weiterhin Fragen oder Erklärungsbedarf bestehen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.8041666666465626,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die Rolle 'Datenschutzbeauftragter' eine fachliche System-Rolle in k5|Next, die ein Kunden-Administrator einem Benutzer zuordnen kann?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie überträgt man die Anzahl der im Wahlbestand ersichtlichen, genehmigten Wahlkartenanträge an das Land OÖ?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.875,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die manuelle Genehmigung durch einen Gemeindemitarbeiter auch bei Wahlkartenanträgen erforderlich, die bereits über ID-Austria als geprüft markiert wurden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Muss bei der Übermittlung der Daten an das Land OÖ über den Reiter „Monitoring“ eine bestimmte Reihenfolge der Datensätze eingehalten werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7692307692307693,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Was geschieht, wenn innerhalb von 20 Sekunden mehrere Übermittlungsversuche an das Land OÖ im Reiter „Monitoring“ gestartet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Existieren für die Module 'k5|Next_Kontakt' und 'k5|Next_Wahl' jeweils spezifische Zielgruppen, die von der neuen Funktionalität profitieren?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Optionen stehen zur Verfügung, wenn über die bisherigen Informationen zu 'k5|Next_Kontakt' hinaus weiterer Erklärungsbedarf besteht?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.42857142857142855,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die Hotline-Erreichbarkeit als Unterstützungsmöglichkeit bei weitergehendem Erklärungsbedarf auch für das Modul 'k5|Next_Wahl' verfügbar, so wie sie für 'k5|Next_Kontakt' gilt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche weiteren gemeindespezifischen Kennzahlen werden im Bereich 'Kontakt' hinterlegt, die für die Arbeit mit dem Modul 'k5|Next_Wahl' relevant sind?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Maßnahme ist zwingend erforderlich, wenn der ZMR-Abgleich länger als 30 Tage nicht durchgeführt wurde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche explizite Empfehlung gibt es für den ZMR-Datenabgleich vor der Bestellung der amtlichen Wahlinformationen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es möglich, beim ZMR-Gesamtabgleich ausschließlich Personen abzugleichen, die keinen Hauptwohnsitz in der Gemeinde haben?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Erfolgt nach dem Abschluss des ZMR-Gesamtabgleichs eine Benachrichtigung an den Benutzer?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Kann der Benutzer im Benutzerprofil von k5|Next sein Passwort ändern, obwohl die Änderung der E-Mail-Adresse dort nicht möglich ist?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.3333333333333333,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Bietet das Dashboard von k5|Next zusätzlich zu den Benutzereinstellungen, in denen das Passwort geändert werden kann, auch eine Funktion zur Überprüfung des ZMR-Abgleichs?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "An welcher Stelle im Benutzerprofil von k5|Next kann die Zwei-Faktor-Authentifizierung eingerichtet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.4777777777618519,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann die ID Austria im Benutzerprofil von k5|Next als eine Variante der Zwei-Faktor-Authentifizierung hinterlegt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche konkrete Neuerung wurde im August 2023 im ZMR-Suchergebnis eingeführt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Änderung wurde im August 2023 im ZMR-Suchergebnis bezüglich der Wohnsitze und deren Qualität für natürliche Personen eingeführt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Neuerung wurde im September 2024 innerhalb derselben Software-Reihe wie die ZMR-Anpassungen eingeführt, um den Prozess für Wahlinformationen zu vereinfachen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.699999999965,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche neuen Funktionen wurden im September 2024 für die Bearbeitung von Wahlkartenanträgen in k5|Next eingeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie kann ich innerhalb der Wahlanwendersoftware auf die grüne oder gelbe Niederschrift zugreifen, die für die Stimmenerfassung benötigt wird?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welches zusätzliche Formular muss bei einer persönlichen Abholung der Wahlkarte im Reiter „Wahlkarte“ innerhalb der Personendetails ausgegeben werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Bietet die Wahlanwendersoftware neben den bisher besprochenen Funktionen zur Erstellung von Dokumenten auch eine visuelle Auswertung für die in der Stimmenerfassung eingetragenen Daten an?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann innerhalb der grafischen Aufbereitung der Wahlergebnisse in der Wahlanwendersoftware ein Vergleich mit Daten vergangener Wahlen durchgeführt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "In welchem Software-Bereich von ZeWaeR müssen die Einstellungen für den manuellen Import des Wählerverzeichnisses vorgenommen werden, wenn der Import durch den Softwareanbieter nicht gewünscht ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Vorgehensweise ist bei einer Stichwahl erforderlich, wenn festgestellt wird, dass eine Wahlkarte storniert wurde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.2857142857142857,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie erfolgt in der Software die Eingabe von Vertrauenspersonen für eine Wahl?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann beim Bearbeiten der Gemeindewahlbehörde direkt festgelegt werden, welchen Sprengel diese übernehmen soll?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.6999999999766667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gilt die Bevorzugung der personifizierten E-Mail-Adresse bei der Useranlage in k5|Next auch für Personen, die ausschließlich fachliche Aufgaben erledigen, ohne administrative Funktionen auszuüben?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeiten gibt es für die Anlage von zwei Usern in k5|Next, wenn eine Person sowohl administrativ als auch fachlich tätig ist, aber nur über eine einzige E-Mail-Adresse verfügt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Funktionen für das Kontaktmanagement werden auf dem Dashboard von k5|Next bereitgestellt?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.42857142857142855,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Anhand welcher optischen Indikatoren lässt sich im Widget für den ZMR-Abgleich in k5|Next erkennen, ob die Daten aktuell sind?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist eine Passwortänderung im Benutzerprofil von k5|Next auch möglich, wenn bereits eine ID Austria eingerichtet wurde?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.2,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist im Bereich des Benutzerprofils von k5|Next eine Suchfunktion integriert, mit der Personen im Kontaktmanagement gesucht werden können?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Hardware-Optionen unterstützt k5|Next für die Zwei-Faktor-Authentifizierung?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die Verwendung der Zwei-Faktor-Authentifizierung in k5|Next auch erforderlich, wenn man als Benutzer für mehr als einen Mandanten bzw. eine weitere Gemeinde berechtigt ist?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.4166666666458333,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Sind für das Hinzufügen von Notizen zu Kontakten in der k5|Next Fachapplikation dieselben Rechtekombinationen erforderlich wie für die Erfassung von Telefonnummern?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.45454545454545453,
+                "context_precision_critic": 0.19999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es in k5|Next möglich, einem Benutzer gleichzeitig fachliche Rollen für Aufgaben wie das Bearbeiten von Kontakten und administrative Rollen zuzuweisen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gilt die strikte Trennung zwischen fachlichen und administrativen Rollen in k5|Next auch für Benutzer, die das Anlegen von natürlichen Personen aus dem ZMR in der Fachapplikation k5|Next_Kontakt durchführen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gilt die strikte Trennung zwischen fachlichen und administrativen Rollen in k5|Next gleichermaßen für System-Rollen und Kunden-Rollen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wie kann ein Benutzer in k5|Next einstellen, welcher Mandant nach der Anmeldung als aktiver Start-Mandant verwendet wird, wenn er für mehrere Mandanten berechtigt ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6363636363636364,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo kann in der Mandantenverwaltung von k5|Next ein Wappen für die Gemeinde hochgeladen werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.5888888888692593,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo innerhalb von k5|Next kann die allgemeine Suche für Personen und Unternehmen im Kontaktmanagement aufgerufen werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es möglich, im Kontaktmanagement von k5|Next gefundene Personen oder Unternehmen nach der Auswahl über die Suchfunktion im System zu teilen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wo innerhalb des Bereichs k5|Next_Basis findet man die spezifischen Release Notes für den Dezember 2024?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.42857142857142855,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Kann man im Menübereich k5|Next_Basis auch Kontakte verwalten, oder sind dort ausschließlich Informationen wie Release Notes zu finden?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.6388888888675925,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Ist es möglich, im Kontaktmanagement beim Hinzufügen von Bankverbindungen für den Release Dezember 2024 direkt SEPA-Lastschriftmandate zu erstellen?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Einstellung müssen Administratoren unter den Mandant-Einstellungen vornehmen, damit die Bankverbindungen im Kontaktmanagement genutzt werden können?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie ist der Prozess für den Aufruf und Speicherort von Excel-Dateien, wenn man anstelle von PDF-Dateien eine Berichterstellung in der Wahlsoftware wünscht?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es beim Export von Wahlinformationen in Excel-Dateien Unterschiede bezüglich der Berücksichtigung von verstorbenen oder gestrichenen Personen im Vergleich zur Erstellung als PDF?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Möglichkeit bietet die Software, um zusätzlich zu den persönlichen Wahlinformationen auch die erfassten Stimmen pro Partei und Sprengel zur Kontrolle als Excel-Datei abzurufen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann das über die Stimmenerfassung geöffnete Gesamtergebnis der Stimmen pro Partei direkt für den Aushang verwendet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.7555555555303703,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Unterscheidet sich das Dokumentationskapitel für k5|Next_Verfahren von dem für k5|Next_Wahl?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Möglichkeiten zur Verarbeitung von Suchergebnissen werden in dem Kapitel beschrieben, das die Dokumentation zur Anwendung k5|Next_Verfahren enthält?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9375,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es bei der Bearbeitung des Workflows zur Wahlvorbereitung in k5|Next_Wahl eine visuelle Anzeige für den Status der Arbeitsschritte?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5454545454545454,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann bei der Anwendung k5|Next_Wahl die Amtssignatur automatisch auf eine Wahlkarte gedruckt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche vorbereitenden Einstellungen oder Eingaben sind zwingend erforderlich, damit sowohl die Hauskundmachung als auch die Wahlniederschriften bei deren Erstellung korrekt befüllt werden?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7777777777777778,
+                "context_precision_critic": 0.499999999975,
+                "context_recall_critic": 0.5
+            },
+            {
+                "content": "Gibt es bei der Erstellung von 'Meine Wahlinfo'-Dokumenten ähnliche Optionen wie beim Wählerverzeichnis für Parteien, insbesondere die Wahl zwischen einer grafischen Datei und einem Excel-Export?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8333333333333334,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Einstellungsmöglichkeit besteht beim Druck von Tabellen wie der gelben Niederschrift, wenn kein DIN A3-Papier für das vorgesehene Querformat verfügbar ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.4,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Existiert für die im System verfügbare grafische Aufbereitung der Wahlergebnisse die Möglichkeit, diese als Bild-Datei herunterzuladen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gilt das geänderte Tab-Verhalten, bei dem nach Drücken der Tab-Taste das nächste Feld aktiv wird anstatt das Löschen-Symbol zu markieren, auch bei der Suche nach Kontaktpersonen über Schlagworte in der Detailsuche?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Was sind die grundlegenden Unterschiede in der Verwaltungsweise zwischen Gruppen und Tags innerhalb der Anwendung?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wurde die Anpassung der Schwellenwerte für Warnungen und Fehler im ZMR-Widget im Release vom Oktober 2024 ebenso dynamisch durch den Benutzer konfigurierbar gestaltet wie die Vergabe von Tags?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.46153846153846156,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Ist es möglich, einen Kontakt, der über die Detailsuche gefunden wurde, direkt im Suchergebnis einer Gruppe hinzuzufügen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche funktionale Erweiterung wurde im August 2023 im ZMR-Suchergebnis implementiert?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.0,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche Funktionalität wurde mit dem Widget 'Gespeichert Gruppen' im Release vom August 2023 eingeführt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.5454545454545454,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Welche neuen Filter für Wahlkartenanträge wurden im Release vom September 2024 eingeführt, anstatt der Informationen über das Widget 'Gespeichert Gruppen' aus dem Release vom August 2023?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen bezüglich der Benutzerrechte und der hinterlegten Zugangsdaten erfüllt sein, um die IDR-Prüfung bei 'Meine Wahlkarte' durchführen zu können?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.8888888888888888,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Gibt es für die im Bereich k5|Next_Basis dokumentierten Releases aus dem Jahr 2023 Informationen zu neuen Features?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.625,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche spezifischen Voraussetzungen oder Einschränkungen gelten für die Nutzung der Postfachadresse als Zustelladresse im Bereich k5|Next_Basis?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 1.0,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Gibt es eine Anleitung für die Gruppenverwaltung, die vergleichbar mit den Informationen zur Erfassung der Zustelladresse ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.4166666666458333,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Aktionen umfasst die Verwaltung von Gruppen im Bereich k5|Next_Kontakt?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.7916666666666666,
+                "context_precision_critic": 0.9999999999666667,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wie kann ich ein Widget wie den 'ZMR-Abgleich' auf dem k5|Next Dashboard verschieben, nachdem ich es geschlossen habe?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.375,
+                "context_precision_critic": 0.49999999995,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Gilt für die Einspruchstelle in k5|Next eine spezielle Regelung, wenn die Gemeinde mehr als 10.000 Einwohner hat?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wo finde ich das Menü im System k5|Next?",
+                "correctness_aspect_critic": 0,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.0,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Gibt es in k5|Next eine Möglichkeit, gespeicherte Gruppen direkt auf dem Dashboard anzuzeigen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.8333333332916666,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Wird eine E-Mail-Adresse, die bei einem als Standardkontakt markierten Datensatz in k5|Next geändert wird, automatisch auch als Benutzername in der Benutzerverwaltung des entsprechenden Users aktualisiert?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Woran kann ein Anwender in der Benutzeroberfläche von k5|Next erkennen, ob eine erfasste E-Mail-Adresse aktuell als Standardkontakt für die angebundenen Fachapplikationen definiert ist?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann ein Benutzer in k5|Next mit einer einzigen Benutzeridentität sowohl administrative als auch fachliche Aufgaben ausführen, oder sind dafür unterschiedliche User erforderlich?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann für zwei unterschiedliche User in k5|Next, die ein Administrator für die Trennung von administrativen und fachlichen Aufgaben anlegt, dieselbe E-Mail-Adresse als Benutzername verwendet werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9090909090909091,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welcher Prozess ist in der Wahlsoftware einzuhalten, wenn nach der getätigten Freigabe der Vorzugsstimmen ein Eingabefehler festgestellt wird?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.999999999975,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Schritte müssen nach einer Stornierung des Druckauftrags bei der Druckerei DMS DATA+MAIL Schinnerl GmbH im k5|Next durchgeführt werden, um den Vorgang erneut zu starten?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8,
+                "context_precision_critic": 0.94999999997625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist die Freigabe der Vorzugsstimmen für alle Sprengel eine notwendige Voraussetzung, um das Wahlergebnis an das Land OÖ übermitteln zu können?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.9166666666361111,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "In welchem Register der Wahlsoftware kann der aktuelle Freigabestatus aller Sprengel eingesehen werden, um die Vollständigkeit vor der Übermittlung an das Land OÖ zu prüfen?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.75,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Muss die Gemeinde nach einem zentralen Import des Wahlbestands durch den Softwareanbieter noch manuelle Sprengelzuordnungen vornehmen, ähnlich wie bei der zentralen Einspielung der Kandidaten für die Nationalratswahl?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9090909090909091,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "In welchem Bereich des Systems können die Stimmergebnisse pro Partei und Sprengel erfasst werden, damit diese anschließend an das Land OÖ übermittelt werden können?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6,
+                "context_precision_critic": 0.8666666666377778,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Welche Voraussetzungen müssen im Bereich BehördenAdmin im System ZeWaeR festgelegt werden, damit die Gemeinde den manuellen Import des Wählerverzeichnisses durchführen kann?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.5714285714285714,
+                "context_precision_critic": 0.7499999999625,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "In welchem Bereich des Systems ZeWaeR befindet sich das Wählerverzeichnis zum Download, bevor die Datei in den Bereich Wahlvorbereitung des Programms k5|Next eingespielt werden kann?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8571428571428571,
+                "context_precision_critic": 0.99999999995,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Kann man bei der Anlage eines neuen Users in k5|Next den Status direkt beeinflussen, vergleichbar mit der Festlegung des URV-Bezugs bei der Anlage eines Unternehmens?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.8461538461538461,
+                "context_precision_critic": 0.249999999975,
+                "context_recall_critic": 0.0
+            },
+            {
+                "content": "Wird eine bei einem Unternehmen im Kontaktmanagement neu angelegte manuelle Zustelladresse sofort in allen k5-Modulen (Finanzmanagement, Verfahren, DMS) als Standardadresse verwendet?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.99999999998,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ist es in k5|Next zulässig, bei der Anlage eines neuen Users dieselbe E-Mail-Adresse für mehrere Benutzerkonten zu verwenden, auch wenn Alias-Adressen genutzt werden?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.9285714285714286,
+                "context_precision_critic": 0.8874999999778125,
+                "context_recall_critic": 1.0
+            },
+            {
+                "content": "Ab welchem Zeitpunkt wird die E-Mail mit dem Aktivierungslink an einen User in k5|Next versendet, wenn bei einem zunächst als ungültig geführten User nachträglich ein 'Gültig ab'-Datum eingetragen wird?",
+                "correctness_aspect_critic": 1,
+                "faithfulness_aspect_critic": 0.6666666666666666,
+                "context_precision_critic": 0.9999999999,
+                "context_recall_critic": 1.0
+            }
+        ]
+    }
+}

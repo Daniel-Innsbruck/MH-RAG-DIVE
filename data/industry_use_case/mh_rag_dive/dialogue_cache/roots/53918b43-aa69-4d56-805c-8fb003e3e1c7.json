@@ -1,0 +1,37 @@
+{
+  "root_id": "53918b43-aa69-4d56-805c-8fb003e3e1c7",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_12",
+    "text_snippet": "Kapitelüberschrift: Anforderungen an die E-Mail-Adressen\nInhalt: 26\nMitarbeiter ist entweder Administrator oder Fach-User\nBetrifft Personen in der Gemeinde, die in k5|Next:\nrein administrativ tätig sind aber keine fachlichen Aufgaben erledigen\nODER\nrein fachliche Aufgaben erledigen aber nicht administrativ tätig sind\nUnter Voraussetzung der Anforderungen an die E-Mail-Adressen dürfen vorhandene E-Mail-Adressen für die Useranlage verwendet \nwerden.\nBeispiel\nEine Person besitzt die Adressen nachname@gemeinde.at und/oder abteilung@gemeinde.at und diese sind über das Postfach/die \nPostfächer eindeutig dieser Person zugeordnet. So kann eine der beiden E-Mail-Adressen für die Benutzeranlage verwendet werden, \njedoch ist die personifizierte Adresse nachname@gemeinde.at zu bevorzugen.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 12,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_8",
+    "text_snippet": "Kapitelüberschrift: Beispiel 2: Es ändert sich die E-Mail-Adresse\nInhalt: 11\nBenutzeroberfläche\nk5|Next folgt den Designvorgaben von „Material Design“ und hat den Anspruch, möglichst intuitiv aufgebaut zu sein. Die Benutzeroberfläche \nfindet sich in allen k5|Next Applikationen bzw. Modulen gleichermaßen wieder.\nIm Zentrum steht der Arbeitsbereich, darauf liegt der Fokus der Arbeit. Per Tastenkombination Strg + \n bzw. Strg + \n  (oder Strg + \nRollen des Mausrads) kann der Zoom-Faktor verändert werden und die Darstellung den persönlichen Vorstellungen angepasst werden. \nAm linken Rand des Bildschirms befindet sich das Menü. Im oberen Bereich wird der Mandant angezeigt, mit dem Sie momentan \nangemeldet sind. Darunter stehen Ihnen alle Module zur Verfügung, wofür Sie von Seiten des Dienstleisters und Gemeinde-Administrators \nberechtigt wurden. Im unteren Bereich finden Sie Systembenachrichtigungen und Ihren aktuellen User. Per Klick darauf navigieren Sie zu \nIhrem Benutzerprofil.\nAm rechten Rand des Bildschirms befindet sich der Bereich mit Zusatzfunktionen. Je nach Modul, mit dem Sie arbeiten, stehen hier \nunterschiedliche Funktionen zur Verfügung.\nAm oberen Rand liegt die Schnellsuche. Diese intuitive Suche ist eines der Kern-Features von k5|Next und steht in allen k5|Next Modulen \nzur Verfügung.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 8,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "User-Verwaltung in k5|Next",
+    "Benutzerprofil und Identität in k5|Next"
+  ],
+  "initial_question": {
+    "rag_input": "Welches E-Mail-Format wird bei der Anlage des Users bevorzugt, dessen Profil ich unten links im Menü aufrufe?",
+    "question": "Welches E-Mail-Format wird bei der Anlage des Users bevorzugt, dessen Profil ich unten links im Menü aufrufe?",
+    "answer": "Für die Anlage des Users (dessen Profil Sie durch einen Klick auf den aktuellen User im unteren linken Menübereich aufrufen) ist die personifizierte E-Mail-Adresse, wie beispielsweise nachname@gemeinde.at, zu bevorzugen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Benutzerprofil und Identität in k5|Next"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

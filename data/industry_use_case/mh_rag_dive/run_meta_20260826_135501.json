@@ -1,0 +1,31 @@
+{
+  "run_id": "20260826_135501",
+  "timestamp": "2026-08-26T13:55:01.355709",
+  "pipeline_config": {
+    "rag_base_url": "http://localhost:8000",
+    "discoverer_model": "gemini-3.1-flash-lite",
+    "generator_model_turn_0": "gemini-3.1-pro-preview",
+    "generator_model_followup": "gemini-3.1-flash-lite",
+    "validator_model": "gpt-5.6-luna",
+    "evaluator_model": "gpt-5-nano",
+    "chroma_db_path": "/app/data/chroma_db_industry",
+    "chroma_collection_name": "industry_eval_chunks",
+    "turns_per_conversation": 5,
+    "max_conversations": 40,
+    "alpha": 2,
+    "beta": 3,
+    "expansion_dir": "below",
+    "generator_role": "Your questions are very short and precise. Your natural language is German. Write everything in German.",
+    "validator_max_retries": 5,
+    "build_cache": true,
+    "use_cache": false,
+    "cache_mode": "all",
+    "cache_tau": 0.1,
+    "cache_safeguard": true,
+    "output_dir": "data",
+    "output_file_name": "generated_dialogues.jsonl"
+  },
+  "rag_container_config": {
+    "system": "k5_industry_rag"
+  }
+}

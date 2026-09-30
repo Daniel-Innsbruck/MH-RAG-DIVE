@@ -1,0 +1,38 @@
+{
+  "root_id": "84fc2eb9-3246-4648-afbd-b9de5a3290e2",
+  "chunk_a": {
+    "id": "842365745#chunk_3",
+    "text_snippet": "Title: Free agent\nSection(s): National Football League usage, National Hockey League usage, Drawbacks for owners, Deadlines\n\nEight players sued the NFL in U.S. federal court, stating that Plan B was an unlawful restraint of trade. In 1992, a jury found that Plan B violated antitrust laws and awarded damages to these players.\n\nIn the NHL, between 2005 and 2008, the age of unrestricted free agency declined from 31 to 27. As of 2008, any player who is at least 27 years old or has at least seven years of service as an NHL player, and whose contract has expired, will become an unrestricted free agent. On July 1 of each year the free agency period begins, and unrestricted free agents are free to negotiate and sign contracts with any team. Under the old collective agreement, which expired in 2004, draft picks were awarded as compensation when a team lost an unrestricted free agent; however, under the current CBA teams losing unrestricted free agents do not receive any compensation.\n\nIn addition, any player at least 22 years of age who has not been selected in the NHL Draft can sign with any team as a free agent.\n\nAny player who is not entry-level, but does not meet the qualifications of unrestricted free agency becomes a restricted free agent when his contract expires.\n\nThe economics of free agency are disadvantageous for team owners; it can lead to bidding wars—and increased player salaries mean decreased owner profits. Restrictions on free agency have therefore been preferred by North American team owners since the abolition of the reserve clause. For example, a draft can be used to keep young and talented players from generating bidding wars and causing higher player salaries throughout the league. Furthermore, some teams which play in large market cities, and hence have a larger revenue stream, would be able to outbid other teams for talented players. Some leagues, such as the National Football League and the National Basketball Association have imposed salary cap rules in order to avert such bidding wars (the NFL itself was created in an effort to prevent bidding wars that had crippled preceding regional leagues like the Ohio League and Pittsburgh circuit).\n\nIn Europe, the wages of the top players have increased dramatically since the Bosman ruling, although this is partly because of increased television revenues. As in North America, the number of transfers involving a fee are on the decline since clubs can wait for players to finish their contracts and become unrestricted. Also in Major League Baseball the larger and more successful teams often trump the lesser income teams from lack of a salary cap.\n\nIn some leagues, free agency has deadlines. For example, under the most recent NHL Collective Bargaining Agreement, restricted free agents who do not sign contracts by December 1 of a given year will be ineligible to play in the National Hockey League for the balance of that season. However, other leagues (such as the National Basketball Association) have no such restrictions.\n\nIn Europe, players can only move during transfer windows—during the close season and halfway through the league season. There are exceptions for unsigned professional players in the lower divisions.",
+    "article_id": "842365745",
+    "article_title": "Free agent",
+    "chunk_index": 3,
+    "total_chunks": 4
+  },
+  "chunk_b": {
+    "id": "864077647#chunk_15",
+    "text_snippet": "Title: American football rules\nSection(s): Officiating, Fouls and their penalties\n\nThe game is officiated by a crew of three to seven officials. Every crew will consist of a referee, who is generally in charge of the game and watches action on the quarterback and in the offensive backfield; an umpire, who handles spotting the ball and watches action on the offensive line; and a head linesman, who supervises placement of the down box and line-to-gain chains. The crew may also consist of a line judge, back judge, field judge and side judge, in the order listed: i.e. a crew of five officials has a referee, umpire, head linesman, line judge and back judge.\n\nOfficials are selected by the teams in advance or appointed by the governing league. While the majority of officials at lower levels only officiate games on a part-time basis, the NFL is implementing a new system where seven officials will become full-time employees of the league, one for each official position (i.e. back judge, field judge, side judge, etc.). In the other three major North American professional sports leagues – Major League Baseball, the NBA and NHL – officials are employed by their respective leagues. The sheer volume of games in the other three sports necessitates full-time officials; the NFL regular season is only 16 games long, compared to 162 games for MLB and 82 for the NBA and NHL.\n\nDuring the game, the officials are assisted in the administration of the game by other persons, including: a clock operator to start and stop the game clock (and possibly also the play clock); a chain crew who hold the down indicator and the line-to-gain chains on the sideline; and ball boys, who provide footballs to officials between downs (e.g. a dry ball each down on a wet day). These individuals may be provided by the teams involved – it is common for a high school coach's son or daughter to act as ball boy for the team.\n\nBecause football is a high-contact sport requiring a balance between offense and defense, many rules exist that regulate equality, safety, contact, and actions of players on each team. It is very difficult to always avoid violating these rules without giving up too much of an advantage. Thus, an elaborate system of fouls and penalties has been developed to \"let the punishment fit the crime\" and maintain a balance between following the rules and keeping a good flow of the game. Players are constantly looking for ways to find an advantage that stretches the limitations imposed by the rules. Also, the frequency and severity of fouls can make a large difference in the outcome of a game, so coaches are constantly looking for ways to minimize the number and severity of infractions committed by their players.",
+    "article_id": "864077647",
+    "article_title": "American football rules",
+    "chunk_index": 15,
+    "total_chunks": 19
+  },
+  "t_bridge": [
+    "National Football League (NFL) operations",
+    "Professional sports league labor and governance",
+    "Comparison of North American sports league management"
+  ],
+  "initial_question": {
+    "rag_input": "How long is the regular season for the league created to prevent the bidding wars that crippled the Ohio League?",
+    "question": "How long is the regular season for the league created to prevent the bidding wars that crippled the Ohio League?",
+    "answer": "The league created to prevent the bidding wars that crippled the Ohio League is the National Football League (NFL). The NFL regular season is 16 games long.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "National Football League (NFL) operations"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

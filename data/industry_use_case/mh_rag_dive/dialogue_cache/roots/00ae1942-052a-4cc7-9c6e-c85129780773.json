@@ -1,0 +1,38 @@
+{
+  "root_id": "00ae1942-052a-4cc7-9c6e-c85129780773",
+  "chunk_a": {
+    "id": "k5_next_Wahl#chunk_8",
+    "text_snippet": "Kapitelüberschrift: eWählerverzeichnis übernehmen\nInhalt: 17\nManueller Import Wählerverzeichnis\nDer manuelle Import durch die Gemeinde darf nur durchgeführt werden, wenn kein Import durch den Softwareanbieter gewünscht wird. Die \nEinstellungen dafür wird im ZeWaeR im Bereich BehördenAdmin eingestellt. \nIm ZeWaeR im Bereich Download befindet sich das Wählerverzeichnis zum Download.\nSpeichern Sie die Datei ab und wechseln Sie ins Programm k5|Next in den Bereich Wahlvorbereitung.\n \nKlicken Sie auf “eWählerverzeichnis manuell einspielen”. Es erscheint ein Explorer zur Auswahl der Datei. Wählen Sie die Datei aus. \nDanach klicken Sie auf Wahlbestand einspielen.",
+    "article_id": "k5_next_Wahl",
+    "article_title": "k5_next_Wahl",
+    "chunk_index": 8,
+    "total_chunks": 58
+  },
+  "chunk_b": {
+    "id": "k5_Next_Wahltag Home#chunk_19",
+    "text_snippet": "Kapitelüberschrift: Übersicht\nInhalt: 25\nWahlbehörde (wahlspezifisch)\nIn diesem Bereich können Sie die laufende Wahlbehörde kopieren und für die jeweilige Wahl anpassen.\nKlicken Sie dazu auf den Button “Wahlbehörde importieren” neben dem Dropdown. \nDurch den Import werden alle bestehenden Daten überschrieben!\nWählen Sie die Wahlbehörde aus, die importiert werden soll:\nDie übernommenen Daten können bearbeitet werden. Waren bereits Einträge für diese Wahlbehörde vorhanden, so werden diese \nüberschrieben.\nÜbernimmt die Gemeindewahlbehörde auch die Aufgaben einer Sprengelwahlbehörde, finden Sie hier eine Checkbox “übernimmt \nSprengel”.",
+    "article_id": "k5_Next_Wahltag Home",
+    "article_title": "k5_Next_Wahltag Home",
+    "chunk_index": 19,
+    "total_chunks": 35
+  },
+  "t_bridge": [
+    "Datenimport in Wahlsoftware-Systeme",
+    "Konfiguration von Wahldaten und Behördenstrukturen",
+    "Prozesse der Wahlvorbereitung im k5|Next-System"
+  ],
+  "initial_question": {
+    "rag_input": "Wie heißt die Checkbox, wenn die für den manuellen Wählerverzeichnis-Import zuständige Behörde auch Sprengel-Aufgaben übernimmt?",
+    "question": "Wie heißt die Checkbox, wenn die für den manuellen Wählerverzeichnis-Import zuständige Behörde auch Sprengel-Aufgaben übernimmt?",
+    "answer": "Die gesuchte Checkbox heißt 'übernimmt Sprengel'. Die Gemeinde ist für den manuellen Import des Wählerverzeichnisses zuständig. Wenn diese Gemeindewahlbehörde zusätzlich die Aufgaben einer Sprengelwahlbehörde übernimmt, steht bei der Konfiguration genau diese Checkbox zur Verfügung.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Konfiguration von Wahldaten und Behördenstrukturen"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

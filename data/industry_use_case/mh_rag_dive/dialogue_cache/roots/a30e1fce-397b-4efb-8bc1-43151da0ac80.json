@@ -1,0 +1,38 @@
+{
+  "root_id": "a30e1fce-397b-4efb-8bc1-43151da0ac80",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_8",
+    "text_snippet": "Kapitelüberschrift: Beispiel 2: Es ändert sich die E-Mail-Adresse\nInhalt: 11\nBenutzeroberfläche\nk5|Next folgt den Designvorgaben von „Material Design“ und hat den Anspruch, möglichst intuitiv aufgebaut zu sein. Die Benutzeroberfläche \nfindet sich in allen k5|Next Applikationen bzw. Modulen gleichermaßen wieder.\nIm Zentrum steht der Arbeitsbereich, darauf liegt der Fokus der Arbeit. Per Tastenkombination Strg + \n bzw. Strg + \n  (oder Strg + \nRollen des Mausrads) kann der Zoom-Faktor verändert werden und die Darstellung den persönlichen Vorstellungen angepasst werden. \nAm linken Rand des Bildschirms befindet sich das Menü. Im oberen Bereich wird der Mandant angezeigt, mit dem Sie momentan \nangemeldet sind. Darunter stehen Ihnen alle Module zur Verfügung, wofür Sie von Seiten des Dienstleisters und Gemeinde-Administrators \nberechtigt wurden. Im unteren Bereich finden Sie Systembenachrichtigungen und Ihren aktuellen User. Per Klick darauf navigieren Sie zu \nIhrem Benutzerprofil.\nAm rechten Rand des Bildschirms befindet sich der Bereich mit Zusatzfunktionen. Je nach Modul, mit dem Sie arbeiten, stehen hier \nunterschiedliche Funktionen zur Verfügung.\nAm oberen Rand liegt die Schnellsuche. Diese intuitive Suche ist eines der Kern-Features von k5|Next und steht in allen k5|Next Modulen \nzur Verfügung.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 8,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_26",
+    "text_snippet": "Kapitelüberschrift: Benutzeraktivierung\nInhalt: 45\n \n\n46\nBenutzerprofil\nBenutzerkonto: hier können Name und Titel der Person geändert werden. Weiters kann ein Profilbild erfasst und eine Mobilfunknummer \neingetragen werden. Die E-Mail-Adresse kann hier nicht geändert werden, da diese Adresse gleichzeitig die eindeutige Identifikation des \nBenutzers ist. Sollte es dennoch notwendig sein, die E-Mail-Adresse zu ändern (da sie sich geändert hat), hat der Kunden-Administrator in \nder Administrationsumgebung die Möglichkeit, das zu tun.\nPasswort: hier kann ein neues Passwort vergeben werden.\nZwei-Faktor-Authentifizierung: hier stehen unterschiedliche Authentifizierungsmethoden zur Verfügung, weitere Informationen dazu finden \nSie hier.\nMeine Anmeldungen: hier finden Sie eine Übersicht Ihrer aktuellen k5|Next Sitzungen und können diese an dieser Stelle auch beenden.\nZugangsdaten für andere Anwendungen: hier wird die Benutzerkennung Ihres Portals eingetragen, damit Rechte für z.B. Registerzugriffe \nin k5|Next abgefragt werden können. Weitere Informationen dazu finden Sie hier.\nID Austria: Verfügen Sie über eine ID-Austria, könne sie diese hier einrichten. Dies gilt als eigene 2FA Variante, kann aber auch zusätzlich \nzu einer bestehenden 2FA Variante registriert werden. Informationen dazu finden Sie hier.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 26,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Navigation zum Benutzerprofil",
+    "Benutzerverwaltung in k5|Next",
+    "Änderung der E-Mail-Adresse"
+  ],
+  "initial_question": {
+    "rag_input": "Kann ich meine E-Mail-Adresse ändern, nachdem ich unten links im Menü auf meinen User geklickt habe?",
+    "question": "Kann ich meine E-Mail-Adresse ändern, nachdem ich unten links im Menü auf meinen User geklickt habe?",
+    "answer": "Nein, das ist nicht möglich. Durch den Klick auf Ihren aktuellen User im unteren linken Menübereich navigieren Sie zu Ihrem Benutzerprofil. Dort kann die E-Mail-Adresse jedoch nicht geändert werden, da sie als eindeutige Identifikation des Benutzers dient. Eine Änderung kann ausschließlich durch den Kunden-Administrator in der Administrationsumgebung erfolgen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Navigation zum Benutzerprofil und Änderung der E-Mail-Adresse"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

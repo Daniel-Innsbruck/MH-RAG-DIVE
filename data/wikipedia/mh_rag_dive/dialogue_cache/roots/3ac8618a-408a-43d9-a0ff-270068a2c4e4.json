@@ -1,0 +1,38 @@
+{
+  "root_id": "3ac8618a-408a-43d9-a0ff-270068a2c4e4",
+  "chunk_a": {
+    "id": "846587463#chunk_20",
+    "text_snippet": "Title: Economy of India\nSection(s): Foreign direct investment, Outflows, Remittances, Mergers and Acquisitions\n\n+Share of top five investing countries in FDI inflows (2000–2010) Rank  Country  Inflows (million US$)  Inflows (%)1   Mauritius  50,164  42.002  Singapore  11,275  9.003   US  8,914  7.004  UK  6,158  5.005   Netherlands  4,968  4.00\nAs the third-largest economy in the world in PPP terms, India has attracted foreign direct investment (FDI). During the year 2011, FDI inflow into India stood at $36.5 billion, 51.1% higher than the 2010 figure of $24.15 billion. India has strengths in telecommunication, information technology and other significant areas such as auto components, chemicals, apparels, pharmaceuticals, and jewellery. Despite a surge in foreign investments, rigid FDI policies were a significant hindrance. Over time, India has adopted a number of FDI reforms. India has a large pool of skilled managerial and technical expertise. The size of the middle-class population stands at 300 million and represents a growing consumer market.\n\nIndia liberalised its FDI policy in 2005, allowing up to a 100% FDI stake in ventures. Industrial policy reforms have substantially reduced industrial licensing requirements, removed restrictions on expansion and facilitated easy access to foreign technology and investment. The upward growth curve of the real-estate sector owes some credit to a booming economy and liberalised FDI regime. In March 2005, the government amended the rules to allow 100% FDI in the construction sector, including built-up infrastructure and construction development projects comprising housing, commercial premises, hospitals, educational institutions, recreational facilities, and city- and regional-level infrastructure. Between 2012 and 2014, India extended these reforms to defence, telecom, oil, retail, aviation, and other sectors.\n\nFrom 2000 to 2010, the country attracted $178 billion as FDI. The inordinately high investment from Mauritius is due to routing of international funds through the country given significant tax advantages – double taxation is avoided due to a tax treaty between India and Mauritius, and Mauritius is a capital gains tax haven, effectively creating a zero-taxation FDI channel. FDI accounted for 2.1% of India's GDP in 2015.\n\nAs the government has eased 87 foreign investment direct rules across 21 sectors in the last three years, FDI inflows hit $60.1 billion between 2016 and 2017 in India.\n\nSince 2000, Indian companies have expanded overseas, investing FDI and creating jobs outside India. From 2006 to 2010, FDI by Indian companies outside India amounted to 1.34 per cent of its GDP. Indian companies have deployed FDI and started operations in the United States, Europe and Africa. The Indian company Tata is the United Kingdom's largest manufacturer and private-sector employer.\n\nIn 2015, a total of US$68.91 billion was made in remittances to India from other countries, and a total of US$8.476 billion was made in remittances by foreign workers in India to their home countries. The UAE, the US, and Saudi Arabia were the top sources of remittances to India, while Bangladesh, Pakistan and Nepal were the top recipients of remittances from India. Remittances to India accounted for 3.32% of the country's GDP in 2015.\n\nBetween 1985 and 2018 20,846 deals have been announced in, into (inbound) and out of (outbound) India. This cumulates to a value of 618 bil. USD. In terms of value, 2010 has been the most active year with deals worth almost 60 bil. USD. Most deals have been conducted in 2007 (1,510).",
+    "article_id": "846587463",
+    "article_title": "Economy of India",
+    "chunk_index": 20,
+    "total_chunks": 28
+  },
+  "chunk_b": {
+    "id": "824739779#chunk_0",
+    "text_snippet": "Title: Textile industry in India\nSection(s): Introduction, History\n\nThe textile industry in India traditionally, after agriculture, is the only industry that has generated huge employment for both skilled and unskilled labour in textiles. The textile industry continues to be the second-largest employment generating sector in India. It offers direct employment to over 35 million in the country. The share of textiles in total exports was 11.04% during April–July 2010, as per the Ministry of Textiles. During 2009–2010, the Indian textile industry was pegged at 55 billion, 64% of which services domestic demand. In 2010, there were 2,500 textile weaving factories and 4,135 textile finishing factories in all of India. According to AT Kearney’s ‘Retail Apparel Index’, India was ranked as the fourth most promising market for apparel retailers in 2009.\n\nIndia is first in global jute production and shares 63% of the global textile and garment market. India is second in global textile manufacturing and also second in silk and cotton production. 100% FDI is allowed via automatic route in textile sector. Rieter, Trutzschler, Saurer, Soktas, Zambiati, Bilsar, Monti, CMT, E-land, Nisshinbo, Marks & Spencer, Zara, Promod, Benetton, and Levi’s are some of the foreign textile companies invested or working in India.\n\nThe archaeological surveys and studies have found that the people of Harrapan civilization  knew weaving and the spinning of cotton four thousand years ago. Reference to weaving and spinning materials is found in the Vedic Literature. There was textile trade in India during the early centuries. A block printed and resist-dyed fabrics, whose origin is from Gujarat is found in tombs of Fostat, Egypt. This proves that Indian export of cotton textiles to the Egypt or the Nile Civilization in medieval times were to a large extent. Large quantity of north Indian silk were traded through the silk route in China   to the western countries. The Indian silk were often exchanged with the western countries for their spices in the barter system. During the late 17th and 18th century there were large export of the Indian cotton to the western countries to meet the need of the European industries during industrial revolution.  .",
+    "article_id": "824739779",
+    "article_title": "Textile industry in India",
+    "chunk_index": 0,
+    "total_chunks": 3
+  },
+  "t_bridge": [
+    "Foreign direct investment (FDI) in India",
+    "Textile industry economic growth",
+    "Sector-specific liberalization policies"
+  ],
+  "initial_question": {
+    "rag_input": "Following the FDI liberalisation policy of 2005, which foreign companies invested in the Indian industry noted for its strength in apparels?",
+    "question": "Following the FDI liberalisation policy of 2005, which foreign companies invested in the Indian industry noted for its strength in apparels?",
+    "answer": "Following the 2005 policy that liberalised FDI to allow up to 100% stakes in ventures, India permitted 100% FDI via the automatic route in the textile sector, which aligns with its national strength in apparels. Foreign companies that have invested or are working in this industry include Rieter, Trutzschler, Saurer, Soktas, Zambiati, Bilsar, Monti, CMT, E-land, Nisshinbo, Marks & Spencer, Zara, Promod, Benetton, and Levi’s.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Sector-specific liberalization policies and FDI in the apparel/textile industry"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

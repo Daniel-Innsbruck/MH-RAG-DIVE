@@ -1,0 +1,38 @@
+{
+  "root_id": "bcf970a3-981e-4ac1-9dcd-683fae583070",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_29",
+    "text_snippet": "Kapitelüberschrift: Einrichtung und Schaffen der Voraussetzungen\nInhalt: 49\nAuthenticator App\nMit dieser Funktion wird eine App aktiviert, die am Mobiltelefon oder Tablet den zweiten Faktor der Authentifikation übernimmt. Diese App \nmuss zuvor auf Ihrem mobilen Gerät installiert werden. Unterstützt werden Apps, die das TOTP Verfahren verwenden.\nWir empfehlen, Microsoft Authenticator oder Google Authenticator zu verwenden.\nFür die Einrichtung gehen Sie wie folgt vor:\nAm Computer (Bildschirm)\nRufen Sie in k5|Next_Identity das Menü „Zwei-Faktor-Authentifizierung“ auf und wählen Sie  „Authenticator App hinzufügen“\nAm Smartphone (Handy)\nÖffnen Sie die App „Authenticator“ auf Ihrem Smartphone\nFügen Sie mit Plus (+) ein neues Konto hinzu\nWählen Sie „QR-Code scannen“\nEvtl. müssen Sie den Zugriff der Kamera extra erlauben - > wählen Sie „NUR DIESES MAL“\nScannen Sie den QR-Code, der am Bildschirm angezeigt wird\nDas neue k5|Next Konto ist in der Authenticator-App erstellt.\nÖffnen Sie das soeben erstellte Konto auf Ihrem Mobiltelefon\nAm Computer (Bildschirm)\nGeben Sie die sechsstellige Nummer im Feld „Code“ (1) ohne Abstand in der k5|Next_Identity Applikation ein. Zusätzlich können Sie \neinen Kommentar erfassen (2). Dies könnte z.B. die Bezeichnung der App sein, mit welcher die Authentifikation erfolgte (in diesem Fall \n„Microsoft Authenticator“).\nBestätigen Sie Ihre Eingaben\nSomit ist die Einrichtung abgeschlossen und die Anmeldung erfolgt ab sofort mittels Benutzername bzw. E-Mail-Adresse, Passwort und \nCode aus der Authenticator App.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 29,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_13",
+    "text_snippet": "Kapitelüberschrift: Systembenachrichtigungen\nInhalt: 16\nBenutzerprofil\nMit Klick auf Ihren Benutzernamen navigieren Sie direkt zu Ihrem Benutzereinstellungen.\nVon dort kommen Sie mit Klick auf „Benutzerprofil bearbeiten“ (1) in Ihr k5|Next_Identity, wo Ihre spezifischen Benutzereinstellungen \nabgelegt sind und eingerichtet bzw. geändert werden können. Die Links „Passwort ändern“ und „2FA verwalten“ können auch direkt geklickt \nwerden (1), Sie gelangen aber auch über Ihr Benutzerprofil zu diesen Einstellungen. Weiters können Sie ein Profilbild hochladen (2).\nMit Klick auf das Bleistift-Symbol unter „Persönliche Einstellungen“ (3) können Sie für Ihre k5|Next Umgebung eines der vorhanden \nFarbschemas wählen (Petrol, Orange, Cyan, Green) (4). Sind Sie für mehr als einen Mandanten berechtigt (das ist im Zuge von \nVerwaltungsgemeinschaften möglich), können Sie Ihren Start-Mandanten wählen (5). Sie sind dann nach Anmeldung in k5|Next für diesen \nMandanten aktiv. Voraussetzung dafür, für eine weitere Gemeinde berechtigt zu werden, ist, dass Sie den Parameter „für Administrierende \nsichtbar“ auf „ja“ gesetzt haben (6). (Das ist optional und per Standard auf „nein“, da in der Regel nicht notwendig.) Ein Feature für die \noptische Darstellung ist der Darkmode, der nach eigenen Belieben gesetzt werden kann (7).",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 13,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "k5|Next_Identity",
+    "Zwei-Faktor-Authentifizierung",
+    "Benutzerkonfiguration"
+  ],
+  "initial_question": {
+    "rag_input": "Wie navigiere ich von meinem Benutzernamen bis zum QR-Code für die Authenticator App?",
+    "question": "Wie navigiere ich von meinem Benutzernamen bis zum QR-Code für die Authenticator App?",
+    "answer": "Klicken Sie zuerst auf Ihren Benutzernamen und wählen Sie dann „Benutzerprofil bearbeiten“ oder direkt „2FA verwalten“, um in k5|Next_Identity zu gelangen. Dort öffnen Sie das Menü „Zwei-Faktor-Authentifizierung“ und klicken auf „Authenticator App hinzufügen“, woraufhin der QR-Code am Bildschirm angezeigt wird.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "k5|Next_Identity und Zwei-Faktor-Authentifizierung"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

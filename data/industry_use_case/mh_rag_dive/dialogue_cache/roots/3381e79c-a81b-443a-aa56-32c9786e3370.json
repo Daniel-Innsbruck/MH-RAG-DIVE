@@ -1,0 +1,38 @@
+{
+  "root_id": "3381e79c-a81b-443a-aa56-32c9786e3370",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_3",
+    "text_snippet": "Kapitelüberschrift: Suchen und Suchergebnis\nInhalt: 6\nPersonen und Kontaktdaten\nWie kann ich in k5|Next neue Personen oder Unternehmen anlegen?\nWie bearbeite ich Kontakte in k5Next_Kontakt?\nWas sind Standard-Kontakte und wofür werden sie benötigt?\nWas bedeutet es, wenn ich eine Adresse \"bevorzuge\"?\nWas ist eine manuelle Zustelladresse und wofür wir sie benötigt?\nWie organisiere und gruppiere ich Kontakte in k5Next_Kontakt?\nWarum sind meine ZMR-Daten nicht aktuell (rotes X, gelbes Dreieck)?\nZur FAQ Übersicht\nDie Anlage neuer Personen und Kontakte wird hier beschrieben.\nUm einen Kontakt zu bearbeiten, bewegen Sie einfach die Maus über den gewünschten Datensatz und rufen damit die \nBearbeitungsfunktion auf.\nStandardkontakte sind jene Kontakte, die als Kerndaten in der Zentralen Person für angebundene k5 Fachapplikationen zur Verfügung \nstehen. Details dazu finden Sie hier.\nDie Bevorzugung bewirkt, dass diese Adresse:\nals Zustelladresse in k5 Verfahren verwendet wird\nals Rechnungsadresse in k5 Finanzmanagement verwendet wird\nals Verknüpfungsadresse in k5 DMS hervorgehoben wird\nBesteht die Notwendigkeit, eine von HWS und NWS unterschiedliche (nicht dem ZMR entstammende) Adresse als Zustelladresse zu \nverwenden, kann diese in k5|Next_Kontakt manuell angelegt werden. Diese Adresse steht dann auch den angebundenen k5 \nFachanwendungen zur Verfügung.\nSie können Kontakte entweder durch Tags oder Gruppen organisieren:\nTags - helfen dabei, bestimmte Informationen oder Kategorien an Kontakte anzuhängen, um sie später leichter zu finden. Tags sind \nöffentlich und von jedem User einsehbar.\nGruppen - dienen dazu, Kontakte zu organisieren und gesammelt darzustellen. Gruppen können gesperrt oder mit anderen Usern \ngeteilt werden, sind aber grundsätzlich nicht jedem User zugänglich.\nWenn Ihre ZMR-Daten nicht auf dem aktuellsten Stand sind, kann das folgende Gründe haben:\nSie haben keine Zugangsdaten zu Ihrem Stammportal hinterlegt (Wie mache ich das?)\nDie hinterlegten Zugangsdaten zu Ihrem Stammportal sind falsch (z.B. Passwort wurde geändert)\nDie Rechte in Ihrem Stammportal reichen nicht aus (Ihr Administrator kann dies prüfen)",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 3,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_38",
+    "text_snippet": "Kapitelüberschrift: k5|Next Person\nInhalt: 60\nZMR-Abgleich\nDer tägliche Abgleich\nUm die Personen in der k5|Next_Person aktuell zu halten, wird täglich ein Abgleich durchgeführt.\nIm ZMR wird jede Nacht eine Datei mit Änderungen des Vortages erstellt. Darin sind nur Änderungen jener Personen enthalten, die in der \neigenen Gemeinde wohnhaft sind.\nDer erste Benutzer des Tages, der die entsprechende Berechtigung hat, triggert das Abholen dieser Datei(en) an. Der erste Benutzer kann \nsowohl ein Benutzer der angebundenen Fachanwendungen sein (z.B. k5 Finanzmanagement) oder auch ein Benutzer, der direkt in die \nk5|Next Oberfläche einsteigt (Kontaktmanagement oder Wahl).\n(1) Die Ansicht ZMR-Abgleich ist nur für Benutzer sichtbar, die von ihrem Gemeindeadministrator das Recht Informationen von ZMR-\nAbgleich lesen erhalten haben.\nIn dieser Liste ist ersichtlich, wann der letzte ZMR-Abgleich durchgeführt wurde und ob dieser erfolgreich durchgelaufen ist.\n(2) Die Details geben zusätzliche Informationen zu den einzelnen Schritten des Abgleichs. Gerade bei Fehlern können diese Details auf die \nFehlerursache hinweisen.\nSolange sich kein Benutzer mit entsprechender Berechtigung anmeldet (Relevant ist hier ein Stammportal-Benutzer mit ZMR-\nLeseberechtigung), wird auch kein Abgleich durchgeführt. Sind seit dem letzten Abgleich mehrere Tage vergangen, werden alle offenen \n(also nicht abgeholten) Abgleichsdateien abgeholt und verarbeitet.\nDieser Mechanismus funktioniert, solange zwischen den Abgleichen nicht mehr als 30 Tage liegen. Wurde ein Abgleich 30 Tage nicht mehr \ndurchgeführt, muss ein Gesamtabgleich durchgeführt werden.\nDer Gesamtabgleich\nBei einem Gesamtabgleich werden alle registergebundenen natürlichen Personen gegen das ZMR abgeglichen und aktualisiert. Danach \nwird der Mechanismus des täglichen Abgleichs wieder angestoßen.\nDer Gesamtabgleich wird in der Ansicht ZMR-Abgleich gestartet (3) und ist nur für die Benutzer sichtbar, die von ihrem \nGemeindeadministrator das Recht ZMR-Gesamtabgleich durchführen erhalten haben. Analog zum ZMR-Abgleich kann ein \nGesamtabgleich nur dann erfolgreich durchgeführt werden, wenn ein Stammportal-Benutzer mit entsprechender Berechtigung hinterlegt ist.\nEs stehen unterschiedliche Abgleichsvarianten zur Verfügung. \n(1) Abgleich aller natürlicher Personen mit dem ZMR",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 38,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "ZMR-Datenaktualität",
+    "Voraussetzungen für ZMR-Abgleiche",
+    "Stammportal-Zugangsdaten"
+  ],
+  "initial_question": {
+    "rag_input": "Welche Stammportal-Voraussetzungen müssen erfüllt sein, um veraltete ZMR-Daten (rotes X) durch einen Gesamtabgleich zu aktualisieren?",
+    "question": "Welche Stammportal-Voraussetzungen müssen erfüllt sein, um veraltete ZMR-Daten (rotes X) durch einen Gesamtabgleich zu aktualisieren?",
+    "answer": "Es müssen die korrekten Zugangsdaten zum Stammportal hinterlegt sein und der dort hinterlegte Stammportal-Benutzer muss über ausreichende Berechtigungen (wie etwa die ZMR-Leseberechtigung) verfügen.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Stammportal-Zugangsdaten"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

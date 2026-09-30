@@ -1,0 +1,38 @@
+{
+  "root_id": "b6d664e7-021c-4e03-a8fb-5ed0e23bce7b",
+  "chunk_a": {
+    "id": "k5_Next_Basis#chunk_4",
+    "text_snippet": "Kapitelüberschrift: Mandantenverwaltung\nInhalt: 10\nFehlerhandling\nIch sehe im Menü keine bzw. nicht alle Module, was nun?\nDer ZMR-/ UR-/ GWR-Abgleich und/oder Zugriff auf zentrale Register funktioniert nicht, was nun?\nZur FAQ Übersicht\n \nÜberprüfen Sie, ob:\ndie gewünschten Module von Ihrer Gemeinde lizensiert wurden\nIhr Gemeinde-Administrator die notwendigen Rollen für Sie vergeben hat\nÜberprüfen Sie, ob Sie:\nIhren entsprechenden Portalverbunds-User bei Ihren Zugängen für andere Anwendungen eingetragen haben (Stammportal / \nKommunalnet / Portal Vorarlberg)\nvon Ihrem Gemeinde-Administrator die entsprechenden Rechte im jeweiligen Portalverbund erhalten haben",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 4,
+    "total_chunks": 54
+  },
+  "chunk_b": {
+    "id": "k5_Next_Kontakt#chunk_11",
+    "text_snippet": "Kapitelüberschrift: Menü\nInhalt: 14\nModule\nIm Menü werden alle Module angezeigt, für die Sie von Seiten des Dienstleisters und Ihres Gemeine-Administrators freigeschaltet und \nberechtigt wurden. Per Standard immer angezeigt werden Home und Konfiguration. Die Anzeige aller weiteren Module wird entsprechend \nIhren vorhandenen Rechten gesteuert.\nDamit Sie ein Modul verwenden können, muss\nIhre Gemeinde das Modul in Form eines aktiven Wartungsvertrags bestellt haben\nIhr Gemeinde-Administrator für Sie die dafür erforderliche Rolle (diese muss die notwendigen Rechte einschließen) vergeben haben",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 11,
+    "total_chunks": 38
+  },
+  "t_bridge": [
+    "Berechtigungskonzept für Modulzugriff",
+    "Rolle des Gemeinde-Administrators bei der Rechtevergabe",
+    "Voraussetzungen für die Modulsichtbarkeit im Menü"
+  ],
+  "initial_question": {
+    "rag_input": "Welche Punkte muss ich prüfen, wenn in meinem Menü nur 'Home' und 'Konfiguration' sichtbar sind?",
+    "question": "Welche Punkte muss ich prüfen, wenn in meinem Menü nur 'Home' und 'Konfiguration' sichtbar sind?",
+    "answer": "Da 'Home' und 'Konfiguration' die einzigen Standardmodule sind, bedeutet dies, dass Ihre restlichen Module fehlen. Sie müssen prüfen, ob: \n1. Ihre Gemeinde die gewünschten Module lizensiert bzw. in Form eines aktiven Wartungsvertrags bestellt hat.\n2. Ihr Gemeinde-Administrator Ihnen die dafür erforderlichen Rollen zugewiesen hat.\n3. Ihr Portalverbunds-User bei Ihren Zugängen für andere Anwendungen (wie Stammportal, Kommunalnet oder Portal Vorarlberg) eingetragen ist.\n4. Sie vom Gemeinde-Administrator die entsprechenden Rechte im jeweiligen Portalverbund erhalten haben.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Voraussetzungen für die Modulsichtbarkeit im Menü"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "cb800fda-5569-4f85-ba77-617a1e1e8150",
+  "chunk_a": {
+    "id": "k5_Next_Kontakt#chunk_30",
+    "text_snippet": "Kapitelüberschrift: Adressen hinzufügen und bevorzugen\nInhalt: 37\nKontaktdaten hinzufügen und ändern\nUm Ihren Kontakten Kontaktdaten hinzuzufügen, gehen Sie wie folgt vor:\nSuchen Sie die entsprechende Kontaktperson über die Schnellsuche oder Detailsuche und öffnen Sie den Detailbereich mittels Klicks \nauf \n (bearbeiten)\nIm Detailbereich des Kontaktes finden Sie mehrere Registerkarten mit diversen Informationen über den ausgewählten Kontakt vor. In der \nRegisterkarte „Kontakt“ (1) finden Sie den Bereich „Kontaktdaten“ in welchem Sie mittels Klicks auf \n (2) eine Kontaktart hinzufügen \nkönnen.\nSie können aus folgenden Kontaktkategorien wählen: Telefon, Mobil, Fax, E-Mail oder Website\nNach Eingabe der Pflichtfelder (1) und optionalen Angaben (2) bestätigen Sie die Anlage mit “Speichern”. Als Änderungsgrund wird \nbereits ein Vorschlag angeboten, den Sie übernehmen können.\nEs können weitere Kontakte der selben Kategorie erfasst werden. Diese stehen dann im Kontaktmanagement zur Verfügung, werden aber \nnicht an die angebundenen k5 Fachapplikationen weitergeleitet.\nDie Kontaktdaten werden ab sofort im Detailbereich des Kontakts angezeigt.\nDer erste Eintrag einer der Kontaktarten Telefon, Mobil, Fax oder E-Mail wird als Standardkontakt gesetzt. Standardkontakte werden \nüber die Zentrale Person an die Fachapplikationen verteilt und abgeglichen.\nUm eine Standard E-Mail-Adresse zu erfassen, muss mindestens ein Zustimmungsbereich gesetzt werden.",
+    "article_id": "k5_Next_Kontakt",
+    "article_title": "k5_Next_Kontakt",
+    "chunk_index": 30,
+    "total_chunks": 38
+  },
+  "chunk_b": {
+    "id": "k5_Next_Basis#chunk_2",
+    "text_snippet": "Kapitelüberschrift: Sie haben Fragen? (FAQ)\nInhalt: 7\nBenutzerverwaltung\nGibt es Grundvoraussetzungen für die Useranlage in k5|Next?\nWie wird ein neuer User in k5|Next angelegt und aktiviert?\nMein Aktivierungslink ist nicht mehr gültig, wie kann ich ihn erneut anfordern?\nKann ein User in k5|Next ohne E-Mail-Adresse angelegt werden?\nKann eine E-Mail-Adresse in k5|Next für mehrere User verwendet werden?\nMeine E-Mail Adresse hat sich geändert. Was ist zu tun?\nIch habe mein Passwort vergessen, wie kann ich es zurücksetzen?\nMein Benutzer wurde aufgrund zu vieler Anmeldeversuche gesperrt. Wie kann ich ihn entsperren?\nWie kann ich meine 2FA-Methode zurücksetzen?\nKann ich für meinen User mehr als eine 2FA-Methode einrichten?\nKann ich die ID-Austria für mehrere Benutzer verwenden, z.B. für den Administrator und Fach-User?\nWo werden die Zugangsdaten für andere Anwendungen (z.B. Stammportale) eingetragen?\nWie wird ein User in k5|Next für Funktionen bzw. Module berechtigt?\nJa. Um einen neuen User in k5|Next anlegen zu können, wird eine E-Mail-Adresse benötigt, deren Postfach eindeutig dieser Person \nzugeordnet ist. Das kann auch eine (lesende) Alias-Adresse sein, die dem selben Postfach zugeordnet ist.\nDie Useranlage obliegt dem Gemeinde-Administrator und wird hier beschrieben. Der neue User erhält eine Aktivierungsmail und kann \ndie Useraktivierung durchführen.\nSie können direkt im Aktivierungsfenster eine neue E-Mail mit einem gültigen Aktivierungslink anfordern.\nNein. Eine eindeutig dieser Person zugeordnete E-Mail-Adresse ist Grundvoraussetzung für die Useranlage.\nNein. Die E-Mail-Adresse ist in k5|Next Benutzername und ID. Sie darf nur einmal vorkommen und kann demnach nur einem User \nzugeordnet werden.\nDer Gemeinde-Administrator hat die Möglichkeit, die E-Mail Adressen aller User zu ändern. Das passiert in der Benutzerverwaltung \nunter Benutzer - Bearbeiten - Benutzer bearbeiten. Sobald die E-Mail Adresse geändert wurde, erhält der entsprechende User eine \nInfo-Mail und muss die Änderung bestätigen. Fortan dient die neue E-Mail Adresse als Benutzername für die Anmeldung.\nKlicken Sie in der Anmeldemaske zur Passworteingabe auf “Passwort vergessen?”. Per E-Mail erhalten Sie einen Link, mit dem Sie Ihr \nPasswort neu vergeben können.\nIhr Benutzer wird automatisch nach 30 Minuten entsperrt. Es ist keine weitere Aktion erforderlich.\nIhr Gemeinde-Administrator kann für jeden User der eigenen Organisation (Anwender oder Administrator) vorhandene 2FA-Methoden \nzurücksetzen. Beim nächsten Einstieg in k5|Next landen Sie in Ihrer Benutzerverwaltung und können dort eine neue 2FA-Variante \nverknüpfen.\nJa. Gemeinde-Administratoren sollten das in jedem Fall machen, da sonst bei Wegfall eines Faktors kein Einstieg in k5|Next mehr \nmöglich ist.\nNein. Die ID-Austria kann nur einmal verwendet werden und kann daher nur einem Benutzer zugeordnet werden.\nDiese Zugangsdaten werden in k5|Next_Identity eingetragen.",
+    "article_id": "k5_Next_Basis",
+    "article_title": "k5_Next_Basis",
+    "chunk_index": 2,
+    "total_chunks": 54
+  },
+  "t_bridge": [
+    "Rolle der E-Mail-Adresse in k5",
+    "Systemweite Konsistenz von Kontaktdaten",
+    "Unterscheidung zwischen Benutzerverwaltung und Kontaktmanagement"
+  ],
+  "initial_question": {
+    "rag_input": "Welchen unterschiedlichen Zweck erfüllt eine E-Mail-Adresse bei der Benutzeranlage im Vergleich zu einem Standardkontakt?",
+    "question": "Welchen unterschiedlichen Zweck erfüllt eine E-Mail-Adresse bei der Benutzeranlage im Vergleich zu einem Standardkontakt?",
+    "answer": "Bei der Anlage eines Benutzers ist die E-Mail-Adresse zwingende Voraussetzung, da sie als eindeutiger Benutzername und ID fungiert und nur einem einzigen User zugeordnet werden darf. Bei einem Standardkontakt hingegen dient die E-Mail-Adresse dazu, über die Zentrale Person an angebundene k5 Fachapplikationen verteilt und abgeglichen zu werden, wofür mindestens ein Zustimmungsbereich gesetzt sein muss.",
+    "type": "Initial",
+    "logic_type": "comparison",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Rolle der E-Mail-Adresse in k5"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

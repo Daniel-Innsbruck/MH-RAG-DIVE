@@ -1,0 +1,38 @@
+{
+  "root_id": "787ab01d-4c3a-439c-b981-dc3d54c5234f",
+  "chunk_a": {
+    "id": "827768242#chunk_6",
+    "text_snippet": "Title: History of United States prison systems\nSection(s): Early settlement, convict transportation, and the prisoner trade\n\nThe prisoner trade became the \"moving force\" of English colonial policy after the Restoration—i.e., from the summer of 1660 onward—according to  By 1680, the Reverend Morgan Godwyn estimated that almost 10,000 persons were spirited away to the Americas annually by the English crown.\n\nParliament accelerated the prisoner trade in the eighteenth century. Under England's Bloody Code, a large portion of the realm's convicted criminal population faced the death penalty. But pardons were common. During the eighteenth century, the majority of those sentenced to die in English courts were pardoned—often in exchange for voluntary transport to the colonies. In 1717, Parliament empowered the English courts to directly sentence offenders to transportation, and by 1769 transportation was the leading punishment for serious crime in Great Britain. Over two-thirds of those sentenced during sessions of the Old Bailey in 1769 were transported. The list of \"serious crimes\" warranting transportation continued to expand throughout the eighteenth century, as it had during the seventeenth. Historian A. Roger Ekirch estimates that as many as one-quarter of all British emigrants to colonial America during the 1700s were convicts. In the 1720s, James Oglethorpe settled the colony of Georgia almost entirely with convict settlers.\n\nThe typical transported convict during the 1700s was brought to the North American colonies on board a \"prison ship.\" Upon arrival, the convict's keepers would bathe and clothe him or her (and, in extreme cases, provide a fresh wig) in preparation for a convict auction. Newspapers advertised the arrival of a convict cargo in advance, and buyers would come at an appointed hour to purchase convicts off the auction block.\n\nthumb|200px|The Old Newgate Prison in London was one of many detention centers that facilitated the convict trade between England and its American colonies during the 17th and 18th centuries.\n\nPrisons played an essential role in the convict trade. Some ancient prisons, like the Fleet and Newgate, still remained in use during the high period of the American prisoner trade in the eighteenth century. But more typically an old house, medieval dungeon space, or private structure would act as a holding pen for those bound for American plantations or the Royal Navy (under impressment). Operating clandestine prisons in major port cities for detainees whose transportation to the New World was not strictly legal, became a lucrative trade on both sides of the Atlantic in this period. Unlike contemporary prisons, those associated with the convict trade served a custodial, not a punitive function.",
+    "article_id": "827768242",
+    "article_title": "History of United States prison systems",
+    "chunk_index": 6,
+    "total_chunks": 42
+  },
+  "chunk_b": {
+    "id": "837238085#chunk_2",
+    "text_snippet": "Title: Impact of geography on colonial America\nSection(s): Trade goods, Southern colonies, Geography\n\nThere were considerable differences between the New England, Middle and Southern regions. Economic activities and trade was dependent of the environment in which the Colonists lived. The geography and climate impacted the trade and economic activities of Middle Colonies. The Middle Colonies exported agricultural products and natural resources. The Middle colonies are often called the breadbasket colonies because they grew so many crops, especially wheat. The Middle colonies built flour mills where wheat was ground into flour, then shipped to England. A typical farm was 50 to 150 acres consisting of a house, barn, yard and fields.  The Middle Colonies were also able to manufacture iron ore products such as plows, tools, kettles, nails and large blocks of iron which they exported to England. Cottage industries such as weaving, shoe-making, cabinetmaking, and other crafts were prominent in middle colonies, particularly Pennsylvania.\n\nThe Middle Colonies were in the prime location for the growth of grains. A predominate feature of the region is the Coastal Plain. This region had humid summers and temperate winters which is prime conditions for agriculture. Due to the climate of temperate summers, the grains were allowed to grow for longer periods of time. In the north, the winters were much too harsh to grow these grains. These grains were then exported to other Colonies due to its prime location to the ocean. The climate was prime for these grains which is a direct correlation to how geography relates to trade goods in the Middle Eastern Colonies.\n\nthumb|Location of Jamestown, Virginia\nThe southern British colonies in North America were the Colony of Virginia, Province of North Carolina, Province of South Carolina, and Province of Georgia. The first successful English colony in N. America was Jamestown, established off the Chesapeake Bay in 1607. In 1668 King Charles II granted the Carolina charter to eight Lords Proprietor. Georgia was not established as colony until 1732 under a charter granted to James Oglethorpe by King George II.\n\nLocated between 40 degrees and 30 degrees latitude, the physiographic makeup of the southern colonies is generally divided into three regions. The Atlantic Coastal Plain (divided into two parts; the Inner Coastal Plain and the Tidewater), the Piedmont, and the Blue Ridge Mountains and Appalachian mountain regions.\n\nThe Atlantic Coastal plains developed over the last 6,000 years, flattening out via the global flood as well as the transportation of sediment by river systems from the Appalachian Mountains. Crisscrossed by these river systems, the area became known as the Tidewater region due to the noticeable effect of the ocean's tides on the rivers that run through it.\n\nFrench for \"foothills\", the Piedmont is characterized by rolling hills stretching between the coastal plain and the Blue Ridge Mountains. It is separated from the coastal plain by the \"fall line\", line where elevation falls noticeably, and is the sight of many waterfalls on the rivers in the region.\n\nThe Blue Ridge Mountains is a specific region of the Appalachians. The ridgeline of the mountains varies from being 5 to 65 miles wide, with peaks averaging around 2000 to 4000 ft above sea level. The area is covered in forests with hundreds of species of trees found within the range, and today are a source of timber. Beyond the Blue mountains continues the rest of the Appalachians, except in Virginia where the Shenandoah valley opens up.",
+    "article_id": "837238085",
+    "article_title": "Impact of geography on colonial America",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  "t_bridge": [
+    "James Oglethorpe",
+    "Georgia colony",
+    "Convict transportation to British colonies in North America"
+  ],
+  "initial_question": {
+    "rag_input": "Who granted the charter for the colony James Oglethorpe settled almost entirely with convicts in the 1720s?",
+    "question": "Who granted the charter for the colony James Oglethorpe settled almost entirely with convicts in the 1720s?",
+    "answer": "King George II granted the charter for the colony of Georgia in 1732.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "James Oglethorpe and the Georgia colony"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

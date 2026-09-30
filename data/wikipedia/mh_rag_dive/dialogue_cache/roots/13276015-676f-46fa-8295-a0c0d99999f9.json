@@ -1,0 +1,39 @@
+{
+  "root_id": "13276015-676f-46fa-8295-a0c0d99999f9",
+  "chunk_a": {
+    "id": "852859365#chunk_0",
+    "text_snippet": "Title: First Battle of Bull Run\nSection(s): Introduction, Military and political situation\n\nthumb|300px|Virginia (1861)\nthumb|300px|Northeastern Virginia (1861)\n\nThe First Battle of Bull Run (the name used by Union forces), also known as the First Battle of Manassas (the name used by Confederate forces), was fought on July 21, 1861 in Prince William County, Virginia, just north of the city of Manassas and about 25 miles west-southwest of Washington, D.C. It was the first major battle of the American Civil War. The Union's forces were slow in positioning themselves, allowing Confederate reinforcements time to arrive by rail. Each side had about 18,000 poorly trained and poorly led troops in their first battle. It was a Confederate victory, followed by a disorganized retreat of the Union forces.\n\nJust months after the start of the war at Fort Sumter, the  Northern public clamored for a march against the Confederate capital of Richmond, Virginia, which was expected to bring an early end to the rebellion. Yielding to political pressure, Brig. Gen. Irvin McDowell led his unseasoned Union Army across Bull Run against the equally inexperienced Confederate Army of Brig. Gen. P. G. T. Beauregard camped near Manassas Junction. McDowell's ambitious plan for a surprise flank attack on the Confederate left was poorly executed by his officers and men; nevertheless, the Confederates, who had been planning to attack the Union left flank, found themselves at an initial disadvantage.\n\nConfederate reinforcements under Brig. Gen. Joseph E. Johnston arrived from the Shenandoah Valley by railroad, and the course of the battle quickly changed. A brigade of Virginians under the relatively unknown brigadier general from the Virginia Military Institute, Thomas J. Jackson, stood its ground, which resulted in Jackson receiving his famous nickname, \"Stonewall\". The Confederates launched a strong counterattack, and as the Union troops began withdrawing under fire, many panicked and the retreat turned into a rout. McDowell's men frantically ran without order in the direction of Washington, D.C.\n\nBoth armies were sobered by the fierce fighting and many casualties, and realized that the war was going to be much longer and bloodier than either had anticipated. The Battle of First Bull Run highlighted many of the problems and deficiencies that were typical of the first year of the war. Units were committed piecemeal, attacks were frontal, infantry failed to protect exposed artillery, tactical intelligence was nil, and neither commander was able to employ his whole force effectively. McDowell, with 35,000 men, was only able to commit about 18,000, and the combined Confederate forces, with about 32,000 men, committed only 18,000.\n\nOpposing political leaders\n\nthumb|400px|Northern Virginia Theater in July 1861\n\nFurther map details, see: Additional Map 1 and Additional Map 2.",
+    "article_id": "852859365",
+    "article_title": "First Battle of Bull Run",
+    "chunk_index": 0,
+    "total_chunks": 18
+  },
+  "chunk_b": {
+    "id": "835214350#chunk_0",
+    "text_snippet": "Title: American Civil War\nSection(s): Introduction\n\nThe American Civil War (also, known by other names) was a civil war that was fought in the United States from 1861 to 1865. As a result of the long-standing controversy over slavery, war broke out in April 1861, when Confederate forces attacked Fort Sumter in South Carolina, shortly after U.S. President Abraham Lincoln was inaugurated. The nationalists of the Union proclaimed loyalty to the U.S. Constitution. They faced secessionists of the Confederate States, who advocated for states' rights to expand slavery.\n\nAmong the 34 U.S. states in February 1861, seven Southern slave states individually declared their secession from the U.S. to form the Confederate States of America, or the South. The Confederacy grew to include eleven slave states. The Confederacy was never diplomatically recognized by the United States government, nor was it recognized by any foreign country (although the United Kingdom and France granted it belligerent status). The states that remained loyal to the U.S. (including the border states where slavery was legal) were known as the Union or the North.\n\nThe Union and Confederacy quickly raised volunteer and conscription armies that fought mostly in the South over four years. The Union finally won the war when General Robert E. Lee surrendered to General Ulysses S. Grant at the Battle of Appomattox Court House, followed by a series of surrenders by Confederate generals throughout the southern states. Four years of intense combat left 620,000 to 750,000 people dead, more than the number of U.S. military deaths in all other wars combined (at least until approximately the Vietnam War). Much of the South's infrastructure was destroyed, especially the transportation systems, railroads, mills, and houses. The Confederacy collapsed, slavery was abolished, and 4 million slaves were freed. The Reconstruction Era (1863–1877) overlapped and followed the war, with the process of restoring national unity, strengthening the national government, and granting civil rights to freed slaves throughout the country. The Civil War is the most studied and written about episode in U.S. history.",
+    "article_id": "835214350",
+    "article_title": "American Civil War",
+    "chunk_index": 0,
+    "total_chunks": 26
+  },
+  "t_bridge": [
+    "First Battle of Bull Run",
+    "American Civil War",
+    "Confederate military strategy",
+    "Impact of early Civil War battles"
+  ],
+  "initial_question": {
+    "rag_input": "What was the first major battle after the April 1861 attack in South Carolina?",
+    "question": "What was the first major battle after the April 1861 attack in South Carolina?",
+    "answer": "The first major battle following the April 1861 attack in South Carolina (the attack on Fort Sumter) was the First Battle of Bull Run, which took place on July 21, 1861.",
+    "type": "Initial",
+    "logic_type": "temporal",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Impact of early Civil War battles"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

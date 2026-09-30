@@ -1,0 +1,39 @@
+{
+  "root_id": "79b44b18-cc56-4f15-800b-8192706c9c6b",
+  "chunk_a": {
+    "id": "805006160#chunk_1",
+    "text_snippet": "Title: Look What You Made Me Do\nSection(s): Composition, Critical reception\n\n\"Look What You Made Me Do\" is performed in the key of A minor with a tempo of 128 beats per minute. Swift's vocals span from G3 to F5.\n\nCritic Brittany Spanos of Rolling Stone noted a \"nightmarish aesthetic\" present in the song, and believed it to be a continuation of the \"antagonistic persona\" from \"Bad Blood\".\n\nRichard Fairbrass, Fred Fairbrass and Rob Manzoli, the members of the British dance-pop group Right Said Fred, are credited as songwriters because the song interpolates the melody of their song \"I'm Too Sexy\". According to Fred Fairbrass, he and his brother were contacted one week before the release of \"Look What You Made Me Do\" and were asked whether a \"big, contemporary female artist who hasn't released anything for a while\" – whose identity they were not told – would be able to use a portion of their song for her latest single. Although the brothers agreed to a deal, they did not officially find out that the artist in question was Swift until the morning after the song was released, but had deduced that it was her based on the description they were given. Both of the Fairbrass brothers said that they enjoyed \"Look What You Made Me Do\"; Fred Fairbrass told Rolling Stone, \"I like the cynical aspect of the lyric, because 'I'm Too Sexy' is a cynical song, and I think she channeled that quite well.\" A representative for Swift confirmed that the song interpolated the melody from \"I'm Too Sexy\", but did not include sampled audio from the earlier song.\n\n\"Look What You Made Me Do\" received a mixed reception from critics, with some praising the song as a welcomed dark departure from her earlier work, and others writing it off as petty and vengeful. USA Today said that the polarizing reaction to the song illustrated Swift's position as a \"ubiquitous cultural force\". The Telegraph Randy Lewis praised the song, deeming Swift and Antonoff's work as \"blow[ing] past the production clichés of clap tracks and hiccuped syllabic hooks that have proliferated across Top 40 fare in recent years with boldly inventive textures and fresh melodic, rhythmic and sonic accents\". He also added how the track musically and sonically shifted alongside the lyrics. Sarah Carson of the Los Angeles Times wrote a positive review of the song, saying: \"The reverberating crescendo builds and ever more delicious is the wickedness of Swift's menacing protagonist\", praising Swift for her successful embrace of the villain character the media has portrayed her as previous to the song's release. Varietys Chris Willman also praised Swift's embrace of a darker-styled pop music and the stylistic conflict between the song's pre-chorus and chorus. Mark Harris, in New York magazine's pop culture blog, thought of Swift's song as a pop art anthem for the Trump era in how she reappropriates her public feuds as empowering badges of honor without acknowledging her own responsibility or blame.",
+    "article_id": "805006160",
+    "article_title": "Look What You Made Me Do",
+    "chunk_index": 1,
+    "total_chunks": 6
+  },
+  "chunk_b": {
+    "id": "845699215#chunk_4",
+    "text_snippet": "Title: Runaway (Kanye West song)\nSection(s): Critical response\n\nKitty Empire of The Guardian complimented the scope of the track, stating \"taking things to the next level is one of hip-hop's great cliches, an achievement that West can comfortably claim. Being both a hero and something of a jackass all at the same time? That's another thing entirely.\" Rolling Stone writer Rob Sheffield praised the ending of the song, writing that it came up at a point of the song when the song has already \"sealed itself in your brain\", summarizing that \"there’s no way it should work, but it keeps rolling for three more minutes without breaking the spell.\" David Browne of Time stated that the song, much like \"Lost in the World\", feature \"shimmering soundscapes that pinpoint a common ground between the hardness of hip-hop and the sweetness of indie rock.\"\n\nSputnikmusic's Channing Freeman viewed that while the album featured a number of songs longer than five minutes in duration, \"they all feel incredibly lean and devoid of bullshit\". Freeman stated that the track primarily \"slides right by because of its gorgeous beat and Kanye's excellent vocals (808s-style singing sans autotune plus laid-back rapping), and the instrumental second half of the song is beautiful.\" HipHopDX writer complimented the track, calling it an \"anthem\", writing that it contained some of West's simplest and most melodic production. AbsolutePunk's Drew Beringer reported that track embodied the \"electronic melancholy of 808s & Heartbreak\" and cited the song as an example of the grandiose song composition featured on the album. Andrew Barber of Complex called the song a \"centerpiece\", describing it as \"Kanye’s toast to all the douchebags, assholes and scumbags resonated with even the biggest Kanye haters, putting the Louis Vuitton Don back in the world’s good graces.\" Kyle Anderson of MTV News proposed that the song was the best single of West's career, writing \"but there's something about 'Runaway' that makes it feel just a little bit more special, like it could really end up in the pantheon of great hip-hop moments\".\n\n\"Runaway\" was included in a number of end of 2010 lists. Rolling Stone named \"Runaway\" the best song of 2010, commenting that it was \"Kanye's musical response to the Taylor Swift affair, but it's much more than that: a nine-minute meditation on romantic failure and public infamy. Kanye creates a huge, eerie beat out of thunderous drums and plinking piano.\" They ended the article with the comment, \"in 2010, no other song was so crazily epic or jaw-droppingly gorgeous — not on the radio, not anywhere.\" Kyle Anderson, writing for MTV, named it the 2nd Best Song of 2010, stating that the track began with a \"haunting single tap of a piano key, kicking off one of the most epic, jaw-dropping, honest and thrilling pieces of music to hit the popular airwaves all year\". Pitchfork Media named it the second-best song of 2010 stating that \"Runaway\" puts \"Kanye's contradictory impulses on full display like they're some immaculate museum exhibit. At nine minutes, it is My Beautiful Dark Twisted Fantasys longest song, but also its simplest and most emotionally direct [...] 'Runaway' marks the rare moment where Kanye sides with his detractors — if the whole world thinks he's a douchebag, well, this one time he's inclined to agree.\"",
+    "article_id": "845699215",
+    "article_title": "Runaway (Kanye West song)",
+    "chunk_index": 4,
+    "total_chunks": 8
+  },
+  "t_bridge": [
+    "Taylor Swift",
+    "Public feuds in pop culture",
+    "Critical reception of controversial pop music",
+    "The Kanye West–Taylor Swift affair"
+  ],
+  "initial_question": {
+    "rag_input": "Which 2010 song did Rolling Stone call a response to the affair involving the artist who interpolated 'I'm Too Sexy'?",
+    "question": "Which 2010 song did Rolling Stone call a response to the affair involving the artist who interpolated 'I'm Too Sexy'?",
+    "answer": "The song is 'Runaway' by Kanye West. Context A establishes that Taylor Swift is the artist whose song 'Look What You Made Me Do' interpolated the melody from Right Said Fred's 'I'm Too Sexy'. Context B notes that Rolling Stone named 'Runaway' the best song of 2010, describing it as Kanye's musical response to the Taylor Swift affair.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "The Kanye West–Taylor Swift affair"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "root_id": "bb027651-9960-46d2-807e-deb3076b545f",
+  "chunk_a": {
+    "id": "826060451#chunk_1",
+    "text_snippet": "Title: Horse latitudes\nSection(s): Etymology, Cultural references\n\nAn alternative theory, of sufficient popularity to serve as an example of folk etymology, is that the term horse latitudes originates from when the Spanish transported horses by ship to their colonies in the West Indies and Americas. Ships often became becalmed in mid-ocean in this latitude, thus severely prolonging the voyage; the resulting water shortages made it impossible for the crew to keep the horses alive, and they would throw the dead or dying animals overboard.\n\nA third explanation, which simultaneously explains both the northern and southern horse latitudes and does not depend on the length of the voyage or the port of departure, is based on maritime terminology: a ship was said to be 'horsed' when, although there was insufficient wind for sail, the vessel could make good progress by latching on to a strong current. This was suggested by Edward Taube in his article \"The Sense of \"Horse\" in the Horse Latitudes\" (Journal of Geography, October 1967). He argued the maritime use of 'horsed' described a ship that was being carried along by an ocean current or tide in the manner of a rider on horseback. The term had been in use since the end of the seventeenth century. Furthermore, The India Directory  in its entry for Fernando de Noronha, an island off the coast of Brazil, mentions it had been visited frequently by ships \"occasioned by the currents having horsed them to the westward\".\n\n\"Horse Latitudes,\" The Doors song, a spoken-word piece written by Jim Morrison, from their second album, Strange Days, (1967), evokes the second explanation above. Morrison wrote the prose piece when he was 12 years old.",
+    "article_id": "826060451",
+    "article_title": "Horse latitudes",
+    "chunk_index": 1,
+    "total_chunks": 2
+  },
+  "chunk_b": {
+    "id": "833160392#chunk_28",
+    "text_snippet": "Title: Conquistador\nSection(s): Ship design, Winds and currents, Cartography\n\nLong oceanic voyages led to larger ships. \"Nau\" was the Portuguese archaic synonym for any large ship, primarily merchant ships. Due to the piracy that plagued the coasts, they began to be used in the navy and were provided with cannon windows, which led to the classification of \"naus\" according to the power of its artillery. The carrack or nau was a three- or four-masted ship. It had a high rounded stern with large aftcastle, forecastle and bowsprit at the stem. It was first used by the Portuguese, and later by the Spanish. They were also adapted to the increasing maritime trade. They grew from 200 tons capacity in the 15th century to 500. In the 16th century they usually had two decks, stern castles fore and aft, two to four masts with overlapping sails. In India travels in the sixteenth century used carracks, large merchant ships with a high edge and three masts with square sails, that reached 2,000 tons.\n\nthumb|180px|right|Map of the five major oceanic gyres\nBesides coastal exploration, Portuguese ships also made trips further out to gather meteorological and oceanographic information. These voyages revealed the archipelagos of Bissagos Islands where the Portuguese were defeated by native people in 1535, Madeira, the Azores, Cape Verde, Sao Tome, Trindade and Martim Vaz, Saint Peter and Saint Paul Archipelago, Fernando de Noronha, Corisco, Elobey Grande, Elobey Chico Annobon Island, Ascension Island, Bioko Island, Falkland Islands, Principe Island, Saint Helena Island, Tristan da Cunha Island and Sargasso Sea.\n\nThe knowledge of wind patterns and currents, the trade winds and the oceanic gyres in the Atlantic, and the determination of latitude led to the discovery of the best ocean route back from Africa: crossing the Central Atlantic to the Azores, using the winds and currents that spin clockwise in the Northern Hemisphere because of atmospheric circulation and the effect of Coriolis, facilitating the way to Lisbon and thus enabling the Portuguese to venture farther from shore, a manoeuvre that became known as the \"volta do mar\" (return of the sea). In 1565, the application of this principle in the Pacific Ocean led the Spanish discovering the Manila Galleon trade route.\n\nthumb| Portolan of Angelino Dulcert (1339) showing Lanzarote island\n\nIn 1339 Angelino Dulcert of Majorca produced the portolan chart map. Evidently drawing from the information provided in 1336 by Lanceloto Malocello sponsored by King Dinis of Portugal. It showed Lanzarote island, named Insula de Lanzarotus Marocelus and marked by a Genoese shield, as well as the island of Forte Vetura (Fuerteventura) and Vegi Mari (Lobos), although Dulcert also included some imaginary islands himself, notably Saint Brendan's Island, and three islands he names Primaria, Capraria and Canaria.\n\nMestre Jacome was a Majorcan cartographer induced by Portuguese prince Henry the Navigator to move to Portugal in the 1420s to train Portuguese map-makers in Majorcan-style cartography. 'Jacome of Majorca' is even sometimes described as the head of Henry's observatory and \"school\" at Sagres.\nthumb|left|Pre-mercator navigation chart of the Coast of Africa (1571), by Fernão Vaz Dourado (Torre do Tombo, Lisbon)",
+    "article_id": "833160392",
+    "article_title": "Conquistador",
+    "chunk_index": 28,
+    "total_chunks": 32
+  },
+  "t_bridge": [
+    "Fernando de Noronha",
+    "Maritime navigation and currents",
+    "Historical Spanish/Portuguese ocean voyages"
+  ],
+  "initial_question": {
+    "rag_input": "Why did ships frequently visit the Brazilian island revealed by Portuguese oceanographic voyages?",
+    "question": "Why did ships frequently visit the Brazilian island revealed by Portuguese oceanographic voyages?",
+    "answer": "Ships frequently visited Fernando de Noronha—a Brazilian island revealed by Portuguese ships gathering oceanographic data—because strong ocean currents \"horsed\" (carried) them to the westward, allowing vessels to make good progress even when there was insufficient wind for sailing.",
+    "type": "Initial",
+    "logic_type": "inference",
+    "multi_hop_flag": 1,
+    "bridging_topic": "Fernando de Noronha"
+  },
+  "expansion_config": {
+    "alpha": 2,
+    "beta": 3,
+    "direction": "below"
+  }
+}
