@@ -6,6 +6,8 @@ This repository contains the source code, experimental data, and evaluation scri
 
 By leveraging granular document chunking, incremental context expansion, and a dynamic Semantic Conversation Cache, MH-RAG-DIVE simulates realistic, multi-hop user interactions while reducing generation token costs by over 70% compared to full-document baselines (RAG-DIVE).
 
+> **Supplementary Material:** Due to the 12-page limit of the paper, additional evaluation tables (*Table 4: Underlying Data for Figure 2*, *Table 5: Human Validation*, and *Table 6: Evaluation Consistency*) are provided in [appendix.pdf](appendix.pdf).
+
 ---
 
 ## Repository Overview
@@ -18,10 +20,11 @@ The repository is structured to reflect the theoretical architecture outlined in
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **`src/`**              | The core codebase of the MH-RAG-DIVE framework. Contains the modular components for context discovery, generation, validation, evaluation, caching, and model wrappers. The entry point is `cli.py`.                                                                                              |
 | **`analysis/`**         | Contains a jupyter notebook used to analyze the caching efficacy and the token consumption of the framework against the RAG-DIVE baseline.                                                                                                                                                        |
-| **`preprocessing/`**    | Contains xamplary scripts for creating $V_{eval}$ and $V_{target}$ from a corpus of Wikipedia Articles                                                                                                                                                                                            |
+| **`preprocessing/`**    | Contains exemplary scripts for creating $V_{eval}$ and $V_{target}$ from a corpus of Wikipedia Articles                                                                                                                                                                                           |
 | **`data/`**             | Contains the experimental outputs. Includes the `dialogue_cache/` (storing the semantic dialogue trees), generated conversations (`.jsonl`), runtime metrics (`metrics_*.jsonl`), and configuration snapshots (`run_meta.json`). Segmented by dataset (e.g., `wikipedia/`, `industry_use_case/`). |
 | **`human_evaluation/`** | Contains Excel sheets and raw samples used for the manual human validation of the synthetically generated multi-hop dialogues.                                                                                                                                                                    |
 | **`rag_to_be_tested/`** | A standalone, containerized RAG system used as the evaluation target during the experiments with the Wikipedia corpus.                                                                                                                                                                            |
+| **`appendix.pdf`**      | Supplementary material to the paper containing extended evaluation results (Tables 4–6).                                                                                                                                                                                                          |
 
 ---
 
